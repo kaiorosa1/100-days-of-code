@@ -3,9 +3,18 @@
 
 ### Day 1: January 27, 2019
 
-**Today's Progress**: Worked on HTML and CSS on FreeCodeCamp. Finished the HTML Section and did some subsection on the Intro to CSS module.
+**Today's Progress**: Worked on HTML and CSS on FreeCodeCamp. Finished the HTML Section and did some subsection on the Intro to CSS module. I learned about string function on MySQL and review DOM manipulation.
 
 **Thoughts**: This is a refresher for me at least for now. I decided that I''ll be following FreeCodeCamp's route. Technically it's been weeks that I started coding every day but I start counting for today. I'm studying JavaScript on Udemy and a bit of MySQL. I'm very excited with this challenge and I hope to see great progress in my web dev/coding in general skills.
+
+**Link(s) to work**: None
+
+
+### Day 2: January 28, 2019
+
+**Today's Progress**: I progressed with freeCodeCamp. I finished the section about the CSS basics. I reviewed about margin, padding, hexadecimal and rgb system and CSS variables and importance of fallbacks when it comes to CSS styling.
+
+**Thoughts**: It was a bit overwhelming to finish all the module even though it was almost like a review session. I'll try to put my study session as early as possible. Since I'm on vacation I'll be continuing coding but it was not going to be as structure as I intend with this callenge. I want to be working on projects I'm starting that today. It's only simple to-do list in JS. My intention with this challenge is advance as far as I can,resonably, in freeCodeCamp. 
 
 **Link(s) to work**: None
 
