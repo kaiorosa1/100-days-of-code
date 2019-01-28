@@ -12,7 +12,7 @@
 
 ### Day 2: January 28, 2019
 
-**Today's Progress**: I progressed with freeCodeCamp. I finished the section about the CSS basics. I reviewed about margin, padding, hexadecimal and rgb system and CSS variables and importance of fallbacks when it comes to CSS styling.
+**Today's Progress**: I progressed with freeCodeCamp. I finished the section about the CSS basics. I reviewed about margin, padding, hexadecimal and rgb system and CSS variables and importance of fallbacks when it comes to CSS styling. Started working on a minesweeper in C. I only started reading the files to generate the table.
 
 **Thoughts**: It was a bit overwhelming to finish all the module even though it was almost like a review session. I'll try to put my study session as early as possible. Since I'm on vacation I'll be continuing coding but it was not going to be as structure as I intend with this callenge. I want to be working on projects I'm starting that today. It's only simple to-do list in JS. My intention with this challenge is advance as far as I can,resonably, in freeCodeCamp. 
 
