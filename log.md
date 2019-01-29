@@ -21,9 +21,9 @@
 
 ### Day 3: January 29, 2019
 
-**Today's Progress**: Continued reading the file tabuleiro.txt from Campo Minado (minesweeper).
+**Today's Progress**: Continued reading the file tabuleiro.txt from Campo Minado (minesweeper).I did a couple of challenges from  the Applied Visual Design on FCC (FreeCodeCamp).
 
-**Thoughts**: I started differently since I only had 30 minutes to work on something I decided to go with the project I began yesterday. It's a minesweeper but a simplified version. My intention with this project is to finish it according to a specification (I'll propably talk more about that later on). I'll do 30 minutes more later in the day. 
+**Thoughts**: I started differently since I only had 30 minutes to work on something I decided to go with the project I began yesterday. It's a minesweeper but a simplified version. My intention with this project is to finish it according to a specification (I'll propably talk more about that later on). in the 30 minutes left, I worked on some FCC challenges. I did a couple of the Applied Visual Design one and took some notes as I'm usually doing. I intend to separate a day only for review everything I've been learning.
 
 **Link(s) to work**: 
 First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd680d025ab3b5b5bec7fe3bc21dec39ec5a31ff
