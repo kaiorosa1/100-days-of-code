@@ -28,3 +28,12 @@
 **Link(s) to work**: 
 First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd680d025ab3b5b5bec7fe3bc21dec39ec5a31ff
 
+
+### Day 4: January 30, 2019
+
+**Today's Progress**: I used one hour to go through Free Code Camp. I stopped at : Use a CSS Linear Gradient to Create a Striped Element (Applied Visual Design).
+
+**Thoughts**: The challenges are more fun and I'm confident that my CSS skills are getting better. Right now I'm not couting watching Udemy tutorial as work towards the challenge but I eventually will since I don't just watch tutorial, I code along and take notes and try to do myself as much as I can and most tutorial that I watch have follow up exercises which I do as well.
+
+**Link(s) to work**: None
+
