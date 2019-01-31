@@ -17,5 +17,10 @@ Continued reading the file tabuleiro.txt from Campo Minado (minesweeper).I did a
 
 ### R1D4
 
-I used one hour to go through Free Code Camp. I stopped at : Use a CSS Linear Gradient to Create a Striped Element (Applied Visual Design).
+I used one hour to go through Free Code Camp. I stopped at : Use a CSS Linear Gradient to Create a Striped Element (Applied Visual Design). I worked on Campo Minado for 30 minutes mainly focusing on designing the data structure I'm going to be using.
+
+
+### R1D5
+
+I worked on some Free Code Camp challenges for an hour. I stopped at : Applied Visual Design: Animate Elements at Variable Rates (Applied Visual Design). Coded more on Campo Minado.
 
