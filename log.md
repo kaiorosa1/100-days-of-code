@@ -37,3 +37,11 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 **Link(s) to work**: None
 
+### Day 4: January 31, 2019
+
+**Today's Progress**: I worked on some Free Code Camp challenges.(Applied Visual Design).
+
+**Thoughts**: It's been a crazy day. I don't know why but I don't seem to get focused to work on everything I want but hopefully I don't rely only on motivation. I've made through the first 30 minutes today. 
+
+**Link(s) to work**: None
+
