@@ -39,9 +39,10 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 ### Day 5: January 31, 2019
 
-**Today's Progress**: I worked on some Free Code Camp challenges for an hour. I stopped at : Applied Visual Design: Animate Elements at Variable Rates (Applied Visual Design).
+**Today's Progress**: I worked on some Free Code Camp challenges for an hour. I stopped at : Applied Visual Design: Animate Elements at Variable Rates (Applied Visual Design). Coded more on Campo Minado.
 
-**Thoughts**: It's been a crazy day. I don't know why but I don't seem to get focused.Fortunately I worked an hour on free code camp.
+**Thoughts**: It's been a crazy day. I don't know why but I don't seem to get focused.Fortunately I worked an hour on free code camp. The first time on my project that I have to think twice about what I'm doing. that's what coding is about.
 
-**Link(s) to work**: None
+**Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/campo-minado/commit/9700bbaabb3cbc275f2954183b931ec817cd646e
+
 
