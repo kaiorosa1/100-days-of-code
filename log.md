@@ -31,17 +31,17 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 ### Day 4: January 30, 2019
 
-**Today's Progress**: I used one hour to go through Free Code Camp. I stopped at : Use a CSS Linear Gradient to Create a Striped Element (Applied Visual Design).
+**Today's Progress**: I used one hour to go through Free Code Camp. I stopped at : Use a CSS Linear Gradient to Create a Striped Element (Applied Visual Design). I worked on Campo Minado for 30 minutes mainly focusing on designing the data structure I'm going to be using.
 
 **Thoughts**: The challenges are more fun and I'm confident that my CSS skills are getting better. Right now I'm not couting watching Udemy tutorial as work towards the challenge but I eventually will since I don't just watch tutorial, I code along and take notes and try to do myself as much as I can and most tutorial that I watch have follow up exercises which I do as well.
 
-**Link(s) to work**: None
+**Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/campo-minado/commit/af06fc5120c8f7dbaf412a8d2de553b06f11339f
 
-### Day 4: January 31, 2019
+### Day 5: January 31, 2019
 
-**Today's Progress**: I worked on some Free Code Camp challenges.(Applied Visual Design).
+**Today's Progress**: I worked on some Free Code Camp challenges for an hour. I stopped at : Applied Visual Design: Animate Elements at Variable Rates (Applied Visual Design).
 
-**Thoughts**: It's been a crazy day. I don't know why but I don't seem to get focused to work on everything I want but hopefully I don't rely only on motivation. I've made through the first 30 minutes today. 
+**Thoughts**: It's been a crazy day. I don't know why but I don't seem to get focused.Fortunately I worked an hour on free code camp.
 
 **Link(s) to work**: None
 
