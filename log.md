@@ -47,9 +47,9 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 ### Day 6: February 1, 2019
 
-**Today's Progress**: I've been working on the design aspect of the Campo Minado, meaning in what type of fuctions and the paramenters and testing the functions I created so far. 
+**Today's Progress**: I've been working on the design aspect of the Campo Minado, meaning in what type of fuctions and the paramenters and testing the functions I created so far. I've spent an hour creating functions like print and allocation memory and making sure it's working the way I intentionally designed them.
 
-**Thoughts**: 
+**Thoughts**: I'm glad I started this challenge I'm feeling very productive and I'm learning a lot by coding my project and using FCC. I'm not finding FCC as challenging yet but I'm sure when the projects come along and I go further down the line I'll have my fair share of wondering why I choose programming in the first place. Just kidding! Am I? 
 
 **Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/campo-minado/commit/0f77775ccb6f5c55e683e44b9f5626f7b1a869db
 
