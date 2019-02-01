@@ -24,3 +24,7 @@ I used one hour to go through Free Code Camp. I stopped at : Use a CSS Linear Gr
 
 I worked on some Free Code Camp challenges for an hour. I stopped at : Applied Visual Design: Animate Elements at Variable Rates (Applied Visual Design). Coded more on Campo Minado.
 
+### R1D6
+
+I've been working on the design aspect of the Campo Minado, meaning in what type of fuctions and the paramenters and testing the functions I created so far. I've spent an hour creating functions like print and allocation memory and making sure it's working the way I intentionally designed them. Also finsihed the section about applied visual and design and worked on some sections on the next section. I stopped at : Applied Accessibility: Improve Chart Accessibility with the figure Element (Applied Accessibility).
+
