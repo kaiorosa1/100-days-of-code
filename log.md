@@ -56,9 +56,9 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 ### Day 7: February 2, 2019
 
-**Today's Progress**: I spent 30 minutes on Campo Minado and changed a bit some functions.
+**Today's Progress**: I spent 30 minutes on Campo Minado and changed a bit some functions.  I worked around 40 minutes on FCC and finished the Applied Accessibility module. 
 
-**Thoughts**: I felt the my first session was not very productive and I didn't go as far as I wanted. It's a bit buggy my code my that's what happens when you are programming, not all your code is good from the get go.
+**Thoughts**: I felt the my first session was not very productive and I didn't go as far as I wanted. It's a bit buggy my code my that's what happens when you are programming, not all your code is good from the get go. I'm feeling that I'm not making a lot of progress on FCC as I thought I would but it's because I make sure I read everything and take notes carefully before moving on to the next challenge or maybe I'm slow (no worries) lol.
 
 **Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/campo-minado/commit/599254cf3f3e10f0c58cbd26cd0a304b8c3ec2db
 
