@@ -54,7 +54,7 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 **Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/campo-minado/commit/0f77775ccb6f5c55e683e44b9f5626f7b1a869db
 
 
-### Day 6: February 2, 2019
+### Day 7: February 2, 2019
 
 **Today's Progress**: I spent 30 minutes on Campo Minado and changed a bit some functions.
 
