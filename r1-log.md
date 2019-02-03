@@ -32,5 +32,10 @@ I've been working on the design aspect of the Campo Minado, meaning in what type
 
 I spent 30 minutes on Campo Minado and changed a bit some functions. I worked around 40 minutes on FCC and finished the Applied Accessibility module. I stopped at : Responsive Web Design Principles: Create a Media Query (Responsive Web Design Principles).
  
+## R1D8
+
+Started and finsihed the Responsive Web Design Principles.  I stopped at: CSS Flexbox: Use display: flex to Position Two Boxes (CSS Flexbox). I worked on Campo Minado with not much progress. I try to change how I was reading from the file. I decided to copy the file first and then I was going to change the 1s and 0s to the bombs and empty places.
+
+
  
 
