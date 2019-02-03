@@ -63,4 +63,13 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 **Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/campo-minado/commit/599254cf3f3e10f0c58cbd26cd0a304b8c3ec2db
 
 
+### Day 8: February 3, 2019
+
+**Today's Progress**: Started and finsihed the Responsive Web Design Principles.  I stopped at: CSS Flexbox: Use display: flex to Position Two Boxes (CSS Flexbox).
+
+**Thoughts**: I'm very excited that I'm two section to go to start working on project to apply everything I've learned so far. I'm also very excited to start working with CSS flexbox. I know I'm taking small steps towards finishing FCC but I think in this way I won't burn out quickly and I plan to start working more hours weeks from now. I hit a road block with Campo Minado and I have no idea how to solve the problem that I have so I'll use the rest of the time I planned searching and tweaking and coding. Good Luch to me!
+g
+**Link(s) to work**: Commit on Github : 
+
+
 
