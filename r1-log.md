@@ -36,6 +36,11 @@ I spent 30 minutes on Campo Minado and changed a bit some functions. I worked ar
 
 Started and finsihed the Responsive Web Design Principles.  I stopped at: CSS Flexbox: Use display: flex to Position Two Boxes (CSS Flexbox). I worked on Campo Minado with not much progress. I try to change how I was reading from the file. I decided to copy the file first and then I was going to change the 1s and 0s to the bombs and empty places.
 
+## R1D9
+
+I worked on Campo Minado and I implemented a bunch of function. It's printing the table completely and I calculated the neighbors bombs and everything. Worked as well on FCC problems for 30 minutes or so and I got back to Campo Minado and worked some more on implementing realizarJogada().
+
+
 
  
 
