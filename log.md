@@ -72,6 +72,16 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 **Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/campo-minado/commit/29835d5e1bd5e0196ac28af800c0e1317dd564d2
 
 
+### Day 9: February 4, 2019
+
+**Today's Progress**: I worked on Campo Minado and I implemented a bunch of function. It's printing the table completely and I calculated the neighbors bombs and everything. 
+
+**Thoughts**: Through lots of researching and testing I found the bug and it was with allocating memory. It's always related to that when we are dealing with C. Feeling good about the progress I made and I worked for 2 hours + straight until I saw the progress flowing.
+
+
+**Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/campo-minado/commit/6c5ac10e857ca3a94bb54573e7b607312f84a014
+
+
 
 
 
