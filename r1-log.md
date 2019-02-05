@@ -40,6 +40,9 @@ Started and finsihed the Responsive Web Design Principles.  I stopped at: CSS Fl
 
 I worked on Campo Minado and I implemented a bunch of function. It's printing the table completely and I calculated the neighbors bombs and everything. Worked as well on FCC problems for 30 minutes or so and I got back to Campo Minado and worked some more on implementing realizarJogada().
 
+## R1D10
+
+I've finished CSS Flexbox on FCC. It's much like reading documentation. Mainly worked on the final design of the final table of Campo Minado.
 
 
  
