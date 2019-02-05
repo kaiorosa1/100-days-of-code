@@ -81,6 +81,13 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 **Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/campo-minado/commit/6c5ac10e857ca3a94bb54573e7b607312f84a014
 
+### Day 10: February 5, 2019
+
+**Today's Progress**: I've finished CSS Flexbox on FCC. It's much like reading documentation.
+
+**Thoughts**: I feel that I'll learn more when I get to the projects. The challenges are fun but it's more like testing and reading documentation. I don't force myself to remember all those properties, I do take notes but I don't think I'll be able to remember everything I learned so far if I don't use it constanstly.
+
+**Link(s) to work**: Commit on Github :
 
 
 
