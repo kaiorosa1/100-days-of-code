@@ -90,5 +90,13 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 **Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/campo-minado/commit/060fd811a89ba90878a34a1cce0087406642a148
 
 
+### Day 11: February 6, 2019
+
+**Today's Progress**: I've fishished the FCC section about CSS grid. It was fun and there are a phonebook of properties like the the other CSS sections. CSS grid is a easier way to format your elements and a very useful tool to have when dealing with responsiveness. 
+
+**Thoughts**: It was fun to learn this last section and now I get to work on 5 projects and I'll start them tomorrow or maybe later today. Following my schedule I'll work on Campo minado for a bit. 
+
+**Link(s) to work**: Commit on Github : 
+
 
 
