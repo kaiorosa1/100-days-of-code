@@ -44,6 +44,11 @@ I worked on Campo Minado and I implemented a bunch of function. It's printing th
 
 I've finished CSS Flexbox on FCC. It's much like reading documentation. Mainly worked on the final design of the final table of Campo Minado.
 
+## R1D11
+
+I've fishished the FCC section about CSS grid. It was fun and there are a phonebook of properties like the the other CSS sections. CSS grid is a easier way to format your elements and a very useful tool to have when dealing with responsiveness. I worked on the flood fill functionality of the minesweeper on Campo Minado. 
+
+
 
  
 
