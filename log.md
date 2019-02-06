@@ -92,11 +92,11 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 ### Day 11: February 6, 2019
 
-**Today's Progress**: I've fishished the FCC section about CSS grid. It was fun and there are a phonebook of properties like the the other CSS sections. CSS grid is a easier way to format your elements and a very useful tool to have when dealing with responsiveness. 
+**Today's Progress**: I've fishished the FCC section about CSS grid. It was fun and there are a phonebook of properties like the the other CSS sections. CSS grid is a easier way to format your elements and a very useful tool to have when dealing with responsiveness. I worked on the flood fill functionality of the minesweeper on Campo Minado. 
 
-**Thoughts**: It was fun to learn this last section and now I get to work on 5 projects and I'll start them tomorrow or maybe later today. Following my schedule I'll work on Campo minado for a bit. 
+**Thoughts**: It was fun to learn this last section and now I get to work on 5 projects and I'll start them tomorrow or maybe later today. Following my schedule I'll work on Campo minado for a bit. I think I close to finishing Campo Minado. The flood fill function is not working a hundred percent but I'm confident enough that I can solve that by tomorrow. 
 
-**Link(s) to work**: Commit on Github : 
+**Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/campo-minado/commit/d646e8f4b53424aeed47b4a2ba29405016a35b91
 
 
 
