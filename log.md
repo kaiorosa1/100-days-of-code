@@ -99,4 +99,11 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 **Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/campo-minado/commit/d646e8f4b53424aeed47b4a2ba29405016a35b91
 
 
+### Day 12: February 7, 2019
+
+**Today's Progress**: I've worked on Campo Minado with not much success. 
+
+**Thoughts**: It's normal to  get stuck I know but it sucks every time it happens. I'm struggling to understand what is wrong with my code. I know where the bug is but I don't know how to fix it yet. Later today I'll go back to it. I'm realising that giving you this time constraint instead of a task one. It's been very refreshing and less frustating than working for 4 hours straight with no idea of what is going on. Now I'll go to FCC start my first project.
+
+**Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/campo-minado/commit/12dc2fa8f6364b0ff527f6c817a06fbdb7d9e615
 
