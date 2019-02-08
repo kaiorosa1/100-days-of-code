@@ -110,8 +110,8 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 ### Day 13: February 8, 2019
 
-**Today's Progress**: Worked on the floodfill functionality and it finally worked.
+**Today's Progress**: Worked on the floodfill functionality and it finally worked. Also worked a bit on the Tribute Page (FCC project).
 
-**Thoughts**: Motivation is something very fluctuating. I don't feel unmotivated but I do not feel motivated haha. I don't know if this makes sense. I'm glad I could make the Campo Minado work.
+**Thoughts**: Motivation is something very fluctuating. I don't feel unmotivated but I do not feel motivated haha. I don't know if this makes sense. I'm glad I could make the Campo Minado work. On the tribute page was just some tweaks.
 
 **Link(s) to work**: Commit on Github :https://github.com/kaiorosa1/campo-minado/commit/cef054fcea8efa0350b27b13c6c33e3061187b2d
