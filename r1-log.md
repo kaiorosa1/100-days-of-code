@@ -49,6 +49,13 @@ I've finished CSS Flexbox on FCC. It's much like reading documentation. Mainly w
 I've fishished the FCC section about CSS grid. It was fun and there are a phonebook of properties like the the other CSS sections. CSS grid is a easier way to format your elements and a very useful tool to have when dealing with responsiveness. I worked on the flood fill functionality of the minesweeper on Campo Minado. 
 
 
+## R1D12
+
+I've worked on the flood fill functionality of the Campo Minado with not much success. I worked on FCC Tribute Page. Mainly was creating the structure like divs and setting ids and changing colors of elements.
+
+
+## R1D13
+
 
  
 
