@@ -101,9 +101,17 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 ### Day 12: February 7, 2019
 
-**Today's Progress**: I've worked on Campo Minado with not much success. 
+**Today's Progress**: I've worked on Campo Minado with not much success. I worked on FCC Tribute Page.
 
-**Thoughts**: It's normal to  get stuck I know but it sucks every time it happens. I'm struggling to understand what is wrong with my code. I know where the bug is but I don't know how to fix it yet. Later today I'll go back to it. I'm realising that giving you this time constraint instead of a task one. It's been very refreshing and less frustating than working for 4 hours straight with no idea of what is going on. Now I'll go to FCC start my first project.
+**Thoughts**: It's normal to  get stuck I know but it sucks every time it happens. I'm struggling to understand what is wrong with my code. I know where the bug is but I don't know how to fix it yet. Later today I'll go back to it. I'm realising that giving you this time constraint instead of a task one. It's been very refreshing and less frustating than working for 4 hours straight with no idea of what is going on. Now I'll go to FCC start my first project. Not worked as much as I inteded.
 
 **Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/campo-minado/commit/12dc2fa8f6364b0ff527f6c817a06fbdb7d9e615
 
+
+### Day 13: February 8, 2019
+
+**Today's Progress**: Worked on the floodfill functionlaity and I finally worked.
+
+**Thoughts**: Motivation is something very fluctuating. I don't feel unmotivated but I do not feel motivated haha. I don't know if this makes sense. I'm glad I could make the Campo Minado work.
+
+**Link(s) to work**: Commit on Github :https://github.com/kaiorosa1/campo-minado/commit/cef054fcea8efa0350b27b13c6c33e3061187b2d
