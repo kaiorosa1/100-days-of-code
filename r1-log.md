@@ -28,33 +28,33 @@ I worked on some Free Code Camp challenges for an hour. I stopped at : Applied V
 
 I've been working on the design aspect of the Campo Minado, meaning in what type of fuctions and the paramenters and testing the functions I created so far. I've spent an hour creating functions like print and allocation memory and making sure it's working the way I intentionally designed them. Also finsihed the section about applied visual and design and worked on some sections on the next section. I stopped at : Applied Accessibility: Improve Chart Accessibility with the figure Element (Applied Accessibility).
 
-## R1D7
+### R1D7
 
 I spent 30 minutes on Campo Minado and changed a bit some functions. I worked around 40 minutes on FCC and finished the Applied Accessibility module. I stopped at : Responsive Web Design Principles: Create a Media Query (Responsive Web Design Principles).
  
-## R1D8
+### R1D8
 
 Started and finsihed the Responsive Web Design Principles.  I stopped at: CSS Flexbox: Use display: flex to Position Two Boxes (CSS Flexbox). I worked on Campo Minado with not much progress. I try to change how I was reading from the file. I decided to copy the file first and then I was going to change the 1s and 0s to the bombs and empty places.
 
-## R1D9
+### R1D9
 
 I worked on Campo Minado and I implemented a bunch of function. It's printing the table completely and I calculated the neighbors bombs and everything. Worked as well on FCC problems for 30 minutes or so and I got back to Campo Minado and worked some more on implementing realizarJogada().
 
-## R1D10
+### R1D10
 
 I've finished CSS Flexbox on FCC. It's much like reading documentation. Mainly worked on the final design of the final table of Campo Minado.
 
-## R1D11
+### R1D11
 
 I've fishished the FCC section about CSS grid. It was fun and there are a phonebook of properties like the the other CSS sections. CSS grid is a easier way to format your elements and a very useful tool to have when dealing with responsiveness. I worked on the flood fill functionality of the minesweeper on Campo Minado. 
 
 
-## R1D12
+### R1D12
 
 I've worked on the flood fill functionality of the Campo Minado with not much success. I worked on FCC Tribute Page. Mainly was creating the structure like divs and setting ids and changing colors of elements.
 
 
-## R1D13
+### R1D13
 
 
  
