@@ -128,8 +128,8 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 ### Day 15: February 10, 2019
 
-**Today's Progress**: I worked for 30 minutes on my Tribute Page and I was finally happy with the way it looked. It's simple but I liked the end result of it.
+**Today's Progress**: I worked for 30 minutes on my Tribute Page and I was finally happy with the way it looked. It's simple but I liked the end result of it. I also created the restart game funcionality on Campo Minado and tested some edge cases so that I can solve them in my next session. 
 
 **Thoughts**: I wanted to spend more time programing but unfortunately I can't but I'm making the most that I able to.
 
-**Link(s) to work**: Commit on Github : 
+**Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/campo-minado/commit/ac744db853cd844a6a4d0bc56b97a600a967383c
