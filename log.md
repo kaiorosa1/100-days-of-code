@@ -115,3 +115,12 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 **Thoughts**: Motivation is something very fluctuating. I don't feel unmotivated but I do not feel motivated haha. I don't know if this makes sense. I'm glad I could make the Campo Minado work. On the tribute page was just some tweaks.
 
 **Link(s) to work**: Commit on Github :https://github.com/kaiorosa1/campo-minado/commit/cef054fcea8efa0350b27b13c6c33e3061187b2d
+
+
+### Day 14: February 9, 2019
+
+**Today's Progress**: I'm almost done with the Tribute Page. My project passed all the requirements but I still want to be working on  it to make it better and prettier. I wrote a readme on GitHub of the Campo Minado, it's a work in progress but it's something. Due to issues with C9 I haven't worked on Campo Minado.
+
+**Thoughts**: It's exciting to work with HTML and CSS because you can see the immediate result and there's something fun in that.
+
+**Link(s) to work**: Commit on Github : None
