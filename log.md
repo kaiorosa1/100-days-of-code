@@ -124,3 +124,12 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 **Thoughts**: It's exciting to work with HTML and CSS because you can see the immediate result and there's something fun in that.
 
 **Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/campo-minado/commit/7817117ac895d82de380e5b3f2fd6519cef4032a
+
+
+### Day 15: February 10, 2019
+
+**Today's Progress**: I worked for 30 minutes on my Tribute Page and I was finally happy with the way it looked. It's simple but I liked the end result of it.
+
+**Thoughts**: I wanted to spend more time programing but unfortunately I can't but I'm making the most that I able to.
+
+**Link(s) to work**: Commit on Github : 
