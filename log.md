@@ -119,8 +119,8 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 ### Day 14: February 9, 2019
 
-**Today's Progress**: I'm almost done with the Tribute Page. My project passed all the requirements but I still want to be working on  it to make it better and prettier. I wrote a readme on GitHub of the Campo Minado, it's a work in progress but it's something. Due to issues with C9 I haven't worked on Campo Minado.
+**Today's Progress**: I'm almost done with the Tribute Page. My project passed all the requirements but I still want to be working on  it to make it better and prettier. I wrote a readme on GitHub of the Campo Minado, it's a work in progress but it's something. Due to issues with C9 I haven't worked on Campo Minado as much. I implemented a function and changed some bits.
 
 **Thoughts**: It's exciting to work with HTML and CSS because you can see the immediate result and there's something fun in that.
 
-**Link(s) to work**: Commit on Github : None
+**Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/campo-minado/commit/7817117ac895d82de380e5b3f2fd6519cef4032a
