@@ -59,3 +59,7 @@ I've worked on the flood fill functionality of the Campo Minado with not much su
 I Worked on the floodfill functionality and it finally worked. Also worked a bit on the Tribute Page (FCC project).
  
 
+### R1D14 
+
+I'm almost done with the Tribute Page. My project passed all the requirements but I still want to be working on  it to make it better and prettier. I wrote a readme on GitHub of the Campo Minado, it's a work in progress but it's something. Due to issues with C9 I haven't worked on Campo Minado as much. I implemented a function and changed some bits.
+
