@@ -63,3 +63,9 @@ I Worked on the floodfill functionality and it finally worked. Also worked a bit
 
 I'm almost done with the Tribute Page. My project passed all the requirements but I still want to be working on  it to make it better and prettier. I wrote a readme on GitHub of the Campo Minado, it's a work in progress but it's something. Due to issues with C9 I haven't worked on Campo Minado as much. I implemented a function and changed some bits.
 
+### R1D15
+
+I worked for 30 minutes on my Tribute Page and I was finally happy with the way it looked. It's simple but I liked the end result of it. I also created the restart game funcionality on Campo Minado and tested some edge cases so that I can solve them in my next session. 
+
+
+
