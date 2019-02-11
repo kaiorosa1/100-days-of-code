@@ -68,4 +68,11 @@ I'm almost done with the Tribute Page. My project passed all the requirements bu
 I worked for 30 minutes on my Tribute Page and I was finally happy with the way it looked. It's simple but I liked the end result of it. I also created the restart game funcionality on Campo Minado and tested some edge cases so that I can solve them in my next session. 
 
 
+### R1D16
+
+I took a HTML Quiz on W3Schools website to review HTML tags and attributes. I started my second project from Free Code Camp (Survey Form) and I finished the backbone of the project. Next I'll be working on styling the page. I worked on Campo Minado and finally someone is able to win the game. Also, I created some function that will be implemented in the next sessions.
+
+
+
+
 
