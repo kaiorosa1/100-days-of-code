@@ -133,3 +133,12 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 **Thoughts**: I wanted to spend more time programing but unfortunately I can't but I'm making the most that I able to.
 
 **Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/campo-minado/commit/ac744db853cd844a6a4d0bc56b97a600a967383c
+
+
+### Day 16: February 11, 2019
+
+**Today's Progress**: I took a HTML Quiz on W3Schools website to review HTML tags and attributes. 
+
+**Thoughts**: I'll start talking about the Udemy courses that I'm taking here as well. I won't be counting them as 100DaysOfCode time (for now)  but they are also work that I'm doing so I want to be writing about him as well. 
+
+**Link(s) to work**: Commit on Github : 
