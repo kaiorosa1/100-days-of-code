@@ -137,8 +137,8 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 ### Day 16: February 11, 2019
 
-**Today's Progress**: I took a HTML Quiz on W3Schools website to review HTML tags and attributes. I started my second project from Free Code Camp (Survey Form) and I finished the backbone of the project. Next I'll be working on styling the page.
+**Today's Progress**: I took a HTML Quiz on W3Schools website to review HTML tags and attributes. I started my second project from Free Code Camp (Survey Form) and I finished the backbone of the project. Next I'll be working on styling the page. I worked on Campo Minado and finally someone is able to win the game. Also, I created some function that will be implemented in the next sessions.
 
 **Thoughts**: I'll start talking about the Udemy courses that I'm taking here as well. I won't be counting them as 100DaysOfCode time (for now)  but they are also work that I'm doing so I want to be writing about him as well. FCC is a lot of fun and it's exciting to be working on projects even though they are simple but you are really putting into use what you learned.
 
-**Link(s) to work**: Commit on Github : 
+**Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/campo-minado/commit/d786ebe492d9c1ba60dcaa6095ca6b48d5afcc0a
