@@ -142,3 +142,12 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 **Thoughts**: I'll start talking about the Udemy courses that I'm taking here as well. I won't be counting them as 100DaysOfCode time (for now)  but they are also work that I'm doing so I want to be writing about him as well. FCC is a lot of fun and it's exciting to be working on projects even though they are simple but you are really putting into use what you learned.
 
 **Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/campo-minado/commit/d786ebe492d9c1ba60dcaa6095ca6b48d5afcc0a
+
+
+### Day 17: February 12, 2019
+
+**Today's Progress**: Worked on Survey Page (FCC) I'm using this opporturnity to use Bootstrap 4 on my project. It's not a requirement but I think it's a great opporutunity to play around with it and I think when you use bootstrap is easier to make a beautiful project. For the next session I'll be doing that. 
+
+**Thoughts**: It's fun and I think I'm getting a better idea of how long it takes me to build something. 
+
+**Link(s) to work**: Commit on Github :
