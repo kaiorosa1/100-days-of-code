@@ -146,7 +146,7 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 ### Day 17: February 12, 2019
 
-**Today's Progress**: Worked on Survey Page (FCC) I'm using this opporturnity to use Bootstrap 4 on my project. It's not a requirement but I think it's a great opporutunity to play around with it and I think when you use bootstrap is easier to make a beautiful project. For the next session I'll be doing that. 
+**Today's Progress**: Worked on Survey Page (FCC) I'm using this opportunity to use Bootstrap 4 on my project. It's not a requirement but I think it's a great opporutunity to play around with it and I think when you use bootstrap is easier to make a beautiful project. For the next session I'll be doing that. 
 
 **Thoughts**: It's fun and I think I'm getting a better idea of how long it takes me to build something. 
 
