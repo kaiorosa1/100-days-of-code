@@ -73,6 +73,9 @@ I worked for 30 minutes on my Tribute Page and I was finally happy with the way 
 I took an HTML Quiz on the W3Schools website to review HTML tags and attributes. I started my second project from Free Code Camp (Survey Form) and I finished the backbone of the project. Next I'll be working on styling the page. I worked on Campo Minado and finally someone is able to win the game. Also, I created some function that will be implemented in the next sessions.
 
 
+### R1D17
+
+Worked on Survey Page (FCC) I'm using this opportunity to use Bootstrap 4 on my project. It's not a requirement but I think it's a great opporutunity to play around with it and I think when you use bootstrap is easier to make a beautiful project. For the next session I'll be doing that. I also worked on Campo Minado. I focused on writing analiseJogo.txt and refined to write a file for each match of the game.
 
 
 
