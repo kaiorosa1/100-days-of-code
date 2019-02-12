@@ -146,8 +146,10 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 ### Day 17: February 12, 2019
 
-**Today's Progress**: Worked on Survey Page (FCC) I'm using this opportunity to use Bootstrap 4 on my project. It's not a requirement but I think it's a great opporutunity to play around with it and I think when you use bootstrap is easier to make a beautiful project. For the next session I'll be doing that. 
+**Today's Progress**: Worked on Survey Page (FCC) I'm using this opportunity to use Bootstrap 4 on my project. It's not a requirement but I think it's a great opporutunity to play around with it and I think when you use bootstrap is easier to make a beautiful project. For the next session I'll be doing that. I also worked on Campo Minado. I focused on writing analiseJogo.txt and refined to write a file for each match of the game. 
 
-**Thoughts**: It's fun and I think I'm getting a better idea of how long it takes me to build something. 
+**Thoughts**: It's fun and I think I'm getting a better idea of how long it takes me to build something. Campo Minado is almost at its finsih line and I can't wait to spend all my time in web dev projects. I want to be refining and bettering Campo Minado but I think that for my purpose I'm almost done. My purpose was to redo the project and see how I'd have done differently and I've been doing that. 
 
-**Link(s) to work**: Commit on Github :
+**Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/campo-minado/commit/893afa9da3aa2c46cde70ab8c80ca258477dc108
+
+
