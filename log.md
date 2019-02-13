@@ -153,3 +153,10 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 **Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/campo-minado/commit/893afa9da3aa2c46cde70ab8c80ca258477dc108
 
 
+### Day 18: February 13, 2019
+
+**Today's Progress**: I worked on the Survey Page and I addeda a background image and rearrenged some code and added Bootstrap to my form. 
+
+**Thoughts**: It will always take longer when you are learning things. I never say that in here but reading and searching are also very present in my sessions. I've been read the Bootstrap doc page to experiment with things in my survey but some of them did not end up in my final version for the day. 
+
+**Link(s) to work**: Commit on Github : 
