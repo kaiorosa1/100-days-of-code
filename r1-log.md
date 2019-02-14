@@ -77,5 +77,9 @@ I took an HTML Quiz on the W3Schools website to review HTML tags and attributes.
 
 Worked on Survey Page (FCC) I'm using this opportunity to use Bootstrap 4 on my project. It's not a requirement but I think it's a great opporutunity to play around with it and I think when you use bootstrap is easier to make a beautiful project. For the next session I'll be doing that. I also worked on Campo Minado. I focused on writing analiseJogo.txt and refined to write a file for each match of the game.
 
+### R1D18
 
+I worked on the Survey Page and I addeda a background image and rearrenged some code and added Bootstrap to my form. I also worked on Campo Minado with not much progress it was generating buggy files and I had not idea how to fix them.
+
+### R1D19
 
