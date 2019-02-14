@@ -83,3 +83,4 @@ I worked on the Survey Page and I addeda a background image and rearrenged some 
 
 ### R1D19
 
+I worked on Campo Minado and solved the problem with the files and I made a big change on analiseJogo function. I've finished my second project on FCC, the survey form page. 
