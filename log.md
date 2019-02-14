@@ -163,8 +163,8 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 ### Day 19: February 14, 2019
 
-**Today's Progress**: I worked on Campo Minado and solved the problem with the files and I made a big change on analiseJogo function.
+**Today's Progress**: I worked on Campo Minado and solved the problem with the files and I made a big change on analiseJogo function. I've finished my second project on FCC, the survey form page. 
 
-**Thoughts**: Not feeling good today about my code  and about my progress in general but I know that I must keep going and that's the only way that I can better the way I write code and the way I solve problems I feel that my Campo Minado code needs a lot of refactoring but first I'll focus on functionality and then I see what I can do about changes.
+**Thoughts**: Not feeling good today about my code  and about my progress in general but I know that I must keep going and that's the only way that I can better the way I write code and the way I solve problems I feel that my Campo Minado code needs a lot of refactoring but first I'll focus on functionality and then I see what I can do about changes. I wasn't motivated to code today but I coded for 2 hors straight.
 
 **Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/campo-minado/commit/8f7757d1ae703c6d1857bfcc0d77142b829db7aa
