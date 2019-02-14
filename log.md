@@ -155,8 +155,16 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 ### Day 18: February 13, 2019
 
-**Today's Progress**: I worked on the Survey Page and I addeda a background image and rearrenged some code and added Bootstrap to my form. 
+**Today's Progress**: I worked on the Survey Page and I addeda a background image and rearrenged some code and added Bootstrap to my form. I also worked on Campo Minado with not much progress it was generating buggy files and I had not idea how to fix them.
 
 **Thoughts**: It will always take longer when you are learning things. I never say that in here but reading and searching are also very present in my sessions. I've been read the Bootstrap doc page to experiment with things in my survey but some of them did not end up in my final version for the day. 
 
-**Link(s) to work**: Commit on Github : 
+**Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/campo-minado/commit/534130189f170912bb587c38287e867806aece5c
+
+### Day 19: February 14, 2019
+
+**Today's Progress**: I worked on Campo Minado and solved the problem with the files and I made a big change on analiseJogo function.
+
+**Thoughts**: Not feeling good today about my code  and about my progress in general but I know that I must keep going and that's the only way that I can better the way I write code and the way I solve problems I feel that my Campo Minado code needs a lot of refactoring but first I'll focus on functionality and then I see what I can do about changes.
+
+**Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/campo-minado/commit/8f7757d1ae703c6d1857bfcc0d77142b829db7aa
