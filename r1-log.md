@@ -84,3 +84,9 @@ I worked on the Survey Page and I addeda a background image and rearrenged some 
 ### R1D19
 
 I worked on Campo Minado and solved the problem with the files and I made a big change on analiseJogo function. I've finished my second project on FCC, the survey form page. 
+
+### R1D20 
+
+I worked on Campo Minado and made some changes the way it was handling the floodfill algorithm. This part is working but it's not the way that I want.  Also, I worked on the third project from FCC (Product Landing Page). I only tackled the requirements but not all of them and then I'll be structuring everything to look nice.
+
+
