@@ -168,3 +168,12 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 **Thoughts**: Not feeling good today about my code  and about my progress in general but I know that I must keep going and that's the only way that I can better the way I write code and the way I solve problems I feel that my Campo Minado code needs a lot of refactoring but first I'll focus on functionality and then I see what I can do about changes. I wasn't motivated to code today but I coded for 2 hors straight.
 
 **Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/campo-minado/commit/8f7757d1ae703c6d1857bfcc0d77142b829db7aa
+
+
+### Day 20: February 15, 2019
+
+**Today's Progress**:  I worked on Campo Minado and made some changes the way it was handling the floodfill algorithm. This part is working but it's not the way that I want.  Also, I worked on the third project from FCC (Product Landing Page). I only tackled the requirements but not all of them and then I'll be structuring everything to look nice.
+
+**Thoughts**: It was a very rushed session but it's the max the I can do today. Tomorrow I'll be continuing everything. I can't wait to finish Campo Minado and start working on JS projects.
+
+**Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/campo-minado/commit/1353901bc2e65d6154c0019c55358873b4095199
