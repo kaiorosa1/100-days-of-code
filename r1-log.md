@@ -75,11 +75,11 @@ I took an HTML Quiz on the W3Schools website to review HTML tags and attributes.
 
 ### R1D17
 
-Worked on Survey Page (FCC) I'm using this opportunity to use Bootstrap 4 on my project. It's not a requirement but I think it's a great opporutunity to play around with it and I think when you use bootstrap is easier to make a beautiful project. For the next session I'll be doing that. I also worked on Campo Minado. I focused on writing analiseJogo.txt and refined to write a file for each match of the game.
+Worked on Survey Page (FCC) I'm using this opportunity to use Bootstrap 4 on my project. It's not a requirement but I think it's a great opportunity to play around with it and I think when you use bootstrap is easier to make a beautiful project. For the next session I'll be doing that. I also worked on Campo Minado. I focused on writing analiseJogo.txt and refined to write a file for each match of the game.
 
 ### R1D18
 
-I worked on the Survey Page and I addeda a background image and rearrenged some code and added Bootstrap to my form. I also worked on Campo Minado with not much progress it was generating buggy files and I had not idea how to fix them.
+I worked on the Survey Page and I added a background image and rearrenged some code and added Bootstrap to my form. I also worked on Campo Minado with not much progress it was generating buggy files and I had not idea how to fix them.
 
 ### R1D19
 
@@ -88,5 +88,10 @@ I worked on Campo Minado and solved the problem with the files and I made a big 
 ### R1D20 
 
 I worked on Campo Minado and made some changes the way it was handling the floodfill algorithm. This part is working but it's not the way that I want.  Also, I worked on the third project from FCC (Product Landing Page). I only tackled the requirements but not all of them and then I'll be structuring everything to look nice.
+
+
+### R1D21
+
+I've worked on the nav bar in the Product Landing Page and I worked on Campo Minado freeing memory.
 
 
