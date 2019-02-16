@@ -177,3 +177,12 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 **Thoughts**: It was a very rushed session but it's the max the I can do today. Tomorrow I'll be continuing everything. I can't wait to finish Campo Minado and start working on JS projects.
 
 **Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/campo-minado/commit/1353901bc2e65d6154c0019c55358873b4095199
+
+
+### Day 21: February 16, 2019
+
+**Today's Progress**:  I've worked on the nav bar in the Product Landing Page and I worked on Campo Minado freeing memory/.
+
+**Thoughts**: Not the most productive day but I did some things that was necessary. 
+
+**Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/campo-minado/commit/7170362eba63723a297c3263f639edbc52d8c599
