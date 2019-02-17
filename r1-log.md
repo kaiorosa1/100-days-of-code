@@ -94,4 +94,10 @@ I worked on Campo Minado and made some changes the way it was handling the flood
 
 I've worked on the nav bar in the Product Landing Page and I worked on Campo Minado freeing memory.
 
+### R1D22
+
+I worked on Campo Minado and I finally can say it's finished I'll be revisiting and refactoring and tweaking but all the functionality is done. I'm so proud of myself for finishing it. I've worked on the Product Landing Page and I decided that it was going to be about Khalid and I added Bootstrap to my project.
+
+
+
 
