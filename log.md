@@ -190,7 +190,7 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 ### Day 22: February 17, 2019
 
-**Today's Progress**: I worked on Campo Minado and I finally can say it's finished I'll be revisiting and refactoring and tweaking but all the functionality is done. I'm so proud of myself for finishing it.
+**Today's Progress**: I worked on Campo Minado and I finally can say it's finished I'll be revisiting and refactoring and tweaking but all the functionality is done. I'm so proud of myself for finishing it. I've worked on the Product Landing Page and I decided that it was going to be about Khalid and I added Bootstrap to my project.
 
 **Thoughts**: It's an amazing feeling when you finsish something you have been working for so long. I could've finished earlier but with incremental steps I was able to learn so much and it was not overwhelming. Some days were very frustating and other rewarding and I've been learning so much about myself through this challenge. 
 
