@@ -181,8 +181,18 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 ### Day 21: February 16, 2019
 
-**Today's Progress**:  I've worked on the nav bar in the Product Landing Page and I worked on Campo Minado freeing memory/.
+**Today's Progress**:  I've worked on the nav bar in the Product Landing Page and I worked on Campo Minado freeing memory.
 
 **Thoughts**: Not the most productive day but I did some things that was necessary. 
 
 **Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/campo-minado/commit/7170362eba63723a297c3263f639edbc52d8c599
+
+
+### Day 22: February 17, 2019
+
+**Today's Progress**: I worked on Campo Minado and I finally can say it's finished I'll be revisiting and refactoring and tweaking but all the functionality is done. I'm so proud of myself for finishing it.
+
+**Thoughts**: It's an amazing feeling when you finsish something you have been working for so long. I could've finished earlier but with incremental steps I was able to learn so much and it was not overwhelming. Some days were very frustating and other rewarding and I've been learning so much about myself through this challenge. 
+
+**Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/campo-minado/commit/b9deeec581ac971883da29bf6efe17a261fbf255
+
