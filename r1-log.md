@@ -98,6 +98,10 @@ I've worked on the nav bar in the Product Landing Page and I worked on Campo Min
 
 I worked on Campo Minado and I finally can say it's finished I'll be revisiting and refactoring and tweaking but all the functionality is done. I'm so proud of myself for finishing it. I've worked on the Product Landing Page and I decided that it was going to be about Khalid and I added Bootstrap to my project.
 
+### R1D23 
+
+I dedicated today to finish the Product Landing Page (FCC). I've read a lot and learned more about CSS Flexbox and I could use in a project and that made that much clear for me. 
+
 
 
 
