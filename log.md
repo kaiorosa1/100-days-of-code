@@ -196,3 +196,11 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 **Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/campo-minado/commit/b9deeec581ac971883da29bf6efe17a261fbf255
 
+
+### Day 23: February 18, 2019
+
+**Today's Progress**: I dedicated today to finish the Product Landing Page (FCC). I've read a lot and learned more about CSS Flexbox and I could use in a project and that made that much clear for me. 
+
+**Thoughts**: I've made some mini deadlines for this week and I'm very happy with the pace that everything is going. I've decided to be putting my FCC projects here on GitHub. I'm not sure if it's good idea but at least I don't lose my streak lol.
+
+**Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/product-landing-page-fcc/commit/ac248076980f2d1d7e4067259ddf55576e268bf8
