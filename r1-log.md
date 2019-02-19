@@ -102,6 +102,11 @@ I worked on Campo Minado and I finally can say it's finished I'll be revisiting 
 
 I dedicated today to finish the Product Landing Page (FCC). I've read a lot and learned more about CSS Flexbox and I could use in a project and that made that much clear for me. 
 
+### R1D24 
+
+I worked on the Technical Documentation Page and googled a lot of documentation pages to inspire me.
+
+
 
 
 
