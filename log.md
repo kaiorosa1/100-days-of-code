@@ -204,3 +204,11 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 **Thoughts**: I've made some mini deadlines for this week and I'm very happy with the pace that everything is going. I've decided to be putting my FCC projects here on GitHub. I'm not sure if it's good idea but at least I don't lose my streak lol.
 
 **Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/product-landing-page-fcc/commit/ac248076980f2d1d7e4067259ddf55576e268bf8
+
+### Day 24: February 19, 2019
+
+**Today's Progress**: I worked on the Technical Documentation Page  for an hour and googled a lot of documentation pages to inspire me.
+
+**Thoughts**: It seems like only focusing on FCC made me lazy but today I had a lot on my plate as well.
+
+**Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/technical-documentation-page-fcc/commit/f26c89de0be1b13fd5cc53c48a6273c6d2bd42cb
