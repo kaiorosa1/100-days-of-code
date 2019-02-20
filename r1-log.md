@@ -107,6 +107,9 @@ I dedicated today to finish the Product Landing Page (FCC). I've read a lot and 
 I worked on the Technical Documentation Page and googled a lot of documentation pages to inspire me.
 
 
+### R1D25 
+
+I worked on the Technical Documentation Page  for an hour. I finally have an idea of how I want to look like and right now all of the requirements are met so I can focus on styling properly. it's ugly right now being honest.
 
 
 
