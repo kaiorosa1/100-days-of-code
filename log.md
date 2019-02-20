@@ -212,3 +212,12 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 **Thoughts**: It seems like only focusing on FCC made me lazy but today I had a lot on my plate as well.
 
 **Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/technical-documentation-page-fcc/commit/f26c89de0be1b13fd5cc53c48a6273c6d2bd42cb
+
+### Day 25: February 20, 2019
+
+**Today's Progress**: I worked on the Technical Documentation Page  for an hour. I finally have an idea of how I want to look like and right now all of the requirements are met so I can focus on styling properly. it's ugly right now being honest.
+
+**Thoughts**: Another day where I couldn't do much but I made a lot of progress I think. I played around a bit with the navbar and with some flexbox properties.
+
+**Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/technical-documentation-page-fcc/commit/5efb30a92940809be51968035ed14316278e8fef
+
