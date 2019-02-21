@@ -224,7 +224,7 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 ### Day 26: February 21, 2019
 
-**Today's Progress**: I worked on The Technical Documentation Page primarily on the mobile version of it and I changed the style of the page in general. I spend a lot of time reading documentation and examples of code to do some things I had no idea how to start.
+**Today's Progress**: I worked on The Technical Documentation Page primarily on the mobile version of it and I changed the style of the page in general. I spend a lot of time reading documentation and examples of code to do some things I had no idea how to start.I've done and extra session just to finish it up.
 
 **Thoughts**: It's been fun working on theses projects but I feel like I should be doing more and that I'm not in the right pace to get where I want to be. I'll be working on the Technical Documentation page more and I'll be finishing today. I hopefully I'll start the next, and very last one, today.
 
