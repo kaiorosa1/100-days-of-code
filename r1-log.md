@@ -111,5 +111,9 @@ I worked on the Technical Documentation Page and googled a lot of documentation 
 
 I worked on the Technical Documentation Page  for an hour. I finally have an idea of how I want to look like and right now all of the requirements are met so I can focus on styling properly. it's ugly right now being honest.
 
+### R1D26
+
+I worked on The Technical Documentation Page primarily on the mobile version of it and I changed the style of the page in general. I spend a lot of time reading documentation and examples of code to do some things I had no idea how to start.I've done and extra session just to finish it up.
+
 
 
