@@ -221,3 +221,11 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 **Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/technical-documentation-page-fcc/commit/5efb30a92940809be51968035ed14316278e8fef
 
+
+### Day 26: February 21, 2019
+
+**Today's Progress**: I worked on The Technical Documentation Page primarily on the mobile version of it and I changed the style of the page in general. I spend a lot of time reading documentation and examples of code to do some things I had no idea how to start.
+
+**Thoughts**: It's been fun working on theses projects but I feel like I should be doing more and that I'm not in the right pace to get where I want to be. I'll be working on the Technical Documentation page more and I'll be finishing today. I hopefully I'll start the next, and very last one, today.
+
+**Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/technical-documentation-page-fcc/commit/798452217b5f622d9d17520f8ddfe86b4167ee97
