@@ -229,3 +229,12 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 **Thoughts**: It's been fun working on theses projects but I feel like I should be doing more and that I'm not in the right pace to get where I want to be. I'll be working on the Technical Documentation page more and I'll be finishing today. I hopefully I'll start the next, and very last one, today.
 
 **Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/technical-documentation-page-fcc/commit/798452217b5f622d9d17520f8ddfe86b4167ee97
+
+
+### Day 27: February 22, 2019
+
+**Today's Progress**: I worked on the Personal Portifolio Webpage on FCC. That's pretty much it. It's been a lot of HTML and CSS so far. and search and reading.
+
+**Thoughts**: This week in general has been so full and I didn't have as much time as I wanted. I'll try putting more hours next week.
+
+**Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/personal-portfolio-webpage-fcc/commit/2419982978bc6487ec3ccf052f1a204330c2cf9d
