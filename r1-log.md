@@ -115,5 +115,8 @@ I worked on the Technical Documentation Page  for an hour. I finally have an ide
 
 I worked on The Technical Documentation Page primarily on the mobile version of it and I changed the style of the page in general. I spend a lot of time reading documentation and examples of code to do some things I had no idea how to start.I've done and extra session just to finish it up.
 
+### R1D27
+
+I worked on the Personal Portifolio Webpage on FCC. That's pretty much it. It's been a lot of HTML and CSS so far. and search and reading.
 
 
