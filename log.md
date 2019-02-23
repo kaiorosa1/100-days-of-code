@@ -242,7 +242,7 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 ### Day 28: February 23, 2019
 
-**Today's Progress**: I've worked on the Portifolio page and all the requirements are met. I'm now working to make it pretty.
+**Today's Progress**: I've worked on the Portifolio page and all the requirements are met. I'm now working to make it pretty. Added bootstrap to it and I'm having problems with displaying the images properly.
 
 **Thoughts**: I've been learning so much with this projects. I understood Flexbox and media query which were very blurred for me in the beginning and now I finally understand how to use them in projects. The qualities of my projects are not the best. I've talked to a friend about this and he suggested me to look for more HTML and CSS projects to do or just to see the code. I think this is a great idea. I intend to finish it today the last project.  
 
