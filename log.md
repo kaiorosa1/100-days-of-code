@@ -238,3 +238,12 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 **Thoughts**: This week in general has been so full and I didn't have as much time as I wanted. I'll try putting more hours next week.
 
 **Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/personal-portfolio-webpage-fcc/commit/2419982978bc6487ec3ccf052f1a204330c2cf9d
+
+
+### Day 28: February 23, 2019
+
+**Today's Progress**: I've worked on the Portifolio page and all the requirements are met. I'm now working to make it pretty.
+
+**Thoughts**: I've been learning so much with this projects. I understood Flexbox and media query which were very blurred for me in the beginning and now I finally understand how to use them in projects. The qualities of my projects are not the best. I've talked to a friend about this and he suggested me to look for more HTML and CSS projects to do or just to see the code. I think this is a great idea. I intend to finish it today the last project.  
+
+**Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/personal-portfolio-webpage-fcc/commit/61b96806765e2796f7c8f7277784535a00869165
