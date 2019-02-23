@@ -119,4 +119,7 @@ I worked on The Technical Documentation Page primarily on the mobile version of 
 
 I worked on the Personal Portifolio Webpage on FCC. That's pretty much it. It's been a lot of HTML and CSS so far. and search and reading.
 
+### R1D28
+
+I've worked on the Portifolio page and all the requirements are met. I'm now working to make it pretty. Added bootstrap to it and I'm having problems with displaying the images properly.
 
