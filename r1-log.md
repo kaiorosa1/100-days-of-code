@@ -123,3 +123,8 @@ I worked on the Personal Portifolio Webpage on FCC. That's pretty much it. It's 
 
 I've worked on the Portifolio page and all the requirements are met. I'm now working to make it pretty. Added bootstrap to it and I'm having problems with displaying the images properly.
 
+### R1D29
+
+I've worked on The Personal Portifolio Webpage on FCC and I finally finished. It's very rewarding to finish the first of 6 courses and I can't wait to finish them all.
+
+
