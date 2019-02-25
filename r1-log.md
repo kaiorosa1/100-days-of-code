@@ -127,4 +127,9 @@ I've worked on the Portifolio page and all the requirements are met. I'm now wor
 
 I've worked on The Personal Portifolio Webpage on FCC and I finally finished. It's very rewarding to finish the first of 6 courses and I can't wait to finish them all.
 
+### R1D30
+
+I've worked on some challenges on FCC. Basic JavaScript, variables, how to assign values and how the operators work and how to handle strings. Started learning about HTML Canvas as well.
+
+
 
