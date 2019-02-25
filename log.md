@@ -260,9 +260,9 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 ### Day 30: February 25, 2019
 
-**Today's Progress**: I've worked on some challenges on FCC. Basic JavaScript, variables, how to assign values and how the operators work and how to handle strings.
+**Today's Progress**: I've worked on some challenges on FCC. Basic JavaScript, variables, how to assign values and how the operators work and how to handle strings. 
 
-**Thoughts**: It's a new chapter for me right now I'm going back to challenges. It's very exciting to be solving challenges and learning about JS. I'll spend a least 30 minutes today trying to figure out what project I'll be focusing next.
+**Thoughts**: It's a new chapter for me right now I'm going back to challenges. It's very exciting to be solving challenges and learning about JS. I'll spend a least 30 minutes today trying to figure out what project I'll be focusing next. I have decided that I'm gonna create a new minesweeper but this time in JS.
 
-**Link(s) to work**: Commit on Github : 
+**Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/campo-minado-js/commit/9aa17758cf0bdb6483b944bdf653e8db94b9f822
 
