@@ -205,6 +205,8 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 **Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/product-landing-page-fcc/commit/ac248076980f2d1d7e4067259ddf55576e268bf8
 
+
+
 ### Day 24: February 19, 2019
 
 **Today's Progress**: I worked on the Technical Documentation Page  for an hour and googled a lot of documentation pages to inspire me.
@@ -213,6 +215,8 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 **Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/technical-documentation-page-fcc/commit/f26c89de0be1b13fd5cc53c48a6273c6d2bd42cb
 
+
+
 ### Day 25: February 20, 2019
 
 **Today's Progress**: I worked on the Technical Documentation Page  for an hour. I finally have an idea of how I want to look like and right now all of the requirements are met so I can focus on styling properly. it's ugly right now being honest.
@@ -220,6 +224,7 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 **Thoughts**: Another day where I couldn't do much but I made a lot of progress I think. I played around a bit with the navbar and with some flexbox properties.
 
 **Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/technical-documentation-page-fcc/commit/5efb30a92940809be51968035ed14316278e8fef
+
 
 
 ### Day 26: February 21, 2019
@@ -248,6 +253,8 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 **Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/personal-portfolio-webpage-fcc/commit/61b96806765e2796f7c8f7277784535a00869165
 
+
+
 ### Day 29: February 24, 2019
 
 **Today's Progress**: I've worked on The Personal Portifolio Webpage on FCC and I finally finished. It's very rewarding to finish the first of 6 courses and I can't wait to finish them all.
@@ -267,9 +274,10 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 **Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/campo-minado-js/commit/9aa17758cf0bdb6483b944bdf653e8db94b9f822
 
 
+
 ### Day 31: February 26, 2019
 
-**Today's Progress**: I started with a short session working on a CodeWars problem. I want to take my JS skills to the next level and I think websites like that can help me.
+**Today's Progress**: I started with a short session working on a CodeWars problem. I want to take my JS skills to the next level and I think websites like that can help me. Also worked on some FCC challenges. Functions, passing arguments, operators and the last ones were about if-else statement.
 
 **Thoughts**: It's very rewarding and frustating at the same time solving problems but it's more rewarding haha
 
