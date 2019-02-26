@@ -266,3 +266,11 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 **Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/campo-minado-js/commit/9aa17758cf0bdb6483b944bdf653e8db94b9f822
 
+
+### Day 31: February 26, 2019
+
+**Today's Progress**: I started with a short session working on a CodeWars problem. I want to take my JS skills to the next level and I think websites like that can help me.
+
+**Thoughts**: It's very rewarding and frustating at the same time solving problems but it's more rewarding haha
+
+**Link(s) to work**: Commit on Github : 
