@@ -131,5 +131,9 @@ I've worked on The Personal Portifolio Webpage on FCC and I finally finished. It
 
 I've worked on some challenges on FCC. Basic JavaScript, variables, how to assign values and how the operators work and how to handle strings. Started learning about HTML Canvas as well.
 
+### R1D31
+
+I started with a short session working on a CodeWars problem. I want to take my JS skills to the next level and I think websites like that can help me. Also worked on some FCC challenges. Functions, passing arguments, operators and the last ones were about if-else statement. Continued learning about HTML Canvas.
+
 
 
