@@ -277,8 +277,8 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 ### Day 31: February 26, 2019
 
-**Today's Progress**: I started with a short session working on a CodeWars problem. I want to take my JS skills to the next level and I think websites like that can help me. Also worked on some FCC challenges. Functions, passing arguments, operators and the last ones were about if-else statement.
+**Today's Progress**: I started with a short session working on a CodeWars problem. I want to take my JS skills to the next level and I think websites like that can help me. Also worked on some FCC challenges. Functions, passing arguments, operators and the last ones were about if-else statement. Continued learning about HTML Canvas.
 
 **Thoughts**: It's very rewarding and frustating at the same time solving problems but it's more rewarding haha
 
-**Link(s) to work**: Commit on Github : 
+**Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/js-journey/commit/8765fd640b7fd87bbe2678e2795c091c5a471ea7
