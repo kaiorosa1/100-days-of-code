@@ -135,5 +135,10 @@ I've worked on some challenges on FCC. Basic JavaScript, variables, how to assig
 
 I started with a short session working on a CodeWars problem. I want to take my JS skills to the next level and I think websites like that can help me. Also worked on some FCC challenges. Functions, passing arguments, operators and the last ones were about if-else statement. Continued learning about HTML Canvas.
 
+### R1D32
 
+I've done a CodeWars problem and also went through some FCC challenges. Switch statement, solving simple problems usings conditionals and the return keyword. A bit about Objects and its notations. Also played around a bit with the HTML Canvas. (I'm following a youtube tutorial)
+
+
+ 
 
