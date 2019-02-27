@@ -287,8 +287,10 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 ### Day 32: February 27, 2019
 
-**Today's Progress**: I've done a CodeWars problem and also went through some FCC challenges. Switch statement, solving simple problems usings conditionals and the return keyword. A bit about Objects and its notations.
+**Today's Progress**: I've done a CodeWars problem and also went through some FCC challenges. Switch statement, solving simple problems usings conditionals and the return keyword. A bit about Objects and its notations. Also played around a bit with the HTML Canvas. (I'm following a youtube tutorial.) 
 
 **Thoughts**: I like how the problems of freecodecamp are set up but at the same time I feel that they are not as much challenging at least until now. I'm not putting much pressure about it because I've been covering things that I'm familiar with so let's see when I start learning about Data visualization or even further down the line in JS. 
 
-**Link(s) to work**: Commit on Github : 
+**Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/js-journey/commit/cacbf09f34536db3771338a94812334b2ba0b640
+
+**Additional Link(s)** Tutorial I'm following to learn MTML5 Canvas: https://www.youtube.com/playlist?list=PLpPnRKq7eNW3We9VdCfx9fprhqXHwTPXL
