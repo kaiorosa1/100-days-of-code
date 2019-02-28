@@ -300,10 +300,10 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 ### Day 33: February 28, 2019
 
-**Today's Progress**: I've solved a Codewars problem it was one about receiving two strings and creating a new one with the distict letters from both strings and it should be sorted. I've done a couple Basic JavaScript challenges on FCC. 
+**Today's Progress**: I've solved a Codewars problem it was one about receiving two strings and creating a new one with the distict letters from both strings and it should be sorted. I've done a couple Basic JavaScript challenges on FCC. I've watched a bit of the HTML Canvas Tutorial.
 
-**Thoughts**: I hope that solving a problem everyday it will make me better at solving problems and more confident in my hability of doing so. I've spent almost 30 minutes in only one problem on FCC. Things are starting to get more challenging. Also read carefully your code Kaio. Most of this time I spent looking for a bug and it was right in front of my faceu (yep in korean , sort of)
+**Thoughts**: I hope that solving a problem everyday it will make me better at solving problems and more confident in my hability of doing so. I've spent almost 30 minutes in only one problem on FCC. Things are starting to get more challenging. Also read carefully your code Kaio. Most of this time I spent looking for a bug and it was right in front of my faceu (yep in korean , sort of). Regarding the HTML Canvas I want to do a mini-project just to test my knowledge and also to update the js-journey properly.
 
-**Link(s) to work**: Commit on Github :
+**Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/js-journey/commit/d4204aa4f1fbbdf8344c6bf1bdc851e0e3f6fa8e
 
 **Additional Link(s)** Tutorial I'm following to learn MTML5 Canvas: https://www.youtube.com/playlist?list=PLpPnRKq7eNW3We9VdCfx9fprhqXHwTPXL
