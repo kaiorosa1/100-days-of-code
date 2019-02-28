@@ -294,3 +294,16 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 **Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/js-journey/commit/cacbf09f34536db3771338a94812334b2ba0b640
 
 **Additional Link(s)** Tutorial I'm following to learn MTML5 Canvas: https://www.youtube.com/playlist?list=PLpPnRKq7eNW3We9VdCfx9fprhqXHwTPXL
+
+
+
+
+### Day 33: February 28, 2019
+
+**Today's Progress**: I've solved a Codewars problem it was one about receiving two strings and creating a new one with the distict letters from both strings and it should be sorted.
+
+**Thoughts**: I hope that solving a problem everyday it will make me better at solving problems and more confident in my hability of doing so. 
+
+**Link(s) to work**: Commit on Github :
+
+**Additional Link(s)** Tutorial I'm following to learn MTML5 Canvas: https://www.youtube.com/playlist?list=PLpPnRKq7eNW3We9VdCfx9fprhqXHwTPXL
