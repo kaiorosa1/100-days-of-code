@@ -140,5 +140,7 @@ I started with a short session working on a CodeWars problem. I want to take my 
 I've done a CodeWars problem and also went through some FCC challenges. Switch statement, solving simple problems usings conditionals and the return keyword. A bit about Objects and its notations. Also played around a bit with the HTML Canvas. (I'm following a youtube tutorial)
 
 
+ ### R1D33
  
+I've solved a Codewars problem it was one about receiving two strings and creating a new one with the distict letters from both strings and it should be sorted. I've done a couple Basic JavaScript challenges on FCC. I've watched a bit of the HTML Canvas Tutorial.
 
