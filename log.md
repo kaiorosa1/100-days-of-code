@@ -307,3 +307,17 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 **Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/js-journey/commit/d4204aa4f1fbbdf8344c6bf1bdc851e0e3f6fa8e
 
 **Additional Link(s)** Tutorial I'm following to learn MTML5 Canvas: https://www.youtube.com/playlist?list=PLpPnRKq7eNW3We9VdCfx9fprhqXHwTPXL
+
+
+
+### Day 34: February 28, 2019
+
+**Today's Progress**: I've watched a bit of the HTML Canvas Tutorial.
+
+**Thoughts**:
+
+**Link(s) to work**: Commit on Github : 
+https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a86fcdd2e
+
+**Additional Link(s)** Tutorial I'm following to learn MTML5 Canvas: https://www.youtube.com/playlist?list=PLpPnRKq7eNW3We9VdCfx9fprhqXHwTPXL
+
