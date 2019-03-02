@@ -312,9 +312,9 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 ### Day 34: February 28, 2019
 
-**Today's Progress**: I've watched a bit of the HTML Canvas Tutorial.
+**Today's Progress**: I've watched a bit of the HTML Canvas Tutorial. I've done some challenges on FCC and finish the section about Basic JavaScript.
 
-**Thoughts**:
+**Thoughts**: It is a rushed day but I'm learning a lot. Future Kaio, please do all your habits in the morning. You're Welcome!
 
 **Link(s) to work**: Commit on Github : 
 https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a86fcdd2e
