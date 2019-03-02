@@ -321,3 +321,17 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 **Additional Link(s)** Tutorial I'm following to learn MTML5 Canvas: https://www.youtube.com/playlist?list=PLpPnRKq7eNW3We9VdCfx9fprhqXHwTPXL
 
+
+
+### Day 35: February 28, 2019
+
+**Today's Progress**: I've finished the tutorial about creating objects in the canvas and animating it.
+
+**Thoughts**: I want to change what I've doing with the tutuorial.
+
+**Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/js-journey/commit/a245b4e12ddd53e4a3c8ce59a318535549aa4c57
+
+
+**Additional Link(s)** Tutorial I'm following to learn MTML5 Canvas: https://www.youtube.com/playlist?list=PLpPnRKq7eNW3We9VdCfx9fprhqXHwTPXL
+
+
