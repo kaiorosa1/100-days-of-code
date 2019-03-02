@@ -144,3 +144,9 @@ I've done a CodeWars problem and also went through some FCC challenges. Switch s
  
 I've solved a Codewars problem it was one about receiving two strings and creating a new one with the distict letters from both strings and it should be sorted. I've done a couple Basic JavaScript challenges on FCC. I've watched a bit of the HTML Canvas Tutorial.
 
+
+### R1D34
+
+I've watched a bit of the HTML Canvas Tutorial. I've done some challenges on FCC and finish the section about Basic JavaScript. I have solved two problems in Codewars. One was about making sure boxes was labled correct and the other one was to get the middle character or the two middles depending if the number was even or odd.
+
+
