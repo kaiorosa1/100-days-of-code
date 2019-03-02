@@ -312,7 +312,7 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 ### Day 34: February 28, 2019
 
-**Today's Progress**: I've watched a bit of the HTML Canvas Tutorial. I've done some challenges on FCC and finish the section about Basic JavaScript.
+**Today's Progress**: I've watched a bit of the HTML Canvas Tutorial. I've done some challenges on FCC and finish the section about Basic JavaScript. I have solved two problems in Codewars. One was about making sure boxes was labled correct and the other one was to get the middle character or the two middles depending if the number was even or odd.
 
 **Thoughts**: It is a rushed day but I'm learning a lot. Future Kaio, please do all your habits in the morning. You're Welcome!
 
