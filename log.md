@@ -337,11 +337,11 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 ### Day 36: February 28, 2019
 
-**Today's Progress**: I've finally finished the challenge about higher order functions and it was a very simple solution. And I spent more time doing more challenges which have been more challenging than usual and I like it.
+**Today's Progress**: I've finally finished the challenge about higher order functions and it was a very simple solution. And I spent more time doing more challenges which have been more challenging than usual and I like it. I have added interactivity in the project (following the tutorial)
 
 **Thoughts**: I've spent an hour trying to solve a simple problem. They are definitely harder than the previous ones. 
 
-**Link(s) to work**: Commit on Github : 
+**Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/js-journey/commit/c877554103fd0051a48a94d65ef2f4b2ec61cbe1
 
 **Additional Link(s)** Tutorial I'm following to learn MTML5 Canvas: https://www.youtube.com/playlist?list=PLpPnRKq7eNW3We9VdCfx9fprhqXHwTPXL
 
