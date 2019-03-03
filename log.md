@@ -325,9 +325,9 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 ### Day 35: February 28, 2019
 
-**Today's Progress**: I've finished the tutorial about creating objects in the canvas and animating it. I've learned about ES6 features about let, const and a bit of arrow functions.
+**Today's Progress**: I've finished the tutorial about creating objects in the canvas and animating it. I've learned about ES6 features about let, const and a bit of arrow functions. First time I got stuck on a challenge on FCC. I'm learning about higher order function as map(), filter(), and reduce().
 
-**Thoughts**: I want to change what I've doing with the tutuorial.
+**Thoughts**: I want to change what I've doing with the tutuorial. I think I understood the challenge but the thing I'm not sure is key to solving the problem. Maybe I didn't as much as I think. 
 
 **Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/js-journey/commit/a245b4e12ddd53e4a3c8ce59a318535549aa4c57
 
