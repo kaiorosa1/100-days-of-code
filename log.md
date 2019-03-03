@@ -337,9 +337,9 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 ### Day 36: February 28, 2019
 
-**Today's Progress**: I've finally finished the challenge about higher order functions and it was a very simple solution.
+**Today's Progress**: I've finally finished the challenge about higher order functions and it was a very simple solution. And I spent more time doing more challenges which have been more challenging than usual and I like it.
 
-**Thoughts**: I've spent an hour trying to solve a simple problem. 
+**Thoughts**: I've spent an hour trying to solve a simple problem. They are definitely harder than the previous ones. 
 
 **Link(s) to work**: Commit on Github : 
 
