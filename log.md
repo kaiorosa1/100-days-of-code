@@ -335,3 +335,14 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 **Additional Link(s)** Tutorial I'm following to learn MTML5 Canvas: https://www.youtube.com/playlist?list=PLpPnRKq7eNW3We9VdCfx9fprhqXHwTPXL
 
 
+### Day 36: February 28, 2019
+
+**Today's Progress**: I've finally finished the challenge about higher order functions and it was a very simple solution.
+
+**Thoughts**: I've spent an hour trying to solve a simple problem. 
+
+**Link(s) to work**: Commit on Github : 
+
+**Additional Link(s)** Tutorial I'm following to learn MTML5 Canvas: https://www.youtube.com/playlist?list=PLpPnRKq7eNW3We9VdCfx9fprhqXHwTPXL
+
+
