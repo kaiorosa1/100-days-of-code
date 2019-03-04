@@ -149,14 +149,19 @@ I've solved a Codewars problem it was one about receiving two strings and creati
 
 I've watched a bit of the HTML Canvas Tutorial. I've done some challenges on FCC and finish the section about Basic JavaScript. I have solved two problems in Codewars. One was about making sure boxes was labled correct and the other one was to get the middle character or the two middles depending if the number was even or odd.
 
+
 ### R1D35
 
 I've finished the tutorial about creating objects in the canvas and animating it. I've learned about ES6 features about let, const and a bit of arrow functions. First time I got stuck on a challenge on FCC. I'm learning about higher order function as map(), filter(), and reduce(). I spend time with not much success solving a challenge on Codewars as well. 
+
 
 ### R1D36
 
 I've finally finished the challenge about higher order functions and it was a very simple solution. And I spent more time doing more challenges which have been more challenging than usual and I like it. I have added interactivity in the project (following the tutorial)
 
 
+### R137
+
+I've done a couple challenges and I intend to finish the Regex section today. Wirked for hours in FCC Challenges and followed the tutorial about the HTML Canvas.
 
 
