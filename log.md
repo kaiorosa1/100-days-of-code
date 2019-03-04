@@ -348,9 +348,9 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 ### Day 37: March 4, 2019
 
-**Today's Progress**: 
+**Today's Progress**: I've done a couple challenges and I intend to finish the Regex section today.
 
-**Thoughts**: 
+**Thoughts**: It's a lot but it's doable if you put in the time. I can't wait to start learn more and challenge myself with the projects ahead.
 
 **Link(s) to work**: Commit on Github : 
 
