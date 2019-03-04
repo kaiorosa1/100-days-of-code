@@ -310,7 +310,7 @@ First commit I made today : https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 
 
-### Day 34: February 28, 2019
+### Day 34: March 1, 2019
 
 **Today's Progress**: I've watched a bit of the HTML Canvas Tutorial. I've done some challenges on FCC and finish the section about Basic JavaScript. I have solved two problems in Codewars. One was about making sure boxes was labled correct and the other one was to get the middle character or the two middles depending if the number was even or odd.
 
@@ -323,7 +323,7 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 
 
-### Day 35: February 28, 2019
+### Day 35: March 2, 2019
 
 **Today's Progress**: I've finished the tutorial about creating objects in the canvas and animating it. I've learned about ES6 features about let, const and a bit of arrow functions. First time I got stuck on a challenge on FCC. I'm learning about higher order function as map(), filter(), and reduce(). I spend time with not much success solving a challenge on Codewars as well. 
 
@@ -335,7 +335,7 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 **Additional Link(s)** Tutorial I'm following to learn MTML5 Canvas: https://www.youtube.com/playlist?list=PLpPnRKq7eNW3We9VdCfx9fprhqXHwTPXL
 
 
-### Day 36: February 28, 2019
+### Day 36: March 3, 2019
 
 **Today's Progress**: I've finally finished the challenge about higher order functions and it was a very simple solution. And I spent more time doing more challenges which have been more challenging than usual and I like it. I have added interactivity in the project (following the tutorial). I've done a late session and I finished the ES6 section. 
 
@@ -346,3 +346,12 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 **Additional Link(s)** Tutorial I'm following to learn MTML5 Canvas: https://www.youtube.com/playlist?list=PLpPnRKq7eNW3We9VdCfx9fprhqXHwTPXL
 
 
+### Day 37: March 4, 2019
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: Commit on Github : 
+
+**Additional Link(s)** Tutorial I'm following to learn MTML5 Canvas: https://www.youtube.com/playlist?list=PLpPnRKq7eNW3We9VdCfx9fprhqXHwTPXL
