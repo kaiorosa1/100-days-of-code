@@ -348,10 +348,10 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 ### Day 37: March 4, 2019
 
-**Today's Progress**: I've done a couple challenges and I intend to finish the Regex section today.
+**Today's Progress**: I've done a couple challenges and I intend to finish the Regex section today. Wirked for hours in FCC Challenges and followed the tutorial about the HTML Canvas.
 
-**Thoughts**: It's a lot but it's doable if you put in the time. I can't wait to start learn more and challenge myself with the projects ahead.
+**Thoughts**: It's a lot but it's doable if you put in the time. I can't wait to start learn more and challenge myself with the projects ahead.Worked on Canvas and tomorrow I will start creating my mini project.
 
-**Link(s) to work**: Commit on Github : 
+**Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/js-journey/commit/482e8079f87390eb41878852c740528122692624
 
 **Additional Link(s)** Tutorial I'm following to learn MTML5 Canvas: https://www.youtube.com/playlist?list=PLpPnRKq7eNW3We9VdCfx9fprhqXHwTPXL
