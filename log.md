@@ -360,7 +360,7 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 ### Day 38: March 5, 2019
 
-**Today's Progress**: I've started and finished the Debugging section on FCC. 
+**Today's Progress**: I've started and finished the Debugging section on FCC. I've started and done a couple challenges on the Basic Data Structures section.
 
 **Thoughts**: The debugging section was a bit underwhelming for me maybe I had too much expectations about it. I thought we would learn about some fancy feature like GNU in C but it was a bunch of console.log.
 
