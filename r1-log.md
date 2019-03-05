@@ -165,3 +165,7 @@ I've finally finished the challenge about higher order functions and it was a ve
 I've done a couple challenges and I intend to finish the Regex section today. Wirked for hours in FCC Challenges and followed the tutorial about the HTML Canvas.
 
 
+### R138 
+
+I've started and finished the Debugging section on FCC. I've started and done a couple challenges on the Basic Data Structures section. This section is about Arrays and its functions. I also started the Mini Project JS which is gonna be a person animated in the canvas, for now.
+
