@@ -360,10 +360,10 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 ### Day 38: March 5, 2019
 
-**Today's Progress**: I've started and finished the Debugging section on FCC. I've started and done a couple challenges on the Basic Data Structures section.
+**Today's Progress**: I've started and finished the Debugging section on FCC. I've started and done a couple challenges on the Basic Data Structures section. This section is about Arrays and its functions. I also started the Mini Project JS which is gonna be a person animated in the canvas, for now. 
 
-**Thoughts**: The debugging section was a bit underwhelming for me maybe I had too much expectations about it. I thought we would learn about some fancy feature like GNU in C but it was a bunch of console.log.
+**Thoughts**: The debugging section was a bit underwhelming for me maybe I had too much expectations about it. I thought we would learn about some fancy feature like GNU in C but it was a bunch of console.log. The section about Basic Data Structures is very interesting because dissects the Array functions.
 
-**Link(s) to work**: Commit on Github : 
+**Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/js-journey/commit/8e8e57c1d69062290f173b622ef9165a0e7eb7d1
 
 
