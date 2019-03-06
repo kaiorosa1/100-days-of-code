@@ -370,10 +370,10 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 ### Day 39: March 6, 2019
 
-**Today's Progress**:  Finished Basic Data Structure. The last challenges it was about Objects and some of its functions.
+**Today's Progress**:  Finished Basic Data Structure. The last challenges was about Objects and some of its functions. I started the Basic Algorithm Scripting and I've done a couple of them.
 
 
-**Thoughts**: The only challenge that was very confusing was one about nesting arrays or nesting objects.
+**Thoughts**: The only challenge that was very confusing was one about nesting arrays or nesting objects. The Basic Algorithm Scripting is all about problems that force you to research and come up with a solution in JS. They are simple but they are good to put everything you learnt so far into action.
 
 
 **Link(s) to work**: Commit on Github :
