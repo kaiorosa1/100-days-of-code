@@ -160,17 +160,17 @@ I've finished the tutorial about creating objects in the canvas and animating it
 I've finally finished the challenge about higher order functions and it was a very simple solution. And I spent more time doing more challenges which have been more challenging than usual and I like it. I have added interactivity in the project (following the tutorial)
 
 
-### R137
+### R1D37
 
 I've done a couple challenges and I intend to finish the Regex section today. Wirked for hours in FCC Challenges and followed the tutorial about the HTML Canvas.
 
 
-### R138 
+### R1D38 
 
 I've started and finished the Debugging section on FCC. I've started and done a couple challenges on the Basic Data Structures section. This section is about Arrays and its functions. I also started the Mini Project JS which is gonna be a person animated in the canvas, for now.
 
 
-### R139
+### R1D39
 
 Finished Basic Data Structure. The last challenges was about Objects and some of its functions. I started the Basic Algorithm Scripting and I've done a couple of them. I also worked on the mini project and created parts of the character that I'll use for the project.
 
