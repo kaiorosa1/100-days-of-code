@@ -169,3 +169,9 @@ I've done a couple challenges and I intend to finish the Regex section today. Wi
 
 I've started and finished the Debugging section on FCC. I've started and done a couple challenges on the Basic Data Structures section. This section is about Arrays and its functions. I also started the Mini Project JS which is gonna be a person animated in the canvas, for now.
 
+
+### R139
+
+Finished Basic Data Structure. The last challenges was about Objects and some of its functions. I started the Basic Algorithm Scripting and I've done a couple of them. I also worked on the mini project and created parts of the character that I'll use for the project.
+
+
