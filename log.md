@@ -367,3 +367,14 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 **Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/js-journey/commit/8e8e57c1d69062290f173b622ef9165a0e7eb7d1
 
 
+
+### Day 39: March 6, 2019
+
+**Today's Progress**:  Finished Basic Data Structure. The last challenges it was about Objects and some of its functions.
+
+
+**Thoughts**: The only challenge that was very confusing was one about nesting arrays or nesting objects.
+
+
+**Link(s) to work**: Commit on Github :
+
