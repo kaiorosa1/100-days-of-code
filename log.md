@@ -377,3 +377,11 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 **Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/js-journey/commit/4aa424e146782d2cdd7dca67b5c924c43e179355
 
+
+### Day 40: March 7, 2019
+
+**Today's Progress**: I worked for 30 minutes on the Mini Project Canvas JS. It was most refactoring and add functions.
+
+**Thoughts**: I started with the Canvas Project because it started raining and I don't want to lose my github streak because the lack of internet. Luckly, it stopped raining and my 100-day challenge won't be affected. 
+
+**Link(s) to work**: Commit on Github :https://github.com/kaiorosa1/js-journey/commit/bc23fa25dec534b6e2ea05f383c75a14d46768c7
