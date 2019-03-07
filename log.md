@@ -380,8 +380,8 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 ### Day 40: March 7, 2019
 
-**Today's Progress**: I worked for 30 minutes on the Mini Project Canvas JS. It was most refactoring and add functions. I also worked on challenges on FCC. the past two days was all about solving these simple problems but some of them I spent hours to solve.
+**Today's Progress**: I worked for 30 minutes on the Mini Project Canvas JS. It was most refactoring and add functions. I also worked on challenges on FCC. the past two days was all about solving these simple problems but some of them I spent hours to solve. I finished the Basic Algorithm Scripting section and I started Object Oriented Programming section.
 
-**Thoughts**: I started with the Canvas Project because it started raining and I don't want to lose my github streak because the lack of internet. Luckly, it stopped raining and my 100-day challenge won't be affected. Right now I'm in the last one and it's been very hard. I want to move on so I'll spend as much time as I need to finish this section today.
+**Thoughts**: I started with the Canvas Project because it started raining and I don't want to lose my github streak because the lack of internet. Luckly, it stopped raining and my 100-day challenge won't be affected. Right now I'm in the last one and it's been very hard. I want to move on so I'll spend as much time as I need to finish this section today. yay I finished today!!
 
 **Link(s) to work**: Commit on Github :https://github.com/kaiorosa1/js-journey/commit/bc23fa25dec534b6e2ea05f383c75a14d46768c7
