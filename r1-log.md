@@ -174,4 +174,8 @@ I've started and finished the Debugging section on FCC. I've started and done a 
 
 Finished Basic Data Structure. The last challenges was about Objects and some of its functions. I started the Basic Algorithm Scripting and I've done a couple of them. I also worked on the mini project and created parts of the character that I'll use for the project.
 
+### R1D40
+
+I worked for 30 minutes on the Mini Project Canvas JS. It was most refactoring and add functions. I also worked on challenges on FCC. the past two days was all about solving these simple problems but some of them I spent hours to solve. I finished the Basic Algorithm Scripting section and I started Object Oriented Programming section.
+
 
