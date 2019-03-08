@@ -385,3 +385,12 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 **Thoughts**: I started with the Canvas Project because it started raining and I don't want to lose my github streak because the lack of internet. Luckly, it stopped raining and my 100-day challenge won't be affected. Right now I'm in the last one and it's been very hard. I want to move on so I'll spend as much time as I need to finish this section today. yay I finished today!!
 
 **Link(s) to work**: Commit on Github :https://github.com/kaiorosa1/js-journey/commit/bc23fa25dec534b6e2ea05f383c75a14d46768c7
+
+
+### Day 41: March 8, 2019
+
+**Today's Progress**: I started off with Mini Project and I made the character move a bit. I created a function update that adds 1 to its x coordinates so it seems like it's moving. 
+
+**Thoughts**: It's very hard to come up with ideas to the Mini Project Canvas JS. I want to be learning more about the designing process at least to have a rough idea of how what I'm gonna do beforehand.  
+
+**Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/js-journey/commit/eb76874405e7a4161dff41326d29fb65d097068f
