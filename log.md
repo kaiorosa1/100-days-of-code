@@ -394,3 +394,13 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 **Thoughts**: It's very hard to come up with ideas to the Mini Project Canvas JS. I want to be learning more about the designing process at least to have a rough idea of how what I'm gonna do beforehand.
 
 **Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/js-journey/commit/eb76874405e7a4161dff41326d29fb65d097068f
+
+
+### Day 42: March 9, 2019
+
+**Today's Progress**: I've finished the OOP section which was very interesting on FCC. 
+
+**Thoughts**: OOP section on FCC was quite alright since I already know other programming languages the concept of inheritance was pretty chill and I guess it was more syntax that I had to pay more attention.
+
+**Link(s) to work**: Commit on Github : 
+
