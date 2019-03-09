@@ -389,8 +389,8 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 ### Day 41: March 8, 2019
 
-**Today's Progress**: I started off with Mini Project and I made the character move a bit. I created a function update that adds 1 to its x coordinates so it seems like it's moving. 
+**Today's Progress**: I started off with Mini Project and I made the character move a bit. I created a function update that adds 1 to its x coordinates so it seems like it's moving. I've done a couple of OOP challenges. 
 
-**Thoughts**: It's very hard to come up with ideas to the Mini Project Canvas JS. I want to be learning more about the designing process at least to have a rough idea of how what I'm gonna do beforehand.  
+**Thoughts**: It's very hard to come up with ideas to the Mini Project Canvas JS. I want to be learning more about the designing process at least to have a rough idea of how what I'm gonna do beforehand.
 
 **Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/js-journey/commit/eb76874405e7a4161dff41326d29fb65d097068f
