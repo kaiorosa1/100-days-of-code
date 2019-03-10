@@ -398,9 +398,9 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 ### Day 42: March 9, 2019
 
-**Today's Progress**: I've finished the OOP section which was very interesting on FCC. 
+**Today's Progress**: I've finished the OOP section which was very interesting on FCC. I've made progress in the Mini project my character is bouncing side to side on the canvas. 
 
 **Thoughts**: OOP section on FCC was quite alright since I already know other programming languages the concept of inheritance was pretty chill and I guess it was more syntax that I had to pay more attention.
 
-**Link(s) to work**: Commit on Github : 
+**Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/js-journey/commit/84d83f1a00e14a19565d34ae91f04baa8eeffb61
 
