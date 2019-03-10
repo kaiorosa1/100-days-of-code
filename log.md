@@ -404,3 +404,11 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 **Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/js-journey/commit/84d83f1a00e14a19565d34ae91f04baa8eeffb61
 
+
+### Day 43: March 10, 2019
+
+**Today's Progress**:  I've been diving into the Fucntional Programming section and it's one of the hard ones. FP is all about functions and how your function should not change the original data. There are a lot of concepts like, pure functions, first class objects, first class functions... I've been understanding it better how map() and filter() works under the hood since they do not change the original data/ function that you pass to it. if they receive functions or return functions they have special names that I don't remember for the life of me. lol.
+
+**Thoughts**: ES6, Regex and Functional Programming must be the topics that I'll be needing more time coding and reading and etc to really understand well how they work. I've done and been doing challenges and understanding them but I'm not feeling is enough.
+
+**Link(s) to work**: Commit on Github : 
