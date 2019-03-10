@@ -7,7 +7,7 @@
 
 **Thoughts**: This is a refresher for me at least for now. I decided that I''ll be following FreeCodeCamp's route. Technically it's been weeks that I started coding every day but I start counting for today. I'm studying JavaScript on Udemy and a bit of MySQL. I'm very excited with this challenge and I hope to see great progress in my web dev/coding in general skills.
 
-**Link(s) to work**: https://github.com/kaiorosa1/100-days-of-code/commit/24cdd3a89c151fcd29f666709f2bfc195e9aeaac
+**Link(s) to work**: None.
 
 
 ### Day 2: January 28, 2019
