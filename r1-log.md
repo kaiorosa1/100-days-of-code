@@ -186,3 +186,10 @@ I worked for 30 minutes on the Mini Project Canvas JS. It was most refactoring a
 I started off with Mini Project and I made the character move a bit. I created a function update that adds 1 to its x coordinates so it seems like it's moving. I've done a couple of OOP challenges. 
 
 
+
+### R1D42
+
+I've finished the OOP section which was very interesting on FCC. I've made progress in the Mini project my character is bouncing side to side on the canvas. 
+
+
+
