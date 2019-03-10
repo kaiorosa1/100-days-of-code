@@ -7,7 +7,7 @@
 
 **Thoughts**: This is a refresher for me at least for now. I decided that I''ll be following FreeCodeCamp's route. Technically it's been weeks that I started coding every day but I start counting for today. I'm studying JavaScript on Udemy and a bit of MySQL. I'm very excited with this challenge and I hope to see great progress in my web dev/coding in general skills.
 
-**Link(s) to work**: None
+**Link(s) to work**: https://github.com/kaiorosa1/100-days-of-code/commit/24cdd3a89c151fcd29f666709f2bfc195e9aeaac
 
 
 ### Day 2: January 28, 2019
@@ -16,7 +16,7 @@
 
 **Thoughts**: It was a bit overwhelming to finish all the module even though it was almost like a review session. I'll try to put my study session as early as possible. Since I'm on vacation I'll be continuing coding but it was not going to be as structure as I intend with this callenge. I want to be working on projects I'm starting that today. It's only simple to-do list in JS. My intention with this challenge is advance as far as I can,resonably, in freeCodeCamp. 
 
-**Link(s) to work**: None
+**Link(s) to work**: https://github.com/kaiorosa1/campo-minado/commit/1e5eaddd1e240f04671f2a78c8cefb2c23276a1c
 
 
 ### Day 3: January 29, 2019
