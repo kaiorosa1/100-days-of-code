@@ -197,3 +197,9 @@ I've finished the OOP section which was very interesting on FCC. I've made progr
 I've been diving into the Fucntional Programming section and it's one of the hard ones. FP is all about functions and how your function should not change the original data. There are a lot of concepts like, pure functions, first class objects, first class functions... I've been understanding it better how map() and filter() works under the hood since they do not change the original data/ function that you pass to it. if they receive functions or return functions they have special names that I don't remember for the life of me. lol. I have finished the Functional Programming section. I also worked on putting my portifolio page live using Github Pages.
 
 
+### R1D44 
+
+I've done a couple challenges in the Intermediate Algorithm Scripting section on FCC. This section is hard and I'll be in it for a couple of days I'm sure about that.
+
+
+
