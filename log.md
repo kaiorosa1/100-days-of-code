@@ -425,7 +425,7 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 
 
-### Day 45: March 11, 2019
+### Day 45: March 12, 2019
 
 **Today's Progress**:  I've solved one problem on FCC. This section has been very hard and I've been taking a lot of time solving the challenges.
 
