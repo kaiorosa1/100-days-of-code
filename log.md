@@ -422,3 +422,15 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 **Thoughts**: I've made some changes about what I'll do in this challenges I'll dedicate to solve FCC challenges because classes are back and I won't be having as much time as I want to be working on more than one thing so I decided that it's gonna be freeCodeCamp and then I choose something else. The key is concinstency and I've been loving FCC. 
 
 **Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/js-journey/commit/4b42899a451129be668c60e750c48b3963070495
+
+
+
+### Day 45: March 11, 2019
+
+**Today's Progress**:  I've solved one problem on FCC. This section has been very hard and I've been taking a lot of time solving the challenges.
+
+**Thoughts**: I believe that this section is being very good and I've been learning a lot. The Intermidiate Algorithm Scripting section has been very challenging and I'll try to work on one more challenge today.
+
+
+**Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/js-journey/commit/6944d6ba53ed52c9b12544b5d57d5a745f1f90e5
+
