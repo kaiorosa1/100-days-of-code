@@ -425,7 +425,7 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 
 
-### Day 45: March 12, 2019
+### Day 46: March 13, 2019
 
 **Today's Progress**:  I've solved one problem on FCC. This section has been very hard and I've been taking a lot of time solving the challenges.
 
@@ -433,4 +433,15 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 
 **Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/js-journey/commit/6944d6ba53ed52c9b12544b5d57d5a745f1f90e5
+
+
+### Day 45: March 12, 2019
+
+**Today's Progress**:  I could solve exact two challenges on the Intermidiate Algorithm Scripting. I've used Regex on them.
+
+**Thoughts**: It's been fun solving those challenges. I want to spend more time on FCC but I don't know what is going to happen next. Of course I'll put my hour in but I want to do more. It's necessary.
+
+
+**Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/js-journey/commit/0576fd31f353ad27a0362a302a0ddbae17cd75f7
+
 
