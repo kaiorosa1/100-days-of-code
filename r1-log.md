@@ -202,4 +202,9 @@ I've been diving into the Fucntional Programming section and it's one of the har
 I've done a couple challenges in the Intermediate Algorithm Scripting section on FCC. This section is hard and I'll be in it for a couple of days I'm sure about that.
 
 
+### R1D45
+
+I've solved one problem on FCC. This section has been very hard and I've been taking a lot of time solving the challenges.
+
+
 
