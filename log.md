@@ -446,3 +446,14 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 **Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/js-journey/commit/0576fd31f353ad27a0362a302a0ddbae17cd75f7
 
 
+### Day 47: March 14, 2019
+
+**Today's Progress**:  I have solved three challenges today. I've been steping it up day by day. Today was very regex-y as well and one was about fibonacci. I didn't like my solution for the last problem but it worked I can go back later on and I'll probably come up with a better solution.
+
+**Thoughts**: I've been incorportating a lot what I've been learning in the problem I can confidently say that I'm feeling more and more confortable with JS. I can't wait to learn more and become an expert in it, lol. I know I'm ambitious. I'm working to get there.
+
+
+**Link(s) to work**: Commit on Github : https://github.com/kaiorosa1/js-journey/commit/d184a01cc3052d6f225dd261447a8d88ce3b5d84
+
+
+
