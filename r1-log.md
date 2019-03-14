@@ -207,4 +207,9 @@ I've done a couple challenges in the Intermediate Algorithm Scripting section on
 I've solved one problem on FCC. This section has been very hard and I've been taking a lot of time solving the challenges.
 
 
+### R1D46
+
+I could solve exact two challenges on the Intermidiate Algorithm Scripting. I've used Regex on them.
+
+
 
