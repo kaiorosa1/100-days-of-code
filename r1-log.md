@@ -217,7 +217,8 @@ I could solve exact two challenges on the Intermidiate Algorithm Scripting. I've
 I have solved three challenges today. I've been steping it up day by day. Today was very regex-y as well and one was about fibonacci. I didn't like my solution for the last problem but it worked I can go back later on and I'll probably come up with a better solution.
 
 
+### R1D48
 
-
+I've solved two challenges on FCC. I'll probably work in this section for a week or so.
 
 
