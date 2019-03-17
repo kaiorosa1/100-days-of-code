@@ -463,3 +463,14 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 **Thoughts**: The challenges itself were not as hard but I've putting exact one hour a day so I'm doing the best that I can.
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/2e08ec3b25e00b55643b668e3a948601ef6187fe
+
+
+
+### Day 49: March 16, 2019
+
+**Today's Progress**:  I've solved two challenges on FCC. The first one I used a closure to solve it and the second one was about decoding a sequence of characters.
+
+**Thoughts**: Today it feels like I will never finish all those challenges there are so many left. I'll try solving more tomorrow. Consistency is key!! 
+
+**Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/21409192197139f5cc9aa3b15457b482aa587a2f
+
