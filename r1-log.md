@@ -222,3 +222,6 @@ I have solved three challenges today. I've been steping it up day by day. Today 
 I've solved two challenges on FCC. I'll probably work in this section for a week or so.
 
 
+### R1D49
+
+I've solved two challenges on FCC. The first one I used a closure to solve it and the second one was about decoding a sequence of characters.
