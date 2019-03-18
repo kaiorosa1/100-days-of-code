@@ -485,6 +485,15 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/6ebf22838500c1a8613294904a2d5997c09e7a2e
 
 
+### Day 51: March 18, 2019
+
+**Today's Progress**:  I've solved one challenge and it was an easy one. I tried solving another one more difficult but it seemed that I  wasn't going nowhere so I switched it up. 
+
+**Thoughts**: I takes me more time than I expect. I want to say how the next days are gonna look like because it seems like it's been harder and harder to solve one. I'm not saying that the challenges are getting harder but it seems like I could spent hours and hours without ever finishing one and right now I have limited time. 
+
+
+**Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/7faf623f1ca0bd2c850c88e2ebd45eee7ebf0c28
+
 
 
 
