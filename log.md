@@ -478,7 +478,7 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 ### Day 50: March 17, 2019
 
-**Today's Progress**:  I have solved one challenge today and it's been very a rewarding one. I've been trying to solve it since a couple days ago. It was one about comparing objects and filtering out some of them. Seems simple to understand the problem but the actual coding took me a long time, not to write it but to come up with the solution.
+**Today's Progress**:  I have solved one challenge today and it's been very a rewarding one. I've been trying to solve it since a couple days ago. It was one about comparing objects and filtering out some of them. Seems simple to understand the problem but the actual coding took me a long time, not to write it but to come up with the solution. In another session I've solved another one. It is rewarding when they are hard and you are able to solve them.
 
 **Thoughts**: I can't wait to finish them all. I want to be working on projects and building stuff that feels more like programming something tangible rather than some school challenges. 
 
