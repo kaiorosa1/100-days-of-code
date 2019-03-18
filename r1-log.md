@@ -232,3 +232,9 @@ I've solved two challenges on FCC. The first one I used a closure to solve it an
 I have solved one challenge today and it's been very a rewarding one. I've been trying to solve it since a couple days ago. It was one about comparing objects and filtering out some of them. Seems simple to understand the problem but the actual coding took me a long time, not to write it but to come up with the solution. In another session I've solved another one. It is rewarding when they are hard and you are able to solve them.
 
 
+### R1D51
+
+I've solved one challenge and it was an easy one. I tried solving another one more difficult but it seemed that I  wasn't going nowhere so I switched it up.
+
+
+
