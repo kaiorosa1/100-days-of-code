@@ -225,3 +225,10 @@ I've solved two challenges on FCC. I'll probably work in this section for a week
 ### R1D49
 
 I've solved two challenges on FCC. The first one I used a closure to solve it and the second one was about decoding a sequence of characters.
+
+
+### R1D50
+
+I have solved one challenge today and it's been very a rewarding one. I've been trying to solve it since a couple days ago. It was one about comparing objects and filtering out some of them. Seems simple to understand the problem but the actual coding took me a long time, not to write it but to come up with the solution. In another session I've solved another one. It is rewarding when they are hard and you are able to solve them.
+
+
