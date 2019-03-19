@@ -238,3 +238,8 @@ I've solved one challenge and it was an easy one. I tried solving another one mo
 
 
 
+### R1D52
+
+I've solved one challenge and to be honest I'm surprised. I've tried solving another one but it seems like my code is not very efficient. In the future I want to be able to take a hard class on OOP to be able to  understand better my code and also to start writing more elegant code.
+
+
