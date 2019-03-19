@@ -495,5 +495,13 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/7faf623f1ca0bd2c850c88e2ebd45eee7ebf0c28
 
 
+### Day 52: March 19, 2019
+
+**Today's Progress**:  I've solved one challenge and to be honest I'm surprised. I've tried solving another one but it seems like my code is not very efficient. In the future I want to be able to take a hard class on OOP to be able to  understand better my code and also to start writing more elegant code.
+
+**Thoughts**: This is not the first time this happens. I want to come up with a better thought out solution but I also would like to be able to submit the less glamurous version right now. I think this probably means my solution is terrible. I will come up with a better one I know. Btw the one I solved though it was a solution. 
+
+
+**Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/5f73d912e99fc40d36d19f602552dd7d8745e65f
 
 
