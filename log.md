@@ -505,3 +505,14 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/5f73d912e99fc40d36d19f602552dd7d8745e65f
 
 
+
+### Day 53: March 20, 2019
+
+**Today's Progress**:  I have solved one more challenge on FCC. The Intermediate Algorithm Scripting is a very hard section. I didn't expect to be this hard. Most of the section I've completed in about two hours but this one is taking me so long.
+
+**Thoughts**: I'm gaining back my confidence in solving problems. Don't get me wrong I love challenges and the feeling you get once you finally figure out what's being keeping you from finishing but I also like the feeling of progress and I've been feeling stuck and these past days made me realize that I need to focus on JS to really master all the concepts.
+
+**Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/9d096b0a17ddbb527a9dd68bcb7224740e4b7273
+
+
+
