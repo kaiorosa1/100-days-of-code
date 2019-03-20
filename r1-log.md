@@ -243,3 +243,9 @@ I've solved one challenge and it was an easy one. I tried solving another one mo
 I've solved one challenge and to be honest I'm surprised. I've tried solving another one but it seems like my code is not very efficient. In the future I want to be able to take a hard class on OOP to be able to  understand better my code and also to start writing more elegant code.
 
 
+### R1D53
+
+I have solved one more challenge on FCC. The Intermediate Algorithm Scripting is a very hard section. I didn't expect to be this hard. Most of the section I've completed in about two hours but this one is taking me so long.
+
+
+
