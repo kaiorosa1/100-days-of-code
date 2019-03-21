@@ -515,4 +515,12 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/9d096b0a17ddbb527a9dd68bcb7224740e4b7273
 
 
+### Day 54: March 21, 2019
+
+**Today's Progress**: I've solved one more challenge. This last challenge I solved was about summing all prime numbers up to a given number and I could've solved this way from the beginning but I wanted to find another easier way. Turned out that was the easy way to solve it. 
+
+**Thoughts**: If you have an idea of how to solve the problem go for it, even if seems complicated or not optimal. 
+
+**Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/5794bd8c33b07bf067bdd519e4d6728b6543f188
+
 
