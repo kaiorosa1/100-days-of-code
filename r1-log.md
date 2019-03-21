@@ -248,4 +248,9 @@ I've solved one challenge and to be honest I'm surprised. I've tried solving ano
 I have solved one more challenge on FCC. The Intermediate Algorithm Scripting is a very hard section. I didn't expect to be this hard. Most of the section I've completed in about two hours but this one is taking me so long.
 
 
+### R1D54
+
+I've solved one more challenge. This last challenge I solved was about summing all prime numbers up to a given number and I could've solved this way from the beginning but I wanted to find another easier way. Turned out that was the easy way to solve it. 
+
+
 
