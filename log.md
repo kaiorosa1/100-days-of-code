@@ -524,3 +524,11 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/5794bd8c33b07bf067bdd519e4d6728b6543f188
 
 
+### Day 55: March 22, 2019
+
+**Today's Progress**: I have finished the Intermediate Algorithm Scripiting section. I had three remaining challenges and I decided that I was going to finish them all. I have to celebrate because it was very hard to get here. I hope I got better in the process. 
+
+**Thoughts**: Feeling good because I finish all of the Intermediate Algoritm Scripting section but at the same time a bit disappointed because it took me so long. Like I've mentioned I'll be spending more time with JS I need to better my skills so badly.
+
+**Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/9dca161efd571a4122e9ca3a427f742c530c0c23
+
