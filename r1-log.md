@@ -253,4 +253,13 @@ I have solved one more challenge on FCC. The Intermediate Algorithm Scripting is
 I've solved one more challenge. This last challenge I solved was about summing all prime numbers up to a given number and I could've solved this way from the beginning but I wanted to find another easier way. Turned out that was the easy way to solve it. 
 
 
+### R1D55
+
+I have finished the Intermediate Algorithm Scripiting section. I had three remaining challenges and I decided that I was going to finish them all. I have to celebrate because it was very hard to get here. I hope I got better in the process. 
+
+
+
+
+
+
 
