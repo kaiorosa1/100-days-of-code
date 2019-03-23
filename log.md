@@ -526,9 +526,22 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 ### Day 55: March 22, 2019
 
-**Today's Progress**: I have finished the Intermediate Algorithm Scripiting section. I had three remaining challenges and I decided that I was going to finish them all. I have to celebrate because it was very hard to get here. I hope I got better in the process. 
+**Today's Progress**: I have finished the Intermediate Algorithm Scripiting section. I had three remaining challenges and I decided that I was going to finish them all. I have to celebrate because it was very hard to get here. I hope I got better in the process. Later on, I've finished the first project.
 
 **Thoughts**: Feeling good because I finish all of the Intermediate Algoritm Scripting section but at the same time a bit disappointed because it took me so long. Like I've mentioned I'll be spending more time with JS I need to better my skills so badly.
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/9dca161efd571a4122e9ca3a427f742c530c0c23
+
+
+
+### Day 56: March 23, 2019
+
+**Today's Progress**: I've solved the second project which was Ceasars Cipher on FCC. The section says projects but this time the projects are harder exercises. I liked this idea since we are still learning the concepts in JS.
+
+**Thoughts**: I've been finding solving the projects easier than some Intermediate Algorith Scripting section but maybe it's because I have some blind spot in some concepts. I don't know I just glad I'm done with them for now.
+
+**Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/730c7012bad105d0135545ec87eb2a719e620f8f
+
+
+
 
