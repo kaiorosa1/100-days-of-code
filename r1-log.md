@@ -258,6 +258,10 @@ I've solved one more challenge. This last challenge I solved was about summing a
 I have finished the Intermediate Algorithm Scripiting section. I had three remaining challenges and I decided that I was going to finish them all. I have to celebrate because it was very hard to get here. I hope I got better in the process. 
 
 
+### R1D56
+
+I've solved the second project which was Ceasars Cipher on FCC. The section says projects but this time the projects are harder exercises. I liked this idea since we are still learning the concepts in JS.
+
 
 
 
