@@ -524,6 +524,7 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/5794bd8c33b07bf067bdd519e4d6728b6543f188
 
 
+
 ### Day 55: March 22, 2019
 
 **Today's Progress**: I have finished the Intermediate Algorithm Scripiting section. I had three remaining challenges and I decided that I was going to finish them all. I have to celebrate because it was very hard to get here. I hope I got better in the process. Later on, I've finished the first project.
@@ -543,5 +544,13 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/730c7012bad105d0135545ec87eb2a719e620f8f
 
 
+
+### Day 57: March 24, 2019
+
+**Today's Progress**: I've solved the project about validating a phone number. I can see in this entire certification is the value of understand Regex fully. We have a lot of challeges along the way that it's easier to solve if you know your Regexes haha. 
+
+**Thoughts**: I've been learning so much and I'm feeling more and more confident about writing code in JS. I'll get back to learning Js on Udemy. I still have so much to learn it's exciting.
+
+**Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/611c4c24e7b22999ae30f2fc20b74e5874631d9a
 
 
