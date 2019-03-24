@@ -263,6 +263,10 @@ I have finished the Intermediate Algorithm Scripiting section. I had three remai
 I've solved the second project which was Ceasars Cipher on FCC. The section says projects but this time the projects are harder exercises. I liked this idea since we are still learning the concepts in JS.
 
 
+### R1D57 
+
+I've solved the project about validating a phone number. I can see in this entire certification is the value of understand Regex fully. We have a lot of challeges along the way that it's easier to solve if you know your Regexes haha.
+
 
 
 
