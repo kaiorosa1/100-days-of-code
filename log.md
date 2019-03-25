@@ -554,3 +554,15 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/611c4c24e7b22999ae30f2fc20b74e5874631d9a
 
 
+
+### Day 58: March 25, 2019
+
+**Today's Progress**: I've finish the project about converting a decimal to the roman equivalent. It wasn't very hard but my solution was not the best one but it worked.
+
+**Thoughts**: It's gonna be a very hard week because I need to study for an upcoming exam. I'm glad I could finish another project and hopefully tomorrow I'll be finish the certification. The plans are very fuzzy and I hope I can clear things out when I get home today.
+
+**Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/e29a6aabf5d3bf5d430bd34b3f7b8f7dfa4990d0
+
+
+
+
