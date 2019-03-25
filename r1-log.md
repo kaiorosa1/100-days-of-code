@@ -268,6 +268,10 @@ I've solved the second project which was Ceasars Cipher on FCC. The section says
 I've solved the project about validating a phone number. I can see in this entire certification is the value of understand Regex fully. We have a lot of challeges along the way that it's easier to solve if you know your Regexes haha.
 
 
+### R1D58
+
+I've finish the project about converting a decimal to the roman equivalent. It wasn't very hard but my solution was not the best one but it worked.
+
 
 
 
