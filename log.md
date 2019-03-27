@@ -565,4 +565,12 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 
 
+### Day 59: March 26, 2019
+
+**Today's Progress**: I've worked for almost an hour and a half and now I understand how people are not consistent with habits. I didn't finish any challenge and this is the last one I need to work on before getting my certification.
+
+**Thoughts**: I've made a change on my portifolio page but this does not really count. I'll be working on the challenge until 23h but I doubt I finish it today. It's not because it's hard but it's long to code or at least my solution is.
+
+**Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/kaiorosa1.github.io/commit/e4db9048012d51427d9cf7ba6ece765a9a0c9299
+
 
