@@ -273,5 +273,9 @@ I've solved the project about validating a phone number. I can see in this entir
 I've finish the project about converting a decimal to the roman equivalent. It wasn't very hard but my solution was not the best one but it worked.
 
 
+### R1D59 
+
+I've worked for almost an hour and a half and now I understand how people are not consistent with habits. I didn't finish any challenge and this is the last one I need to work on before getting my certification.
+
 
 
