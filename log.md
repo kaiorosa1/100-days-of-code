@@ -574,3 +574,10 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/kaiorosa1.github.io/commit/e4db9048012d51427d9cf7ba6ece765a9a0c9299
 
 
+### Day 60: March 27, 2019
+
+**Today's Progress**: I have finished the last project on the JS certification. I'm so happy I finally finished my second certification. Now I have the JavaScript Algorithms and Data Structures certification. I still have 4 certification to go!
+
+**Thoughts**: It was harder than I expected but it was the most rewarding was well. I loved working through the problems I still have a long journey and I feel I'm a better developer already I can't wait to be great at it and working on interesting projects. 
+
+**Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/9b2cd69b8bbfd26698fe081c3cf55011324b801c
