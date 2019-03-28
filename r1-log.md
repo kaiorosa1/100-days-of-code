@@ -282,4 +282,8 @@ I've worked for almost an hour and a half and now I understand how people are no
 I have finished the last project on the JS certification. I'm so happy I finally finished my second certification. Now I have the JavaScript Algorithms and Data Structures certification. I still have 4 certification to go!
 
 
+### R1D61
+
+I've worked on some BootStrap challenges. I'm very excited to learn about Front-End Libraries. I've solved one problem in the last FCC section.
+
 
