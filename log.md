@@ -581,3 +581,12 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 **Thoughts**: It was harder than I expected but it was the most rewarding was well. I loved working through the problems I still have a long journey and I feel I'm a better developer already I can't wait to be great at it and working on interesting projects. 
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/9b2cd69b8bbfd26698fe081c3cf55011324b801c
+
+
+### Day 61: March 28, 2019
+
+**Today's Progress**: I've worked on some BootStrap challenges. I'm very excited to learn about Front-End Libraries. 
+
+**Thoughts**: I'm most looking forward to start learning React but for the moment is nice to revisit some BootStrap functionalities. 
+
+**Link(s) to work**: Commit on Github: 
