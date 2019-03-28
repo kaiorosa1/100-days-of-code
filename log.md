@@ -585,8 +585,11 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 ### Day 61: March 28, 2019
 
-**Today's Progress**: I've worked on some BootStrap challenges. I'm very excited to learn about Front-End Libraries. 
+**Today's Progress**: I've worked on some BootStrap challenges. I'm very excited to learn about Front-End Libraries. I've solved one problem in the last FCC section.
 
-**Thoughts**: I'm most looking forward to start learning React but for the moment is nice to revisit some BootStrap functionalities. 
+**Thoughts**: I'm most looking forward to start learning React but for the moment is nice to revisit some BootStrap functionalities. I've solved the challenge just because I wanted to have something to make a commit. I'll use the weekend to switch gears and thing about how I'm going to be commiting. I want to start use a session to learn more JS I don't feel I'm done yet to move on to something else. I'll probably solve another challenge like that tomorrow as well.
 
-**Link(s) to work**: Commit on Github: 
+
+
+
+**Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/c4964eb06db6017ea2c3ee1b6fd04cca1d3bc100
