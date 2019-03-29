@@ -286,4 +286,6 @@ I have finished the last project on the JS certification. I'm so happy I finally
 
 I've worked on some BootStrap challenges. I'm very excited to learn about Front-End Libraries. I've solved one problem in the last FCC section.
 
+### R1D62
 
+I've solved some Bootstrap challenges and worked on Project Euler (FCC) on freeCodeCamp. 
