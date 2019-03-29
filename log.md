@@ -589,7 +589,15 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 **Thoughts**: I'm most looking forward to start learning React but for the moment is nice to revisit some BootStrap functionalities. I've solved the challenge just because I wanted to have something to make a commit. I'll use the weekend to switch gears and thing about how I'm going to be commiting. I want to start use a session to learn more JS I don't feel I'm done yet to move on to something else. I'll probably solve another challenge like that tomorrow as well.
 
-
-
-
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/c4964eb06db6017ea2c3ee1b6fd04cca1d3bc100
+
+
+### Day 62: March 29, 2019
+
+**Today's Progress**: I've solved some Bootstrap challenges and worked on Project Euler (FCC) on freeCodeCamp. 
+
+**Thoughts**: I've been loving documenting my journey in this quick way. This weekend I start planning what the nexts weeks are going to look like, there's lot of JS in the way that is for sure.
+
+**Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/38894fc3f54defcfc19e84ffd4ec088c933459b7
+
+
