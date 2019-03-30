@@ -603,8 +603,12 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 ### Day 63: March 30, 2019
 
-**Today's Progress**: I've finished the Bootstrap section on the Front-End Libraries Certification on FCC. 
+**Today's Progress**: I've finished the Bootstrap section on the Front-End Libraries Certification on FCC. I also solved a Project Euler challenge.  
 
-**Thoughts**: It's been pretty chill and I already had an idea of how to use Bootstrap so it was more a review of the features. I know Bootstrap is pretty powerful. 
+**Thoughts**: It's been pretty chill and I already had an idea of how to use Bootstrap so it was more a review of the features. I know Bootstrap is pretty powerful. It's funny how quickly you can solve a challenge and how hard and impossible seems to solve another.
 
-**Link(s) to work**: Commit on Github:
+**Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/94c8d64a883677dbc88d626b99a92370b5ce0d34
+
+
+
+
