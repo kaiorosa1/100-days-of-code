@@ -601,3 +601,10 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/38894fc3f54defcfc19e84ffd4ec088c933459b7
 
 
+### Day 63: March 30, 2019
+
+**Today's Progress**: I've finished the Bootstrap section on the Front-End Libraries Certification on FCC. 
+
+**Thoughts**: It's been pretty chill and I already had an idea of how to use Bootstrap so it was more a review of the features. I know Bootstrap is pretty powerful. 
+
+**Link(s) to work**: Commit on Github:
