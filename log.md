@@ -610,5 +610,12 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/94c8d64a883677dbc88d626b99a92370b5ce0d34
 
 
+### Day 64: March 31, 2019
+
+**Today's Progress**: I've solved some JQuery challenges on FCC. I'm dividing 30 minutes to the Front End Libraries Certification and 30 minutes to solving JS problems.
+
+**Thoughts**: JQuery are not that interesting since I know that it's not that useful anymore. But it's always fun to learn about it.
+
+**Link(s) to work**: Commit on Github: 
 
 
