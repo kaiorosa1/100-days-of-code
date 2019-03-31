@@ -289,3 +289,9 @@ I've worked on some BootStrap challenges. I'm very excited to learn about Front-
 ### R1D62
 
 I've solved some Bootstrap challenges and worked on Project Euler (FCC) on freeCodeCamp. 
+
+### R1D63
+
+I've finished the Bootstrap section on the Front-End Libraries Certification on FCC. I also solved a Project Euler challenge.
+
+### R1D64
