@@ -619,3 +619,10 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/kaiorosa1.github.io/commit/8153b8ffee1f034ec8a2458a33546aeb71b8e7a6
 
 
+### Day 61: April 1, 2019
+
+**Today's Progress**: Started working on a friend's portfolio. 
+
+**Thoughts**: I believe working on this project is going to be very interesting since it's a beautiful website that I have to start from scratch.
+
+**Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/prortfolio-rodrigo/commit/9a076c0a2ddbc5b51c2c440e9bc64d9a7c6eaf67
