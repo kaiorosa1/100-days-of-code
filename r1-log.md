@@ -302,4 +302,9 @@ I've finished the Bootstrap section on the Front-End Libraries Certification on 
 
 I've solved some JQuery challenges on FCC. I'm dividing 30 minutes to the Front End Libraries Certification and 30 minutes to solving JS problems. I've worked on changing my portfolio page.
 
+### R1D65
+
+Started working on a friend's portfolio. I've finished the JQuery section on FCC.
+
+
 
