@@ -619,7 +619,7 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/kaiorosa1.github.io/commit/8153b8ffee1f034ec8a2458a33546aeb71b8e7a6
 
 
-### Day 61: April 1, 2019
+### Day 65: April 1, 2019
 
 **Today's Progress**: Started working on a friend's portfolio. I've finished the JQuery section on FCC.
 
