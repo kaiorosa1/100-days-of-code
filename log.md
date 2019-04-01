@@ -612,10 +612,10 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 ### Day 64: March 31, 2019
 
-**Today's Progress**: I've solved some JQuery challenges on FCC. I'm dividing 30 minutes to the Front End Libraries Certification and 30 minutes to solving JS problems.
+**Today's Progress**: I've solved some JQuery challenges on FCC. I'm dividing 30 minutes to the Front End Libraries Certification and 30 minutes to solving JS problems. I've worked on changing my portfolio page.
 
-**Thoughts**: JQuery are not that interesting since I know that it's not that useful anymore. But it's always fun to learn about it.
+**Thoughts**: JQuery are not that interesting since I know that it's not that useful anymore. But it's always fun to learn about it. 
 
-**Link(s) to work**: Commit on Github: 
+**Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/kaiorosa1.github.io/commit/8153b8ffee1f034ec8a2458a33546aeb71b8e7a6
 
 
