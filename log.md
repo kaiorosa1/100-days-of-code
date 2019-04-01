@@ -621,8 +621,8 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 ### Day 61: April 1, 2019
 
-**Today's Progress**: Started working on a friend's portfolio. 
+**Today's Progress**: Started working on a friend's portfolio. I've finished the JQuery section on FCC.
 
-**Thoughts**: I believe working on this project is going to be very interesting since it's a beautiful website that I have to start from scratch.
+**Thoughts**: I believe working on this project is going to be very interesting since it's a beautiful website that I have to start from scratch. The next section is about Sass I don't know what it is but I'm very interested in learning more about it. I think it's related to CSS but I don't know how it is.
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/prortfolio-rodrigo/commit/9a076c0a2ddbc5b51c2c440e9bc64d9a7c6eaf67
