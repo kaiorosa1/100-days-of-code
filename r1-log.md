@@ -277,6 +277,7 @@ I've finish the project about converting a decimal to the roman equivalent. It w
 
 I've worked for almost an hour and a half and now I understand how people are not consistent with habits. I didn't finish any challenge and this is the last one I need to work on before getting my certification.
 
+
 ### R1D60
 
 I have finished the last project on the JS certification. I'm so happy I finally finished my second certification. Now I have the JavaScript Algorithms and Data Structures certification. I still have 4 certification to go!
@@ -286,12 +287,19 @@ I have finished the last project on the JS certification. I'm so happy I finally
 
 I've worked on some BootStrap challenges. I'm very excited to learn about Front-End Libraries. I've solved one problem in the last FCC section.
 
+
 ### R1D62
 
 I've solved some Bootstrap challenges and worked on Project Euler (FCC) on freeCodeCamp. 
+
 
 ### R1D63
 
 I've finished the Bootstrap section on the Front-End Libraries Certification on FCC. I also solved a Project Euler challenge.
 
+
 ### R1D64
+
+I've solved some JQuery challenges on FCC. I'm dividing 30 minutes to the Front End Libraries Certification and 30 minutes to solving JS problems. I've worked on changing my portfolio page.
+
+
