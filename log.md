@@ -626,3 +626,16 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 **Thoughts**: I believe working on this project is going to be very interesting since it's a beautiful website that I have to start from scratch. The next section is about Sass I don't know what it is but I'm very interested in learning more about it. I think it's related to CSS but I don't know how it is.
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/prortfolio-rodrigo/commit/9a076c0a2ddbc5b51c2c440e9bc64d9a7c6eaf67
+
+
+
+### Day 66: April 2, 2019
+
+**Today's Progress**: I've finished the Sass section on FCC. 
+
+**Thoughts**: Sass is a CSS extension and enables you to use logic whithin you CSS code so it is very useful I can't wait to strenghten my learning by using in the projects.
+
+**Link(s) to work**: Commit on Github:
+
+
+
