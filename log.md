@@ -631,9 +631,18 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 ### Day 66: April 2, 2019
 
-**Today's Progress**: I've finished the Sass section on FCC. 
+**Today's Progress**: I've finished the Sass section on FCC. Worked on Rodrigo's portfolio.
 
 **Thoughts**: Sass is a CSS extension and enables you to use logic whithin you CSS code so it is very useful I can't wait to strenghten my learning by using in the projects.
+
+**Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/prortfolio-rodrigo/commit/41394df74ad0fa19e5e454aac0252d52eaa25f33
+
+
+### Day 67: April 3, 2019
+
+**Today's Progress**: 
+
+**Thoughts**: 
 
 **Link(s) to work**: Commit on Github:
 
