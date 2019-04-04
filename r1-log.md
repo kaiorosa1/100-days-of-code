@@ -314,6 +314,8 @@ I've finished the Sass section on FCC. Worked on Rodrigo's portfolio.
 
 ### R1D67
 
+I've worked on Rodrigo's portfolio and create and started working on the motion_graphics.html. Worked on some React challenges on FCC.
+
 
 
 
