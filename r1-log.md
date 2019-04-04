@@ -307,4 +307,13 @@ I've solved some JQuery challenges on FCC. I'm dividing 30 minutes to the Front 
 Started working on a friend's portfolio. I've finished the JQuery section on FCC.
 
 
+### R1D66
+
+I've finished the Sass section on FCC. Worked on Rodrigo's portfolio.
+
+
+### R1D67
+
+
+
 
