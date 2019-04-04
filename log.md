@@ -640,11 +640,11 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 ### Day 67: April 3, 2019
 
-**Today's Progress**: 
+**Today's Progress**: I've worked on Rodrigo's portfolio and create and started working on the motion_graphics.html. Worked on some React challenges on FCC.
 
-**Thoughts**: 
+**Thoughts**: Working on a time crunch is always fun.(-.-) I will spend more 30 minutes on FCC. 
 
-**Link(s) to work**: Commit on Github:
+**Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/prortfolio-rodrigo/commit/f1e2a9e77c172e58720f7ab6d2038c4001460152
 
 
 
