@@ -659,9 +659,9 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 ### Day 69: April 5, 2019
 
-**Today's Progress**:  I've worked on Rodrigo's portfolio and I've created all the files I'll be working on and also made some changes the motion_graphics.html. 
+**Today's Progress**:  I've worked on Rodrigo's portfolio and I've created all the files I'll be working on and also made some changes the motion_graphics.html. I've solved some React Challenges on FCC. 
 
-**Thoughts**: Having a desing plan would me help me so much but for now I don't have this vison yet but in the next projects I hope I can be more organized doing that.
+**Thoughts**: Having a desing plan would me help me so much but for now I don't have this vison yet but in the next projects I hope I can be more organized doing that. The React challenges on FCC are both boring and hard at the same time maybe that sould make it interesting but they do not. Not shitting on them I love freeCodeCamp but this certification so far is not as fun as the last one. 
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/prortfolio-rodrigo/commit/9a58cbf03afc218a504f0f0cd8eccfff4f5f61a8
 
