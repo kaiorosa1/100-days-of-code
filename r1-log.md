@@ -317,5 +317,8 @@ I've finished the Sass section on FCC. Worked on Rodrigo's portfolio.
 I've worked on Rodrigo's portfolio and create and started working on the motion_graphics.html. Worked on some React challenges on FCC.
 
 
+### R1D68
+
+Worked on Rodrigo's portfolio and created a grid for the motion_graphics.html. I'm taking my time to build this portfolio to learn and get comfortable with CSS grid and flexbox and other technologies I'll be using throughout this project. I worked on some React challenges on FCC. 
 
 
