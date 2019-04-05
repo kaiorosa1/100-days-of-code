@@ -322,3 +322,9 @@ I've worked on Rodrigo's portfolio and create and started working on the motion_
 Worked on Rodrigo's portfolio and created a grid for the motion_graphics.html. I'm taking my time to build this portfolio to learn and get comfortable with CSS grid and flexbox and other technologies I'll be using throughout this project. I worked on some React challenges on FCC. 
 
 
+### R1D69 
+
+I've worked on Rodrigo's portfolio and I've created all the files I'll be working on and also made some changes the motion_graphics.html. I've solved some React Challenges on FCC. 
+
+
+
