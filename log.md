@@ -656,3 +656,15 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/prortfolio-rodrigo/commit/47d3b1d862b5c7531b369967b05edaa4be44e4ca
 
 
+
+### Day 69: April 5, 2019
+
+**Today's Progress**:  I've worked on Rodrigo's portfolio and I've created all the files I'll be working on and also made some changes the motion_graphics.html. 
+
+**Thoughts**: Having a desing plan would me help me so much but for now I don't have this vison yet but in the next projects I hope I can be more organized doing that.
+
+**Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/prortfolio-rodrigo/commit/9a58cbf03afc218a504f0f0cd8eccfff4f5f61a8
+
+
+
+
