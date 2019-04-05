@@ -649,7 +649,7 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 ### Day 68: April 4, 2019
 
-**Today's Progress**: Worked on Rodrigo's portfolio and created a grid for the motion_graphics.html. I'm taking my time to build this portfolio to learn and get comfortable with CSS grid and flexbox and other technologies I'll be using throughout this project.
+**Today's Progress**: Worked on Rodrigo's portfolio and created a grid for the motion_graphics.html. I'm taking my time to build this portfolio to learn and get comfortable with CSS grid and flexbox and other technologies I'll be using throughout this project. I worked on some React challenges on FCC. 
 
 **Thoughts**: It's fun to work on a project the process would be speed up if I was able to spend more time in it. I want that for the next projects it takes me fraction of the time I'm taken right now. 
 
