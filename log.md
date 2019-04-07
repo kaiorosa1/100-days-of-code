@@ -666,6 +666,7 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/prortfolio-rodrigo/commit/9a58cbf03afc218a504f0f0cd8eccfff4f5f61a8
 
 
+
 ### Day 70: April 6, 2019
 
 **Today's Progress**:  I've worked on the contato.html on Rodrigo's portfolio. I worked on some React challenges on FCC.
@@ -673,4 +674,19 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 **Thoughts**: Working on this project gives me security to be working on more challenging projects in the future.
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/prortfolio-rodrigo/commit/e2bc9397370f26313bb4f4dc2b49389df0d8da89
+
+
+
+### Day 71: April 7, 2019
+
+**Today's Progress**:  I've started my first React App and I've done some React challenges on FCC. I also add font-awesome and stylized the icons on Rodrigo's portfolio.
+
+**Thoughts**: I'm feeling I'm getting the hang of how React works and how I'll be using it in future projects. Creating components makes it very organized I need to learn more about state but it's very exciting to be learning my first Front-End Library.
+
+**Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/8b05804a544fd883b63d0c56565b8f3bb7e14461
+
+
+
+
+
 
