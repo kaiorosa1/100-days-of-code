@@ -327,4 +327,8 @@ Worked on Rodrigo's portfolio and created a grid for the motion_graphics.html. I
 I've worked on Rodrigo's portfolio and I've created all the files I'll be working on and also made some changes the motion_graphics.html. I've solved some React Challenges on FCC. 
 
 
+### R1D70 
+
+I've worked on the contato.html on Rodrigo's portfolio. I worked on some React challenges on FCC.
+
 
