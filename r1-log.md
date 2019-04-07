@@ -332,3 +332,8 @@ I've worked on Rodrigo's portfolio and I've created all the files I'll be workin
 I've worked on the contato.html on Rodrigo's portfolio. I worked on some React challenges on FCC.
 
 
+### R1D71
+
+I've started my first React App and I've done some React challenges on FCC. I also add font-awesome and stylized the icons on Rodrigo's portfolio.
+
+
