@@ -666,5 +666,11 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/prortfolio-rodrigo/commit/9a58cbf03afc218a504f0f0cd8eccfff4f5f61a8
 
 
+### Day 70: April 6, 2019
 
+**Today's Progress**:  I've worked on the contato.html on Rodrigo's portfolio. I worked on some React challenges on FCC.
+
+**Thoughts**: Working on this project gives me security to be working on more challenging projects in the future.
+
+**Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/prortfolio-rodrigo/commit/e2bc9397370f26313bb4f4dc2b49389df0d8da89
 
