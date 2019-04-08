@@ -336,4 +336,8 @@ I've worked on the contato.html on Rodrigo's portfolio. I worked on some React c
 
 I've started my first React App and I've done some React challenges on FCC. I also add font-awesome and stylized the icons on Rodrigo's portfolio.
 
+### R1D72
+
+I've worked on teh logos and position them right on Rodrigo's portfolio. I've solved a couple of React challenges on FCC. I've learned about state and how it is important to be encapsulated and how to define default values and requirements for the properties you create in your components.
+
 
