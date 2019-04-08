@@ -689,7 +689,7 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 ### Day 72: April 8, 2019
 
-**Today's Progress**:  I've worked on teh logos and position them right on Rodrigo's portfolio.
+**Today's Progress**:  I've worked on teh logos and position them right on Rodrigo's portfolio. I've solved a couple of React challenges on FCC. I've learned about state and how it is important to be encapsulated and how to define default values and requirements for the properties you create in your components.
 
 **Thoughts**: It's very fun to be working on something that you can immediately see the progress. I've putting little effort but I can already see the results. I feel very excited to be doing something for someone else. 
 
