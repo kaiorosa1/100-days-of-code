@@ -687,6 +687,16 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 
 
+### Day 72: April 8, 2019
+
+**Today's Progress**:  I've worked on teh logos and position them right on Rodrigo's portfolio.
+
+**Thoughts**: It's very fun to be working on something that you can immediately see the progress. I've putting little effort but I can already see the results. I feel very excited to be doing something for someone else. 
+
+**Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/cb4ba09a52ac3c91adbf394034b5e6129f75a6ac
+
+
+
 
 
 
