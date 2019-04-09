@@ -341,3 +341,9 @@ I've started my first React App and I've done some React challenges on FCC. I al
 I've worked on teh logos and position them right on Rodrigo's portfolio. I've solved a couple of React challenges on FCC. I've learned about state and how it is important to be encapsulated and how to define default values and requirements for the properties you create in your components.
 
 
+### R1D73
+
+I've worked on Rodrigo's portfolio, right now I've been focusing on the looks of each page. I created the instagram grid that I intend to use the instagram API to fetch from if this is a thing haha I don't know much about API and this is gonna be a very good experience working with that. Also worked on React challenges on FCC.
+
+
+
