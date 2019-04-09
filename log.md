@@ -697,6 +697,14 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 
 
+### Day 73: April 9, 2019
+
+**Today's Progress**: I've worked on Rodrigo's portfolio, right now I've been focusing on the looks of each page. I created the instagram grid that I inted to use the instagram API to fetch from if this is a thing haha I don't know much about API and this is gonna be a very good experience working with that.
+
+**Thoughts**: I'm very excited to be halfway in the portfolio I'm creating from scratch. The design was made by my friend Rodrigo but I'm creating each component and adjusting and everything. 
+
+**Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/0e526734e2e34f301a7c448b35030392813de908
+
 
 
 
