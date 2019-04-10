@@ -346,4 +346,8 @@ I've worked on teh logos and position them right on Rodrigo's portfolio. I've so
 I've worked on Rodrigo's portfolio, right now I've been focusing on the looks of each page. I created the instagram grid that I intend to use the instagram API to fetch from if this is a thing haha I don't know much about API and this is gonna be a very good experience working with that. Also worked on React challenges on FCC.
 
 
+### R1D74
+
+I've worked on some React challenges on FCC. And also  started working on another page for Rodrigo's portfolio. I hope to be finish with this project by the end of next week.
+
 
