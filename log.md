@@ -706,5 +706,13 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/0e526734e2e34f301a7c448b35030392813de908
 
 
+### Day 74: April 10, 2019
+
+**Today's Progress**: I've worked on some React challenges on FCC. And also  started working on another page for Rodrigo's portfolio. I hope to be finish with this project by the end of next week.
+
+**Thoughts**: Very convoluted day but I'm able to keep up the pace. Tomorrow I have a exam in college and I need to focus the rest of the day studying more.
+
+**Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/4028eb7d164bd6cb7de77d617b9b2917cb5f8f35
+
 
 
