@@ -718,9 +718,9 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 ### Day 75: April 11, 2019
 
-**Today's Progress**: I've worked more on Rodrigo's portfolio.
+**Today's Progress**: I've worked more on Rodrigo's portfolio. Worked on some React challenges on FCC. I've leared about how to pass function as props and how can we update properties in the state. 
 
-**Thoughts**: There are some days that we put off the work as much as we can. Today was one of them.
+**Thoughts**: There are some days that we put off the work as much as we can. Today was one of them. I can understand the concept of state but at the same time I feel it's very confusing at times.
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/4eab8389c2ae8297b6a5d1a6f36cebc5251ce939
 
