@@ -728,9 +728,9 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 ### Day 76: April 12, 2019
 
-**Today's Progress**:  I've worked on some React challenges on FCC. I've learned about lifecycles and how to use css inline styles within react. 
+**Today's Progress**:  I've worked on some React challenges on FCC. I've learned about lifecycles and how to use css inline styles within React. Worked on Rodrigo's portfolio. 
 
-**Thoughts**: Today's challenges were pretty chill. I'm realising that I can go through them faster but I like the pace that I'm going.
+**Thoughts**: Today's challenges were pretty chill. I'm realising that I can go through them faster but I like the pace that I'm going. It's funny that with experience you start to get this intuition and know where to look to find what you want. Today was my first experience with that with CSS. 
 
-**Link(s) to work**: Commit on Github: 
+**Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/1271cd1ec00aeec2cad67b95f4a3166340d89aad
 
