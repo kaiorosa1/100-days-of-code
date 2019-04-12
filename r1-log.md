@@ -356,3 +356,12 @@ I've worked on some React challenges on FCC. And also  started working on anothe
 I've worked more on Rodrigo's portfolio. Worked on some React challenges on FCC. I've leared about how to pass function as props and how can we update properties in the state. 
 
 
+### R1D76
+
+I've worked on some React challenges on FCC. I've learned about lifecycles and how to use css inline styles within React. Worked on Rodrigo's portfolio. 
+
+
+
+
+
+
