@@ -351,3 +351,8 @@ I've worked on Rodrigo's portfolio, right now I've been focusing on the looks of
 I've worked on some React challenges on FCC. And also  started working on another page for Rodrigo's portfolio. I hope to be finish with this project by the end of next week.
 
 
+### R1D75
+
+I've worked more on Rodrigo's portfolio. Worked on some React challenges on FCC. I've leared about how to pass function as props and how can we update properties in the state. 
+
+
