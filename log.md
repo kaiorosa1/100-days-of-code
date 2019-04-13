@@ -734,3 +734,14 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/1271cd1ec00aeec2cad67b95f4a3166340d89aad
 
+
+
+### Day 77: April 13, 2019
+
+**Today's Progress**:  I've worked a bit more my React App and I've done some React Challenges.
+
+**Thoughts**: It's been a long day I haven't finsihed neither the React App nor the React challenges. 
+
+**Link(s) to work**: Commit on Github: 
+
+
