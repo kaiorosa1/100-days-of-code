@@ -366,6 +366,10 @@ I've worked on some React challenges on FCC. I've learned about lifecycles and h
 I've worked a bit more my React App and I've done some React Challenges. I've done some React challenges on FCC. 
 
 
+### R1D78
+
+I finally finished the React section on FCC. I've learned about how to use Array.map() and Array.filter() in that context. Being honest doesn't seem different than using in JS. I've worked on realidade.css and thing are starting to get shape.
+
 
 
 
