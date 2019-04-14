@@ -748,9 +748,9 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 ### Day 78: April 14, 2019
 
-**Today's Progress**:  I finally finished the React section on FCC. I've learned about how to use Array.map() and Array.filter() in that context. Being honest doesn't seem different than using in JS.
+**Today's Progress**:  I finally finished the React section on FCC. I've learned about how to use Array.map() and Array.filter() in that context. Being honest doesn't seem different than using in JS. I've worked on realidade.css and thing are starting to get shape.
 
 **Thoughts**: What I like about Free Code Camp is that it's a great tool if you are trying to know what to learn next. Even though I feel that they don't explain some fundamental like, recursion and inheritance and some other things that are very much a must when learning a framework like React, it can be a great way to gain a basic knowledge and go find more in-depth content elsewhere.
-I feel I need to learn more about JS and React but I feel comfortable enough to read the documentantion and start playing around with it. We have a lot of great free content out there and I will be using those to better my skills.
+I feel I need to learn more about JS and React but I feel comfortable enough to read the documentantion and start playing around with it. We have a lot of great free content out there and I will be using those to better my skills. I feel a bit frustated thinking that it's been taking me so long to do this project. I feel like I should be doing it in less time.
 
-**Link(s) to work**: Commit on Github: 
+**Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/884a52f7bc3d3ae018dabb63c35766e458a5734e
