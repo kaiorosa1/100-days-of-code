@@ -361,6 +361,10 @@ I've worked more on Rodrigo's portfolio. Worked on some React challenges on FCC.
 I've worked on some React challenges on FCC. I've learned about lifecycles and how to use css inline styles within React. Worked on Rodrigo's portfolio. 
 
 
+### R1D77 
+
+I've worked a bit more my React App and I've done some React Challenges. I've done some React challenges on FCC. 
+
 
 
 
