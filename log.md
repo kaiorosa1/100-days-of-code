@@ -754,3 +754,14 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 I feel I need to learn more about JS and React but I feel comfortable enough to read the documentantion and start playing around with it. We have a lot of great free content out there and I will be using those to better my skills. I feel a bit frustated thinking that it's been taking me so long to do this project. I feel like I should be doing it in less time.
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/884a52f7bc3d3ae018dabb63c35766e458a5734e
+
+
+
+
+### Day 79: April 15, 2019
+
+**Today's Progress**:  I've solved some Redux challenges on FCC. I've worked on Rodrigo's portfolio. 
+
+**Thoughts**:  I understand how to solve the challenges but I think they are all over the place. For example what Redux adds to our learning. What can we do with React? Is React a model of how things should be put on our front-end development. Being honest I find all of these very hard to grasp. I understand that when we are dealing with big projects we cannot rely on only CSS and HTML we need something more effective and more robust but what frameworks do for us. I can't understand that yet at the time of writing this. 
+
+**Link(s) to work**: Commit on Github: 
