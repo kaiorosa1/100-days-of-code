@@ -760,8 +760,14 @@ I feel I need to learn more about JS and React but I feel comfortable enough to 
 
 ### Day 79: April 15, 2019
 
-**Today's Progress**:  I've solved some Redux challenges on FCC. I've worked on Rodrigo's portfolio. 
+**Today's Progress**:  I've solved some Redux challenges on FCC. I've worked on Rodrigo's portfolio. I've changed the UI a bit and I basically changed most of the files. I believe it's gonna be easier now to finish what I need.
 
 **Thoughts**:  I understand how to solve the challenges but I think they are all over the place. For example what Redux adds to our learning. What can we do with React? Is React a model of how things should be put on our front-end development. Being honest I find all of these very hard to grasp. I understand that when we are dealing with big projects we cannot rely on only CSS and HTML we need something more effective and more robust but what frameworks do for us. I can't understand that yet at the time of writing this. 
 
-**Link(s) to work**: Commit on Github: 
+**Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/8d66626fad390eb331445f7de2baca319b6b1b86
+
+
+
+
+
+
