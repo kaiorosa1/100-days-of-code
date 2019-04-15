@@ -371,5 +371,13 @@ I've worked a bit more my React App and I've done some React Challenges. I've do
 I finally finished the React section on FCC. I've learned about how to use Array.map() and Array.filter() in that context. Being honest doesn't seem different than using in JS. I've worked on realidade.css and thing are starting to get shape.
 
 
+### R1D79 
+
+I've solved some Redux challenges on FCC. I've worked on Rodrigo's portfolio. I've changed the UI a bit and I basically changed most of the files. I believe it's gonna be easier now to finish what I need.
+
+
+
+
+
 
 
