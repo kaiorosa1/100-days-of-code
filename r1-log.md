@@ -376,6 +376,9 @@ I finally finished the React section on FCC. I've learned about how to use Array
 I've solved some Redux challenges on FCC. I've worked on Rodrigo's portfolio. I've changed the UI a bit and I basically changed most of the files. I believe it's gonna be easier now to finish what I need.
 
 
+### R1D80 
+
+I've learned more about Redux solving the FCC challenges. I've worked on the instagram logo in the page. I've learned of how to overlay divs. The portfolio is almost looking the way that I want to (aka the actual final look).
 
 
 
