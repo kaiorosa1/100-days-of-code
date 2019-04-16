@@ -768,6 +768,13 @@ I feel I need to learn more about JS and React but I feel comfortable enough to 
 
 
 
+### Day 80: April 16, 2019
+
+**Today's Progress**:  I've learned more about Redux solving the FCC challenges. 
+
+**Thoughts**: I feel that I still don't understand when we need to use Redux but I know when I finish all the challenges in the Front-end libraries certification I want to be focusing on React/Redux and JS. I have bought a few JS courses that I'll be diving in once I'm finsihed with the challenges. I probably learn more before going into the projects. Like I said before I'm really glad stuff like FCC exists and it's free and all but they lack in some fundamental aspects and I know I need to complement them with other courses and reading documentation. What is awesome about freeCodeCamp is the mentality that puts you in. I'll finish all of the certifications and I intend to make videos about my experience with each certification. Who  know what the future holds.
+
+**Link(s) to work**: Commit on Github: 
 
 
 
