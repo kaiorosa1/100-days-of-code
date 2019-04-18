@@ -786,3 +786,15 @@ I feel I need to learn more about JS and React but I feel comfortable enough to 
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/6c76e36f0dc4a0841c4a9c6a668c0ccafc7d2ca9
 
+
+
+### Day 82: April 18, 2019
+
+**Today's Progress**:  I've finsihed (sort of) the motion graphics page from my friend's portfolio. 
+
+**Thoughts**: I procrastinated so much today but at least I've been consitent with the hours I put in. Of course there are plenty of room for improvement and I'll do better next time (They always say that but I mean it)
+
+**Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/55f593d50f1a060992f379e60df9535a9757cbd9
+
+
+
