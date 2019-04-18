@@ -778,3 +778,11 @@ I feel I need to learn more about JS and React but I feel comfortable enough to 
 
 
 
+### Day 81: April 17, 2019
+
+**Today's Progress**:  I've worked on Rodrigo's portofolio and solved some Redux challenges on FCC.
+
+**Thoughts**: It was a very hectic day and I had so much on my plate. I'm glad I could work at least a bit on the challenge
+
+**Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/6c76e36f0dc4a0841c4a9c6a668c0ccafc7d2ca9
+
