@@ -790,9 +790,9 @@ I feel I need to learn more about JS and React but I feel comfortable enough to 
 
 ### Day 82: April 18, 2019
 
-**Today's Progress**:  I've finsihed (sort of) the motion graphics page from my friend's portfolio. 
+**Today's Progress**:  I've finsihed (sort of) the motion graphics page from my friend's portfolio. I've finished the Redux challenges on FCC. 
 
-**Thoughts**: I procrastinated so much today but at least I've been consitent with the hours I put in. Of course there are plenty of room for improvement and I'll do better next time (They always say that but I mean it)
+**Thoughts**: I procrastinated so much today but at least I've been consitent with the hours I put in. Of course there are plenty of room for improvement and I'll do better next time (They always say that but I mean it). Not feeling as confident about Redux. Also I want to buy Colt Steele new course on React so bad. I know his methodology and I know most of the problems I'm having now about understand will go away.
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/55f593d50f1a060992f379e60df9535a9757cbd9
 
