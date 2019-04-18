@@ -385,6 +385,13 @@ I've learned more about Redux solving the FCC challenges. I've worked on the ins
 ### R1D81 
 
  I've worked on Rodrigo's portofolio and solved some Redux challenges on FCC.
+ 
+ 
+### R1D82 
+
+I've finsihed (sort of) the motion graphics page from my friend's portfolio. I've finished the Redux challenges on FCC. 
+
+
 
 
 
