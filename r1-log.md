@@ -382,5 +382,10 @@ I've learned more about Redux solving the FCC challenges. I've worked on the ins
 
 
 
+### R1D81 
+
+ I've worked on Rodrigo's portofolio and solved some Redux challenges on FCC.
+
+
 
 
