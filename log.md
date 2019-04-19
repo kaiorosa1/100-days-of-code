@@ -9,6 +9,7 @@
 
 **Link(s) to work**: None.
 
+---
 
 ### Day 2: January 28, 2019
 
@@ -18,7 +19,7 @@
 
 **Link(s) to work**: https://github.com/kaiorosa1/campo-minado/commit/1e5eaddd1e240f04671f2a78c8cefb2c23276a1c
 
-
+---
 ### Day 3: January 29, 2019
 
 **Today's Progress**: Continued reading the file tabuleiro.txt from Campo Minado (minesweeper). I did a couple of challenges from the Applied Visual Design on FCC (FreeCodeCamp).
@@ -28,7 +29,7 @@
 **Link(s) to work**: 
 First, commit I made today: https://github.com/kaiorosa1/campo-minado/commit/dd680d025ab3b5b5bec7fe3bc21dec39ec5a31ff
 
-
+---
 ### Day 4: January 30, 2019
 
 **Today's Progress**: I used one hour to go through Free Code Camp. I stopped at Use a CSS Linear Gradient to Create a Striped Element (Applied Visual Design). I worked on Campo Minado for 30 minutes mainly focusing on designing the data structure I'm going to be using.
@@ -36,6 +37,8 @@ First, commit I made today: https://github.com/kaiorosa1/campo-minado/commit/dd6
 **Thoughts**: The challenges are more fun and I'm confident that my CSS skills are getting better. Right now I'm not counting watching Udemy tutorial as work towards the challenge but I eventually will since I don't just watch the tutorial, I code along and take notes and try to do myself as much as I can and most tutorial that I watch have followed up exercises which I do as well.
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/campo-minado/commit/af06fc5120c8f7dbaf412a8d2de553b06f11339f
+
+---
 
 ### Day 5: January 31, 2019
 
@@ -45,6 +48,8 @@ First, commit I made today: https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/campo-minado/commit/9700bbaabb3cbc275f2954183b931ec817cd646e
 
+---
+
 ### Day 6: February 1, 2019
 
 **Today's Progress**: I've been working on the design aspect of the Campo Minado, meaning in what type of functions and the parameters and testing the functions I created so far. I've spent an hour creating functions like print and allocation memory and making sure it's working the way I intentionally designed them. Also finished the section about applied visual and design and worked on some sections on the next section. I stopped at Applied Accessibility: Improve Chart Accessibility with the figure Element (Applied Accessibility).
@@ -53,6 +58,7 @@ First, commit I made today: https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/campo-minado/commit/0f77775ccb6f5c55e683e44b9f5626f7b1a869db
 
+---
 
 ### Day 7: February 2, 2019
 
@@ -62,6 +68,7 @@ First, commit I made today: https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/campo-minado/commit/599254cf3f3e10f0c58cbd26cd0a304b8c3ec2db
 
+---
 
 ### Day 8: February 3, 2019
 
@@ -71,6 +78,7 @@ First, commit I made today: https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/campo-minado/commit/29835d5e1bd5e0196ac28af800c0e1317dd564d2
 
+---
 
 ### Day 9: February 4, 2019
 
@@ -78,8 +86,10 @@ First, commit I made today: https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 **Thoughts**: Through lots of researching and testing I found the bug and it was with allocating memory. It's always related to that when we are dealing with C. Feeling good about the progress I made and I worked for 2 hours + straight until I saw my progress flowing. Flexbox is very interesting and useful, I'm only at the beginning but I already like it.
 
-
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/campo-minado/commit/6c5ac10e857ca3a94bb54573e7b607312f84a014
+
+---
+
 
 ### Day 10: February 5, 2019
 
@@ -88,6 +98,8 @@ First, commit I made today: https://github.com/kaiorosa1/campo-minado/commit/dd6
 **Thoughts**: I feel that I'll learn more when I get to the projects. The challenges are fun but it's more like testing and reading the documentation. I don't force myself to remember all those properties, I do take notes but I don't think I'll be able to remember everything I learned so far if I don't use it constanstly. 
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/campo-minado/commit/060fd811a89ba90878a34a1cce0087406642a148
+
+---
 
 
 ### Day 11: February 6, 2019
@@ -98,6 +110,8 @@ First, commit I made today: https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/campo-minado/commit/d646e8f4b53424aeed47b4a2ba29405016a35b91
 
+---
+
 
 ### Day 12: February 7, 2019
 
@@ -106,6 +120,8 @@ First, commit I made today: https://github.com/kaiorosa1/campo-minado/commit/dd6
 **Thoughts**: It's normal to get stuck I know but it sucks every time it happens. I'm struggling to understand what is wrong with my code. I know where the bug is but I don't know how to fix it yet. Later today I'll go back to it. I'm realizing that giving you this time constraint instead of a task one. It's been very refreshing and less frustrating than working for 4 hours straight with no idea of what is going on. Now I'll go to FCC start my first project. Not worked as much as I intended.
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/campo-minado/commit/12dc2fa8f6364b0ff527f6c817a06fbdb7d9e615
+
+---
 
 
 ### Day 13: February 8, 2019
@@ -116,6 +132,8 @@ First, commit I made today: https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/campo-minado/commit/cef054fcea8efa0350b27b13c6c33e3061187b2d
 
+---
+
 
 ### Day 14: February 9, 2019
 
@@ -124,6 +142,8 @@ First, commit I made today: https://github.com/kaiorosa1/campo-minado/commit/dd6
 **Thoughts**: It's exciting to work with HTML and CSS because you can see the immediate result and there's something fun in that.
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/campo-minado/commit/7817117ac895d82de380e5b3f2fd6519cef4032a
+
+---
 
 
 ### Day 15: February 10, 2019
@@ -134,6 +154,8 @@ First, commit I made today: https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/campo-minado/commit/ac744db853cd844a6a4d0bc56b97a600a967383c
 
+---
+
 
 ### Day 16: February 11, 2019
 
@@ -142,6 +164,8 @@ First, commit I made today: https://github.com/kaiorosa1/campo-minado/commit/dd6
 **Thoughts**: I'll start talking about the Udemy courses that I'm taking here as well. I won't be counting them as 100DaysOfCode time (for now)  but they also are work that I'm doing so I want to be writing about him as well. FCC is a lot of fun and it's exciting to be working on projects even though they are simple but you are really putting into use what you learned.
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/campo-minado/commit/d786ebe492d9c1ba60dcaa6095ca6b48d5afcc0a
+
+---
 
 
 ### Day 17: February 12, 2019
@@ -152,6 +176,8 @@ First, commit I made today: https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/campo-minado/commit/893afa9da3aa2c46cde70ab8c80ca258477dc108
 
+---
+
 
 ### Day 18: February 13, 2019
 
@@ -161,6 +187,9 @@ First, commit I made today: https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/campo-minado/commit/534130189f170912bb587c38287e867806aece5c
 
+---
+
+
 ### Day 19: February 14, 2019
 
 **Today's Progress**: I worked on Campo Minado and solved the problem with the files and I made a big change on analiseJogo function. I've finished my second project on FCC, the survey form page. 
@@ -168,6 +197,8 @@ First, commit I made today: https://github.com/kaiorosa1/campo-minado/commit/dd6
 **Thoughts**: Not feeling good today about my code  and about my progress in general but I know that I must keep going and that's the only way that I can better the way I write code and the way I solve problems I feel that my Campo Minado code needs a lot of refactoring but first I'll focus on functionality and then I see what I can do about changes. I wasn't motivated to code today but I coded for 2 hours straight.
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/campo-minado/commit/8f7757d1ae703c6d1857bfcc0d77142b829db7aa
+
+---
 
 
 ### Day 20: February 15, 2019
@@ -179,6 +210,9 @@ First, commit I made today: https://github.com/kaiorosa1/campo-minado/commit/dd6
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/campo-minado/commit/1353901bc2e65d6154c0019c55358873b4095199
 
 
+---
+
+
 ### Day 21: February 16, 2019
 
 **Today's Progress**:  I've worked on the nav bar in the Product Landing Page and I worked on Campo Minado freeing memory.
@@ -186,6 +220,8 @@ First, commit I made today: https://github.com/kaiorosa1/campo-minado/commit/dd6
 **Thoughts**: Not the most productive day but I did some things that were necessary. 
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/campo-minado/commit/7170362eba63723a297c3263f639edbc52d8c599
+
+---
 
 
 ### Day 22: February 17, 2019
@@ -196,6 +232,8 @@ First, commit I made today: https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/campo-minado/commit/b9deeec581ac971883da29bf6efe17a261fbf255
 
+---
+
 
 ### Day 23: February 18, 2019
 
@@ -205,6 +243,7 @@ First, commit I made today: https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/product-landing-page-fcc/commit/ac248076980f2d1d7e4067259ddf55576e268bf8
 
+---
 
 
 ### Day 24: February 19, 2019
@@ -214,6 +253,8 @@ First, commit I made today: https://github.com/kaiorosa1/campo-minado/commit/dd6
 **Thoughts**: It seems like only focusing on FCC made me lazy but today I had a lot on my plate as well.
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/technical-documentation-page-fcc/commit/f26c89de0be1b13fd5cc53c48a6273c6d2bd42cb
+
+---
 
 
 
@@ -226,6 +267,8 @@ First, commit I made today: https://github.com/kaiorosa1/campo-minado/commit/dd6
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/technical-documentation-page-fcc/commit/5efb30a92940809be51968035ed14316278e8fef
 
 
+---
+
 
 ### Day 26: February 21, 2019
 
@@ -235,6 +278,7 @@ First, commit I made today: https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/technical-documentation-page-fcc/commit/798452217b5f622d9d17520f8ddfe86b4167ee97
 
+---
 
 ### Day 27: February 22, 2019
 
@@ -243,6 +287,8 @@ First, commit I made today: https://github.com/kaiorosa1/campo-minado/commit/dd6
 **Thoughts**: This week, in general, has been so full and I didn't have as much time as I wanted. I'll try putting more hours next week.
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/personal-portfolio-webpage-fcc/commit/2419982978bc6487ec3ccf052f1a204330c2cf9d
+
+---
 
 
 ### Day 28: February 23, 2019
@@ -254,6 +300,8 @@ First, commit I made today: https://github.com/kaiorosa1/campo-minado/commit/dd6
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/personal-portfolio-webpage-fcc/commit/61b96806765e2796f7c8f7277784535a00869165
 
 
+---
+
 
 ### Day 29: February 24, 2019
 
@@ -263,6 +311,8 @@ First, commit I made today: https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/personal-portfolio-webpage-fcc/commit/3322146b9fc971db1a414532f9d5a9f63fc12743
 
+
+---
 
 
 ### Day 30: February 25, 2019
@@ -274,6 +324,8 @@ First, commit I made today: https://github.com/kaiorosa1/campo-minado/commit/dd6
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/campo-minado-js/commit/9aa17758cf0bdb6483b944bdf653e8db94b9f822
 
 
+---
+
 
 ### Day 31: February 26, 2019
 
@@ -282,6 +334,9 @@ First, commit I made today: https://github.com/kaiorosa1/campo-minado/commit/dd6
 **Thoughts**: It's very rewarding and frustrating at the same time-solving problems but it's more rewarding haha
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/8765fd640b7fd87bbe2678e2795c091c5a471ea7
+
+
+---
 
 
 
@@ -296,6 +351,7 @@ First, commit I made today: https://github.com/kaiorosa1/campo-minado/commit/dd6
 **Additional Link(s)** Tutorial I'm following to learn MTML5 Canvas: https://www.youtube.com/playlist?list=PLpPnRKq7eNW3We9VdCfx9fprhqXHwTPXL
 
 
+---
 
 
 ### Day 33: February 28, 2019
@@ -309,6 +365,8 @@ First, commit I made today: https://github.com/kaiorosa1/campo-minado/commit/dd6
 **Additional Link(s)** Tutorial I'm following to learn MTML5 Canvas: https://www.youtube.com/playlist?list=PLpPnRKq7eNW3We9VdCfx9fprhqXHwTPXL
 
 
+---
+
 
 ### Day 34: March 1, 2019
 
@@ -320,6 +378,9 @@ First, commit I made today: https://github.com/kaiorosa1/campo-minado/commit/dd6
 https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a86fcdd2e
 
 **Additional Link(s)** Tutorial I'm following to learn MTML5 Canvas: https://www.youtube.com/playlist?list=PLpPnRKq7eNW3We9VdCfx9fprhqXHwTPXL
+
+
+---
 
 
 
@@ -335,6 +396,11 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 **Additional Link(s)** Tutorial I'm following to learn MTML5 Canvas: https://www.youtube.com/playlist?list=PLpPnRKq7eNW3We9VdCfx9fprhqXHwTPXL
 
 
+
+---
+
+
+
 ### Day 36: March 3, 2019
 
 **Today's Progress**: I've finally finished the challenge about higher-order functions and it was a very simple solution. And I spent more time doing more challenges which have been more challenging than usual and I like it. I have added interactivity in the project (following the tutorial). I've done a late session and I finished the ES6 section. 
@@ -344,6 +410,8 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/c877554103fd0051a48a94d65ef2f4b2ec61cbe1
 
 **Additional Link(s)** Tutorial I'm following to learn MTML5 Canvas: https://www.youtube.com/playlist?list=PLpPnRKq7eNW3We9VdCfx9fprhqXHwTPXL
+
+---
 
 
 ### Day 37: March 4, 2019
@@ -356,6 +424,8 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 **Additional Link(s)** Tutorial I'm following to learn MTML5 Canvas: https://www.youtube.com/playlist?list=PLpPnRKq7eNW3We9VdCfx9fprhqXHwTPXL
 
+---
+
 
 
 ### Day 38: March 5, 2019
@@ -366,6 +436,7 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/8e8e57c1d69062290f173b622ef9165a0e7eb7d1
 
+---
 
 
 ### Day 39: March 6, 2019
@@ -377,6 +448,8 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/4aa424e146782d2cdd7dca67b5c924c43e179355
 
+---
+
 
 ### Day 40: March 7, 2019
 
@@ -385,6 +458,8 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 **Thoughts**: I started with the Canvas Project because it started raining and I don't want to lose my GitHub streak because of the lack of internet. Luckily, it stopped raining and my 100-day challenge won't be affected. Right now I'm in the last one and it's been very hard. I want to move on so I'll spend as much time as I need to finish this section today. yay, I finished today!!
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/bc23fa25dec534b6e2ea05f383c75a14d46768c7
+
+---
 
 
 ### Day 41: March 8, 2019
@@ -395,6 +470,8 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/eb76874405e7a4161dff41326d29fb65d097068f
 
+---
+
 
 ### Day 42: March 9, 2019
 
@@ -403,6 +480,8 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 **Thoughts**: OOP section on FCC was quite alright since I already know other programming languages the concept of inheritance was pretty chill and I guess it was more syntax that I had to pay more attention.
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/84d83f1a00e14a19565d34ae91f04baa8eeffb61
+
+---
 
 
 ### Day 43: March 10, 2019
@@ -414,6 +493,8 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/kaiorosa1.github.io/commit/33313b2cb6b27a8220a150e13b77acae6aac7bc5
 
 
+---
+
 
 ### Day 44: March 11, 2019
 
@@ -424,6 +505,8 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/4b42899a451129be668c60e750c48b3963070495
 
 
+---
+
 
 ### Day 45: March 12, 2019
 
@@ -433,6 +516,9 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/6944d6ba53ed52c9b12544b5d57d5a745f1f90e5
+
+---
+
 
 
 
@@ -445,6 +531,8 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/0576fd31f353ad27a0362a302a0ddbae17cd75f7
 
+---
+
 
 ### Day 47: March 14, 2019
 
@@ -456,6 +544,8 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/d184a01cc3052d6f225dd261447a8d88ce3b5d84
 
 
+---
+
 ### Day 48: March 15, 2019
 
 **Today's Progress**:  I've solved two challenges on FCC. I'll probably work in this section for a week or so. 
@@ -464,6 +554,8 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/2e08ec3b25e00b55643b668e3a948601ef6187fe
 
+
+---
 
 
 ### Day 49: March 16, 2019
@@ -474,6 +566,7 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/21409192197139f5cc9aa3b15457b482aa587a2f
 
+---
 
 
 ### Day 50: March 17, 2019
@@ -484,6 +577,8 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/6ebf22838500c1a8613294904a2d5997c09e7a2e
 
+---
+
 
 ### Day 51: March 18, 2019
 
@@ -493,6 +588,8 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/7faf623f1ca0bd2c850c88e2ebd45eee7ebf0c28
+
+---
 
 
 ### Day 52: March 19, 2019
@@ -505,6 +602,9 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/5f73d912e99fc40d36d19f602552dd7d8745e65f
 
 
+---
+
+
 
 ### Day 53: March 20, 2019
 
@@ -513,6 +613,8 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 **Thoughts**: I'm gaining back my confidence in solving problems. Don't get me wrong I love challenges and the feeling you get once you finally figure out what's being keeping you from finishing but I also like the feeling of progress and I've been feeling stuck and these past days made me realize that I need to focus on JS to really master all the concepts.
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/9d096b0a17ddbb527a9dd68bcb7224740e4b7273
+
+---
 
 
 ### Day 54: March 21, 2019
@@ -523,7 +625,7 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/5794bd8c33b07bf067bdd519e4d6728b6543f188
 
-
+---
 
 ### Day 55: March 22, 2019
 
@@ -533,7 +635,7 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/9dca161efd571a4122e9ca3a427f742c530c0c23
 
-
+---
 
 ### Day 56: March 23, 2019
 
@@ -543,7 +645,7 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/730c7012bad105d0135545ec87eb2a719e620f8f
 
-
+---
 
 ### Day 57: March 24, 2019
 
@@ -553,7 +655,7 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/611c4c24e7b22999ae30f2fc20b74e5874631d9a
 
-
+---
 
 ### Day 58: March 25, 2019
 
@@ -563,7 +665,7 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/e29a6aabf5d3bf5d430bd34b3f7b8f7dfa4990d0
 
-
+---
 
 ### Day 59: March 26, 2019
 
@@ -573,6 +675,7 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/kaiorosa1.github.io/commit/e4db9048012d51427d9cf7ba6ece765a9a0c9299
 
+---
 
 ### Day 60: March 27, 2019
 
@@ -582,6 +685,7 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/9b2cd69b8bbfd26698fe081c3cf55011324b801c
 
+---
 
 ### Day 61: March 28, 2019
 
@@ -590,6 +694,8 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 **Thoughts**: I'm most looking forward to start learning React but for the moment is nice to revisit some BootStrap functionalities. I've solved the challenge just because I wanted to have something to make a commit. I'll use the weekend to switch gears and thing about how I'm going to be commiting. I want to start use a session to learn more JS I don't feel I'm done yet to move on to something else. I'll probably solve another challenge like that tomorrow as well.
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/c4964eb06db6017ea2c3ee1b6fd04cca1d3bc100
+
+---
 
 
 ### Day 62: March 29, 2019
@@ -600,6 +706,7 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/38894fc3f54defcfc19e84ffd4ec088c933459b7
 
+---
 
 ### Day 63: March 30, 2019
 
@@ -609,6 +716,7 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/94c8d64a883677dbc88d626b99a92370b5ce0d34
 
+---
 
 ### Day 64: March 31, 2019
 
@@ -618,6 +726,7 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/kaiorosa1.github.io/commit/8153b8ffee1f034ec8a2458a33546aeb71b8e7a6
 
+---
 
 ### Day 65: April 1, 2019
 
@@ -627,7 +736,7 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/prortfolio-rodrigo/commit/9a076c0a2ddbc5b51c2c440e9bc64d9a7c6eaf67
 
-
+---
 
 ### Day 66: April 2, 2019
 
@@ -637,6 +746,7 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/prortfolio-rodrigo/commit/41394df74ad0fa19e5e454aac0252d52eaa25f33
 
+---
 
 ### Day 67: April 3, 2019
 
@@ -646,6 +756,7 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/prortfolio-rodrigo/commit/f1e2a9e77c172e58720f7ab6d2038c4001460152
 
+---
 
 ### Day 68: April 4, 2019
 
@@ -655,7 +766,7 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/prortfolio-rodrigo/commit/47d3b1d862b5c7531b369967b05edaa4be44e4ca
 
-
+---
 
 ### Day 69: April 5, 2019
 
@@ -665,7 +776,7 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/prortfolio-rodrigo/commit/9a58cbf03afc218a504f0f0cd8eccfff4f5f61a8
 
-
+---
 
 ### Day 70: April 6, 2019
 
@@ -675,7 +786,7 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/prortfolio-rodrigo/commit/e2bc9397370f26313bb4f4dc2b49389df0d8da89
 
-
+---
 
 ### Day 71: April 7, 2019
 
@@ -685,7 +796,7 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/8b05804a544fd883b63d0c56565b8f3bb7e14461
 
-
+---
 
 ### Day 72: April 8, 2019
 
@@ -695,7 +806,7 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/cb4ba09a52ac3c91adbf394034b5e6129f75a6ac
 
-
+---
 
 ### Day 73: April 9, 2019
 
@@ -705,6 +816,7 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/0e526734e2e34f301a7c448b35030392813de908
 
+---
 
 ### Day 74: April 10, 2019
 
@@ -714,7 +826,7 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/4028eb7d164bd6cb7de77d617b9b2917cb5f8f35
 
-
+---
 
 ### Day 75: April 11, 2019
 
@@ -724,7 +836,7 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/4eab8389c2ae8297b6a5d1a6f36cebc5251ce939
 
-
+---
 
 ### Day 76: April 12, 2019
 
@@ -734,7 +846,7 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/1271cd1ec00aeec2cad67b95f4a3166340d89aad
 
-
+---
 
 ### Day 77: April 13, 2019
 
@@ -744,7 +856,7 @@ https://github.com/kaiorosa1/js-journey/commit/729d46acb77cf1ae7c987c628e33496a8
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/c7a2c3ad17031030629f637bc1b0715cc2a5cb4f
 
-
+---
 
 ### Day 78: April 14, 2019
 
@@ -756,7 +868,7 @@ I feel I need to learn more about JS and React but I feel comfortable enough to 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/884a52f7bc3d3ae018dabb63c35766e458a5734e
 
 
-
+---
 
 ### Day 79: April 15, 2019
 
@@ -766,7 +878,7 @@ I feel I need to learn more about JS and React but I feel comfortable enough to 
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/8d66626fad390eb331445f7de2baca319b6b1b86
 
-
+---
 
 ### Day 80: April 16, 2019
 
@@ -776,7 +888,7 @@ I feel I need to learn more about JS and React but I feel comfortable enough to 
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/0b3f99ef56d531d1bf2f765d61930226b654b6cb
 
-
+---
 
 ### Day 81: April 17, 2019
 
@@ -786,7 +898,7 @@ I feel I need to learn more about JS and React but I feel comfortable enough to 
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/6c76e36f0dc4a0841c4a9c6a668c0ccafc7d2ca9
 
-
+---
 
 ### Day 82: April 18, 2019
 
@@ -796,7 +908,7 @@ I feel I need to learn more about JS and React but I feel comfortable enough to 
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/55f593d50f1a060992f379e60df9535a9757cbd9
 
-
+---
 
 ### Day 83: April 19, 2019
 
