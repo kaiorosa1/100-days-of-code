@@ -798,3 +798,12 @@ I feel I need to learn more about JS and React but I feel comfortable enough to 
 
 
 
+### Day 83: April 19, 2019
+
+**Today's Progress**:  I've focused on reviewing React and Redux. I used thenewboston tutorial to speed up the process. I think the only thing I hadn't heard before was about refs but the rest was pretty much a revision of everything I have seen on freeCodeCamp. 
+
+**Thoughts**: Reviewing has been a good way to check that I've been learning everything. There is so much to learn and I've been exposed to so many thing that is easy to think that you didn't retain as much but I'm glad that I'm retaining and understanding more than I expected.
+
+**Link(s) to work**: Commit on Github: 
+
+
