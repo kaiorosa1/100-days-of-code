@@ -912,10 +912,10 @@ I feel I need to learn more about JS and React but I feel comfortable enough to 
 
 ### Day 83: April 19, 2019
 
-**Today's Progress**:  I've focused on reviewing React and Redux. I used thenewboston tutorial to speed up the process. I think the only thing I hadn't heard before was about refs but the rest was pretty much a revision of everything I have seen on freeCodeCamp. 
+**Today's Progress**:  I've focused on reviewing React and Redux. I used thenewboston tutorial to speed up the process. I think the only thing I hadn't heard before was about refs but the rest was pretty much a revision of everything I have seen on freeCodeCamp. I've changed a bit Rodrigo's portfolio, I think I'll be able to be done with it this weekend. I have a lot of features to work on. I need to learn how to connect with an API and stuff.
 
-**Thoughts**: Reviewing has been a good way to check that I've been learning everything. There is so much to learn and I've been exposed to so many thing that is easy to think that you didn't retain as much but I'm glad that I'm retaining and understanding more than I expected.
+**Thoughts**: Reviewing has been a good way to check that I've been learning everything. There is so much to learn and I've been exposed to so many thing that is easy to think that you didn't retain as much but I'm glad that I'm retaining and understanding more than I expected. The progress part and the thoughts part sometimes interchange lol. I've been learning so much doing Rodrigo's portfolio. 
 
-**Link(s) to work**: Commit on Github: 
+**Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/9fa5e96320f44050e78a1798e6a8d65b0c06f8f4
 
-
+---
