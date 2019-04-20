@@ -326,7 +326,6 @@ First, commit I made today: https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 ---
 
-
 ### Day 31: February 26, 2019
 
 **Today's Progress**: I started with a short session working on a CodeWars problem. I want to take my JS skills to the next level and I think websites like that can help me. Also worked on some FCC challenges. Functions, passing arguments, operators and the last ones were about the if-else statement. Continued learning about HTML Canvas.
@@ -335,10 +334,7 @@ First, commit I made today: https://github.com/kaiorosa1/campo-minado/commit/dd6
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/js-journey/commit/8765fd640b7fd87bbe2678e2795c091c5a471ea7
 
-
 ---
-
-
 
 ### Day 32: February 27, 2019
 
@@ -920,9 +916,9 @@ I feel I need to learn more about JS and React but I feel comfortable enough to 
 
 ### Day 84: April 20, 2019
 
-**Today's Progress**:  I started working on the details of the Portfolio page. The next step is figure out how to add the functionalites. I have to work on the transitions of the page.
+**Today's Progress**:  I started working on the details of the Portfolio page. The next step is figure out how to add the functionalites. I have to work on the transitions of the page. I've worked on some React and Redux challenges on FCC.
 
-**Thoughts**: I've been getting more and more comfortable with HTML and CSS and it's funny that this used to be very hard to think or to know where to look. I've talked about that before.
+**Thoughts**: I've been getting more and more comfortable with HTML and CSS and it's funny that this used to be very hard to think or to know where to look. I've talked about that before. These challenges are very hard I don't remember the stuff I need to use or they are written in away that is very confusing.
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/08dd5a41d28bdd91a39bc3e9a4bed9b610b73ff5
 
