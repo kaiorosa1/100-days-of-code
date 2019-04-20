@@ -904,7 +904,7 @@ I feel I need to learn more about JS and React but I feel comfortable enough to 
 
 **Today's Progress**:  I've finsihed (sort of) the motion graphics page from my friend's portfolio. I've finished the Redux challenges on FCC. 
 
-**Thoughts**: I procrastinated so much today but at least I've been consitent with the hours I put in. Of course there are plenty of room for improvement and I'll do better next time (They always say that but I mean it). Not feeling as confident about Redux. Also I want to buy Colt Steele new course on React so bad. I know his methodology and I know most of the problems I'm having now about understand will go away.
+**Thoughts**: I procrastinated so much today but at least I've been consistent with the hours I put in. Of course there are plenty of room for improvement and I'll do better next time (They always say that but I mean it). Not feeling as confident about Redux. Also I want to buy Colt Steele new course on React so bad. I know his methodology and I know most of the problems I'm having now about understand will go away.
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/55f593d50f1a060992f379e60df9535a9757cbd9
 
@@ -912,7 +912,7 @@ I feel I need to learn more about JS and React but I feel comfortable enough to 
 
 ### Day 83: April 19, 2019
 
-**Today's Progress**:  I've focused on reviewing React and Redux. I used thenewboston tutorial to speed up the process. I think the only thing I hadn't heard before was about refs but the rest was pretty much a revision of everything I have seen on freeCodeCamp. I've changed a bit Rodrigo's portfolio, I think I'll be able to be done with it this weekend. I have a lot of features to work on. I need to learn how to connect with an API and stuff.
+**Today's Progress**:  I've focused on reviewing React and Redux. I used thenewboston tutorial to speed up the process. I think the only thing I hadn't heard before was about refs but the rest was pretty much a revision of everything I have seen on freeCodeCamp. I've changed a bit Rodrigo's portfolio, I think I'll be able to be done with it this weekend. I have a lot of features to work on. I need to learn how to connect with an API and stuff. I started the React and Redux section on FCC.
 
 **Thoughts**: Reviewing has been a good way to check that I've been learning everything. There is so much to learn and I've been exposed to so many thing that is easy to think that you didn't retain as much but I'm glad that I'm retaining and understanding more than I expected. The progress part and the thoughts part sometimes interchange lol. I've been learning so much doing Rodrigo's portfolio. 
 
