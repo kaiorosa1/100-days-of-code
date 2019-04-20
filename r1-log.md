@@ -397,5 +397,9 @@ I've finsihed (sort of) the motion graphics page from my friend's portfolio. I'v
 I've focused on reviewing React and Redux. I used thenewboston tutorial to speed up the process. I think the only thing I hadn't heard before was about refs but the rest was pretty much a revision of everything I have seen on freeCodeCamp. I've changed a bit Rodrigo's portfolio, I think I'll be able to be done with it this weekend. I have a lot of features to work on. I need to learn how to connect with an API and stuff. I started the React and Redux section on FCC.
 
 
+### R1D84
+
+I started working on the details of the Portfolio page. The next step is figure out how to add the functionalites. I have to work on the transitions of the page. I've worked on some React and Redux challenges on FCC.
+
 
 
