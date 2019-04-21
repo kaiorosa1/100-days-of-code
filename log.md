@@ -923,3 +923,12 @@ I feel I need to learn more about JS and React but I feel comfortable enough to 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/08dd5a41d28bdd91a39bc3e9a4bed9b610b73ff5
 
 ---
+
+### Day 85: April 21, 2019
+
+**Today's Progress**:  I've solved a couple of React and Redux challenges on FCC. I think I'm starting to get the hang of it.
+
+**Thoughts**: It's not as intuitive as the challenges might seem, sometimes I do know what to do but I get stuck because I put a div enclosing the provider. I don't know if this would make a difference in my code but for the FCC tests it does and I'm spending a lot of time looking for an error. I understand that this process will help me debug my code better but it's a bit frustanting.
+
+**Link(s) to work**: Commit on Github: 
+---
