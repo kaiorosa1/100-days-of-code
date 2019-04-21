@@ -926,10 +926,10 @@ I feel I need to learn more about JS and React but I feel comfortable enough to 
 
 ### Day 85: April 21, 2019
 
-**Today's Progress**:  I've solved a couple of React and Redux challenges on FCC. I think I'm starting to get the hang of it.
+**Today's Progress**:  I've solved a couple of React and Redux challenges on FCC. I think I'm starting to get the hang of it. I've added details to realidade_aumentada.html
 
 **Thoughts**: It's not as intuitive as the challenges might seem, sometimes I do know what to do but I get stuck because I put a div enclosing the provider. I don't know if this would make a difference in my code but for the FCC tests it does and I'm spending a lot of time looking for an error. I understand that this process will help me debug my code better but it's a bit frustanting.
 
-**Link(s) to work**:
+**Link(s) to work**:Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commits/master
 
 ---
