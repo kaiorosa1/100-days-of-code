@@ -402,4 +402,11 @@ I've focused on reviewing React and Redux. I used thenewboston tutorial to speed
 I started working on the details of the Portfolio page. The next step is figure out how to add the functionalites. I have to work on the transitions of the page. I've worked on some React and Redux challenges on FCC.
 
 
+### R1D85
 
+I've solved a couple of React and Redux challenges on FCC. I think I'm starting to get the hang of it. I've added details to realidade_aumentada.html
+
+
+### R1D86 
+
+I've worked on another page on Rodrigo's porfolio. I've worked on React and Redux challenges on FCC.
