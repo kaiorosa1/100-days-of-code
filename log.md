@@ -943,3 +943,15 @@ I feel I need to learn more about JS and React but I feel comfortable enough to 
 **Link(s) to work**:Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/b9641516f6b5fc4468d1e050e8fa232b6c64f583
 
 ---
+
+
+### Day 87: April 23, 2019
+
+**Today's Progress**:  I've worked on some details on Rodigo's portfolio. I've worked on some React and Redux challenges on FCC.
+
+**Thoughts**: It's a very busy day and I spent most of it studying for a exam I have on Thursday. I;ve been putting my hour in. Not being pessimist about my time but I think I'm not gonna be putting more than one hour this week.
+
+**Link(s) to work**:Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/4b521a6c1ae28253587c9cd0a5f870d5078e5083
+
+---
+
