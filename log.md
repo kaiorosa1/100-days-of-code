@@ -955,3 +955,12 @@ I feel I need to learn more about JS and React but I feel comfortable enough to 
 
 ---
 
+### Day 88: April 24, 2019
+
+**Today's Progress**:  I've finished the React and Redux section on FCC. 
+
+**Thoughts**: I've finsihed all the section on the Front-End Libraries Certification and I need to say that was underwhelming. I'm very exicted to be working on projects but I'm not satisfied with this last section. I feel that was a bit rushed and not very well explained but at the same time I feel that maybe I'm being too harsh. I love freeCodeCamp but I can see that there are some sections that are not well thought out. I have the impression that most people give up on FCC after the JavaScript certification so they don't have as much support. 
+
+**Link(s) to work**: 
+---
+
