@@ -957,11 +957,21 @@ I feel I need to learn more about JS and React but I feel comfortable enough to 
 
 ### Day 88: April 24, 2019
 
-**Today's Progress**:  I've finished the React and Redux section on FCC. 
+**Today's Progress**:  I've finished the React and Redux section on FCC. I've changed a bit index.html on Rodrigo's portfolio. 
 
 **Thoughts**: I've finsihed all the section on the Front-End Libraries Certification and I need to say that was underwhelming. I'm very exicted to be working on projects but I'm not satisfied with this last section. I feel that was a bit rushed and not very well explained but at the same time I feel that maybe I'm being too harsh. I love freeCodeCamp but I can see that there are some sections that are not well thought out. I have the impression that most people give up on FCC after the JavaScript certification so they don't have as much support. 
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/6ae47a05e2bb93e268a11034a2c551a161f092c1
+
+---
+
+### Day 89: April 25, 2019
+
+**Today's Progress**:  I've finished the index.html for now and I'm diving into learning how to make a cool transition between pages.
+
+**Thoughts**: Knowing how to search is an essential skill. I'll be going back to FCC on this weekend. I want to prioritize finsihing a project. 
+
+**Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/85fff38cbaf4e53920d79155516c0b54e34b8017
 
 ---
 
