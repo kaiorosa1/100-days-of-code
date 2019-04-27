@@ -978,9 +978,9 @@ I feel I need to learn more about JS and React but I feel comfortable enough to 
 
 ### Day 90: April 26, 2019
 
-**Today's Progress**:  
+**Today's Progress**:  I've worked on some details on Rodrigo's portfolio. 
 
-**Thoughts**: 
+**Thoughts**: It's been a very slow day for no reason. Page transitions still something I need to master before putting into my project.
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/23fccfcca656377a3e4e39e529c6b138e6296205
 
