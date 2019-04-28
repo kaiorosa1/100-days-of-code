@@ -986,4 +986,12 @@ I feel I need to learn more about JS and React but I feel comfortable enough to 
 
 ---
 
+### Day 91: April 27, 2019
 
+**Today's Progress**:  I started working on the page transitions I've found a jQuery plugin called Animsition I hope it can help me.
+
+**Thoughts**: I'm getting the feeling that if I had made the project with React I'd have been having a better time with page transitions. I've seen something about React router or something and I think it's useful, maybe I'm just throwing random nonsense. 
+
+**Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/c311788ba8190815a0a03c33a6246e272a1a68f9
+
+---
