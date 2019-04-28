@@ -410,3 +410,29 @@ I've solved a couple of React and Redux challenges on FCC. I think I'm starting 
 ### R1D86 
 
 I've worked on another page on Rodrigo's porfolio. I've worked on React and Redux challenges on FCC.
+
+### R1D87
+
+I've worked on some details on Rodigo's portfolio. I've worked on some React and Redux challenges on FCC.
+
+### R1D88
+
+I've finished the React and Redux section on FCC. I've changed a bit index.html on Rodrigo's portfolio.
+
+### R1D89
+
+I've finished the index.html for now and I'm diving into learning how to make a cool transition between pages.
+ 
+### R1D90
+
+I've worked on some details on Rodrigo's portfolio.
+ 
+### R1D91
+
+I started working on the page transitions I've found a jQuery plugin called Animsition I hope it can help me.
+
+### R1D92
+
+It finally worked the transition and I'm working on making it work with the current project. I was a bit worried that the plugin wouldn't be a good fit but fortunately it was.
+
+
