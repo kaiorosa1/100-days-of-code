@@ -995,3 +995,14 @@ I feel I need to learn more about JS and React but I feel comfortable enough to 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/c311788ba8190815a0a03c33a6246e272a1a68f9
 
 ---
+
+### Day 92: April 28, 2019
+
+**Today's Progress**:  It finally worked the transition and I'm working on making it work with the current project. I was a bit worried that the plugin wouldn't be a good fit but fortunately it was.
+
+**Thoughts**: I've spent an hour figuring out how to make it work and tweaking it to the protfolio. I'm not done yet but I'll be soon enough. I'm afraid the trickiest part is yet to come. I've googled a bit and the instragram API is being discontinued and my inital thought was to make an API call to use Rodrigo's most recent photos to show up in the instagram grid in the project. I don't know what I am gonna do but I'll come up with something once I start working on that.
+
+**Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/1baeb5ebeb932dd4998c15b7e3dab4ff3ca30944
+
+---
+
