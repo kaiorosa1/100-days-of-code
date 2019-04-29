@@ -1006,3 +1006,13 @@ I feel I need to learn more about JS and React but I feel comfortable enough to 
 
 ---
 
+### Day 93: April 29, 2019
+
+**Today's Progress**:  I thought it was time to get back to my own portfolio and add some things. I added an About Me section and added the portuguese version of the website.
+
+**Thoughts**: I want to be finished with all these portfolio stuff and start working on some more backend-y stuff (if I am making any sense). Where to go? What projects to work on? And how can I better myself to be a more competitive candidate when I go to interviews? Are questios that have been on my mind lately. I want to be working on everything but I know I have limited time. That is why I think I need to continue on a second round on the 100DaysOfCode but right now I think a second round might be too much I need to make this decision soon. Maybe I should take a break or maybe this will slow myself in backing to it. I don't know so many questions that I don't have the answer now. 
+
+**Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/kaiorosa1.github.io/commit/93933ff9cd7f23fef7d1c88e3d463db7d2c106c5
+
+---
+
