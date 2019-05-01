@@ -1028,11 +1028,11 @@ I feel I need to learn more about JS and React but I feel comfortable enough to 
 
 ### Day 95: May 1, 2019
 
-**Today's Progress**:  
+**Today's Progress**:  I've worked on the sliding effect on Rodrigo's portfolio. I verified the current page and then I then when the right or left arrow is pressed they go to a page accordingly.
 
-**Thoughts**: 
+**Thoughts**:  I love the feeling of accomplishment when you solve something. I'm feeling I have a better understanding of how to create web application. 
 
-**Link(s) to work**: Commit on Github: 
+**Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/252fc9f8430330b35f823cc518ed17af63a3a43b
 
 ---
 
