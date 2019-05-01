@@ -1026,3 +1026,13 @@ I feel I need to learn more about JS and React but I feel comfortable enough to 
 
 ---
 
+### Day 95: May 1, 2019
+
+**Today's Progress**:  
+
+**Thoughts**: 
+
+**Link(s) to work**: Commit on Github: 
+
+---
+
