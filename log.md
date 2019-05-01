@@ -1016,3 +1016,13 @@ I feel I need to learn more about JS and React but I feel comfortable enough to 
 
 ---
 
+### Day 94: April 30, 2019
+
+**Today's Progress**:  I've worked on Rodrigo's portfolio. I added the animation to the remaining pages. 
+
+**Thoughts**: It's very fun to be working on front-end stuff but I feel that I need to start learning about backend stuff I feel that that's what I will shine more.
+
+**Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/be53e7717cdc010ac754a5039a2e7de25adabde9
+
+---
+
