@@ -1036,3 +1036,12 @@ I feel I need to learn more about JS and React but I feel comfortable enough to 
 
 ---
 
+### Day 96: May 2, 2019
+
+**Today's Progress**:  Today was most fixing the bugs when I was transitioning through the pages with the arrows in the keyboard. I'm following a React tutorial and I've watched a few of them. 
+
+**Thoughts**: For some reason two pages were not working when I pressed the keys to go to another page but I fixed with some ease. It's funny because when I watch React Tutorial I'm feeling that I understand but I don't feel confident enough to start the FCC projects. I need to plan better because I feel that I can do much better than I'm doing I've spent about 20 days in a project that I know now that I could've spent less time. I know that I have been only spend half an hour per day but still. I hope in the next 100 days of code round I can be more mindful of the time I spend and better at planning.
+
+**Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/659ce120d507fbe4b924fadc4b4e42d4e57db862
+
+---
