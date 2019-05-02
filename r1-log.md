@@ -435,4 +435,24 @@ I started working on the page transitions I've found a jQuery plugin called Anim
 
 It finally worked the transition and I'm working on making it work with the current project. I was a bit worried that the plugin wouldn't be a good fit but fortunately it was.
 
+### R1D93
+
+I thought it was time to get back to my own portfolio and add some things. I added an About Me section and added the portuguese version of the website.
+
+### R1D94
+
+I've worked on Rodrigo's portfolio. I added the animation to the remaining pages. I added an event listener to handle when the right and left arrow key is pressed.
+
+### R1D95
+
+I've worked on the sliding effect on Rodrigo's portfolio. I verified the current page and then I then when the right or left arrow is pressed they go to a page accordingly.
+
+### R1D96
+
+Today was most fixing the bugs when I was transitioning through the pages with the arrows in the keyboard. I'm following a React tutorial and I've watched a few of them.
+
+
+
+
+
 
