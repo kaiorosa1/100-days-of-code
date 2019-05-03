@@ -1046,7 +1046,7 @@ I feel I need to learn more about JS and React but I feel comfortable enough to 
 
 ---
 
-## Day 97: May 3, 2019
+### Day 97: May 3, 2019
 
 **Today's Progress**: I have added the spanish version of my portfolio page. I don't have a button to switch it to spanish but it's almost functional.
 
