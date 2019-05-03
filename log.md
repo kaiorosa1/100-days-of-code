@@ -1045,3 +1045,13 @@ I feel I need to learn more about JS and React but I feel comfortable enough to 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/659ce120d507fbe4b924fadc4b4e42d4e57db862
 
 ---
+
+## Day 97: May 3, 2019
+
+**Today's Progress**: I have added the spanish version of my portfolio page. I don't have a button to switch it to spanish but it's almost functional.
+
+**Thoughts**: One of those days that I didn't have as much time as I wanted to work on my projects. I've split it into two sessions. 
+
+**Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/kaiorosa1.github.io/commit/1aec8557f9124a6ed0c609fbfcf84f85ecc99fdc
+
+---
