@@ -1048,9 +1048,9 @@ I feel I need to learn more about JS and React but I feel comfortable enough to 
 
 ### Day 97: May 3, 2019
 
-**Today's Progress**: I have added the spanish version of my portfolio page. I don't have a button to switch it to spanish but it's almost functional.
+**Today's Progress**: I have added the spanish version of my portfolio page. I don't have a button to switch it to spanish but it's almost functional. I've reviewed more React.
 
-**Thoughts**: One of those days that I didn't have as much time as I wanted to work on my projects. I've split it into two sessions. 
+**Thoughts**: One of those days that I didn't have as much time as I wanted to work on my projects. I've split it into two sessions. The past days I've learning and reviewing React and I must say Academind is the best one yet. Very clear and very thorough. I've watched the React basics series on thenewboston and it can't compare. I don't know if it's because it's the second time reviewing but I really like Maximilian's teaching style.
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/kaiorosa1.github.io/commit/1aec8557f9124a6ed0c609fbfcf84f85ecc99fdc
 
