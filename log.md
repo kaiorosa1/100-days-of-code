@@ -1055,3 +1055,13 @@ I feel I need to learn more about JS and React but I feel comfortable enough to 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/kaiorosa1.github.io/commit/1aec8557f9124a6ed0c609fbfcf84f85ecc99fdc
 
 ---
+
+### Day 98: May 4, 2019
+
+**Today's Progress**: I have worked on my portfolio and even wrote in the about me section. I've watched some React Tutorials.
+
+**Thoughts**: I'm alsomst at the end of the challenge and I feel I haven't done enough. I'm sure I want to continue but I'm not sure if it's the right decision. I always feel it's not the right time but it's never the right time. Life will always get in the way so I feel that if I really want to do I have to be able to make it work. But I know that burning myself out is never the way. 
+
+**Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/kaiorosa1.github.io/commit/14a7d4b25e3812761c4d03e324a3cc35328906d5
+
+---
