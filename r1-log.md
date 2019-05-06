@@ -451,8 +451,20 @@ I've worked on the sliding effect on Rodrigo's portfolio. I verified the current
 
 Today was most fixing the bugs when I was transitioning through the pages with the arrows in the keyboard. I'm following a React tutorial and I've watched a few of them.
 
+### R1D97
 
+I have added the spanish version of my portfolio page. I don't have a button to switch it to spanish but it's almost functional. I've reviewed more React.
 
+### R1D98
 
+I have worked on my portfolio and even wrote in the about me section. I've watched some React Tutorials.
+ 
+### R1D99
+
+I've changed my portfolio. I've watched a tutorial on Express. I'm not deviating from learning React I was very curious about creating a Node App. I also watched some React tutorials.
+
+### R1D100
+
+I've made the first refactoring on Rodrigo's portfolio code. I've watched some React tutorials.
 
 
