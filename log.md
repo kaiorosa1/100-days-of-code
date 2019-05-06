@@ -1065,3 +1065,13 @@ I feel I need to learn more about JS and React but I feel comfortable enough to 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/kaiorosa1.github.io/commit/14a7d4b25e3812761c4d03e324a3cc35328906d5
 
 ---
+
+### Day 99: May 5, 2019
+
+**Today's Progress**: I've changed my portfolio. 
+
+**Thoughts**: 
+
+**Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/kaiorosa1.github.io/commit/518174d33c00c2392f515abbee7cab6ce0834fd0
+
+---
