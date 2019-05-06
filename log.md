@@ -1068,9 +1068,9 @@ I feel I need to learn more about JS and React but I feel comfortable enough to 
 
 ### Day 99: May 5, 2019
 
-**Today's Progress**: I've changed my portfolio. 
+**Today's Progress**: I've changed my portfolio. I've watched a tutorial on Express. I'm not deviating from learning React I was very curious about creating a Node App. I also watched some React tutorials.
 
-**Thoughts**: 
+**Thoughts**: I'll be followeing my JS course and also start getting serious about React. I don't feel good just being watching tutorials but I understand they are a great source to learn and also to be inspired.
 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/kaiorosa1.github.io/commit/518174d33c00c2392f515abbee7cab6ce0834fd0
 
