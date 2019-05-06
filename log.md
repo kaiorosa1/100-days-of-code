@@ -1075,3 +1075,13 @@ I feel I need to learn more about JS and React but I feel comfortable enough to 
 **Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/kaiorosa1.github.io/commit/518174d33c00c2392f515abbee7cab6ce0834fd0
 
 ---
+
+### Day 100: May 6, 2019
+
+**Today's Progress**: I've made the first refactoring on Rodrigo's portfolio code. I've watched some React tutorials.
+
+**Thoughts**: I can't believe it's been that long since I started it. I'm happy that I was able to code for 100 days straight. I still have a lot to learn and I feel that working one hour a day is not that much time. I'm not surprise I was able to do it but even so it feels great. I have a log of everything I did. (sort of) I haven't decided yet if I will continue right after this 100 days or I will take a short break. This week is gonna be one of a kind. I have loads of assignments and exams due and it's already been stressful. That's college life. right? I learned so much more about me than about code! I won't lie some days I had problem with procrastination and lack of motivation but that didn't stop me from putting my hour in. Most of the days I worked more than an hour. It is a very good opportunity to start working on that project that you've been putting off and to learn that language/framework that you've been wanting for so long. Happy Round 1 for Me!!
+
+**Link(s) to work**: Commit on Github: https://github.com/kaiorosa1/portfolio-rodrigo/commit/ce5b0fdeb24a7cbfe84bda36cffe7a588f49ed0d
+
+---
