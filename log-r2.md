@@ -22,3 +22,13 @@ is another change to ingrain this habit.
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/random-quote-machine-fcc/commit/41782021886541585664268a21eb67bfb7827def)
 
 ---
+
+### Day 3: May 09, 2019
+
+**Today's Progress**: I've finished the Random Quote Machine project on FCC. 
+
+**Thoughts**: I'm glad with the final look of the project. It's a very simple project but I was able to use a lot of React concepts I've been learning so far.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/random-quote-machine-fcc/commit/9800d5b3d05714d2f5355d299d03614a1244d25f)
+
+---
