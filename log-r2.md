@@ -32,3 +32,14 @@ is another change to ingrain this habit.
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/random-quote-machine-fcc/commit/9800d5b3d05714d2f5355d299d03614a1244d25f)
 
 ---
+
+### Day 4: May 10, 2019
+
+**Today's Progress**: I've started the Markdown Previewer project on FCC. I'll be using React in all of my FCC projects or At least I'm gonna try to do it. I also sort of refactor the Random Quote Machine code to match the code pen one so it opens on the browser.
+
+**Thoughts**: The React syntax is coming to me slowly. I felt that I didn't know how to start a project and now I'm feeling confident tha the basic syntax is sinking in. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/markdown-previewer-fcc/commit/d2348786523c25e3f28a31c3d535b050a0f6635b)
+
+---
+
