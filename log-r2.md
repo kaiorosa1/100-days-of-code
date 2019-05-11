@@ -43,3 +43,14 @@ is another change to ingrain this habit.
 
 ---
 
+
+### Day 5: May 11, 2019
+
+**Today's Progress**: I've continued working on the Markdown Previewer. I spent a lot of time reading documentation and tutorials about the passing data between sibling components. 
+
+**Thoughts**: The more I use React the more I get more impressed and see how beautiful it is. I want to become an awesome React developer. I'll learn Angular though and I think they follow some principles I have to look this up. I have so many I ideas I want to build the game store from the last module in php. I want to become proficient in php as well since I'm already learning it on my IT techinician course (don't know how to translate it better lol).
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/markdown-previewer-fcc/commit/40ba7add170226cf864b3398ad810d8ea4a12860)
+
+---
+
