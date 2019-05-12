@@ -54,3 +54,12 @@ is another change to ingrain this habit.
 
 ---
 
+### Day 6: May 12, 2019
+
+**Today's Progress**: I've continued working on the Markdown Previewer. I'm not sure how to use the Marked.js in my project. I know it is easier than to parse the markdown myself. Doing project we're able to see a lot of gaps in our knowlegde and I feel great that I making this gap smaller. We face hardship but we come out stronger!
+
+**Thoughts**: This project is being more intersting because I get to read documentation from a JS library that I have no idea how it works. I hope that I become a more skilled developer in the way. I can't believe it's been 6 days already and I'm so glad I didn't stop. I still have so much to learn and master that I don't get to not work towards my dreams. I know it sounds bad but I mean in the best way possible.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/markdown-previewer-fcc/commit/062676476f6354df88016b8dae54f38ffed093f3)
+
+---
