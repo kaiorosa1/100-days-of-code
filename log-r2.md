@@ -65,3 +65,15 @@ I've got it. I've figured out how to use the Marked.js functions into my code. N
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/markdown-previewer-fcc/commit/062676476f6354df88016b8dae54f38ffed093f3)
 
 ---
+
+### Day 7: May 13, 2019
+
+**Today's Progress**: I've continued working on the Markdown Previewer. I still have two requirements to make my project good to go and when I mean good to go I only mean the project requirements are met. The tests which my project fail were about a default text that must be in the page right when the pages load. Also watched some React tutorials.
+
+
+**Thoughts**: It's not that the requirements are even challenging but it's because they are a bit tricky since I have to make the preview text be marked but the function is only called when there is change in the editor. Academind is a great resourse to learn React. To this point I think they have the best one, in my opinion.
+
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/markdown-previewer-fcc/commit/e7ee42c600d3e8a6d29123aa8a358a0d763847cd)
+
+---
