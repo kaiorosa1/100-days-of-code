@@ -80,7 +80,7 @@ I've got it. I've figured out how to use the Marked.js functions into my code. N
 
 ### Day 8: May 14, 2019
 
-**Today's Progress**: Contunued working on the Markdown Previewer. Finally when I put the default text it's rendered by the Marked js library (I don't know if it's how this works). I need to make them meet the requirement.
+**Today's Progress**: Contunued working on the Markdown Previewer. Finally when I put the default text it's rendered by the Marked js library (I don't know if it's how this works). I need to make them meet the requirements to pass all the tests.
 
 **Thoughts**: It's very important to read a lot when you are stuck and try to change your code carefully. 
 
