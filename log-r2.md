@@ -77,3 +77,15 @@ I've got it. I've figured out how to use the Marked.js functions into my code. N
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/markdown-previewer-fcc/commit/e7ee42c600d3e8a6d29123aa8a358a0d763847cd)
 
 ---
+
+### Day 8: May 14, 2019
+
+**Today's Progress**: Contunued working on the Markdown Previewer. Finally when I put the default text it's rendered by the Marked js library (I don't know if it's how this works). I need to make them meet the requirement.
+
+**Thoughts**: It's very important to read a lot when you are stuck and try to change your code carefully. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/markdown-previewer-fcc/commit/c31838ffa902c338d5316a817a827a318e7d6ea4)
+
+---
+
+
