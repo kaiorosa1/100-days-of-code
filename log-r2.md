@@ -98,5 +98,15 @@ I've got it. I've figured out how to use the Marked.js functions into my code. N
 
 ---
 
+### Day 10: May 16, 2019
+
+**Today's Progress**: I've worked on the Markdown Previewer. I focused on finished the layout aspect of it. I finally finished another project. There are still 3 to go.
+
+**Thoughts**: Having better design intuition is not as trivial as it may seem.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/markdown-previewer-fcc/commit/3e0f4ff5f448c9d4e1327e8410c9b81ec6aee4fc)
+
+---
+
 
 
