@@ -108,5 +108,13 @@ I've got it. I've figured out how to use the Marked.js functions into my code. N
 
 ---
 
+### Day 11: May 17, 2019
 
+**Today's Progress**: I started the Drum Machine project. It's always very time-consuming when setting up everything and changes you need to make for things to work properly. Today I also changed the quotes in my Random Quote Machine, for obvious reasons.
+
+**Thoughts**: I'm very happy because I have exciting news. I'm very excited for this project because I'll be able to use DOM manipulation (I know I've already been doning that) and there's gonna be audio and probably animation so a lot of new things to get my hands dirty.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/drum-machine-fcc/commit/7115b91a4605a6fd678e5b6170d2620abb5452c6)
+
+---
 
