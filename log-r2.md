@@ -120,11 +120,11 @@ I've got it. I've figured out how to use the Marked.js functions into my code. N
 
 ### Day 12: May 18, 2019
 
-**Today's Progress**: 
+**Today's Progress**: I have coded a bit more o the Drum Machine project, I'm now deciding what it is gonna be a compoment itself or not. I'm first making sure I follow the User stories first and then my project's gonna take its own shape.
 
-**Thoughts**: 
+**Thoughts**: Designing is the hardest part and in theory I love thinking about the components and everything but in practice I feel that is very time-demanding and it should be but for my mini projects I like to get my hands dirty because I already have the step by step to follow. I love freeCodeCamp and I can stress this enough I feel that changed my mindset for the better when it comes to coding and creating stuff.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/drum-machine-fcc/commit/a0a3ce70c7810cc4fbb9499ed3ddfc4f6a6f92fa)
 
 ---
 
