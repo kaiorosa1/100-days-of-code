@@ -120,11 +120,21 @@ I've got it. I've figured out how to use the Marked.js functions into my code. N
 
 ### Day 12: May 18, 2019
 
-**Today's Progress**: I have coded a bit more o the Drum Machine project, I'm now deciding what it is gonna be a compoment itself or not. I'm first making sure I follow the User stories first and then my project's gonna take its own shape.
+**Today's Progress**: I have coded a bit more on the Drum Machine project, I'm now deciding what it is gonna be a compoment itself or not. I'm first making sure I follow the User stories first and then my project's gonna take its own shape.
 
 **Thoughts**: Designing is the hardest part and in theory I love thinking about the components and everything but in practice I feel that is very time-demanding and it should be but for my mini projects I like to get my hands dirty because I already have the step by step to follow. I love freeCodeCamp and I can stress this enough I feel that changed my mindset for the better when it comes to coding and creating stuff.
 
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/drum-machine-fcc/commit/a0a3ce70c7810cc4fbb9499ed3ddfc4f6a6f92fa)
+
+---
+
+### Day 13: May 19, 2019
+
+**Today's Progress**: I've coded on the Drum Machine project. I created new Components because I think it's gonna be use to manage the functionality I want to implement. Visually it's the same but I will obviously change that later on.
+
+**Thoughts**: When I made my 100 Days of Code plans I didn't include days where I would be reading more code than actually code. I think you get better at planing with time.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/drum-machine-fcc/commit/1e94fde8bf0c394106183e9f39bf7517855e5509)
 
 ---
 
