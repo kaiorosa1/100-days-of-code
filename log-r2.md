@@ -132,7 +132,7 @@ I've got it. I've figured out how to use the Marked.js functions into my code. N
 
 **Today's Progress**: I've coded on the Drum Machine project. I created new Components because I think it's gonna be use to manage the functionality I want to implement. Visually it's the same but I will obviously change that later on.
 
-**Thoughts**: When I made my 100 Days of Code plans I didn't include days where I would be reading more code than actually code. I think you get better at planing with time.
+**Thoughts**: When I made my 100 Days of Code plans I didn't include days where I would be reading more code than actually coding. I think you get better at planing with time.
 
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/drum-machine-fcc/commit/1e94fde8bf0c394106183e9f39bf7517855e5509)
 
