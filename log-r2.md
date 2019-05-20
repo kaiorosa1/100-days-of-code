@@ -140,11 +140,14 @@ I've got it. I've figured out how to use the Marked.js functions into my code. N
 
 ### Day 14: May 20, 2019
 
-**Today's Progress**: 
+**Today's Progress**: In the first session I worked on the display and I started working on the audio part. I need to find free audios to use in my project.
 
-**Thoughts**:
+**Thoughts**: There are days that are very hard to code and I ask myself if I made the right choice joining this challenge. Today is one of those days. I have a big exam tomorrow and I need to be studying for that and I also need to go to my course.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/drum-machine-fcc/commit/08df3aa3533855c8cd0111c94026a966f72acc94)
 
----
+--
+
+
+
 
