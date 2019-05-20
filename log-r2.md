@@ -138,3 +138,13 @@ I've got it. I've figured out how to use the Marked.js functions into my code. N
 
 ---
 
+### Day 14: May 20, 2019
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+**Link(s) to work**: [Commit Link](#)
+
+---
+
