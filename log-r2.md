@@ -140,7 +140,7 @@ I've got it. I've figured out how to use the Marked.js functions into my code. N
 
 ### Day 14: May 20, 2019
 
-**Today's Progress**: In the first session I worked on the display and I started working on the audio part. I need to find free audios to use in my project.
+**Today's Progress**: In the first session I worked on the display and I started working on the audio part. I need to find free audios to use in my project. In the second session I've tested one audio and it was working. Now I have to find copyright free audios to use.
 
 **Thoughts**: There are days that are very hard to code and I ask myself if I made the right choice joining this challenge. Today is one of those days. I have a big exam tomorrow and I need to be studying for that and I also need to go to my course.
 
@@ -148,6 +148,14 @@ I've got it. I've figured out how to use the Marked.js functions into my code. N
 
 --
 
+### Day 15: May 21, 2019
 
+**Today's Progress**: I've worked on the Drum Machine and I focused on the pad and added audio to each key. I worked on the pad functionality. 
+
+**Thoughts**: It gets harder and harder by the day. I need to start coding earlier in the day. Fighting Kaio!!
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/drum-machine-fcc/commit/13509bdb85061831802a6d4a20d31d0a00128105)
+
+--
 
 
