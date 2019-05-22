@@ -146,7 +146,7 @@ I've got it. I've figured out how to use the Marked.js functions into my code. N
 
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/drum-machine-fcc/commit/08df3aa3533855c8cd0111c94026a966f72acc94)
 
---
+---
 
 ### Day 15: May 21, 2019
 
@@ -156,6 +156,14 @@ I've got it. I've figured out how to use the Marked.js functions into my code. N
 
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/drum-machine-fcc/commit/13509bdb85061831802a6d4a20d31d0a00128105)
 
---
+---
 
+### Day 16: May 22, 2019
 
+**Today's Progress**: I've worked on the Drum Machine and got stuck with the key pressing part. There a test that it's been bugging me because it's doing what is need and I don't know how to fix it and in the other hand the key pressing is not even working. Very frustating and  I also have a headache !
+
+**Thoughts**: Oh my, I have no motivation to continue this challenge, I don't see my progress and I think I'vetuck with this boring project for 3 days already. Sometimes it is not fun at all and I also I have a ton to be worried in my school. It's already feeling like a regret restarting this challenge. Let's see how this will go in the next days.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/drum-machine-fcc/commit/fe2e0ba2160727d49228b14108315d1d9f522c13)
+
+---
