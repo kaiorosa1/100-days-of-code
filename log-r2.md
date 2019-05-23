@@ -167,3 +167,13 @@ I've got it. I've figured out how to use the Marked.js functions into my code. N
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/drum-machine-fcc/commit/fe2e0ba2160727d49228b14108315d1d9f522c13)
 
 ---
+
+### Day 17: May 23, 2019
+
+**Today's Progress**: Today I focused on solving that but and it turns out I wasn't selecting all the audios in the dum pad so it made impossible to find because I put the same audio in all of them.I gladly solved that buy making all of the audios visible and playing one by one.  Now I have to work on the styling of the drum because right now it's ugly as eff
+
+**Thoughts**: Yesterday I was very frustated about everything but I feel better today I am glad I'm encoutering all this hurdle in my way because this mean I will become a better software developer and better than that a better problem solver, one thing I'll never take for granted is the power of experience. I need to learn a lot but I also can see that experiencing programming as a habit I feel more confident to tackle all of the future problems I know it's gonna be frustating and disheartening sometimes but I'll get through it I always do. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/drum-machine-fcc/commit/2f04f8b05b4708919a1c497e0f5417aee4aaba95)
+
+---
