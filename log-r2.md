@@ -180,10 +180,10 @@ I've got it. I've figured out how to use the Marked.js functions into my code. N
 
 ### Day 18: May 24, 2019
 
-**Today's Progress**: 
+**Today's Progress**: I focused on the styling and structuring the project. I don't have any idea how I want it to look like so I'm playing a bit with its appearance.
 
-**Thoughts**: 
+**Thoughts**: Procastination is a killer and you have to beware of it ALWAYS. Create systems that make you less likely to procastinate because the BITCH is coming at you whether you like it or not. lol. 
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/drum-machine-fcc/commit/c9db48435661d0086512aa6807cf52994c146333)
 
 ---
