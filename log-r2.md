@@ -187,3 +187,14 @@ I've got it. I've figured out how to use the Marked.js functions into my code. N
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/drum-machine-fcc/commit/c9db48435661d0086512aa6807cf52994c146333)
 
 ---
+
+### Day 19: May 25, 2019
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+
+**Link(s) to work**: [Commit Link](#)
+
+---
