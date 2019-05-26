@@ -190,11 +190,11 @@ I've got it. I've figured out how to use the Marked.js functions into my code. N
 
 ### Day 19: May 25, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Today I focused on finishing the Drum Machine. I liked the final result, but to be honest I always do when I finish but days later I want to go back and change everything. I also started working on the JS Calculator.
 
-**Thoughts**: 
+**Thoughts**: It is very good to be finishing projects gives you a sense of purpose and I believe that's why I love freeCodeCamp you always have a chance to put into practice the lessons you've finished before. I'm feeling myself getting a better developer and I can't wait to finish all the certifications. In the ideal world I'd be finishing the my third certification before the day 30 but I won't rush when I'm done I'm done it's all about the journey. I also want to be redoing some projects in the future because I know feel much more confident working with those technologies.
 
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/drum-machine-fcc/commit/52db52ee60c8abcf19b227d74c0c9dd580ac4824)
 
 ---
