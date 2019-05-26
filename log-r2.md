@@ -198,3 +198,16 @@ I've got it. I've figured out how to use the Marked.js functions into my code. N
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/drum-machine-fcc/commit/52db52ee60c8abcf19b227d74c0c9dd580ac4824)
 
 ---
+
+### Day 20: May 26, 2019
+
+**Today's Progress**: I designed the components and started working on the functionality a little bit. So I've been trying to follow the same steps I've done for the last three projects. I create the compoments then I link them if needed and then I start implement the functionality and I'm now in the functionality part.
+
+**Thoughts**: It gets more challenging the projects but that's the fun of it.
+
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/javascript-calculator-fcc/commit/1629e9af750f6942141ce3cc3806273f8b5ca341)
+
+---
+
+
