@@ -222,11 +222,11 @@ I've got it. I've figured out how to use the Marked.js functions into my code. N
 
 ### Day 22: May 28, 2019
 
-**Today's Progress**: 
+**Today's Progress**: I started working on the sum functionality. I know it sounds like it should be simple but I need to figure out how to get the second number after the opetation sign is clicked. 
 
-**Thoughts**: 
+**Thoughts**: I'm very tired because I had to little sleep so I think this can be the reason I don't feel as motivated but I worked on it. Some days I'm just glad it is over. lol Don't take me wrong but I feel tired and I want to be doing other things and I still have other things to do.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/javascript-calculator-fcc/commit/cf0edbc1a331388732457c1d5d917933bfc95e65)
 
 ---
 
