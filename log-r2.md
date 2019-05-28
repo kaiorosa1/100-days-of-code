@@ -210,4 +210,14 @@ I've got it. I've figured out how to use the Marked.js functions into my code. N
 
 ---
 
+### Day 21: May 27, 2019
+
+**Today's Progress**: 
+
+**Thoughts**: Unfortunately I spend a lot of time in these 21 days regreting to start the 2nd round, I was not intentionally doing that but I realise this held me back a little. I want to spend more time being mindful and feeling great that I can keep up with this habit. I have a lot of plans and I feel very excited thinking about executing them and I can't say that about a lot of things in my life lately, dark I know but I don't mean that way. Go React! Go projects! Go Web Development! Go becoming a better developer! And in consequence being a better Kaio. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/javascript-calculator-fcc/commit/9a0ff1092acd74ac9d563b5f20b8562235e3e586)
+
+---
+
 
