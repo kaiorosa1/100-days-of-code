@@ -230,4 +230,15 @@ I've got it. I've figured out how to use the Marked.js functions into my code. N
 
 ---
 
+### Day 23: May 29, 2019
+
+**Today's Progress**: I worked on the setOperation function that gets the first number and the oprerator clicked so I can be able to handle it properly. Naming functions are very hard and every time I'm doing a project I see the consequences of not planning ahead. I need to start planning before coding I know it. The addition is working now!
+
+**Thoughts**: It's a very good day and I feel I'm making progress in my project. I wish I could be faster and make better quality projects but I feel I don't put as much time as I need to be doing that. I'm taking this serious but at the same time I feel that I'm not doing enough but I'm settling for consitency because I already can see the results but I wish I started this coding routine sooner, unfortunately I say a lot that in my life.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/javascript-calculator-fcc/commit/7b5755ffa36811b29cbf4ddf174ab6fcbcb7327e)
+
+---
+
+
 
