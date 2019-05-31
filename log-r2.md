@@ -242,9 +242,9 @@ I've got it. I've figured out how to use the Marked.js functions into my code. N
 
 ### Day 24: May 30, 2019
 
-**Today's Progress**: 
+**Today's Progress**: I worked on the JavaScript Calculator project and I worked on the rest basic operations like, multiplication and division. Now the challenge is saving all of the operation so independently of how many times the user multiply or sum the numbers they get the correct answer once they click in the equals sign.
 
-**Thoughts**: 
+**Thoughts**: I made a lot of progress today but due to poor planning I had to change a lot of the code. It's great though that I'm learning a lot about React. before the first project I didn't know how to create a component and now I getting the hang of states and passing function and props to other component and all of that good stuff.
 
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/javascript-calculator-fcc/commit/9a387652597ad8c975bef93c4680a16aabfcb8d6)
 
