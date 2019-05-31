@@ -250,5 +250,16 @@ I've got it. I've figured out how to use the Marked.js functions into my code. N
 
 ---
 
+### Day 25: May 31, 2019
+
+**Today's Progress**: I've focused on the JS Calculator and I spend my time on solving the issue of doing more than one operation in a row. Getting to solved that I found other challenges to the approach I was taking. I tend to be frustated quite often but I know it's just me talking me down and this doesn't help me at all it only demotivates me. 
+
+**Thoughts**: I love coding and all but I often feel underappreciated in this field and I don't know what I am doing wrong am I that bad? I feel that people in worse position is doing better than I am. Anyway this  is my rambly about how the tech field isn't as fair as I like to think. But maybe this is just me frustated with the fact that I'm not good enough, but when will I be? Good question that I have no answer for now. I'll continue what I'm doing and trying to improve myself because that's what I have control over.  
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/javascript-calculator-fcc/commit/fe1da204839c316e2855cb77babcd44f5dd720c3)
+
+---
+
+
 
 
