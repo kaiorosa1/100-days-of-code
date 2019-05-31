@@ -240,5 +240,15 @@ I've got it. I've figured out how to use the Marked.js functions into my code. N
 
 ---
 
+### Day 24: May 30, 2019
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/javascript-calculator-fcc/commit/9a387652597ad8c975bef93c4680a16aabfcb8d6)
+
+---
+
 
 
