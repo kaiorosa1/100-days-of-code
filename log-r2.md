@@ -262,11 +262,11 @@ I've got it. I've figured out how to use the Marked.js functions into my code. N
 
 ### Day 26: June 1, 2019
 
-**Today's Progress**:
+**Today's Progress**: I focused on the JS Calculator project. I decided to step back for a bit and take the approach of design first. I've been stuck for the past days and I think is due to poor planning, so I'll restart this project (sort of). 
 
-**Thoughts**: 
+**Thoughts**: This second round has been very slow and a bit frustating. I have so much I want to do but unfortunaly everything is falling through the cracks. I need to bush up on my Java skills because I know I'll be using a lot of that in the future. I remember that in the beginning I was very hesitant on the idea of working on another language besides JavaScript but right now to be honest I take what I get. Of course I want to become better at NodeJS but it's even better if I can be a good developer so I must be language agnostic.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/javascript-calculator-fcc/commit/a7339aecca825d3e8c836e07c55befacb1fa6b5d)
 
 ---
 
