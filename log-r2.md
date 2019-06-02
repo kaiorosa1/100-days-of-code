@@ -270,6 +270,16 @@ I've got it. I've figured out how to use the Marked.js functions into my code. N
 
 ---
 
+### Day 27: June 2, 2019
+
+**Today's Progress**: I made some changes with my last hope to fix the current project but then I forked it and started making the changes I thought it was necessary. 
+
+**Thoughts**: An hour is not as much time as it seems and I have to aware of that when thinking I haven't made progress or I am really bad at time management (I can see that) but I think people often overestimate what can be done in an hour.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/javascript-calculator-fcc/commit/35c684b86e7a16b223f2660da2412f7c9402d1b7)
+
+---
+
 
 
 
