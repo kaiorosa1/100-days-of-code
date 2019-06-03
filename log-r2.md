@@ -280,6 +280,16 @@ I've got it. I've figured out how to use the Marked.js functions into my code. N
 
 ---
 
+### Day 28: June 3, 2019
+
+**Today's Progress**: I decided that today I'd be focusing on my portifolio. I don't have many portifolio worthy projects, so I'm refactoring some old ones that can showcase my programming skills. 
+
+**Thoughts**: Marketing yourself is a very hard process. I know I don't have a great portfolio but I'm very dedicated and focused, to be fair I haven't applied to many companies but I feel that I have more to offer than I'm showing off.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/projeto-ceet/commit/8593d0daaa9c511f7540d81d266378fd62c743b0)
+
+---
+
 
 
 
