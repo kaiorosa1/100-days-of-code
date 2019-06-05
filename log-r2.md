@@ -304,11 +304,11 @@ I've got it. I've figured out how to use the Marked.js functions into my code. N
 
 ### Day 30: June 5, 2019
 
-**Today's Progress**:  
+**Today's Progress**:  I changed the logic a little bit to make two arrays one for the operations and one for the numbers so it was easy to keep track of the total. It worked and I'm glad I could find this solution. 
 
-**Thoughts**: 
+**Thoughts**: It's finaily finished in terms of functionality, now I have to focus on some specific requirements to meet the user stories. 
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/javascript-calculator-fcc/commit/3fd0d91dbf4958b02b1c6fe893ec02e876238cfa)
 
 ---
 
