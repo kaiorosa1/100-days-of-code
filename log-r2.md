@@ -291,5 +291,16 @@ I've got it. I've figured out how to use the Marked.js functions into my code. N
 ---
 
 
+### Day 29: June 4, 2019
+
+**Today's Progress**:  I've changed some props and state in my calculator component. I hope this new approach I taking gets me to finishing this project soon. The JS Calculator is not as hard as it might seem for reading my log haha, I think it's because I've been taking the wrong approach all this time.
+
+**Thoughts**: It's a brand new day and It's good to be producing and coding.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/javascript-calculator-fcc/commit/0798d02852bcd36435a735d8c78b6493bad0dce3)
+
+---
+
+
 
 
