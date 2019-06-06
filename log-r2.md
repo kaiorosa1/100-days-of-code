@@ -315,11 +315,11 @@ I've got it. I've figured out how to use the Marked.js functions into my code. N
 
 ### Day 31: June 6, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Today I worked on the JS Calculator (FCC). Oh my I thought it would be smooth from here, boy I was wrong! I don't now why a simple project like that is giving me so much trouble.
 
-**Thoughts**: 
+**Thoughts**: I found a bug and I fixed it, sort of, and I create another one. I'm on the way to fix it.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/javascript-calculator-fcc/commit/1f6032215ea8bf76a56c5e3f41fb8455aaf7fed6)
 
 ---
 
