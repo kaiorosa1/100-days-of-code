@@ -325,10 +325,10 @@ I've got it. I've figured out how to use the Marked.js functions into my code. N
 
 ### Day 32: June 7, 2019
 
-**Today's Progress**: Today I finsihed the JS Calculator, finally lol, now I need to work on the UI.
+**Today's Progress**: Today I finsihed the JS Calculator. I worked on everything from the functionality to the final look of the project. I'm really proud of this one. I got help from my sister to look this good!
 
 **Thoughts**: I feel that it's been so long since I started this project and now I finallly finished the hard work and I'm moving on the light stuff. This round has been all about expectations vs reality for me, I have a note where I tried to be specific about what I wanted to accomplish in this 2nd round but now I see that I might have been too ambitious. I think the backend stuff is gonna be smoother but let's see, I've learned so much about me and the way I function that it's been worth it for that reason already.
 
-**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/javascript-calculator-fcc/commit/9e800620f8e43c62d828ff9c4a965ac28248bdf9)
+**Link(s) to work**: [Project Link](https://codepen.io/kaiorosa1/pen/mYZWgV)
 
 ---
