@@ -332,3 +332,14 @@ I've got it. I've figured out how to use the Marked.js functions into my code. N
 **Link(s) to work**: [Project Link](https://codepen.io/kaiorosa1/pen/mYZWgV)
 
 ---
+
+### Day 33: June 8, 2019
+
+**Today's Progress**: I started to work on the last project of this certification which is the Pomodoro Clock. Today I designed the components and started programing a bit trying to meet some of the user stories on FCC. I also started a project in Java, it's an old school project that I want to spicy it up a bit haha. 
+
+**Thoughts**: I have so much on my plate right now but I like to think that I have everything under control, I have two assignmets due two days from today and I'm not even close to finish either of them but I still decided to code for 2 hours today because I need to make my portfolio better since I haven't heard back from the internships I applied recently.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/pomodoro-clock-fcc/commit/467d14abc30663b96d69b50675a5be21e644614c)
+
+---
+
