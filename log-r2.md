@@ -345,11 +345,13 @@ I've got it. I've figured out how to use the Marked.js functions into my code. N
 
 ### Day 34: June 9, 2019
 
-**Today's Progress**: 
+**Today's Progress**: In my first session I've worked on the Pomodoro Calculator (FCC). My main focus was on the user stories, I was able to finish the content part however this project has a lot more requirements and they are divided within content, timer and audio. 
 
-**Thoughts**: 
+**Thoughts**: When we start a project we don't see all of the challenges at first but they soon creep in and you become to have a more wholistic view of what's yet to come.
 
-**Link(s) to work**: [Commit Link](#)
+I've been putting on the back burner to write about my first round of the 100 Days of Code, I don't know if I have the fresh perpective anymore since I'm more than a quarter way done with the second round but I want to do it anyway, maybe I can even talk about expectation vs reality about this challenge.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/pomodoro-clock-fcc/commit/11bdd87d625193fd24f11e6905f1bdffb52909d3)
 
 ---
 
