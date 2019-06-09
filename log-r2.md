@@ -347,7 +347,7 @@ I've got it. I've figured out how to use the Marked.js functions into my code. N
 
 **Today's Progress**: In my first session I've worked on the Pomodoro Calculator (FCC). My main focus was on the user stories, I was able to finish the content part however this project has a lot more requirements and they are divided within content, timer and audio. 
 
-**Thoughts**: When we start a project we don't see all of the challenges at first but they soon creep in and you become to have a more wholistic view of what's yet to come.
+**Thoughts**: When we start a project we don't see all of the challenges at first but they soon creep in and you become to have a more holistic view of what's yet to come.
 
 I've been putting on the back burner to write about my first round of the 100 Days of Code, I don't know if I have the fresh perpective anymore since I'm more than a quarter way done with the second round but I want to do it anyway, maybe I can even talk about expectation vs reality about this challenge.
 
