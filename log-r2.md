@@ -367,11 +367,11 @@ I've been putting on the back burner to write about my first round of the 100 Da
 
 ### Day 36: June 11, 2019
 
-**Today's Progress**: 
+**Today's Progress**: I worked on the Pomodoro Clock, I redesigned some components and start working on the timer but It's not working yet.
 
-**Thoughts**: 
+**Thoughts**: I think working a day in one project and a day in the other might be the way to make progress in both, let's see.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/pomodoro-clock-fcc/commit/03a2ac1ab337ec9eea8b8763fbff5eee9fc886bf)
 
 ---
 
