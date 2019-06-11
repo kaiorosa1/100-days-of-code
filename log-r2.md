@@ -355,3 +355,14 @@ I've been putting on the back burner to write about my first round of the 100 Da
 
 ---
 
+### Day 35: June 10, 2019
+
+**Today's Progress**: I  worked on the SistemaCredenciamentoPPGI project, I'm using this opportunity to code more in java since I'll be doing a more of that in the future and it would be nice to have a project in java that I can put in my portfolio. Intend to do the GUI and connect with a database so it's gonna be a full project, the only thing is that is not a web based application but I think this doesn't matter for now.
+
+**Thoughts**: Let's get coding in Java, I want to do React but I think a day off doesn't hurt.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/SistemaCredenciamentoPPGI/commit/0aad74c46c61df79333a1860cd98d76feae3e066)
+
+---
+
+
