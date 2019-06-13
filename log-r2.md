@@ -375,4 +375,13 @@ I've been putting on the back burner to write about my first round of the 100 Da
 
 ---
 
+### Day 37: June 12, 2019
+
+**Today's Progress**: I started working on reading the Docentes file and creating the object to store the data from the file read. 
+
+**Thoughts**: I have a lot going on right now and it would be nice to have been more organized !! :(
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/SistemaCredenciamentoPPGI/commit/25e8bc2575de31a551c519d24b47aeedbbcd1721)
+
+---
 
