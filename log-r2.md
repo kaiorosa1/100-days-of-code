@@ -385,3 +385,13 @@ I've been putting on the back burner to write about my first round of the 100 Da
 
 ---
 
+### Day 38: June 13, 2019
+
+**Today's Progress**: I've fixed the bugs on the Java project and now I'm moving on to read the rest of the files. 
+
+**Thoughts**: The tricky part about reading the files is that I need to account for some inconsistency from the bat and sometimes it takes me a minute to solve this issues I encounter. At the end of the day I'll be creating a GUI and I'll get the user input from that.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/SistemaCredenciamentoPPGI/commit/758aabeba80912a3b43a9d7b30de1f397ccfb9ba)
+
+---
+
