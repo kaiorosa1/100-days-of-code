@@ -395,3 +395,13 @@ I've been putting on the back burner to write about my first round of the 100 Da
 
 ---
 
+### Day 39: June 14, 2019
+
+**Today's Progress**: I spent yesterday and today working on the Java project and I think I made substancial progress. I'm reading all of the files and now I have to work on the output files necessary. Then I intend to work on the GUI of the system.
+
+**Thoughts**: Today was a very productive day I worked most on the Java project and now I'm half way in the current project.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/SistemaCredenciamentoPPGI/commit/17fdf2539a9f5afd5b5870ee1751c406b6956104)
+
+---
+
