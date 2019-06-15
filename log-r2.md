@@ -405,7 +405,7 @@ I've been putting on the back burner to write about my first round of the 100 Da
 
 ---
 
-### Day 40: June 14, 2019
+### Day 40: June 15, 2019
 
 **Today's Progress**: 
 
