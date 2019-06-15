@@ -407,11 +407,11 @@ I've been putting on the back burner to write about my first round of the 100 Da
 
 ### Day 40: June 15, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Today I worked on the Java project and I changed the order of which I was reading the files so that I can read lista de Qualificacoes easier, and also I started writing one of the output files (1-recadastramento.csv) and that means I have to create additional function to my classes to make retreiving information about them smoother.
 
 **Thoughts**: If you were to tell me how this round was going to be I wouldn't have said that I'd still be working on the Front End  Certification by now, to fair I haven't focus only on those particular projects but still. I need to be focusing more on backend stuff and I hope to start doing that soon. I think people in general has a wrong idea of how front end actually works, it's a lof of planning and very challenging, maybe in the early internet it was very easy and intuitive but nowadays it is very intricate.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/SistemaCredenciamentoPPGI/commit/f4d8a85174b9f1dacdb0486d97008d41c13090dd)
 
 ---
 
