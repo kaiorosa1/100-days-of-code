@@ -417,11 +417,11 @@ I've been putting on the back burner to write about my first round of the 100 Da
 
 ### Day 41: June 16, 2019
 
-**Today's Progress**: 
+**Today's Progress**: I worked for hours in the Pomodoro Clock with no much success. It's frustating but I know these days happen from time to time. I don't know if it's better to start from scratch or try to figure out this problem or if it's really worth it. Anyway I hope later today or tomorrow I can see things clear because right now I'm just frustated and tired.
 
-**Thoughts**: 
+**Thoughts**: I'm stuck in the Pomodoro Clock, I think it's too much state to be handling now I understand why a state management system like Redux is necessary because it's too confusing and overwhelming to be working around and connecting all of these components and all. I want so bad to finish this project to move on to the backend stuff. I do want to learn more React and all but I feel it will be better to move to other seas. 
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/pomodoro-clock-fcc/commit/78995ae96b0c8c11426b4fb56fb4d2b9cf46c2b9)
 
 ---
 
