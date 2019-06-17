@@ -425,3 +425,13 @@ I've been putting on the back burner to write about my first round of the 100 Da
 
 ---
 
+### Day 42: June 17, 2019
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: [Commit Link](#)
+
+---
+
