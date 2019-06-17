@@ -427,11 +427,11 @@ I've been putting on the back burner to write about my first round of the 100 Da
 
 ### Day 42: June 17, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Some days I like to use divide my session. Today the first one I worked on the Pomodoro Clock, I implemented one functionality and the second one with the Java project.
 
-**Thoughts**: 
+**Thoughts**: I have to remember that coding is a hobbie for now I have a lot going on in my school right now so I won't pressure myself as much to be at some place even now that I'm close to the end of this semester.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/pomodoro-clock-fcc/commit/204fb69f29f8e4811b2b572dd33210d6b3340650)
 
 ---
 
