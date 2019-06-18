@@ -437,11 +437,12 @@ I've been putting on the back burner to write about my first round of the 100 Da
 
 ### Day 43: June 18, 2019
 
-**Today's Progress**: 
+**Today's Progress**: I finished write the first of three reports that I still don't know if I'll write a cvs file or I'm going to display it in a GUI later on in this project. For now I'm just printing the information.
 
-**Thoughts**: 
+**Thoughts**: Yesterday I couldn't found out why the sum of points for the professors were wrong and today I only revisited the description of the problem and I solved it very quickly. It's funny that we take for granted being rested and our difuse way of thinking, I hope I can be this clear-minded when it comes to the Pomodoro as well. I've been very demotivated to work on that one.
 
-**Link(s) to work**: [Commit Link](#)
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/SistemaCredenciamentoPPGI/commit/81806c4d400267db2f8bb557ca3d2b7b8ce3a2cc)
 
 ---
 
