@@ -448,11 +448,11 @@ I've been putting on the back burner to write about my first round of the 100 Da
 
 ### Day 44: June 19, 2019
 
-**Today's Progress**: 
+**Today's Progress**: I worked on the Pomodoro Clock and I finally changed some states and functions because the way they were before made my life harder and they were not clean code. So in my two sessions today I focused on getting to same point functionalitywise to I was before with this new changes. 
 
-**Thoughts**: 
+**Thoughts**: I hope I can make good progress today with this new components and everything. I also saw videos on Java EE because I want to start using Java for web development. I'll be focusing on NodeJS and Express when I start the new API and whatnot course on FCC but I will also be working on progressing a Web Plugin in Java in the next few month and I think this is a good way to push myself to start learning more about that.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/pomodoro-clock-fcc/commit/66c060add4b4434b3843564da25466c7397f6030)
 
 ---
 
