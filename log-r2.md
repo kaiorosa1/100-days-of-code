@@ -456,3 +456,12 @@ I've been putting on the back burner to write about my first round of the 100 Da
 
 ---
 
+### Day 45: June 20, 2019
+
+**Today's Progress**: I worked on the Java project and I wrote the last functionality for now. This project is system where you can register professors in this department.  You have a set of requirements that dictate the threshold so they can be renewed in this graduate program. Now I'll be focusing on the GUI aspect of it. 
+
+**Thoughts**: This system can be a great opportunity for me to put in practice my MySQL skills. I know that I'm following a strange path from the program to the database. I don't know I think the database design should be one of the first things, I'm gonna be doing that just for fun. I'm not sure if I'll be implementing all CRUD for this project yet but more on that later, now it's time for the GUI.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/SistemaCredenciamentoPPGI/commit/7b2273ca1c7b332f81d47907ef9e0b6d7c5d3f30)
+
+---
