@@ -458,7 +458,7 @@ I've been putting on the back burner to write about my first round of the 100 Da
 
 ### Day 45: June 20, 2019
 
-**Today's Progress**: I worked on the Java project and I wrote the last functionality for now. This project is system where you can register professors in this department.  You have a set of requirements that dictate the threshold so they can be renewed in this graduate program. Now I'll be focusing on the GUI aspect of it. 
+**Today's Progress**: I worked on the Java project and I wrote the last functionality for now. This project is system where you can register professors in this department.  You have a set of requirements that dictate the threshold so they can be renewed in this graduate program. Now I'll be focusing on the GUI aspect of it. I also worked on the Pomodoro Clock later on.
 
 **Thoughts**: This system can be a great opportunity for me to put in practice my MySQL skills. I know that I'm following a strange path from the program to the database. I don't know I think the database design should be one of the first things, I'm gonna be doing that just for fun. I'm not sure if I'll be implementing all CRUD for this project yet but more on that later, now it's time for the GUI.
 
@@ -468,10 +468,10 @@ I've been putting on the back burner to write about my first round of the 100 Da
 
 ### Day 46: June 21, 2019
 
-**Today's Progress**:  
+**Today's Progress**:  Today I worked on the Java Project. I started working in the GUI, so I was planning and at the same time learning how to set the components properly.
 
-**Thoughts**: 
+**Thoughts**: So many things happening right now I would love to have a greater sense of progress. I've been applying to a lot of companies lately and it's a bit saddening to not hear back from them. Ok some of them are exactly a week old but either way I feel that it would be nice to hear that they at least received my CV. To  be fair one of them did.  These companies are often saying how much they like to give feedback and whatnot but I think most of them don't even respect the very people in their hiring process. 
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/SistemaCredenciamentoPPGI/commit/8a2201c900222e1c79a48cbfce07af3503e6b618)
 
 ---
