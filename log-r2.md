@@ -478,10 +478,10 @@ I've been putting on the back burner to write about my first round of the 100 Da
 
 ### Day 47: June 22, 2019
 
-**Today's Progress**:  
+**Today's Progress**:  I worked on the Pomodoro Clock. I mostly tried new ways of solving the issue with the timer. I discovered that it didn't have anything to do with clearing the interval like I expected before and I can see that the reset button is not reseting everything.
 
-**Thoughts**: 
+**Thoughts**: A bit frustating to be working in this project for so long and not go anywhere for the past week or so. I'll be working on more on that tomorrow I need to find a solution or start from scratch because I'm feeling like I'm never going to finish this project. Fighting Kaio!!! I know I can solve this and finish this project but still it feels like a never ending battle with React components.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/pomodoro-clock-fcc/commit/e9e35fef31c61f54f71f26a6a9413edc01fa8883)
 
 ---
