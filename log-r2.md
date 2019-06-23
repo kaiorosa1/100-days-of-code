@@ -485,3 +485,13 @@ I've been putting on the back burner to write about my first round of the 100 Da
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/pomodoro-clock-fcc/commit/e9e35fef31c61f54f71f26a6a9413edc01fa8883)
 
 ---
+
+### Day 48: June 23, 2019
+
+**Today's Progress**:  I worked on the Java project which is the SistemaDeRecadastramentoPPGI. I created more JFrames, working on the GUI using Netbeans is very easy since you only need to drag and drop but it's been a bit challenging because I need to think how I'm going to get the necessary information from the database so I have to have the right components in the GUI. It's very menial but it takes a bit of time and I'm not rushing it just to feel that I'm doing more with my time.
+
+**Thoughts**: It's been very tiring this semester I've been so demotivated with everything and burntout, I was very motivated to get my coding skills sharp and to work with interesting projects but unfortuanately when I don't have energy and I'm very low I encounter a not working project and another one which I don't know what direction should I go. Should I use this project to use MySQL like I orinally planned or should I left the project the way it is and start working on more clallenging/interesting projects? I don't know what I do know that I'm drained with school and I'm honestly hopeless with my results. I know I get this way when finals are coming but when I get better I often forget how it was the last term. Anyway, I will continue coding everyday cuz I need/ want to be a fantastic software engineer and the only way to get there is by practicing and practicing and practicing. Let's get coding Kaio!!!
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/SistemaCredenciamentoPPGI/commit/7916e7f74e0bc5fee4c88ee2a4f500dbebfa8b0e)
+
+---
