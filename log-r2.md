@@ -498,10 +498,10 @@ I've been putting on the back burner to write about my first round of the 100 Da
 
 ### Day 49: June 24, 2019
 
-**Today's Progress**:  
+**Today's Progress**:  Today I worked on the Java Project, I finished the CadastroQualificacao.java GUI and also renamed the field names to make it easier later on when I need to get their values. I review some MySQL as well.
 
-**Thoughts**: 
+**Thoughts**: I don't often read what I write but it's terapeutic to me. I'm gonna be reveiw some MySQL and solivng some logic problems to shapen my skills.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/SistemaCredenciamentoPPGI/commit/04aef3982386f5b89478eaced539533e9cb07460)
 
 ---
