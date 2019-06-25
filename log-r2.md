@@ -508,10 +508,10 @@ I've been putting on the back burner to write about my first round of the 100 Da
 
 ### Day 50: June 25, 2019
 
-**Today's Progress**:  
+**Today's Progress**:  today I worked more on the Java Project and I focused on connecting it to the database. I've done this before but I was not remembering how to do it, so  I spent some time on that and also created the classes to test if the connection is really being done. Now I have to design the database, I don't know if I'll do it all at once or I'll do it in small sizes so it's cohesive with the already created forms (Probably all  at once cuz it is more organized).
 
-**Thoughts**: 
+**Thoughts**: I also have to prepare myself for a current interview/ test I'm not quite sure yet. I think it involves some database knoledge and I'll brush up on my algorithms and datastructures. Being honest I feel I need more time to prepare but I'll do the best as I can with the time I have, the last time I had one of these I had no idea about sorting algorithms or big oh or anything related to that for that matter so I hope I'm in a better position now even if I'm not gonna be as prepared as I want to.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/SistemaCredenciamentoPPGI/commit/63056c3a176a6ea8ddb2a572309d56ee066fd5d4)
 
 ---
