@@ -521,8 +521,18 @@ I've been putting on the back burner to write about my first round of the 100 Da
 
 **Today's Progress**:  I worked on the Java project again. I worked on the salvarDocente function which is the function that's gonna be inserting a Docente into the database. A lot of new stuff since I'm not completely fluent in MySQL yet.
 
-**Thoughts**: I have an interview in a few hours so I'm splitting into two separate session today. I probably write a bit about my experience with that.gti
+**Thoughts**: I have an interview in a few hours so I'm splitting into two separate session today. I probably write a bit about my experience with that.
 
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/SistemaCredenciamentoPPGI/commit/73b0bf5afb2cb6b14d14b5fa1e483c9ba14562ec)
+
+---
+
+### Day 52: June 27, 2019
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: [Commit Link](#)
 
 ---
