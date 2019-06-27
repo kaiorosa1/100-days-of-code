@@ -529,10 +529,10 @@ I've been putting on the back burner to write about my first round of the 100 Da
 
 ### Day 52: June 27, 2019
 
-**Today's Progress**: 
+**Today's Progress**: I've been working on the Java project. Now I've done pretty much the same I did for the Docente to the Veiculo one. Once I'm finished with this one it becomes harder because I'll be dealing with foreign keys and whatnot.
 
-**Thoughts**: 
+**Thoughts**: It's fun when working on a project goes smoothly but at the same time I feel like I should go back to the Pomodoro one because I want to finish it and maybe I'm just avoiding being unconfortable and having to think deeply about the problem at hand. 
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/SistemaCredenciamentoPPGI/commit/09e7414a52affb77c47b3eaa93300224a7ee0a7d)
 
 ---
