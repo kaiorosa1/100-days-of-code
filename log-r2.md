@@ -539,10 +539,10 @@ I've been putting on the back burner to write about my first round of the 100 Da
 
 ### Day 53: June 28, 2019
 
-**Today's Progress**: .
+**Today's Progress**: Today I worked on the Java project so I made some changes in the database and worked on the Publicacao register form. I already forsee some challenges I'm gonna be dealing with but it's a good thing since the main point of these projects is to learn more.
 
-**Thoughts**: 
+**Thoughts**: A very overwhelming week but so far so good. I have a lot to say but it is not the place for some more personal things. I need to get back to the Pomodoro since it's been almost a week that I worked on it. 
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/SistemaCredenciamentoPPGI/commit/7f026f5e3968e0ac9ccf36ccaef60d2b02a919b1)
 
 ---
