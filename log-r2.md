@@ -536,3 +536,13 @@ I've been putting on the back burner to write about my first round of the 100 Da
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/SistemaCredenciamentoPPGI/commit/09e7414a52affb77c47b3eaa93300224a7ee0a7d)
 
 ---
+
+### Day 53: June 28, 2019
+
+**Today's Progress**: .
+
+**Thoughts**: 
+
+**Link(s) to work**: [Commit Link](#)
+
+---
