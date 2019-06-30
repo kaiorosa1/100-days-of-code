@@ -559,10 +559,11 @@ I've been putting on the back burner to write about my first round of the 100 Da
 
 ### Day 55: June 30, 2019
 
-**Today's Progress**: 
+**Today's Progress**: I finally worked on the Pomodoro Clock (FCC) finally I think it's going to work well. It had a bug that I didn't pay attention to and I took me so long to figure this out. I still like React and I want to get better at it.
 
-**Thoughts**: 
+**Thoughts**: I intend to focus on finishing this project because I'm not feeling good with how long it took me to solve this bug.
+I've seen that my summaries are very brief lately haha. Most of the time this is only a snippet of what I actually done.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/pomodoro-clock-fcc/commit/e78e87124dbcc56393946b0218a3c0d5a76da804)
 
 ---
