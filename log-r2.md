@@ -549,10 +549,10 @@ I've been putting on the back burner to write about my first round of the 100 Da
 
 ### Day 54: June 29, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Today I worked on the Java project, I focused on creating and implementing the listarDocentes function, I'm learning a lot about mysql and connection my application to a database.
 
-**Thoughts**: 
+**Thoughts**: I procrastinated a lot today I have no excuses but I'm gonna forgive myself I have a lot going on right now.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/SistemaCredenciamentoPPGI/commit/c2b4881223e7078b0db8e946464ff6495441441b)
 
 ---
