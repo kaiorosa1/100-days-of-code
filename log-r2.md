@@ -570,10 +570,10 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ### Day 56: July 1, 2019
 
-**Today's Progress**:
+**Today's Progress**: Today I worked on the Pomodoro Clock (FCC), I spent my time trying to solve a specific problem but I was not able to solve it. The breaks are not working properly and I don't know if it's possible to do what I want to do in React. 
 
-**Thoughts**: 
+**Thoughts**: I know that my components were badly designed but I don't know how to do better and I don't want to redo it from scratch now maybe later this year but right now I want to finish it to move on the learn more backend stuff. I know that maybe if I started from scratch I would be done sooner or maybe not. I will definitely work on this project again later on. I want to get better at React and its intricacies.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/pomodoro-clock-fcc/commit/002b7471eee7342e413584a7e4ac94dffc04e97a)
 
 ---
