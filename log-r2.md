@@ -567,3 +567,13 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/pomodoro-clock-fcc/commit/e78e87124dbcc56393946b0218a3c0d5a76da804)
 
 ---
+
+### Day 56: July 1, 2019
+
+**Today's Progress**:
+
+**Thoughts**: 
+
+**Link(s) to work**: [Commit Link](#)
+
+---
