@@ -581,9 +581,11 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ### Day 57: July 2, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Today I worked on the Java project because I needed to work on the listarDocentes method. This is a method that will be necessary in the cadastrarPublicacoes. I also worked a bit on the Pomodoro Clock.
 
-**Thoughts**: 
+**Thoughts**: I'm still getting used to not having to go to my night course and I have so much going on that I'm not really enjoying nor my new freedom (for now) nor the accomplishment for being done with my IT technician course. I'll be on vacation soon and being honest I don't want to be because that  would meant that I was done being a student and having these type of vacations.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/SistemaCredenciamentoPPGI/commit/d3c148d31df55d5c78aa64ffcf48055733aeacfd)
+
 ---
+
