@@ -601,11 +601,11 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ### Day 59: July 4, 2019
 
-**Today's Progress**: 
+**Today's Progress**: I worked on the Java project, mainly trying to display the data from the database to the combo boxes.
 
-**Thoughts**: 
+**Thoughts**: I have a big exam tomorrow and I am not acting like it. When we are in this stage of the semester it feels like everything is falling apart.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/SistemaCredenciamentoPPGI/commit/5c7d1171d51cf31a0dd7d1e7c492ef848406f603)
 
 ---
 
