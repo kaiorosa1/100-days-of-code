@@ -589,3 +589,13 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ---
 
+### Day 58: July 3, 2019
+
+**Today's Progress**: I worked on the Java project and it was mainly on the listarVeiculo function. The way I see is that it's very hard to get caught up with some of the details for example I spent a lot of time trying to figure out how to set or get the right value from the database.
+
+**Thoughts**: Today was so full and I'm so overwhelmed I have a lot of thing to do and on top of everything my computer is not working properly and I have to use my phone's data to use github and some of the websites. It's so stressful when things like that happen.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/SistemaCredenciamentoPPGI/commit/4c4b77e13d8e3671427768c9f07cd3e88acfadd5)
+
+---
+
