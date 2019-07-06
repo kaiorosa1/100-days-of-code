@@ -612,11 +612,11 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ### Day 60: July 5, 2019
 
-**Today's Progress**: 
+**Today's Progress**: I worked on the Java project. I fixed a bug and implemented the listing Autores functionality to the GUI.
 
-**Thoughts**: 
+**Thoughts**: I'm so tired because I had almost no sleep today but at the same time I feel happy with the circunstances. I had an important exam and I hope I did well and I finally got rid of the virus that wasn't letting me access some websites for the past few days so a win-win situation.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/SistemaCredenciamentoPPGI/commit/3e7db11eea0f0f202233048d01530d14816cfafc)
 
 ---
 
