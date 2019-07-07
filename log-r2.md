@@ -632,10 +632,11 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ### Day 62: July 7, 2019
 
-**Today's Progress**: 
+**Today's Progress**: I worked on the Java project, I focused on linking the right objects. Now when I select in the CadastroPublicacoes GUI it is associating the right object in the Publicacoes being saved. I also started working on the APIs and Microservices Certification.
 
-**Thoughts**: 
-**Link(s) to work**: [Commit Link](#)
+**Thoughts**: I love the 100DaysOfCode community, I'm always overwhelmed with positive reiforcement and I feel very inspired seeing other people succeed in this field. I'm so grateful for being part of it. I said that before but I never felt so included and welcomed in a community, so much positivity and support in this long and harduous journey. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/SistemaCredenciamentoPPGI/commit/77ed733e3d0e74791c79a3aa3f650d04d025a9a2)
 
 ---
 
