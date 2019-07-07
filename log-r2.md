@@ -620,14 +620,13 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ---
 
-
 ### Day 61: July 6, 2019
 
-**Today's Progress**: 
+**Today's Progress**: I worked on the Pomodoro Clock and I finally finsished it. I can't believe I still need to work on the UI but all the user stories are met so I can submit it anytime. I will be working on the UI and then I get to work on the next certification.
 
-**Thoughts**: 
+**Thoughts**: Feeling really good about being able to make this project work, I think it's a simple project but I made a lot of wrong design approaches and it cost me days trying to figure out ways to make it work. Today I decided to redo from scratch and I was able to finish in a few hours. I know that I have the problem very clear in my head and that helped me to work quicker but still, this means that I could've been easier from the get-go if I had designed better.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/pomodoro-clock-fcc/commit/07d2df0f88de491e0a6517ae219ca411c9e48e5f)
 
 ---
 
