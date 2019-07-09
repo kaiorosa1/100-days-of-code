@@ -642,11 +642,11 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ### Day 63: July 8, 2019
 
-**Today's Progress**:
+**Today's Progress**: I worked on the Java project, I focused on finishing the cadastroPublicacao function but it's not saving in a database. Also worked on some FCC challenges.
 
-**Thoughts**:
+**Thoughts**: It's gonna be a hectic week but I'm somewhat motivated to continute working on my sid projects.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/SistemaCredenciamentoPPGI/commit/01f76efe4e2040e2d366e7e09aac6df980060729)
 
 ---
 
