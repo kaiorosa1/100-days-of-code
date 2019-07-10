@@ -652,10 +652,10 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ### Day 64: July 9, 2019
 
-**Today's Progress**: 
+**Today's Progress**: I worked on the Java project now I'm getting the information from the Qualificacao GUI. I also worked on some FCC challenges. 
 
-**Thoughts**: 
+**Thoughts**: Oh my  gosh, I've seen better days. Not all bad though I graduated in my IT Technician course (not the exact name). I want this day to end but I have an exam tomorrow that I have to study so badly.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/SistemaCredenciamentoPPGI/commit/9a0396493040012b8a030687eb550a6de196c2dc)
 
 ---
