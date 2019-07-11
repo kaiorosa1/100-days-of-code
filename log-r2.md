@@ -662,10 +662,10 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ### Day 65: July 10, 2019
 
-**Today's Progress**:
+**Today's Progress**: I worked on the Java project, in the GUIs and also worked on some FCC challenges, I started the Node and Express basic section.
 
-**Thoughts**: 
+**Thoughts**: I procratinated a bit today but it was a better day I feel I can recover from bad days quite easily I know things are never as bad as they seen and I can't get through them even when I don't really believe that which is now lol. Coding-wise I worked more on the GUIs, getting the right values from them. I know it seems very trivial but some of them are only possible to work with if I get the right values from the database and some of them I need to know how to extract from the specific component but it's not that hard either.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/SistemaCredenciamentoPPGI/commit/fc4c749bba0858d7104e08405ac0b6419c6850f5)
 
 ---
