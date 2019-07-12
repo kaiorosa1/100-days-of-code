@@ -672,10 +672,10 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ### Day 66: July 11, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Today I worked on the Java project and I also worked on some FCC challenges. I'm learning about using get and use functions in Express. In the java project I worked on the GUIs for a bit.
 
-**Thoughts**: 
+**Thoughts**: I can't wait for all of this to be over I feel so overwhelmed and I just want to chill out for a bit. My eating poorly and my sleep schedules is almost non-existent but it's the final weeks. Fighting!!
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/SistemaCredenciamentoPPGI/commit/c13aa33988f0823686fbf28935a8314b0d479194)
 
 ---
