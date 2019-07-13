@@ -679,3 +679,14 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/SistemaCredenciamentoPPGI/commit/c13aa33988f0823686fbf28935a8314b0d479194)
 
 ---
+
+### Day 67: July 12, 2019
+
+**Today's Progress**: Today I worked on the Java project and I also worked on some FCC challenges. It's been a bit same old same old but It's good since I'm so tired and I had almost no sleep.
+
+**Thoughts**: I NEED A BREAK, not from coding but from my classes and this school environment. I've burned out!!!!!!!!
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/SistemaCredenciamentoPPGI/commit/8ff236dd41c96aaae861e00783549ca615aa6f6a)
+
+---
+
