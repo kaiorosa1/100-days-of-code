@@ -690,3 +690,13 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ---
 
+### Day 68: July 13, 2019
+
+**Today's Progress**: Today I worked more on the Java project. This project's gonna be big one because I need to finish the part of registering Docentes, Publicacao, Veiculos and so on in the database but I intended at least at first to do the all of the CRUD but I can see that this will take me a while so I might just do the CR part haha. It's been interesting because I've been learning a lot about how to save and retrieve data and it's not as trivial as I was expecting especially when it comes to saving Objects (or parts of). I've been working on FCC challenges as well but they are not as good to be honest I think the quality is not that great but I love the platform in general, this last challenges and the last certification for that matter, has been very superficial and I had the need to complement a lot so that I could understand the concepts.
+
+**Thoughts**: I've putting it off all day but I am glad I can still "force myself" to do it. I've struggling with procrastination but when I get to do the thing it's never that bad. Don't get me wrong I do the things I need but I still need to have better time management I need to start changing some of my behaviors so I can be more productive.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/SistemaCredenciamentoPPGI/commit/0098c6d3f27bf54eabd215b6295398878de0471b)
+
+---
+
