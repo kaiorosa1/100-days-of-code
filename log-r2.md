@@ -712,11 +712,11 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ### Day 70: July 15, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Today I worked on some FCC challenges. I completed the Basic Node and Express section. It was very basic I was expecting to learn more routes and post and http request and stuff but it focused a lot on setting up the routes and understanding how to retrieve data. I also worked on the Java project.
 
-**Thoughts**: 
+**Thoughts**:  I like when do a lot of FCC because often the challenges are very bite-sized and I can learn what is inteded but at the same time I feel that when it comes to a complex topic they don't do it justice and leave me hanging I don't know if it's only me but I don't think so.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/SistemaCredenciamentoPPGI/commit/b2ed662164dc32a1bdf309905b193bd6d44669df)
 
 ---
 
