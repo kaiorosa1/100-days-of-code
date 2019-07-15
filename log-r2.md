@@ -702,11 +702,11 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ### Day 69: July 14, 2019
 
-**Today's Progress**: 
+**Today's Progress**: I worked on the SistemaPPGI project (Java), I implemented addListarQualificacao which is function that returns a list of Qualificacoes from the database. Also did some FCC challenges.
 
-**Thoughts**: 
+**Thoughts**: Working on project shines the lights on where you might be lacking. I need to learn a lot about databases and how to design them. I've been realising the pattern of lacking of designing skills so I really know where I should be focusing my efforts when I'm on vacation.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/SistemaCredenciamentoPPGI/commit/38aac72e3d5554107e6366a4bab5c1cf5f7c61c6)
 
 ---
 
