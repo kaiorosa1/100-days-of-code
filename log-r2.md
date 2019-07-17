@@ -730,4 +730,14 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ---
 
+### Day 72: July 17, 2019
+
+**Today's Progress**: Today I worked on the MongoDB and Mongoose section again. I solved a challenge that required me to create a Person model. It was easy but the challenges are not very helpful I read the documentation but what really helped to learn was another page I found googling.
+
+**Thoughts**: Very tiresome to be studying for a big exam and having to worry about coding for an hour.
+
+**Link(s) to work**: [Commit Link](#)
+
+---
+
 
