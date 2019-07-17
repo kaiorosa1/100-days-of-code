@@ -722,11 +722,11 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ### Day 71: July 16, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Today I focused on the MongoDB and Mongoose section on FCC. I only finished the first challenge because I spent a lot of time figuring out and setting up MongoDB. I also worked a bit on the Java project. 
 
-**Thoughts**:  
+**Thoughts**:  I have some wonderful news but I'm only gonna share once I sort everything and I can talk about more about it. One thing I can say is that databases are going to become my close friends lol. 
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/SistemaCredenciamentoPPGI/commit/2540efc2f4d096ea12f8d4e5c06549e946b1f42c)
 
 ---
 
