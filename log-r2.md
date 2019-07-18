@@ -740,4 +740,14 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ---
 
+### Day 73: July 18, 2019
+
+**Today's Progress**: I worked  on some menial tasks on my Java project. I have yet to decide what I am gonna do next, for the time being I'm working on the GUIs again. I also worked a FCC challenge about creating and saving a Record Model.
+
+**Thoughts**: I'm officially on vacation with a bittersweet taste more on that another time. I will take this few days I have to truly enjoy and rest because it's a tough couple of months in so many ways.. What matters is that I'm on vacation and I can focus more on what is important to me.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/SistemaCredenciamentoPPGI/commit/75ebd04dc8db0c1b883de95c3a2290d223aa9401)
+
+---
+
 
