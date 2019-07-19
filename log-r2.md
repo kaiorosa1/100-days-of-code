@@ -752,11 +752,11 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ### Day 74: July 19, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Today I worked on the Java project. I created and implemented listarRegras and started commenting the code. I aslo worked on a FCC challenge. I'm taking my time with these challenges I think this certification is very shallow and I think the name is a bit misleading but it's FCC so I like their intention.
 
-**Thoughts**: 
+**Thoughts**: I'm in my hometown and I feel so tired of the traveling. It's not far but it was a long day. I'll be here for a coulple of days, it's good to see family and close friends.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/SistemaCredenciamentoPPGI/commit/0c73a71ee88f6aaa1e74c8353ab983161b3f3b33)
 
 ---
 
