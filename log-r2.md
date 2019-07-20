@@ -762,10 +762,10 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ### Day 75: July 20, 2019
 
-**Today's Progress**: I worked on some FCC challenges. I've been learning about MongoDB and Mongoose. I think I need to complement my learning with another resource. Youtube? Books? Udemy?
+**Today's Progress**: I worked on some FCC challenges. I've been learning about MongoDB and Mongoose. I think I need to complement my learning with another resource. Youtube? Books? Udemy? I also worked on the Java project. I don't know how long I'll be working on this project. I need to design the database better to fit the project.
 
 **Thoughts**: I've spend the day with one of my best friends in the world and it was so refreshing I needed to see her and talk to her I feel bad that I don't that as often as I should. We played xbox and talked about everything I loved it. 
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/SistemaCredenciamentoPPGI/commit/094c9cea6ca6d19833bce4c07480428af33bd5e2)
 
 ---
