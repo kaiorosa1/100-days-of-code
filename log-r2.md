@@ -762,9 +762,9 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ### Day 75: July 20, 2019
 
-**Today's Progress**: 
+**Today's Progress**: I worked on some FCC challenges. I've been learning about MongoDB and Mongoose. I think I need to complement my learning with another resource. Youtube? Books? Udemy?
 
-**Thoughts**: 
+**Thoughts**: I've spend the day with one of my best friends in the world and it was so refreshing I needed to see her and talk to her I feel bad that I don't that as often as I should. We played xbox and talked about everything I loved it. 
 
 **Link(s) to work**: [Commit Link](#)
 
