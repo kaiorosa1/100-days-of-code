@@ -772,10 +772,10 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ### Day 76: July 21, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Today I worked on some FCC challenges. I'm almost done with the MongoDB and Mongoose section. This was a very short course and it was very basic.
 
-**Thoughts**:  
+**Thoughts**:  I'm pretty sure that the projects are going to take me almost 10 times it took me to complete the challenges. I hope they don't focus as much on the MongoDB section because it was, in a few words, sloppy. I know they intend you to read the docs and google stuff but it was too basic and I think what the projects are going to require you to do it's gonna take you a lot of time.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/mongodb-basics/commit/9cb7ac3aa05fa91861a34a576e084812002beb9f)
 
 ---
