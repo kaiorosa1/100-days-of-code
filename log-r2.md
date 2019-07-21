@@ -772,7 +772,7 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ### Day 76: July 21, 2019
 
-**Today's Progress**: Today I worked on some FCC challenges. I'm almost done with the MongoDB and Mongoose section. This was a very short course and it was very basic.
+**Today's Progress**: Today I worked on some FCC challenges. I finished the MongoDB and Mongoose section so this means now I'll be working on this certification projects. The challenges in general was fun but it was very basic and I was hoping for more depth. I know FCC is only the first step when you want to become a full stack, they only give you the path but you have to be willing to look for more.
 
 **Thoughts**:  I'm pretty sure that the projects are going to take me almost 10 times it took me to complete the challenges. I hope they don't focus as much on the MongoDB section because it was, in a few words, sloppy. I know they intend you to read the docs and google stuff but it was too basic and I think what the projects are going to require you to do it's gonna take you a lot of time.
 
