@@ -769,3 +769,13 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/SistemaCredenciamentoPPGI/commit/094c9cea6ca6d19833bce4c07480428af33bd5e2)
 
 ---
+
+### Day 76: July 21, 2019
+
+**Today's Progress**: 
+
+**Thoughts**:  
+
+**Link(s) to work**: [Commit Link](#)
+
+---
