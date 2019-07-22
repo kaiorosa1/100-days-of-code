@@ -782,10 +782,10 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ### Day 77: July 22, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Today I watched videos about Database Design because I want to better my design skills and it will come in handy soon. I finished the Request Header Parser Microservice. Being honest these two project were very basic I want something more challenging. Finishing this certification I intend to get serious in a Udemy course.
 
-**Thoughts**: 
+**Thoughts**: I decided to stay another day in my hometown and it's been a very productive day I've been enjoying time with family and coding. Learning more about database has been fun.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/request-header-parser-microservice-fcc/commit/eb0ccf30c13607fcdbedc757b8e4559dfac51be9)
 
 ---
