@@ -779,3 +779,13 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/mongodb-basics/commit/9cb7ac3aa05fa91861a34a576e084812002beb9f)
 
 ---
+
+### Day 77: July 22, 2019
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: [Commit Link](#)
+
+---
