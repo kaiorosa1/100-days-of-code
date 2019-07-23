@@ -789,3 +789,13 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/request-header-parser-microservice-fcc/commit/eb0ccf30c13607fcdbedc757b8e4559dfac51be9)
 
 ---
+
+### Day 78: July 23, 2019
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/url-shortener-microservice-fcc/commit/2e6af7e48039e79e383a9892da71b640ce3fd0bc)
+
+---
