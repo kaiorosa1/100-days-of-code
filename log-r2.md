@@ -792,9 +792,9 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ### Day 78: July 23, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Today I worked on the URL shortner project from FCC and I mostly googled stuff and imported (required) librararies and created the necessary routes. I also wrote more comments in my Java project.
 
-**Thoughts**: 
+**Thoughts**: I traveled back to Vitoria and it was so tiring I need to go to sleep very soon. I intend to comment all of my Java project. The Java project is far from done but I won't be working on that anymore I need to shift my focus on learning more about databases and SQL technologies. I believe that bettering my database design skills and my database knowledge in general will make me a better developer and then I can get back to old project with a fresh perspective.
 
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/url-shortener-microservice-fcc/commit/2e6af7e48039e79e383a9892da71b640ce3fd0bc)
 
