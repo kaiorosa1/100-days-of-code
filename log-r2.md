@@ -802,10 +802,10 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ### Day 79: July 24, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Today I created some GUIs in my Java project. I watched some SQL Server tutorial(SQL in an hour video). I'm very tired of my first day but I'm very happy that I officially started I'm very excited for what is coming next.
 
-**Thoughts**: 
+**Thoughts**: Today was my first day on my internship and I'm very tired I intend to write about my first week because I want to document all of my intership from day 1. I want to become better at SQL so I will be watching a lot of tutorials and maybe see how can I create a mini project so I can get better.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/SistemaCredenciamentoPPGI/commit/f160e2e4706e8cc7d802c99da8b60163f646a327)
 
 ---
