@@ -812,7 +812,7 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ### Day 80: July 25, 2019
 
-**Today's Progress**: I watched the rest of the SQL Basics. It was an overview about basic queries using SQL server. 
+**Today's Progress**: I watched the rest of the SQL Basics. It was an overview about basic queries using SQL server. I've learned about INNER JOIN and I think this will be helpful on my Java project. I also worked on the URL Shortener Microservice project.
 
 **Thoughts**: I think the hardest part about working with database is the design aspect of it. I know there are a lot of problems that a inherit by using databases but I'm not at this level yet I have a very basic knowledge so this is the first apparent one. I know that is a problem regardless of the technology.
 
