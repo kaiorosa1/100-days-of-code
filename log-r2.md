@@ -816,6 +816,6 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 **Thoughts**: I think the hardest part about working with database is the design aspect of it. I know there are a lot of problems that a inherit by using databases but I'm not at this level yet I have a very basic knowledge so this is the first apparent one. I know that is a problem regardless of the technology.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/url-shortener-microservice-fcc/commit/9fefe38b55a30f7b6ce1779331e16b266536c30c)
 
 ---
