@@ -809,3 +809,13 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/SistemaCredenciamentoPPGI/commit/f160e2e4706e8cc7d802c99da8b60163f646a327)
 
 ---
+
+### Day 80: July 25, 2019
+
+**Today's Progress**: I watched the rest of the SQL Basics. It was an overview about basic queries using SQL server. 
+
+**Thoughts**: I think the hardest part about working with database is the design aspect of it. I know there are a lot of problems that a inherit by using databases but I'm not at this level yet I have a very basic knowledge so this is the first apparent one. I know that is a problem regardless of the technology.
+
+**Link(s) to work**: [Commit Link](#)
+
+---
