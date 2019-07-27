@@ -822,10 +822,10 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ### Day 81: July 26, 2019
 
-**Today's Progress**:
+**Today's Progress**: I started implementing a new approach to the URL Shortner Microservice project (FCC). I also watched some SQL Server Tutorials (Thanks Caleb).
 
-**Thoughts**: 
+**Thoughts**: I think now I get what the URL Shortener Really is. I got a rough idea and I was not really sure what I needed to do or how MongoDB would get in game. I hope that now I can make more progress because this one is hader than the last two and love it. I don't understand myself I feel very insecure about my habilities when I face something hard but I hate when things are too easy or simple. I think I just need to get something challeging enough for me to be satisfied. (I'm in a adjusting process)
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/url-shortener-microservice-fcc/commit/7fea8dbb545bb1105d72b3274f0f3d85685931d5)
 
 ---
