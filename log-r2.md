@@ -832,10 +832,10 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ### Day 82: July 27, 2019
 
-**Today's Progress**: 
+**Today's Progress**: I worked on the URL Shortner project on freeCodeCamp. I mainly worked on fixing a bug and creating the Short Model. I also watched some SQL Server Tutorial. The tutorials are very basic but I think it's important to cover everything since I need to be familiar with it.
 
-**Thoughts**: 
+**Thoughts**: Back-end is more fun than front-end one and I'm just scratching the surface. I'm wondering how can I create projects in SQL Server. I know I'll be coding a lot in SQL but I want to be working on my own side projects and I want them to be in SQL Server. 
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/url-shortener-microservice-fcc/commit/0b70035cde152bd3aaa61bc5d1de71274b8bb416)
 
 ---
