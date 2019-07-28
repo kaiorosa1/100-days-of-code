@@ -839,3 +839,13 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/url-shortener-microservice-fcc/commit/0b70035cde152bd3aaa61bc5d1de71274b8bb416)
 
 ---
+
+### Day 83: July 28, 2019
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: [Commit Link](#)
+
+---
