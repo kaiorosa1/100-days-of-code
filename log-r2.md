@@ -844,7 +844,7 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 **Today's Progress**: Today I worked more on the URL Shortener project on FCC, I added the saving and finding part of the db but it's not working the way it should. I don't know how to solve it yet but tomorrow I will. I watched a bunch of tutorials on SQL Server and I starting taking notes to make easier that reviewing process.
 
-**Thoughts**: I wish my weekend were more productive but I'm happy with what I could accomplish. Tomorrow is gonna be a learning day and I'm very excited to start learning at work. It feels weird to say boss and work yet but I'll get used to.
+**Thoughts**: I wish my weekend were more productive but I'm happy with what I could accomplish. Tomorrow is gonna be a learning day and I'm very excited to start learning at work. It still feels weird to say boss and work but I'll get used to.
 
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/url-shortener-microservice-fcc/commit/ab1e5ecd194c761d91183ab4982cbd19f6bddda3)
 
