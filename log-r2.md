@@ -832,7 +832,7 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ### Day 82: July 27, 2019
 
-**Today's Progress**: I worked on the URL Shortner project on freeCodeCamp. I mainly worked on fixing a bug and creating the Short Model. I also watched some SQL Server Tutorial. The tutorials are very basic but I think it's important to cover everything since I need to be familiar with it.
+**Today's Progress**: I worked on the URL Shortener project on freeCodeCamp. I mainly worked on fixing a bug and creating the Short Model. I also watched some SQL Server Tutorial. The tutorials are very basic but I think it's important to cover everything since I need to be familiar with it.
 
 **Thoughts**: Back-end is more fun than front-end one and I'm just scratching the surface. I'm wondering how can I create projects in SQL Server. I know I'll be coding a lot in SQL but I want to be working on my own side projects and I want them to be in SQL Server. 
 
@@ -842,10 +842,10 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ### Day 83: July 28, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Today I worked more on the URL Shortener project on FCC, I added the saving and finding part of the db but it's not working the way it should. I don't know how to solve it yet but tomorrow I will. I watched a bunch of tutorials on SQL Server and I starting taking notes to make easier that reviewing process.
 
-**Thoughts**: 
+**Thoughts**: I wish my weekend were more productive but I'm happy with what I could accomplish. Tomorrow is gonna be a learning day and I'm very excited to start learning at work. It feels weird to say boss and work yet but I'll get used to.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/url-shortener-microservice-fcc/commit/ab1e5ecd194c761d91183ab4982cbd19f6bddda3)
 
 ---
