@@ -853,10 +853,10 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ### Day 84: July 29, 2019
 
-**Today's Progress**: 
+**Today's Progress**: I tried working with the db part of the URL Shortener but with not much success. It's not saving in the db but it seems not to be even creating the model right. I spent a lot of time trying to tests and rewrite but it didn't work better luck to me tomorrow. I also watched some SQL Server tutorials that is being all about database design but it's cool for me because this is the part the I'm most interested in.
 
-**Thoughts**: 
+**Thoughts**: Working for 6 hours straight is not easy and I think it'll take time for me to get used to, don't get me wrong I've been enjoying and today was the best day so far because I finally worked on something that will impact in the project. I'm a bit worried about the next semester because I already can see that it will be hard but I hope I come out stronger and my time management skills become sharper. I have good time management skills I think I lack in learning how to prioritize sometimes. I'll do better and I will get better. You can do it Kaio!!!! 
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/url-shortener-microservice-fcc/commit/f5fe2caadb7b4946566606190fbfd1a95a8b79b8)
 
 ---
