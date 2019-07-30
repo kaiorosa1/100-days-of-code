@@ -863,11 +863,11 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ### Day 85: July 30, 2019
 
-**Today's Progress**:
+**Today's Progress**: Worked on the URL Shortener project. I still don't know how to solve this and I will try watching some tutorials about it. Apparently is saving into the db but I can't find it so it's not saving or there's a problem with my model.
 
 **Thoughts**:
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/url-shortener-microservice-fcc/commit/d84d9e3fea158856f576e5c1f82f18882e1428d9)
 
 ---
 
