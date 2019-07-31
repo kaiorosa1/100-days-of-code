@@ -863,9 +863,9 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ### Day 85: July 30, 2019
 
-**Today's Progress**: Worked on the URL Shortener project. I still don't know how to solve this and I will try watching some tutorials about it. Apparently is saving into the db but I can't find it so it's not saving or there's a problem with my model.
+**Today's Progress**: Worked on the URL Shortener project. I still don't know how to solve this and I will try watching some tutorials about it. Apparently is saving into the db but I can't find it so it's not saving or there's a problem with my model. I watched some SQL tutorials and took notes on it. 
 
-**Thoughts**:
+**Thoughts**: It's been a good day, I still have to get used to my days being short. lol. I thought I would've solved the mongodb issue by today but I need to learn more about it before moving on. 
 
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/url-shortener-microservice-fcc/commit/d84d9e3fea158856f576e5c1f82f18882e1428d9)
 
