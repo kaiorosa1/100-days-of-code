@@ -873,11 +873,11 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ### Day 86: July 31, 2019
 
-**Today's Progress**:  
+**Today's Progress**:  I worked on the URL Shortener project (FCC) and made huge progress. It's redirecting to the right page and I fixed the issue with the DB. I took me a bit but I'm so glad I continued.
 
-**Thoughts**: 
+**Thoughts**: Today I could've coded more but now I see that I always sleep when I have the opportunity to so I did that early in the eveving. I think I'm adjusting well with the internship and everything is going smoothly. 
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/url-shortener-microservice-fcc/commit/239132ce1a36a8b336c147b342e23bcbce74ad0c)
 
 ---
 
