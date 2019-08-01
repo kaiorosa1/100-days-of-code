@@ -871,3 +871,13 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ---
 
+### Day 86: July 31, 2019
+
+**Today's Progress**:  
+
+**Thoughts**: 
+
+**Link(s) to work**: [Commit Link](#)
+
+---
+
