@@ -883,11 +883,11 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ### Day 87: August 1, 2019
 
-**Today's Progress**:  
+**Today's Progress**:  I worked on the URL Shotener project (FCC) and now it's not saving the same url twice. Before saving is checking if it's already in the database and it's displaying for the user. It's simple but it took me a bit, I was reving problem with checking null.
 
-**Thoughts**:  
+**Thoughts**: I'm feeling refreshed with the possibilities and I've been learning a lot about databases lately. It's very cool to be part of something different and innovative.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/url-shortener-microservice-fcc/commit/13001f5478f22318b0ef90c81ae3de5d77cd4c7c)
 
 ---
 
