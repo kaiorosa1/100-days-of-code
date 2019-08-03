@@ -891,3 +891,13 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ---
 
+### Day 88: August 2, 2019
+
+**Today's Progress**:  Today I worked on the URL Shortener project (FCC), I mainly made some verifications and  wrote some comments to guide me to write the solutions I want to implement. 
+
+**Thoughts**: I must learn to prioritize and I should be more willing to take actions. I need to become better in delphi to solve a particular solution and it's cool and scary at the same time.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/url-shortener-microservice-fcc/commit/3483c7ad6ee4b831d7c0d5f836a401541ebf9b4d)
+
+---
+
