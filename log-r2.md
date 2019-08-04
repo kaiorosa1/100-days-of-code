@@ -901,3 +901,14 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ---
 
+### Day 89: August 3, 2019
+
+**Today's Progress**: Today I finished the URL Shortener project (FCC). I worked on some issues that I had for the past few days with the db.  Now I have two more left to complete this certification. 
+
+**Thoughts**: It's a very good feeling when you finish a project. You learn a lot about a subject and it's very rewarding solving all of the problems you come across and it's even better when you come up with sophisticated solutions to the problem at hand. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/url-shortener-microservice-fcc/commit/0319362c40034c7869ca1cc297c2cd76edffd5cd)
+
+---
+
+
