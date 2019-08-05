@@ -911,4 +911,14 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ---
 
+### Day 90: August 4, 2019
+
+**Today's Progress**:  I started working on the Exercise Tracker project (FCC). I started to set up the MongoDB and stared working on the routes.
+
+**Thoughts**: It's very fulfulling to be finishing projects and learning with it.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/exercise-tracker-fcc/commit/ca85d3e3e47f468cad40e1c4c3b48e7d7a6f6948)
+
+---
+
 
