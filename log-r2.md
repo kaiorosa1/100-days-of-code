@@ -921,4 +921,14 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ---
 
+### Day 91: August 5, 2019
+
+**Today's Progress**: Today I worked on the Exercise Tracker application (FCC). I focused on the routes and creating the mongoose schema. I also watched some Delphi tutorials.
+
+**Thoughts**: Whenever I go to my internship early in the morning I have a very unproductive day so I will try to change that. Today I procrastinated a lot but I got the job done.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/exercise-tracker-fcc/commit/1ab5306be1a6f0c8b1efb9bf359847049c2cf1cc)
+
+---
+
 
