@@ -931,4 +931,13 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ---
 
+### Day 92: August 6, 2019
+
+**Today's Progress**: I worked on the Exercise Tracker project (FCC). Focused on the route about creating a new user and checking the conditions to not have duplicates and to use valid names. I also watched SQL tutorials. 
+
+**Thoughts**: I'm very energised and worried for what's cominng. I have a tough semester coming but I'm sure I'll do my best and everything is gonna be fine. I've been learning so much about people and about myself I hope I become better at interacting with human beings in the process.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/exercise-tracker-fcc/commit/79d15237e86be88d08aa850bd4b5b26db3a77c85)
+
+---
 
