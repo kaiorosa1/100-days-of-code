@@ -941,3 +941,14 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ---
 
+
+### Day 93: August 7, 2019
+
+**Today's Progress**: Today I worked on the Exercise Tracker project (FCC). I focused on another route /exercise/add. It's similar to the other one but I have to update an existing model and then show it in a json format.
+
+**Thoughts**: I haven't been the best coder lately but I've been making consistent progress. JavaScript is so cool and versitile but I can't wait to discover what I can do with Java and its frameworks. I'm a sucker for Java I know. lol
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/exercise-tracker-fcc/commit/f7e2228e0a2888fd42b4a8f70031b1d2f0ac9fb4)
+
+---
+
