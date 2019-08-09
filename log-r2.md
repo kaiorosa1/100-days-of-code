@@ -953,9 +953,10 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ### Day 94: August 8, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Today I worked on the Exercise Tracker project (FCC). I worked on creating and finishing routes and fixing issues. I also watched some SQL Server Tutorials. 
 
-**Thoughts**: 
+**Thoughts**: My internship has been a bit challenging but I think I've been adapthing well. I don't want to be underperforming but I don't know about that yet. Tomorrow I'll start my IC (research that I'll be a part of) so things will start to be more rough. I'm very excited to be part of everything.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/exercise-tracker-fcc/commit/dc8e0308ae814a0a31ea7aa7067b7f183ed4d358)
+
 ---
