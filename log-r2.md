@@ -963,10 +963,10 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ### Day 95: August 9, 2019
 
-**Today's Progress**: 
+**Today's Progress**: I worked on the Exercise Tracker project (FCC). I worked on the show all users route and also started working on the show specific user route.
 
-**Thoughts**: 
+**Thoughts**: It is been a very tiresome day but it was very productive as well. I'm now offically two days late to my IC duties. lol. I will start reading first thing tomorrow and I need to organize my schedule. 
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/exercise-tracker-fcc/commit/a326b59b225cf055f9b97597547071094bb13545)
 
 ---
