@@ -983,10 +983,10 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ### Day 97: August 11, 2019
 
-**Today's Progress**: 
+**Today's Progress**: I worked on the Exercise Tracker (FCC). Solved the issue with the ids I was having, now it's possible for the user to register more than one exercise. Now with this new approach when the /api/exercises/users route is called it's showing duplicates and I still need to fix this.
 
-**Thoughts**: 
+**Thoughts**: I decided to code very early today because I have a lot of reading to do and I want to focus on that rather on coding. Web Engineering articles and research and stuff (don't know what I'm saying to this point) here I come.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/exercise-tracker-fcc/commit/56fff8b2b10eb5487852a389f9e01246932a83d6)
 
 ---
