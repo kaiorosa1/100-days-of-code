@@ -971,7 +971,6 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ---
 
-
 ### Day 96: August 10, 2019
 
 **Today's Progress**: I worked on the Exercise Tracker project (FCC). I finished the route that show data from a specific user and changed the route of how users are being added. I believe it's only registering everything by the user id so the user can't add more than exercise in their log.
@@ -979,5 +978,15 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 **Thoughts**: The weekend is for resting and that's what I did. It was a very chilling day I didn't force productivity.
 
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/exercise-tracker-fcc/commit/e2eb75e7f5bee9de932d0ef03b37af6d8e3c47df)
+
+---
+
+### Day 97: August 11, 2019
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: [Commit Link](#)
 
 ---
