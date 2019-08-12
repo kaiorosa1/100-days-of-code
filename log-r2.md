@@ -990,3 +990,13 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/exercise-tracker-fcc/commit/56fff8b2b10eb5487852a389f9e01246932a83d6)
 
 ---
+
+### Day 98: August 12, 2019
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+**Link(s) to work**: [Commit Link](#)
+
+---
