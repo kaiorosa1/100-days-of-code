@@ -993,10 +993,10 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ### Day 98: August 12, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Today I worked on the Exercise Tracker project (FCC). Now the users route is not showing duplicates. It took me a while to find the way to filter out the duplicates. I also watched some SQL Server Tutorials. 
 
-**Thoughts**:
+**Thoughts**: It's been a long day I still ahvae some reading to do. But I feel very energized with the start of this new semester. I want to correct all the mistakes I made in the last one. I know I can and I will. Go Kaio. I have a lot of exciting projects going on and I can see myself becoming a better developer.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/exercise-tracker-fcc/commit/c6bda0a7e23d00561187045ee7e8acb6187d5a0b)
 
 ---
