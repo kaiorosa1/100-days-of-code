@@ -1003,10 +1003,10 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 
 ### Day 99: August 13, 2019
 
-**Today's Progress**:  
+**Today's Progress**:  Today I worked on the Exercise Tracker project (FCC). I'm working on the final touches to finish this project. There is still a functionality that shows the log from specific time that is not implemented yet, but I believe this can be solved with a simple condition let's see. I hope to finish this project tomorrow to finish this second round beautifully.
 
-**Thoughts**: 
+**Thoughts**: I can't describe how tired I am. I have a lot of reading that I'm getting behind and I haven't started yet and the guilt is consuming me because I actually want to be a part of this research group.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/exercise-tracker-fcc/commit/8a731a6f86da8cffd09928921e4c149218b01a75)
 
 ---
