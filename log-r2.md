@@ -1010,3 +1010,13 @@ I've seen that my summaries are very brief lately haha. Most of the time this is
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/exercise-tracker-fcc/commit/8a731a6f86da8cffd09928921e4c149218b01a75)
 
 ---
+
+### Day 100: August 14, 2019
+
+**Today's Progress**:  I worked more on the Exericise Tracker project (FCC). Unfortunately I was not able to finish as I planned but this round was all about debunking expectation about time and productivity for me. It took me a lot more time than I was expecting I'm still learning how to forgive myself and undertand that it takes time and I'm not falling behind because I still feel this way all the time.
+
+**Thoughts**: Yay It's another one in the basket haha. I can't believe I completed another round! This round was very hard and only I how much it costed me in terms of time management and sacrifices. I loved every step of the way I'm yet to decide if continuing is the best option for me but I'm really proud of myself for being consistent and believing that hard work pays off. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/exercise-tracker-fcc/commit/1514892cdc0eeeca3b64559892cf557d03f90841)
+
+---
