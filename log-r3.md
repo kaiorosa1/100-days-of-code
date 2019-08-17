@@ -13,10 +13,10 @@
 
 ### Day 2: August 16, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Today I reviewed more C++ and I watched some C++ Tutorials.
 
-**Thoughts**:
+**Thoughts**: Friday is always a day where I just wanna get home and sleep. Coding is fun and sometimes it's hard for me to not code.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/cpp-exercises/commit/a4a61660e816eb94c0c54c212aa4e89cd03b891d)
 
 ---
