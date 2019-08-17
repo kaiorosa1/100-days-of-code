@@ -23,7 +23,7 @@
 
 ### Day 3: August 17, 2019
 
-**Today's Progress**: I worked on the Exercise Tracker project (FCC). I worked on getting the right data from the url query. 
+**Today's Progress**: I worked on the Exercise Tracker project (FCC). I finally finished the project. I love this feeling of finishing a project, it's very fulfulling and I love knowing that this feeling is constant in work-life. 
 
 **Thoughts**: Today hasn't been as productive as I wanted but obviously I could do much more than I expected from a weekend.
 
