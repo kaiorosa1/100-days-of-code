@@ -10,3 +10,13 @@
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/cpp-exercises/commit/64ad359dd9b97f264c5b65a932ce36dfc8ccf36c)
 
 ---
+
+### Day 2: August 16, 2019
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+**Link(s) to work**: [Commit Link](#)
+
+---
