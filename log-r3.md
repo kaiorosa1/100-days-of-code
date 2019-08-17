@@ -20,3 +20,13 @@
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/cpp-exercises/commit/a4a61660e816eb94c0c54c212aa4e89cd03b891d)
 
 ---
+
+### Day 3: August 17, 2019
+
+**Today's Progress**: I worked on the Exercise Tracker project (FCC). I worked on getting the right data from the url query. 
+
+**Thoughts**: Today hasn't been as productive as I wanted but obviously I could do much more than I expected from a weekend.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/exercise-tracker-fcc/commit/cf9e5f38ffd921ef4078d33044df5a5f25edae0f)
+
+---
