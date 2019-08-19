@@ -30,3 +30,13 @@
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/exercise-tracker-fcc/commit/cf9e5f38ffd921ef4078d33044df5a5f25edae0f)
 
 ---
+
+### Day 4: August 18, 2019
+
+**Today's Progress**:  Today I reviewed and watch a bunch of C++ tutorials. I learned about templatize function in C++, which can be very useful to use instead of overloading function.  I also started the File Metadata Microservice project (FCC). 
+
+**Thoughts**: C++ is very fun to code and I know I have my plate full in this semester. I want to be on top of all my classes I know it's gonna be hard but most of them involves code so I'll enjoy them a lot. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/file-metadata-microservice-fcc/commit/d04cdc113c5ea7596f8705c89c0622fda1d4b90b)
+
+---
