@@ -43,10 +43,10 @@
 
 ### Day 5: August 19, 2019
 
-**Today's Progress**:   
+**Today's Progress**:   Today I worked on the File Metadata Microservice project (FCC). I started understanding what needs to be done and read the multer api and now it's a bit more clear but I still need to figure out how to continue the project. I also reviewed more C++.
 
-**Thoughts**:
+**Thoughts**: I spent a lot of time on dual booting my machine it was a bit frustating but everything went fine. I'm feeling that I need to more delligent with my time because I have a lot of reading to do and I'm so far from getting close to meeting my reading goal per week and I would love to prioritize that in the next couple of days.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/file-metadata-microservice-fcc/commit/b5dd6b2ea36b99914f642bf716710757e0c2599f)
 
 ---
