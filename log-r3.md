@@ -53,10 +53,10 @@
 
 ### Day 6: August 20, 2019
 
-**Today's Progress**:  
+**Today's Progress**:  I focused on C++ again and using linux. I've been refreshing how to use the terminal and how to setup git in my new repository for the next few days I'll be coding a project a did in java but in C++. Let's see how that goes.
 
-**Thoughts**: 
+**Thoughts**: Always tired but always wanting to get coding. To be honest I don't know how I code in days like this. Not an end of the semester day but I'm tired. I finished reading one research paper that I wanted though I'll figure out how to balance everything. 
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/credenciamento-ppgi-cpp/commit/6770da430a2bd6a0c47f0b2f588ac3d366c82836)
 
 ---
