@@ -50,3 +50,13 @@
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/file-metadata-microservice-fcc/commit/b5dd6b2ea36b99914f642bf716710757e0c2599f)
 
 ---
+
+### Day 6: August 20, 2019
+
+**Today's Progress**:  
+
+**Thoughts**: 
+
+**Link(s) to work**: [Commit Link](#)
+
+---
