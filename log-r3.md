@@ -60,3 +60,13 @@
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/credenciamento-ppgi-cpp/commit/6770da430a2bd6a0c47f0b2f588ac3d366c82836)
 
 ---
+
+### Day 7: August 21, 2019
+
+**Today's Progress**:  I started the project in C++. I;m still learning the sysntax and I hope to start getting more confortable soon. I want to be coding in a C++ way if this makes sense. I created the classes and started refamiliarizing with that project.
+
+**Thoughts**: Know it's official that I have a lot to do and I have to learn how to properly use my time. I don't know but today is a perfect example of how I don't see where my time going. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/credenciamento-ppgi-cpp/commit/45a1556af632e5150f83e9d3b5152e010fcd2610)
+
+---
