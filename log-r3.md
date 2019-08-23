@@ -63,7 +63,7 @@
 
 ### Day 7: August 21, 2019
 
-**Today's Progress**:  I started the project in C++. I;m still learning the sysntax and I hope to start getting more confortable soon. I want to be coding in a C++ way if this makes sense. I created the classes and started refamiliarizing with that project.
+**Today's Progress**:  I started the project in C++. I'm still learning the sysntax and I hope to start getting more confortable soon. I want to be coding in a C++ way if this makes sense. I created the classes and started refamiliarizing with that project.
 
 **Thoughts**: Know it's official that I have a lot to do and I have to learn how to properly use my time. I don't know but today is a perfect example of how I don't see where my time going. 
 
@@ -73,10 +73,10 @@
 
 ### Day 8: August 22, 2019
 
-**Today's Progress**:  
+**Today's Progress**:  Today I focused on C++ again. I worked on the SistemaPPGIC++ project.  I didn't code as much as I wanted. C++ syntax is being a bit hard for me to grasp.  I often don't know how to do things in the cpp way. For example I wanted to create a getter and a setter for an attribute but I moved the class definition to a .h file and I don't know anymore how to access the attribute. In my view I should be able to access it but apparent I'm not. When stuff like that happen I don't know if it's my C++ knowledge lacking or maybe it's something I'm really struggling. 
 
-**Thoughts**:  
+**Thoughts**:  I'm very excited to learn more about C++ and soon I'll be applying all of these knowledge in assignments.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/credenciamento-ppgi-cpp/commit/3c420d45012aa56a8f03b187bb8431b415ee7fb4)
 
 ---
