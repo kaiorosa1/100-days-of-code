@@ -93,10 +93,10 @@
 
 ### Day 9: August 23, 2019
 
-**Today's Progress**: 
+**Today's Progress**: I worked on the Credenciamento Project (aka SistemaPPGICPP). I started reading the input files and reading about how to do it in C++. I also watched more C++ tutorials.
 
-**Thoughts**:   
+**Thoughts**:  It's very hard to code when you don't have decent access to internet but I used my mobile data. Hopefully tomorrow my connection gets better because I don't think I have this much data to spare. 
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/credenciamento-ppgi-cpp/commit/471227a908617e331bf575dc99a92b00c71215ee)
 
 ---
