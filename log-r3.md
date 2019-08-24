@@ -80,3 +80,13 @@
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/credenciamento-ppgi-cpp/commit/3c420d45012aa56a8f03b187bb8431b415ee7fb4)
 
 ---
+
+### Day 9: August 23, 2019
+
+**Today's Progress**:  . 
+
+**Thoughts**:  
+
+**Link(s) to work**: [Commit Link](#)
+
+---
