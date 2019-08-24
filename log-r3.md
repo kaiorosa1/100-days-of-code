@@ -83,10 +83,20 @@
 
 ### Day 9: August 23, 2019
 
-**Today's Progress**: Today I worked on the SistemaPPGICPP project. I think I'm not have as much problems as I thought I would have. I created the getters and setters and I still have to think about some approaches on how to solve the problem at hand. C++ is a beautiful programming language. I say that until I start managing memory haha/
+**Today's Progress**: Today I worked on the SistemaPPGICPP project. I think I'm not have as much problems as I thought I would have. I created the getters and setters and I still have to think about some approaches on how to solve the problem at hand. C++ is a beautiful programming language. I say that until I start managing memory haha.
 
 **Thoughts**:  How can I code everyday ? That is still a question I have haha. The power of habit huh? 
 
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/credenciamento-ppgi-cpp/commit/36fa768e87edb803181608281e77efc8ab9d2c77)
+
+---
+
+### Day 9: August 23, 2019
+
+**Today's Progress**: 
+
+**Thoughts**:   
+
+**Link(s) to work**: [Commit Link](#)
 
 ---
