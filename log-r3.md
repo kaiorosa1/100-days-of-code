@@ -91,7 +91,7 @@
 
 ---
 
-### Day 9: August 23, 2019
+### Day 10: August 24, 2019
 
 **Today's Progress**: I worked on the Credenciamento Project (aka SistemaPPGICPP). I started reading the input files and reading about how to do it in C++. I also watched more C++ tutorials.
 
