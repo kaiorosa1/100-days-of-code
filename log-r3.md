@@ -100,3 +100,13 @@
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/credenciamento-ppgi-cpp/commit/471227a908617e331bf575dc99a92b00c71215ee)
 
 ---
+
+### Day 11: August 25, 2019
+
+**Today's Progress**: I worked on the Credenciamento Project (aka SistemaPPGICPP). Changed the Docente.h file and continued reading the docente.csv. Now I need to learn how to parse to the respective types properly. I also watched some C++ tuts.
+
+**Thoughts**:  My internet sucks, period twice. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/credenciamento-ppgi-cpp/commit/3b8743cb8249dbf3b13152a5dfc8e5a18be10e1a)
+
+---
