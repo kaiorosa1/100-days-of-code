@@ -120,3 +120,13 @@
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/credenciamento-ppgi-cpp/commit/487655f7b313111f8e32e6081a92b992bbc53d69)
 
 ---
+
+### Day 13: August 27, 2019
+
+**Today's Progress**: I set up OpenGL and opened my first program. There are a lot to learn but the important thing is that I could run it and now it's understanding time (the best part).
+
+**Thoughts**: Can I ever be on top of all my classes ? I don't think so. Anyway, I have a project that's gonna be coming soon(I don't even know what it is because the professor hasn't assigned to us yet) hopefully I'll do well.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/opengl-learning-cpp/commit/12a0801d526cdb7c2329a8fc6aa53c6ca33248d8)
+
+---
