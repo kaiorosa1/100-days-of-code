@@ -113,10 +113,10 @@
 
 ### Day 12: August 26, 2019
 
-**Today's Progress**: 
+**Today's Progress**: I worked on the Crecenciamento Project. I started parsing the values and I'm still not sure about how I'm handling dates in C++. It's very rudimental and I would hope it was easier but it's very C-like so it's cumbersome but I think I made it work. Now I'll be moving on and start reading other files so then I can focus on the funcionality which is quite simple for what I can remember.
 
-**Thoughts**:  
+**Thoughts**: I need to develop better habits lol. 
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/credenciamento-ppgi-cpp/commit/487655f7b313111f8e32e6081a92b992bbc53d69)
 
 ---
