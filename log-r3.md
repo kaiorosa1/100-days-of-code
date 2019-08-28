@@ -130,3 +130,13 @@
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/opengl-learning-cpp/commit/12a0801d526cdb7c2329a8fc6aa53c6ca33248d8)
 
 ---
+
+### Day 14: August 28, 2019
+
+**Today's Progress**: Today I focus on working with C++. For the next couple of days or even weeks I'll be working on a school project.  
+
+**Thoughts**: Yesterday I was feeling the professor would assign us our first project and there it is. I still have little idea of how I'm going to approach it. Fighting. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc1-computacao-grafica/commit/54dcf39d97a6e371b83371feddef3329dc611dde)
+
+---
