@@ -123,7 +123,7 @@
 
 ### Day 13: August 27, 2019
 
-**Today's Progress**: I set up OpenGL and opened my first program. There are a lot to learn but the important thing is that I could run it and now it's understanding time (the best part).
+**Today's Progress**: I set up OpenGL and opened my first program. There are a lot to learn but the important thing is that I could run it and now it's understanding time (the best part). I also worked on the Credenciamento project.
 
 **Thoughts**: Can I ever be on top of all my classes ? I don't think so. Anyway, I have a project that's gonna be coming soon(I don't even know what it is because the professor hasn't assigned to us yet) hopefully I'll do well.
 
