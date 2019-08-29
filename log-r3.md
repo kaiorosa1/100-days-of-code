@@ -133,7 +133,7 @@
 
 ### Day 14: August 28, 2019
 
-**Today's Progress**: Today I focus on working with C++. For the next couple of days or even weeks I'll be working on a school project.  
+**Today's Progress**: Today I focus on working with C++. For the next couple of days or even weeks I'll be working on a school project.  I started working on my school project and  it seems to be good so far. I have to learn how to print a circle and then how to interact with it.
 
 **Thoughts**: Yesterday I was feeling the professor would assign us our first project and there it is. I still have little idea of how I'm going to approach it. Fighting. 
 
