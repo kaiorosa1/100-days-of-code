@@ -140,3 +140,13 @@
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc1-computacao-grafica/commit/54dcf39d97a6e371b83371feddef3329dc611dde)
 
 ---
+
+### Day 15: August 29, 2019
+
+**Today's Progress**: Today I worked on the school project again. I'm learning how to pring points on the screen how the camera works and all that. I found great OpenGL tutorials and it is in spanish so that good.
+
+**Thoughts**: It was not a very good day I just want everything to over. I want the weeekend so I can spend all day at home and maybe I do something productive.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc1-computacao-grafica/commit/02d18ddc2e644b85644aa3ad711d9a04e8cdba65)
+
+---
