@@ -151,7 +151,7 @@
 
 ---
 
-### Day 15: August 30, 2019
+### Day 16: August 30, 2019
 
 **Today's Progress**: Today I wored on my school project again. I've played around with the keyboard func and how to interact with the window and its objects. I've watched some OpenGL/GLUT tutorials in spanish. 
 
