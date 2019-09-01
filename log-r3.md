@@ -153,10 +153,20 @@
 
 ### Day 16: August 30, 2019
 
-**Today's Progress**: Today I wored on my school project again. I've played around with the keyboard func and how to interact with the window and its objects. I've watched some OpenGL/GLUT tutorials in spanish. 
+**Today's Progress**: Today I worked on my school project again. I've played around with the keyboard func and how to interact with the window and its objects. I've watched some OpenGL/GLUT tutorials in spanish. 
 
 **Thoughts**: I want to use my 100DaysOfCode better but the last two days was almost impossible.
 
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc1-computacao-grafica/commit/3d8e31d05c1082d6e7a4926e5cb745e9ff89f9a9)
+
+---
+
+### Day 17: August 31, 2019
+
+**Today's Progress**: Today I worked on the GLUT project and I mostly tested some code and watched some tutorials.
+
+**Thoughts**: I could have been more productive but I was not intentionally maybe I'll regret it later but now I feel that I needed that "time off".  
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc1-computacao-grafica/commit/8d386119465c8264b00e36698d8e0bf27f871940)
 
 ---
