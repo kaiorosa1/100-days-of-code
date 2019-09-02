@@ -182,3 +182,14 @@
 
 
 ---
+
+### Day 19: September 2, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**: [Commit Link](#)
+
+
+---
