@@ -170,3 +170,15 @@
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc1-computacao-grafica/commit/8d386119465c8264b00e36698d8e0bf27f871940)
 
 ---
+
+
+### Day 18: September 1, 2019
+
+**Today's Progress**: I worked on the GLUT project again. I imported the TinyXml library to help me read the configuration of my program. I'm reading the documentation to help me do that. I'm a bit frustated why it took me this long to import a simple library.
+
+**Thoughts**: So  many what ifs but I'll continuing doing what I can do. I won't let myself get overwhelmed I have a lot to do but I do one thing at a time.  
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc1-computacao-grafica/commit/9bc9405844aba1b38791ca7beb984b061a6edfb9)
+
+
+---
