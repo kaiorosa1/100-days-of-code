@@ -193,3 +193,14 @@
 
 
 ---
+
+### Day 20: September 3, 2019
+
+**Today's Progress**: Today I worked more on TC1 project. I read the config file from a different directory. 
+
+**Thoughts**: I hate when it feels like I don't have enough time to do my things. I have an assignment due tomorrow that I haven't even started and this project that due at the end of this week. and I still believe I'll finish them on time but I have to cut time on sleeping.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc1-computacao-grafica/commit/f9980b185d39f398f2e854d36f30f7f1be906e84)
+
+
+---
