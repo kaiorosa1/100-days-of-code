@@ -185,11 +185,11 @@
 
 ### Day 19: September 2, 2019
 
-**Today's Progress**:
+**Today's Progress**: Today I worked more on TC1 project(I gave it a lot of names throughout this past week, lol). I'm reading the config file and getting the info I need. Next step is getting the mouse click function to work and draw a circle in the window.
 
-**Thoughts**:
+**Thoughts**: I was very productive even though I was not forcing myself to do stuff. I hope days can be like this more often.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc1-computacao-grafica/commit/6d7b3b47d95f9f7acc28ecc70399db158f19654c)
 
 
 ---
