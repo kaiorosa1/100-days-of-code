@@ -204,14 +204,14 @@
 
 ---
 
-
 ### Day 21: September 4, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Today I worked on the TC1 project again. I watched a video and implemented the circle drawing and now  I have to learn how to implement interactivity.
 
-**Thoughts**:
+**Thoughts**: I'm so tired today but I could learn how to draw a circle in and that's good this means that the basic functionality of the assignment is gonna be done.
 
-**Link(s) to work**: [Commit Link](#)
-
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc1-computacao-grafica/commit/6460579b502539eb3f3e0df1b503698a41319ae6)
 
 ---
+
+
