@@ -202,5 +202,16 @@
 
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc1-computacao-grafica/commit/f9980b185d39f398f2e854d36f30f7f1be906e84)
 
+---
+
+
+### Day 21: September 4, 2019
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+**Link(s) to work**: [Commit Link](#)
+
 
 ---
