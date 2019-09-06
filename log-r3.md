@@ -214,4 +214,14 @@
 
 ---
 
+### Day 22: September 5, 2019
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: [Commit Link](#)
+
+---
+
 
