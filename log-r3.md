@@ -216,11 +216,11 @@
 
 ### Day 22: September 5, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Today I worked on the TC1 project. I didn't code much but I read and watched some tutorials on OpenGL.
 
-**Thoughts**: 
+**Thoughts**: Not a very productive day but it was good one in terms of what is happened.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc1-computacao-grafica/commit/a71131d46b77dfc14780da1c0b92e9a7d69e78d0)
 
 ---
 
