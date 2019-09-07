@@ -224,4 +224,14 @@
 
 ---
 
+### Day 23: September 6, 2019
+
+**Today's Progress**: Today I worked on the TC1 project. I'm trying to print circle where I click with the mouse but no luck so far. 
+
+**Thoughts**: Friday is always very tiring I have a lot on my shoulder but I need to sleep at the same time.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc1-computacao-grafica/commit/b4c61366cb51eca6519ea967e8c7e1bbe2a8aa6e)
+
+---
+
 
