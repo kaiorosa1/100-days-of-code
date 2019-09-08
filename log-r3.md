@@ -244,4 +244,14 @@
 
 ---
 
+### Day 25: September 8, 2019
+
+**Today's Progress**: Today I worked on the TC1 project. Now I'm displaying the circles where I want them to be. I still have to implement the drag and drop functionality. Hopefully I'll finish this project today!!
+
+**Thoughts**: Last day to make it work. Thankfully things are going well but still a lot to do.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc1-computacao-grafica/commit/c23ef9bd59d01453826627933869228c3a54c21d)
+
+---
+
 
