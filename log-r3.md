@@ -236,11 +236,11 @@
 
 ### Day 24: September 7, 2019
 
-**Today's Progress**: Today I worked on the TC1 project.
+**Today's Progress**: Today I worked on the TC1 project. I divided the drawing into functions and now I'm dicovering how to display the functions where I intend them to be.
 
 **Thoughts**: Procastination will cost me. This TC1 project is due tomorrow night and I still have a buttload to do. Fighting Kaio!!!
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc1-computacao-grafica/commit/c23ef9bd59d01453826627933869228c3a54c21d)
 
 ---
 
