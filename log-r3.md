@@ -234,4 +234,14 @@
 
 ---
 
+### Day 24: September 7, 2019
+
+**Today's Progress**: Today I worked on the TC1 project.
+
+**Thoughts**: Procastination will cost me. This TC1 project is due tomorrow night and I still have a buttload to do. Fighting Kaio!!!
+
+**Link(s) to work**: [Commit Link](#)
+
+---
+
 
