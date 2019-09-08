@@ -250,7 +250,7 @@
 
 **Thoughts**: Last day to make it work. Thankfully things are going well but still a lot to do.
 
-**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc1-computacao-grafica/commit/c23ef9bd59d01453826627933869228c3a54c21d)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc1-computacao-grafica/commit/19379da6d9fce97bf44db0f44502a8661383876d)
 
 ---
 
