@@ -255,4 +255,13 @@ PS: I made it work I was able to implement all of the functionality. Now I need 
 
 ---
 
+### Day 26: September 9, 2019
+
+**Today's Progress**: Today I started working on another project. let's call it CC1. I'm reading the specification and I need to start right way because the due date is next week already.
+
+**Thoughts**: Another night another party as Ari Grande once said. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/cc-trab1/commit/48620f922ddb2c5b9919646ee3e8562fde6cc96e)
+
+---
 
