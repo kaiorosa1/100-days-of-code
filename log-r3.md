@@ -265,3 +265,13 @@ PS: I made it work I was able to implement all of the functionality. Now I need 
 
 ---
 
+### Day 27: September 10, 2019
+
+**Today's Progress**: Today I studied more about Flex. I read and ran some of the lab exercises. I just want time to breath I'm feeling a bit suffocated.
+
+**Thoughts**: I'm surprised with how many ways I find to disappoint myself. It's not good for my mental health being me. F it. I will get over it soon I always do.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/cc-trab1/commit/7812537ace617ff5e86e75562d469374cbba4083)
+
+---
+
