@@ -275,3 +275,13 @@ PS: I made it work I was able to implement all of the functionality. Now I need 
 
 ---
 
+### Day 28: September 11, 2019
+
+**Today's Progress**: Today I started reading the config file in the TC2 project. And also read the labs about flex and tiny and how the lexical analyzer work.
+
+**Thoughts**: Not a very good day. Starting to spiraling down. Reading my last few days may seem that I'm depressed but I think it's more of being tired and needing time to recharge.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc2-computacao-grafica/commit/7700b19e13d7a3984518e4e8c8e5e0a36b14e8aa)
+
+---
+
