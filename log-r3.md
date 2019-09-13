@@ -285,3 +285,13 @@ PS: I made it work I was able to implement all of the functionality. Now I need 
 
 ---
 
+### Day 29: September 12, 2019
+
+**Today's Progress**: Today I worked on the CC1 project and worked on the labs (meaning understanding them). 
+
+**Thoughts**: Today I decided to make peace with the fact that I don't have much time for myself so I will try my best to embrace the suck. Things won't go my way and I have to find a way to accept that but more than that I should find a way to turn everything around. I know I can do better. I have so many plans and I wanna be able to do them.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc2-computacao-grafica/commit/7700b19e13d7a3984518e4e8c8e5e0a36b14e8aa)
+
+---
+
