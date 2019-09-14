@@ -297,11 +297,11 @@ PS: I made it work I was able to implement all of the functionality. Now I need 
 
 ### Day 30: September 13, 2019
 
-**Today's Progress**:  
+**Today's Progress**:  Today I worked on the CC1 project again. But now I know that the project is progressing if you know what I mean.
 
-**Thoughts**: 
+**Thoughts**: I was so tired that I almost thought I would last my streak. (Not really) Friday is always very cruel to me. 
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/cc-trab1/commit/6464111081f1b47f1bd0f3dc74f2ec3a7cda4271)
 
 ---
 
