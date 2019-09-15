@@ -307,11 +307,11 @@ PS: I made it work I was able to implement all of the functionality. Now I need 
 
 ### Day 31: September 14, 2019
 
-**Today's Progress**:  
+**Today's Progress**:  Today I worked on the CC1 project again. I coded a bit more but I read the professor's slide notes because I need more conceptual knowledge before moving on. 
 
-**Thoughts**: 
+**Thoughts**: I need to become more disciplined I feel that I'm spending my time properly and doing to much self care for my own sake.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/cc-trab1/commit/c46f8bd38aacfb6da4020ee33decd5c20fe03ebf)
 
 ---
 
