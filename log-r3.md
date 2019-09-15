@@ -305,3 +305,15 @@ PS: I made it work I was able to implement all of the functionality. Now I need 
 
 ---
 
+### Day 31: September 14, 2019
+
+**Today's Progress**:  
+
+**Thoughts**: 
+
+**Link(s) to work**: [Commit Link](#)
+
+---
+
+
+
