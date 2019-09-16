@@ -317,11 +317,11 @@ PS: I made it work I was able to implement all of the functionality. Now I need 
 
 ### Day 32: September 15, 2019
 
-**Today's Progress**:  
+**Today's Progress**:  Today I worked in CC! project. I learned how to ignore comments in flex. Stop putting this off to the last minute thank you Kaio.
 
-**Thoughts**: 
+**Thoughts**: I need to learn how flex work better that is for sure. The weekend is time to chill but also for putting thing in order and I haven't done that but I will.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/cc-trab1/commit/bc9665945b651de0f0f80b37e5d463a46346c274)
 
 ---
 
