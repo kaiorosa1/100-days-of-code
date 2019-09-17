@@ -325,3 +325,13 @@ PS: I made it work I was able to implement all of the functionality. Now I need 
 
 ---
 
+### Day 33: September 16, 2019
+
+**Today's Progress**:  Today I worked on the CC1 project and I think I'm done with it. I still need to review everything so I can send it with certain that I will be sending a functional program. I still have so much to do that I don't feel any less overwhelmed. lol 
+
+**Thoughts**: Today I have seen the power of showing up even if you don't want to, event if it's gonna be painful. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/cc-trab1/commit/bf668934848330aafe8b0d7ecf8c16d5cf445969)
+
+---
+
