@@ -337,11 +337,11 @@ PS: I made it work I was able to implement all of the functionality. Now I need 
 
 ### Day 34: September 17, 2019
 
-**Today's Progress**:  
+**Today's Progress**:  Today I finished reviewing the CC1 project. And I also started working on the TC2. I have my work cut out for me. 
 
-**Thoughts**:  
+**Thoughts**: 24 hours is not enough if you are Kaio Rosa. And I need to get back to my old friend Java since I will be spending a lot of time developing for Eclipse. More about that later(meaning another day).
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc2-computacao-grafica/commit/f935c1e778374e69541231c2493dba24eb848730)
 
 ---
 
