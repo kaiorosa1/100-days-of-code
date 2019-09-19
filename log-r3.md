@@ -347,10 +347,10 @@ PS: I made it work I was able to implement all of the functionality. Now I need 
 
 ### Day 35: September 18, 2019
 
-**Today's Progress**:  
+**Today's Progress**:  Today I continued reading the SVG file and I'm extracting all the info from the file so I can draw the objects in the world (meaning in the created environment). I don't know how to use the computer graphics terms correctly not yet.lol
 
-**Thoughts**: 
+**Thoughts**: Some days are easier than other. I'm so hopeful today. I know I have a lot on my plate but I feel that it's feasible and I can do them. Read a bit, my week challeng is very strong so things are good.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc2-computacao-grafica/commit/580ca6253c7bc7e18dc1e2a230492f917c007732)
 
 ---
