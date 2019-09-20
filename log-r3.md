@@ -354,3 +354,14 @@ PS: I made it work I was able to implement all of the functionality. Now I need 
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc2-computacao-grafica/commit/580ca6253c7bc7e18dc1e2a230492f917c007732)
 
 ---
+
+### Day 36: September 19, 2019
+
+**Today's Progress**:  I worked on the TC2 project again. I'm still reading the SVG file. I need to refresh on some concepts because I feel that I will have problems in the future if I don't remedy them soon. Due to the fact that I have an awful professor. Yikes for me or for his teaching style!
+
+**Thoughts**: Today was a nice surprise. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc2-computacao-grafica/commit/7229ab0d6a55ca411a4f7f1b6c286e4c1d3a1118)
+
+---
+
