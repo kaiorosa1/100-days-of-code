@@ -368,11 +368,11 @@ PS: I made it work I was able to implement all of the functionality. Now I need 
 
 ### Day 37: September 20, 2019
 
-**Today's Progress**:  I worked on the TC2 project again. Testing and adjusting!
+**Today's Progress**:  I worked on the TC2 project again. Testing and adjusting the reading of the svg file.
 
-**Thoughts**: Friday is always a fricking BeeAch
+**Thoughts**: Friday is always a fricking BeeAch.
 
-**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc2-computacao-grafica/commit/7229ab0d6a55ca411a4f7f1b6c286e4c1d3a1118)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc2-computacao-grafica/commit/40eceb832f07ad66193bbc3c450ba270e0100bc6)
 
 ---
 
