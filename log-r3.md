@@ -382,9 +382,18 @@ PS: I made it work I was able to implement all of the functionality. Now I need 
 
 **Thoughts**: I think my computer is broken and this is not the moment I can solve this issue. 
 
-**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc2-computacao-grafica/commit/40eceb832f07ad66193bbc3c450ba270e0100bc6)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc1-computacao-grafica/commit/baf19e4f79f2a493c2fcf4699a919a26a737cdbf)
 
 ---
 
+### Day 39: September 22, 2019
+
+**Today's Progress**:  
+
+**Thoughts**:  
+
+**Link(s) to work**: [Commit Link](#)
+
+---
 
 
