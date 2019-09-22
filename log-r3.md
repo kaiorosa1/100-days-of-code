@@ -376,4 +376,15 @@ PS: I made it work I was able to implement all of the functionality. Now I need 
 
 ---
 
+### Day 38: September 21, 2019
+
+**Today's Progress**:  I worked on some Eclipse Tutorials. Now I'll be diving into Java for Web Development.
+
+**Thoughts**: I think my computer is broken and this is not the moment I can solve this issue. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc2-computacao-grafica/commit/40eceb832f07ad66193bbc3c450ba270e0100bc6)
+
+---
+
+
 
