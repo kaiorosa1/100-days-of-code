@@ -388,11 +388,11 @@ PS: I made it work I was able to implement all of the functionality. Now I need 
 
 ### Day 39: September 22, 2019
 
-**Today's Progress**:  
+**Today's Progress**:  Today I worked on the TC2, now that I finished reading the files I'm focusing on displaying the object but first I need to understand what I did wrong in the last project so I won't do the same in this one.
 
-**Thoughts**:  
+**Thoughts**:  This weekend in special was very convoluted I had a lot of plans but I was not able to achieve most of them beause my computer was not working. I'm using tonight to do what I can but it won't be enough. I'm not beating mylself up over this. I will do better during the week.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc2-computacao-grafica/commit/9c9be4a724316e39b9e8bb3117aacaeb24239bf0)
 
 ---
 
