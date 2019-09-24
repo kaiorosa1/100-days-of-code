@@ -398,11 +398,11 @@ PS: I made it work I was able to implement all of the functionality. Now I need 
 
 ### Day 40: September 23, 2019
 
-**Today's Progress**:  
+**Today's Progress**:  Today I worked on the TC2 project . I finally started drawing the obects on the  the screen.  I have my work work cut out for me since I still have to figure out how to make the green circle fly using physics.
 
-**Thoughts**:  
+**Thoughts**:  I'm just trying not to overwhelm myself because I now I have a lot to do.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc2-computacao-grafica/commit/bf9e4eb0caa983b1c8fc55e5423017722f66b612)
 
 ---
 
