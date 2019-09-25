@@ -406,4 +406,14 @@ PS: I made it work I was able to implement all of the functionality. Now I need 
 
 ---
 
+### Day 41: September 24, 2019
+
+**Today's Progress**:  Today I worked on the TC2 project . I draw the objects in the virtual world and now I need to implement the physics of it.
+
+**Thoughts**:  I'm so tired I just wanted time to breath.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc2-computacao-grafica/commit/bf9e4eb0caa983b1c8fc55e5423017722f66b612)
+
+---
+
 
