@@ -416,4 +416,14 @@ PS: I made it work I was able to implement all of the functionality. Now I need 
 
 ---
 
+### Day 42: September 25, 2019
+
+**Today's Progress**:  Today I worked on the TC2 project . Before I implement the physics in the virtual world I needed to work the movign the right circle and handling collision with the the objects around it.
+
+**Thoughts**:  I really need to figure out what works for me because I'm feeling very tired and I have a shit tone of this to do that due this weel still.
+
+**Link(s) to work**: [Commit Link](#)
+
+---
+
 
