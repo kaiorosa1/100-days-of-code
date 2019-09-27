@@ -426,4 +426,14 @@ PS: I made it work I was able to implement all of the functionality. Now I need 
 
 ---
 
+### Day 43: September 26, 2019
+
+**Today's Progress**:  Today I worked on the TC2 project.
+
+**Thoughts**:  
+
+**Link(s) to work**: [Commit Link](#)
+
+---
+
 
