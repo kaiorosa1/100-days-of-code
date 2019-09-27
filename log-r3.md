@@ -428,11 +428,11 @@ PS: I made it work I was able to implement all of the functionality. Now I need 
 
 ### Day 43: September 26, 2019
 
-**Today's Progress**:  Today I worked on the TC2 project.
+**Today's Progress**:  Today I worked on the TC2 project. I inverted the y coordinate so my plane would move the right way. I still have other functionality to implement. Good Luck to me! 
 
-**Thoughts**:  
+**Thoughts**:  It was a bit frustating because the answer was rihgt in front of me the whole time. I have an exam tomorrow morning but tomorrow I will try to do my best to finish the requirements for this projects.  
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc2-computacao-grafica/commit/a25eb0dcb1efbad89ad7507a4faaa9cbd5020a3d)
 
 ---
 
