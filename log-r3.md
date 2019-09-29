@@ -456,4 +456,14 @@ PS: I made it work I was able to implement all of the functionality. Now I need 
 
 ---
 
+### Day 46: September 29, 2019
+
+**Today's Progress**:  I worked on the TC2. Nothing is really working. I don't have time and I feel like shit. 
+
+**Thoughts**: I just wanna dissapear and not deal with everything what's going on in my life right now. I would bounce back I always do but it's not less exhausting just so you know. Where is my motivation and self discipline. It's almost alike I'm not even me. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc2-computacao-grafica/commit/dd98b2132cabb6b5c626cc6d99f8b0d597d58b0a)
+
+---
+
 
