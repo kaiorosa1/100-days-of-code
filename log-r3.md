@@ -436,4 +436,24 @@ PS: I made it work I was able to implement all of the functionality. Now I need 
 
 ---
 
+### Day 44: September 27, 2019
+
+**Today's Progress**:  I worked on the TC2 project very poorly.
+
+**Thoughts**:  Oh my, how I love and hate Fridays. A very meh day and also thank goodness!
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/cc-trab2/commit/f203e71f9323d6ad0c705b7ef39a1f7dc440ac34)
+
+---
+
+### Day 45: September 28, 2019
+
+**Today's Progress**:  I worked on the TC2 on the collision aspect of it. Tomorrow is the deadline. Get your shit together Kaio Rosa my sweet little boy.(Was I passive agressibe enough ?) 
+
+**Thoughts**: I just wanna dance the night away. I need to find joy in coding again. it is feeling like a chore because it is but still.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc2-computacao-grafica/commit/28bc6c92a05f5563bb377fe504ee8ba062b3e92e)
+
+---
+
 
