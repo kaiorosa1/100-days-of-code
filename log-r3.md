@@ -466,4 +466,14 @@ PS: I made it work I was able to implement all of the functionality. Now I need 
 
 ---
 
+### Day 47: September 30, 2019
+
+**Today's Progress**:  Today I worked on an assignent for my Network class. I started learnign how to use a packet sniffer (Wireshark) and I also started TCP/IP Socket Programming. 
+
+**Thoughts**: I need to get my shit together I have an exam tomorrow. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tcp-ip-programming-py/commit/d5b01eb84fecfbb440fe822912a772476219b77d)
+
+---
+
 
