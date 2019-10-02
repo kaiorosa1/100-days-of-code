@@ -476,4 +476,14 @@ PS: I made it work I was able to implement all of the functionality. Now I need 
 
 ---
 
+### Day 48: October 1, 2019
+
+**Today's Progress**: Today I finally made a lab assignment work. And watched some TCP/IP programming videos.
+
+**Thoughts**: Time, Time, Time, I need you more than anything.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tcp-ip-programming-py/commit/f78df1505699ca00ee0e0deefad4ab55beb2869b)
+
+---
+
 
