@@ -486,4 +486,14 @@ PS: I made it work I was able to implement all of the functionality. Now I need 
 
 ---
 
+### Day 49: October 2, 2019
+
+**Today's Progress**: Today I started working on the TC3, I didn't actually start coding but I added the boilerplate code to start coding later on. I still need to focus on the CC2 project beforehand. I spent a lot of time trying to fix the commit I made in the wrong repository. 
+
+**Thoughts**: Today was a good day in most parts. I was able to accomplish a lot of thing I st to myself. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc3-computacao-grafica/commit/8523cdd7a1bf96ff5b73295857a2ebed8b4e2d0d)
+
+---
+
 
