@@ -496,4 +496,12 @@ PS: I made it work I was able to implement all of the functionality. Now I need 
 
 ---
 
+### Day 50: October 3, 2019
 
+**Today's Progress**: Today I made progress in the CC2 project that is due next week. It's a syntax analyzer so now I'm implementing the syntatic conventions (don't know the right term).
+
+**Thoughts**: I'm alway very tired when I start coding but I'm always glad when I finish because I prove to myself that I am very disciplined to the things I find very important to me. (Day 50 yay)
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/cc-trab2/commit/fe1d9c60849f4536e2a38e95519fd5788e872252)
+
+---
