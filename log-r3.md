@@ -505,3 +505,13 @@ PS: I made it work I was able to implement all of the functionality. Now I need 
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/cc-trab2/commit/fe1d9c60849f4536e2a38e95519fd5788e872252)
 
 ---
+
+### Day 51: October 4, 2019
+
+**Today's Progress**: Today I continued working on the CC2 project. I added more "rules" to parser.y
+
+**Thoughts**: Feeling refreshed for a change. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/cc-trab2/commit/24e281d99deb98c6dbe3c43b6670fda4ee724840)
+
+---
