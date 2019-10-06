@@ -516,7 +516,7 @@ PS: I made it work I was able to implement all of the functionality. Now I need 
 
 ---
 
-### Day 51: October 4, 2019
+### Day 52: October 5, 2019
 
 **Today's Progress**: Today I finished and made the final tests in my CC2 project (Syntax Analyzer). I also worked a bit on 2D trasformation for my computer graphics course. 
 
