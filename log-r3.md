@@ -515,3 +515,14 @@ PS: I made it work I was able to implement all of the functionality. Now I need 
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/cc-trab2/commit/24e281d99deb98c6dbe3c43b6670fda4ee724840)
 
 ---
+
+### Day 51: October 4, 2019
+
+**Today's Progress**: Today I finished and made the final tests in my CC2 project (Syntax Analyzer). I also worked a bit on 2D trasformation for my computer graphics course. 
+
+**Thoughts**: Talk about feeling lost!!! '-' 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/cc-trab2/commit/4e8f0b9bccf45bd985732ad87cc5d4134cc8c2a1)
+
+---
+
