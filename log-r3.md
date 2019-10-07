@@ -529,11 +529,13 @@ PS: I made it work I was able to implement all of the functionality. Now I need 
 
 ### Day 53: October 6, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Today I worked on TC3. I changed the way I was reading the arena file. I'm a little disappointed in myself lately and then I realize I'm just doing what I expect from me. I NEED TO CHANGE !!!!!!!!!! 
 
-**Thoughts**: 
+YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 
-**Link(s) to work**: [Commit Link](#)
+**Thoughts**: I often feel like everything is crumbling down and I'm just watching from afar helplessly. I need to learn from my mistakes.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc3-computacao-grafica/commit/54c8a879771e5dd170a6061afb001ef5ca3a2307)
 
 ---
 
