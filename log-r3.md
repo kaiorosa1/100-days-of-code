@@ -539,3 +539,13 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 
 ---
 
+### Day 54: October 7, 2019
+
+**Today's Progress**: I have a week or so to implement this new assignment and I need to implement the takeoff funcionality from the last assignemnt so I have overwork to do. That's the last thing I need right now to be falling behind. Talk about destroying my mental health.
+
+**Thoughts**: So freaking tired!!!! I just want to rest.
+
+**Link(s) to work**: [Commit Link](#)
+
+---
+
