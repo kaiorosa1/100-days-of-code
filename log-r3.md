@@ -549,3 +549,13 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 
 ---
 
+### Day 55: October 8, 2019
+
+**Today's Progress**: I worked on the TC3-ish. Take off functionality on the go. 
+
+**Thoughts**: The universe loves me right ????
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc3-computacao-grafica/commit/21fbbff76916470f4d5169d8d9b34485190537a8)
+
+---
+
