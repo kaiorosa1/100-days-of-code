@@ -559,3 +559,13 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 
 ---
 
+
+### Day 56: October 9, 2019
+
+**Today's Progress**: I worked on the TC3. I worked on fixing and following tutorials about PDE.
+
+**Thoughts**: It is time for some real changes!! 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc3-computacao-grafica/commit/1b2aeb78b4f963cc9a3f46713d3f722e21169130)
+
+---
