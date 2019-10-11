@@ -571,10 +571,10 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 
 ### Day 57: October 10, 2019
 
-**Today's Progress**: 
+**Today's Progress**: I worked on the TC3. Now the player is becoming the right size after taking off. I still have to adjust the taking off function. I also went back and learned more MySQL.(I really need it)
 
-**Thoughts**:
+**Thoughts**: Time to be grateful for everything I have. I need to practice more mindfulness and grafefulness.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc3-computacao-grafica/commit/40f10159e3324387f4232085a75e68cc09068fef)
 
 ---
