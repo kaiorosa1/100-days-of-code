@@ -578,3 +578,13 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc3-computacao-grafica/commit/40f10159e3324387f4232085a75e68cc09068fef)
 
 ---
+
+### Day 58: October 11, 2019
+
+**Today's Progress**: I worked on the TC3. N
+
+**Thoughts**: TGIF? lol .
+
+**Link(s) to work**: [Commit Link](#)
+
+---
