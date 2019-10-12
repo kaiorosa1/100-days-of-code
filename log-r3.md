@@ -581,10 +581,10 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 
 ### Day 58: October 11, 2019
 
-**Today's Progress**: I worked on the TC3. N
+**Today's Progress**: I worked on the TC3. I fixed some bugs when the player(plane) finished taking-off. Need to work on the taking off angle and then implement the physics aspect of it. 
 
-**Thoughts**: TGIF? lol .
+**Thoughts**: TGIF? lol. Time management skills needed it! haha
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc3-computacao-grafica/commit/2f13f89d1c75a076474f566b86da7cbeb1245088)
 
 ---
