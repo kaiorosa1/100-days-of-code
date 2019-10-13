@@ -588,3 +588,13 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc3-computacao-grafica/commit/2f13f89d1c75a076474f566b86da7cbeb1245088)
 
 ---
+
+### Day 59: October 12, 2019
+
+**Today's Progress**: I worked on the TC3. I had to change a bit the take off functionality. The radius needs to change according to the distance and it was doing that.
+
+**Thoughts**: It's nice when you coding flows. I would love to be in the flow state all the time. I still have some IC things to do but this is future Kaio stuff. lol
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc3-computacao-grafica/commit/4c57d5409e181bb530928f08b512372bfcea3886)
+
+---
