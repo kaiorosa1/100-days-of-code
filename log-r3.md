@@ -598,3 +598,13 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc3-computacao-grafica/commit/4c57d5409e181bb530928f08b512372bfcea3886)
 
 ---
+
+### Day 60: October 13, 2019
+
+**Today's Progress**: I worked on the TC3. Worked on the physics and implemented a functionality.
+
+**Thoughts**: Kaio you're strange little man.  
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc3-computacao-grafica/commit/5797c7e4e635af05d6f33ba6990355e62b47fbe8)
+
+---
