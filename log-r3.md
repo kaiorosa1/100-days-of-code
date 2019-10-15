@@ -609,7 +609,7 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 
 ---
 
-### Day 60: October 14, 2019
+### Day 61: October 14, 2019
 
 **Today's Progress**: I wored on the CC3 .Started it and read this assignement specification.(Thank you lab 7)
 
