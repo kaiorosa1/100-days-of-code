@@ -608,3 +608,13 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc3-computacao-grafica/commit/5797c7e4e635af05d6f33ba6990355e62b47fbe8)
 
 ---
+
+### Day 60: October 14, 2019
+
+**Today's Progress**: I wored on the CC3 .Started it and read this assignement specification.(Thank you lab 7)
+
+**Thoughts**: I'm not feeling bad about myself even though I took the wrong bus and I couldn't fulfill some of my plans.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/cc-trab3/commit/6ba30f878188bd8a9d4c53028947a63dbacb410f)
+
+---
