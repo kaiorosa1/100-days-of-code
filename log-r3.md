@@ -611,10 +611,20 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 
 ### Day 61: October 14, 2019
 
-**Today's Progress**: I wored on the CC3 .Started it and read this assignement specification.(Thank you lab 7)
+**Today's Progress**: I worked on the CC3 .Started it and read this assignement specification.(Thank you lab 7)
 
 **Thoughts**: I'm not feeling bad about myself even though I took the wrong bus and I couldn't fulfill some of my plans.
 
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/cc-trab3/commit/6ba30f878188bd8a9d4c53028947a63dbacb410f)
+
+---
+
+### Day 62: October 15, 2019
+
+**Today's Progress**: I worked on TC3.  I working on the player's velocity.
+
+**Thoughts**: I'm feeling better about myself. I'm feeling that I'm more in control of everything! 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc3-computacao-grafica/commit/9c3763eeca48dee9bf94362dd6a1f9d8dfae5ad0)
 
 ---
