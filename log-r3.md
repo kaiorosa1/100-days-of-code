@@ -628,3 +628,13 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc3-computacao-grafica/commit/9c3763eeca48dee9bf94362dd6a1f9d8dfae5ad0)
 
 ---
+
+### Day 63: October 16, 2019
+
+**Today's Progress**: I worked on TC3.  I focues on drawing the palyer. This part uses a lot of 2D transformation. Also EMF and Sirus tuts.
+
+**Thoughts**: I was in a rut. I hope no one who reads that assume anythihg bad about me. People get in slumps sometimes okay? 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc3-computacao-grafica/commit/2d7a8f0f980b0e81b8e8ca0815bacb94621639f3)
+
+---
