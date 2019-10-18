@@ -631,10 +631,20 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 
 ### Day 63: October 16, 2019
 
-**Today's Progress**: I worked on TC3.  I focues on drawing the palyer. This part uses a lot of 2D transformation. Also EMF and Sirus tuts.
+**Today's Progress**: I worked on TC3.  I focus on drawing the player. This part uses a lot of 2D transformation. Also EMF and Sirus tuts.
 
 **Thoughts**: I was in a rut. I hope no one who reads that assume anythihg bad about me. People get in slumps sometimes okay? 
 
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc3-computacao-grafica/commit/2d7a8f0f980b0e81b8e8ca0815bacb94621639f3)
+
+---
+
+### Day 64: October 17, 2019
+
+**Today's Progress**: I worked on TC3 and Sirius Tutorials. There are a lot when it comes to drawing the player, I'll continue that today. 
+
+**Thoughts**: My birthday is in 3 days I'm very excited now that I know I'll be going to Aracruz. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc3-computacao-grafica/commit/edc121945e26ea9f12fa0d410c221f7b26e94e26)
 
 ---
