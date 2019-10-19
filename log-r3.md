@@ -648,3 +648,13 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc3-computacao-grafica/commit/edc121945e26ea9f12fa0d410c221f7b26e94e26)
 
 ---
+
+### Day 65: October 18, 2019
+
+**Today's Progress**: I worked on TC3. These 2d transformation are getting me good I was not able to make it work that way I want for now. I will start from scrach some functions. Feeling motivated by the challenge.
+ 
+**Thoughts**: My birthday is in 2 days!! First one in years that I don't throw a party but I think it's for the best.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc3-computacao-grafica/commit/cfe87ca5103a0ad9cb9aee86026b175372c6b8ff)
+
+---
