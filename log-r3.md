@@ -658,3 +658,13 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc3-computacao-grafica/commit/cfe87ca5103a0ad9cb9aee86026b175372c6b8ff)
 
 ---
+
+### Day 66: October 19, 2019
+
+**Today's Progress**: I worked on TC3. Stuck trying to draw the plane. I don't know why but it's not working. OpenGL why I don't understand your logic. I think there something to do with the coordnnates that I'm drawing but I will be debugging to get better understanding.
+ 
+**Thoughts**: My birthday is in 1 days!! Hello Aracity!!!! I'm just here for a day but it's so nice to experience 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc3-computacao-grafica/commit/3cdbb84657477db1816276f67351d04d6d680d9e)
+
+---
