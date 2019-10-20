@@ -668,3 +668,13 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc3-computacao-grafica/commit/3cdbb84657477db1816276f67351d04d6d680d9e)
 
 ---
+
+### Day 67: October 20, 2019
+
+**Today's Progress**: 
+ 
+**Thoughts**: 
+
+**Link(s) to work**: [Commit Link](#)
+
+---
