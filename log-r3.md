@@ -671,10 +671,10 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 
 ### Day 67: October 20, 2019
 
-**Today's Progress**: 
+**Today's Progress**: I revisted an old project FCC File Metadata Microservice. It was cool to web dev for a bit! Tomorrow I will go back to regular schedule, the scary TC3!
  
-**Thoughts**: 
+**Thoughts**: It is my birthday. I loved spending my time with family. I'm a little sad that I can't spend more time with them. But It was good to come here, not regrets!
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/file-metadata-microservice-fcc/commit/5caf0c8e6813b6c6e13d193dee3d5143da362f42)
 
 ---
