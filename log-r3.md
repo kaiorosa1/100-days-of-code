@@ -678,3 +678,13 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/file-metadata-microservice-fcc/commit/5caf0c8e6813b6c6e13d193dee3d5143da362f42)
 
 ---
+
+### Day 68: October 21, 2019
+
+**Today's Progress**: 
+ 
+**Thoughts**: 
+
+**Link(s) to work**: [Commit Link](#)
+
+---
