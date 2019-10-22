@@ -681,10 +681,10 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 
 ### Day 68: October 21, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Today I worked on the TC3 project. I finally started seing the 2d transformation in action and now I'll be focusing on finishing drawing the plane. I finished the File Metadata Microservice FCC project but the freeCodeCamp servers are down or something so it's gonna be a while till I get my fourth certification.  
  
-**Thoughts**: 
+**Thoughts**: In the next few days I'll be make some big changes in my life. Turning 24 did something to me I guess.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc3-computacao-grafica/commit/5a20eef7ba4025bae1a638a3713a5ad18b0214ae)
 
 ---
