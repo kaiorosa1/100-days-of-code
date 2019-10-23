@@ -688,3 +688,13 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc3-computacao-grafica/commit/5a20eef7ba4025bae1a638a3713a5ad18b0214ae)
 
 ---
+
+### Day 69: October 22, 2019
+
+**Today's Progress**: Today I worked on the TC3 project. Still drawing the plane. I haven't finished it yet because I often try to correct the plane's speed with not much success.
+ 
+**Thoughts**: With decisions come consequences I hope I'm prepared for what is coming next.
+
+**Link(s) to work**: [Commit Link](#)
+
+---
