@@ -695,7 +695,7 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
  
 **Thoughts**: With decisions come consequences I hope I'm prepared for what is coming next.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc3-computacao-grafica/commit/b8581b3d5fad63cc203fda9081b09c968994d23b)
 
 ---
 
@@ -704,7 +704,7 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 
 **Today's Progress**: Today I worked on the TC3 project. I worked on the wings and started working the propeller. I also worked on CC3. I started the project per say.
  
-**Thoughts**: With decisions come consequences I hope I'm prepared for what is coming next.
+**Thoughts**: Time to be in control! Everything can be seen as oportunies. Go Kaio! Learn the power of forgiveness.
 
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc3-computacao-grafica/commit/9c7396ce7f63e8c045fc75acc51a198e982d4e6c)
 
