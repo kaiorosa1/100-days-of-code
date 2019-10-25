@@ -709,3 +709,14 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc3-computacao-grafica/commit/9c7396ce7f63e8c045fc75acc51a198e982d4e6c)
 
 ---
+
+
+### Day 71: October 24, 2019
+
+**Today's Progress**: Today I focused on the CC3. I still need to implement major components of this project.
+ 
+**Thoughts**: A lot of things to do !!! 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/cc-trab3/commit/4cca683974cef715f3a051f89b8163d1f9296304)
+
+---
