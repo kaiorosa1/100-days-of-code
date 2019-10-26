@@ -720,3 +720,14 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/cc-trab3/commit/4cca683974cef715f3a051f89b8163d1f9296304)
 
 ---
+
+
+### Day 72: October 25, 2019
+
+**Today's Progress**: Today I focused on the CC3. Working on the func data structure.
+ 
+**Thoughts**: I feel so insprired I love it.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/cc-trab3/commit/b47d8eef1732b68dab17c8a1c228225b4f83c366)
+
+---
