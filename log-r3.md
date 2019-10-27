@@ -731,3 +731,13 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/cc-trab3/commit/b47d8eef1732b68dab17c8a1c228225b4f83c366)
 
 ---
+
+### Day 73: October 26, 2019
+
+**Today's Progress**: Worked a bit on the TC3. Oh my I'm so screwed but let's go!
+ 
+**Thoughts**: Not the october I waas expecting but that's it.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc3-computacao-grafica/commit/c5a019f3f5cda7ef0264aa1ded7d8ee253498a27)
+
+---
