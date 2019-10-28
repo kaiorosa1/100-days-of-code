@@ -736,8 +736,18 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 
 **Today's Progress**: Worked a bit on the TC3. Oh my I'm so screwed but let's go!
  
-**Thoughts**: Not the october I waas expecting but that's it.
+**Thoughts**: Not the october I was expecting but that's it.
 
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc3-computacao-grafica/commit/c5a019f3f5cda7ef0264aa1ded7d8ee253498a27)
+
+---
+
+### Day 74: October 27, 2019
+
+**Today's Progress**: Mainly focused on TC3. I finished player, teaked the takeoff functionality, started working on the shooting functionality. 
+ 
+**Thoughts**: I know I love coding and solving problems I always been like that. I need to start shaking off these impostor syndrome symptoms because I know I'm able to do whatever I put my mind to it. I've done it before and I'll continue doing it. I'm in control and I can make the change I want in the world. Go Kaio, do your best whatever this means now and bounce the hell back. Go get them!!!!!
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc3-computacao-grafica/commit/53dbee34227c5cf18fc6fea2406f64123a64eddb)
 
 ---
