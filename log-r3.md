@@ -751,3 +751,14 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc3-computacao-grafica/commit/53dbee34227c5cf18fc6fea2406f64123a64eddb)
 
 ---
+
+
+### Day 75: October 28, 2019
+
+**Today's Progress**: Mainly focused on TC3. Also worked a bit on CC3. I'm stuck but I'll read more of the theory before coding.
+
+**Thoughts**: I'm so tired and it was not worth it. I'll use my time more wise for the next weeks. Time won't be a problem anymore they say.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc3-computacao-grafica/commit/c35add7deec9b2dd7e256a5c65ba572964df0081)
+
+---
