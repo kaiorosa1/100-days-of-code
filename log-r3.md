@@ -772,3 +772,13 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/cc-trab3/commit/4258c47a523b72a3cf32f46270217615d7fa9115)
 
 ---
+
+### Day 77: October 30, 2019
+
+**Today's Progress**: Focused on CC3. Read bison docuentation, learned more about union and made changes in the scanner.l. 
+
+**Thoughts**: CC has been the best project so far.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/cc-trab3/commit/bfcb84a1f317a13cc08ae30fa5e9f2d152ecf3b9)
+
+---
