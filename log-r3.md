@@ -782,3 +782,13 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/cc-trab3/commit/bfcb84a1f317a13cc08ae30fa5e9f2d152ecf3b9)
 
 ---
+
+### Day 78: October 31, 2019
+
+**Today's Progress**: Finished CC3. Now I will go back to implement TC3 some of the remaining functionality so then I can go to TC4.
+
+**Thoughts**: It's good to finish projects.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/cc-trab3/commit/a59979f17a074a85b9269d55fd6d9a2be69e85e4)
+
+---
