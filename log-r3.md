@@ -792,3 +792,14 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/cc-trab3/commit/a59979f17a074a85b9269d55fd6d9a2be69e85e4)
 
 ---
+
+### Day 79: November 01, 2019
+
+**Today's Progress**: Today I got feedback on CC3 and fixed some things. I can't believe I tested out yesterday and some test cases didn't pass. A bit frustating since I thought I made sure it was passing all of them when I sent it yesterday.
+
+**Thoughts**: It's been a weird day I'm not used to having this much time.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/cc-trab3/commit/9ec6a565df5b8bc28cf552726e5a178b2b1f8804)
+
+---
+
