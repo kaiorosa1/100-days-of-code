@@ -803,3 +803,13 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 
 ---
 
+### Day 80: November 02, 2019
+
+**Today's Progress**: Today I started making progress with my IC stuff. It's a slow progress but it was enough to get me excited and start believing I'll make progress, tomorrow I will spend more time with Sirius tutorials and trying to figure out where the heck I can change in the FrameWeb project to change the attribute thingy (so eloquent I know). Being serious I really need to make progress with the activity I want to be able to start making real progress soon. Also I added the lab 10 in the CC4 project and I'll count that as something lol. I need to undertand the lab first and then I'll tackle the big project.
+
+**Thoughts**: I'm considering invest time in competitive programming but just for fun and to learn the techniques not to actually compete with anyone. I think I have a lot to benefit from the competitive programming mindset. For example, really strong concept of data structures and problem solving in general, in addition to think about interesting problems that will help me change the way I approach problem with the arsenal I develop along the way. (arsenal ? is that a thing?? lol we won't know soon)
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/cc-trab4/commit/d4c764267c3c6250a7830d128f631b32d46f6204)
+
+---
+
