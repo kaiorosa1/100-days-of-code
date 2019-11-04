@@ -813,3 +813,14 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 
 ---
 
+
+### Day 81: November 03, 2019
+
+**Today's Progress**: Today I worked on two coding problems on CodeWars, I created an account and solved one problem on CodingGame. I created the TC4 repository even though I didn't code anything for this project. Today  I focused a lot on finding resources so I can start to visualize what I'm going to do from now on. 
+
+**Thoughts**: I have to work on so many projects for this week that I can see as a great opportunity to improve my time management skills. I want to improve my JS skills but more importantly my problem solving skills. Tommowr I intend to do some IC stuff in the afternoon and then I can stop procastinanting on my TC4/TC3 project. It's gonna be challenging but I'll thrive. Go new Kaio on your journey to believe in yourself again.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc4-computacao-grafica/commit/63620200b9b9c30bf10ebb26abec6d97a54cfe13)
+
+---
+
