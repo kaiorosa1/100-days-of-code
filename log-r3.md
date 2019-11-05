@@ -824,3 +824,14 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 
 ---
 
+### Day 82: November 04, 2019
+
+**Today's Progress**: today I worked on TC3/TC4 project. It's a TC3 functionality but TC4 is continuing from TC3 so I have to pick up the pace. 
+
+**Thoughts**: It's so easy to now do what you supposed to. You have to always check with yourself why you're doing the things you're doing.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc3-computacao-grafica/commit/942acaaf4e14a76a76528a47c47b51cba96c460a)
+
+---
+
+
