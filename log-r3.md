@@ -834,4 +834,14 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 
 ---
 
+### Day 83: November 05, 2019
+
+**Today's Progress**: Today worked on several projects. TC3/TC4 a bit on BD1 and started Day1 on the LearnCodeOnline.in challenge.
+
+**Thoughts**: I managed to take the wrong bus again. For God's sake Kaio! Terminal de Carapina is not your friend learn that quickly thank you very much.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/competitive-programming-java-challenges/commit/9b28ed07f284fc165e1c99335776ce6a397a2267)
+
+---
+
 
