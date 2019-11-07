@@ -846,11 +846,11 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 
 ### Day 84: November 06, 2019
 
-**Today's Progress**:
+**Today's Progress**: Worked on Day 2 and Day 3 of the LearnCodeOnline.in. A bit of OpenGL to implement velocity in another object.(not as insightful as I expected). 
 
-**Thoughts**: 
+**Thoughts**: I'm not judging or anything but I think the main problem with the challenges is English. I'm pretty sure that they are not written by a native speaker so it is, in nice words, a mess. I will decided if I will continue them in the next days, coding is hard enough for me to deal with that.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/competitive-programming-java-challenges/commit/e401e2b30197293755e716b689e7ff540f6a7b87)
 
 ---
 
