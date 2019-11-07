@@ -844,4 +844,14 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 
 ---
 
+### Day 84: November 06, 2019
+
+**Today's Progress**:
+
+**Thoughts**: 
+
+**Link(s) to work**: [Commit Link](#)
+
+---
+
 
