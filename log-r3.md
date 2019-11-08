@@ -854,4 +854,14 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 
 ---
 
+### Day 85: November 07, 2019
+
+**Today's Progress**: Worked on Day 4 and a bit on TC3. I intend to finish TC3 tomorrow so then I can work on two big projects. It's gonna be a fun weekend.  
+
+**Thoughts**: This week I received a great piece of news and now I'm a bit anxious for what's coming next. I want so much for this to work out. I feel excited just thinking about it. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/competitive-programming-java-challenges/commit/07e8f53d2d665ccc37307bb6a346a1bae84cbbf2)
+
+---
+
 
