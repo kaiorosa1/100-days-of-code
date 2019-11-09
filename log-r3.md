@@ -864,4 +864,14 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 
 ---
 
+### Day 86: November 08, 2019
+
+**Today's Progress**: Worked on TC3. I'm stuck in a functionality hopefully tomorrow I figure out how to solve it.Day 5 as well.
+
+**Thoughts**:  Gosh I will only say that.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc3-computacao-grafica/commit/0edead70bb404db09e842fed18f5e3800113f730)
+
+---
+
 
