@@ -874,4 +874,13 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 
 ---
 
+### Day 87: November 09, 2019
+
+**Today's Progress**: Worked on Day 6 of the LearnCodeOnline.in  challenge. Also worked on T1DB1. 
+
+**Thoughts**:  I'm looking forward to Monday. Firgers crossed!!!
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/competitive-programming-java-challenges/commit/064586cc4d8a9793d792a0c854ee635b254bd5e3)
+
+---
 
