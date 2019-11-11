@@ -884,3 +884,14 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 
 ---
 
+
+### Day 88: November 10, 2019
+
+**Today's Progress**: Worked on Day 7 of the LearnCodeOnline.in  challenge. Also worked on T1DB1. 
+
+**Thoughts**:  It is tomorrow. Also, holy smokes T1DB1! :/
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/competitive-programming-java-challenges/commit/3b9939b682e6d61bfad22a3a5581479fcafa72a5)
+
+---
+
