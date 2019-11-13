@@ -905,3 +905,13 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 
 ---
 
+### Day 90: November 12, 2019
+
+**Today's Progress**: Worked on Day 9 of the LearnCodeOnline.in  challenge. Also worked refactored some code from previous days of the LearnCodeOnline.in challenge.
+
+**Thoughts**: I want to be more productive and spend more quality time.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/competitive-programming-java-challenges/commit/57d92dc402e5447487407f7d9d28a96f25a356c1)
+
+---
+
