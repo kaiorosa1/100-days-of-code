@@ -915,3 +915,13 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 
 ---
 
+### Day 91: November 13, 2019
+
+**Today's Progress**: Worked on Day 10 of the LearnCodeOnline.in  challenge. Also worked on CC4.
+
+**Thoughts**: Oh my gosh I need to be more grateful because lately I have a lot of things to be grateful for.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/competitive-programming-java-challenges/commit/1b0ce15dcff81c2614b0f3630ec8ec32f5e0f5be)
+
+---
+
