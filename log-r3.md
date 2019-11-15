@@ -925,3 +925,15 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 
 ---
 
+### Day 92: November 14, 2019
+
+**Today's Progress**: Worked on CC4. Implemented some parts of the AST. I still need to finish the tree and then print it. Also I started Day 11.
+
+**Thoughts**: I wonder if this is the start of the journey of self-acceptance and starting again to truly believe in my capability to become the Kaio Rosa I always wanted. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/cc-trab4/commit/9406791098d88d8adb863143e3e1e2e28834fa84)
+
+---
+
+
+
