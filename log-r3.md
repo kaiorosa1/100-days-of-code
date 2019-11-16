@@ -935,5 +935,13 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 
 ---
 
+### Day 93: November 15, 2019
 
+**Today's Progress**: Worked on CC4. Implemented some parts of the AST. I still need to finish the tree and then print it. Also I started Day 12.
+
+**Thoughts**: Very netflixy day. Not much progress in the school project though.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/cc-trab4/commit/deb482dc80c5a09fd36729907cfa284d0eb5c5e8)
+
+---
 
