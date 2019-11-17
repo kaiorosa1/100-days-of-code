@@ -945,3 +945,13 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 
 ---
 
+### Day 94: November 16, 2019
+
+**Today's Progress**: I started Day 13 and workied on Day 12. 
+
+**Thoughts**: At this point I will definitely not continue with another round.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/competitive-programming-java-challenges/commit/a65fc6b22435acb55fc5ce224871a83e37cb74a6)
+
+---
+
