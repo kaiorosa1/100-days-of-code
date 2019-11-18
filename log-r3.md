@@ -955,3 +955,13 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 
 ---
 
+### Day 95: November 17, 2019
+
+**Today's Progress**: Worked on TC3/4 most of the day to be honest.
+
+**Thoughts**: Not gonna stress out and try to do what I can.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc3-computacao-grafica/commit/dbb6e53d693c8c7de1a67a3c94da026c362cd92c)
+
+---
+
