@@ -965,3 +965,14 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 
 ---
 
+
+### Day 96: November 18, 2019
+
+**Today's Progress**: School projects all the way. CC4 and TC4
+
+**Thoughts**: Very tiring!!!
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/cc-trab4/commit/2a100f6b0eaec86403209431d17e569fd93a70c4)
+
+---
+
