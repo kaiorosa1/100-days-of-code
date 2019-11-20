@@ -976,3 +976,13 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 
 ---
 
+### Day 97: November 19, 2019
+
+**Today's Progress**: School projects all the way. CC4!!! Need to fix a major bug.
+
+**Thoughts**: What is like to work when your are sleep deprived ?? Q&A with Kaio Rosa
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/cc-trab4/commit/f8fcc85112a4b1f002b715bbe1805460e025dee3)
+
+---
+
