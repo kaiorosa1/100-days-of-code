@@ -996,3 +996,14 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 
 ---
 
+### Day 99: November 21, 2019
+
+**Today's Progress**: I finished CC4!! :D
+
+**Thoughts**:Oh my, It's almost the end of another round. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/cc-trab4/commit/77e147d6ca26a39b092c838dfc58edf08242f10c)
+
+---
+
+
