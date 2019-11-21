@@ -986,3 +986,13 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 
 ---
 
+### Day 98: November 20, 2019
+
+**Today's Progress**: I almost finished CC4. I need to fix my AST tree and then verify and fix memory leak.
+
+**Thoughts**: I love when I feel productive and then things just flows. I'm surprised that this is happening at this stage of the semester.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/cc-trab4/commit/23db0cc5f17ea1dc23a505c512742374a05843c8)
+
+---
+
