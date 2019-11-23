@@ -1006,4 +1006,13 @@ YOU CAN DO BETTER KAIO!!!!!!!!!!!!
 
 ---
 
+### Day 100: November 22, 2019
+
+**Today's Progress**: Worked on TC4. Implemented the collision functionality but for the bullets.
+
+**Thoughts**: Another round finished. I will definitely do another round but tomorrow I will decide if it's gonna be right away or if I will take a break.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/tc4-computacao-grafica/commit/1d40f8912acad9ca9bf140c0272bbea7d9ba3454)
+
+---
 
