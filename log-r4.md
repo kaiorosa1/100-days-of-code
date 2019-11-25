@@ -2,7 +2,15 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 2: November 24, 2019
 
+**Today's Progress**: Today I continued the ZTM course on Udemy. I finished the sections about HTML. It was more like a review than anything but it was worth it. It is never too much when it comes to refreshing the basics.
+
+**Thoughts**: I can't wait to see how applying myself everyday for an hour for this challenge will change my perpective on web development. I already feel that I have a new approach to web dev comparing to the start of 2019. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/ztm-code/commit/f0b67f78cf589bacc73ca1c322dae72dd96b073d)
+
+---
 
 ### Day 1: November 23, 2019
 
