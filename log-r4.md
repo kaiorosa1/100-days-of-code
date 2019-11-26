@@ -6,7 +6,7 @@
 
 **Today's Progress**: Today I continued the ZTM course on Udemy. I'm almost finishing the CSS section. I need to review about the box model and about some properties before diving into the Advanced CSS section. So far it's been a really comprehensive review. To be fair I didn't know about the !important keyword that could be used in a css property.
 
-**Thoughts**: So fun!! Sometimes I forget that I like programming and learning. My college career has been so frustating and filled with lack of motivation and unfair/ boring professor that I forget that I love learning and I actually enjoy the process of acquiring knowledge.  
+**Thoughts**: So fun!! Sometimes I forget that I like programming and learning. My college career has been so frustating and filled with lack of motivation and unfair/ boring professors that I forget that I love learning and I actually enjoy the process of acquiring knowledge.  
 
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/ztm-code/commit/90cf57d0525a62c79c674855e5eef9894c6dad8a)
 
