@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 4: November 26, 2019
+
+**Today's Progress**: Today I continued the ZTM course on Udemy.Finished the CSS section and I'm at the end of the Advanced CSS section. I reviewed about the box model, flexbox, css transform and animation properties creating a fun mini project (code-along).
+
+**Thoughts**: I'm very excited to be doing this course. I want to improve my frontend skills and I think having a solid CSS foundation is a start. I have been all over the place when it comes to what I want to do careerwise. I wanted to be a backend Java developer, a frontend developer a JS developer you name it. The only thing I'm certain (for now) that I want to be developing web appliations. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/ztm-code/commit/3b42c5b4b17101cc9a42d1c9ec7b470566d0efd9)
+
+---
+
 ### Day 3: November 25, 2019
 
 **Today's Progress**: Today I continued the ZTM course on Udemy. I'm almost finishing the CSS section. I need to review about the box model and about some properties before diving into the Advanced CSS section. So far it's been a really comprehensive review. To be fair I didn't know about the !important keyword that could be used in a css property.
