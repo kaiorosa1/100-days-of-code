@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 5: November 27, 2019
+
+**Today's Progress**: Today I continued the ZTM course on Udemy.Finished the Advanced CSS section and started the section about Bootstrap 4. Now I'm working on a small landing page project.
+
+**Thoughts**: I have a very important big exam that I'm not prepared for but I had to work on ma challenge, you know. I'm so tired already hopefully I can learn what I need to get a decent grade.  
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/ztm-code/commit/68ef7ea2c3f41bcb49d29dfe655a795c6ce87beb)
+
+---
+
 ### Day 4: November 26, 2019
 
 **Today's Progress**: Today I continued the ZTM course on Udemy.Finished the CSS section and I'm at the end of the Advanced CSS section. I reviewed about the box model, flexbox, css transform and animation properties creating a fun mini project (code-along).
