@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 6: November 28, 2019
+
+**Today's Progress**: Today I continued the ZTM course on Udemy.Continued on the Bootstrap 4 section.
+
+**Thoughts**: Not a very productive day but I needed that (sort of). 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/ztm-code/commit/e2314d4bea5f4104a4b4f84f8fe9f1400853245f)
+
+---
+
 ### Day 5: November 27, 2019
 
 **Today's Progress**: Today I continued the ZTM course on Udemy.Finished the Advanced CSS section and started the section about Bootstrap 4. Now I'm working on a small landing page project.
