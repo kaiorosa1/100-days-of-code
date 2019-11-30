@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 7: November 29, 2019
+
+**Today's Progress**: Today I continued the ZTM course on Udemy. Worked on the startup lading page and put that online using Github Pages in a different way that I've known
+
+**Thoughts**: Go Web Dev!!
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/startup-ztm-project/commit/f48eab40551813f6db56f25a3fe520863f8f4e59)
+
+---
+
 ### Day 6: November 28, 2019
 
 **Today's Progress**: Today I continued the ZTM course on Udemy.Continued on the Bootstrap 4 section.
