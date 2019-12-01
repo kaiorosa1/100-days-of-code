@@ -2,6 +2,15 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 8: November 30, 2019
+
+**Today's Progress**: Today I continued the ZTM course on Udemy. Started the CSS Grid + Layout section. I've worked a bit on a project to create a css layout. I'm struggling a bit and I love it.
+
+**Thoughts**: This course is better than I expected. Very innovative and I feel that I learn so much. Love this feeling.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/ztm-code/commit/8f3ad6886369c30dbef4c056cfa7f81e7dda4f46)
+
+
 ### Day 7: November 29, 2019
 
 **Today's Progress**: Today I continued the ZTM course on Udemy. Worked on the startup lading page and put that online using Github Pages in a different way that I've known
