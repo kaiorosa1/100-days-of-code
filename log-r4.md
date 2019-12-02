@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 9: December 1, 2019
+
+**Today's Progress**: Today I continued the ZTM course on Udemy. Continued with the project using CSS Grid and CSS Flexbox
+
+**Thoughts**: I have so much to do because it's the end of the semester that it's hard to not feel overwhelmed but I know I can do it.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/ztm-code/commit/87fcc3bde96ea457be307e4961c1fafe909c3404)
+
+---
+
 ### Day 8: November 30, 2019
 
 **Today's Progress**: Today I continued the ZTM course on Udemy. Started the CSS Grid + Layout section. I've worked a bit on a project to create a css layout. I'm struggling a bit and I love it.
@@ -10,6 +20,7 @@
 
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/ztm-code/commit/8f3ad6886369c30dbef4c056cfa7f81e7dda4f46)
 
+---
 
 ### Day 7: November 29, 2019
 
