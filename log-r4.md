@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 11: December 3, 2019
+
+**Today's Progress**: Today I continued the ZTM course on Udemy. Started the JS section on the ZTM course. It was pretty much a review. 
+
+**Thoughts**: Trying this approach of coding in the morning so I can make space for my obligations in the afternoon and whatnot.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/ztm-code/commit/e020ae83fa13930dceaa8790020c2c12e1c94d95)
+
+---
+
 ### Day 10: December 2, 2019
 
 **Today's Progress**: Today I continued the ZTM course on Udemy. Finished the small project (Layout project) and the CSS Grid + CSS Layout section.
