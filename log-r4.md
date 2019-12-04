@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 12: December 4, 2019
+
+**Today's Progress**: Today I continued the ZTM course on Udemy. Continued ZTM JS section. Reviewed Arrays and Objects.
+
+**Thoughts**: It only lasted one day trying to wake up early and code!!
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/ztm-code/commit/6fa12922a9f13ad2e5f7f353e6ebfc4549ec2ed7)
+
+---
+
 ### Day 11: December 3, 2019
 
 **Today's Progress**: Today I continued the ZTM course on Udemy. Started the JS section on the ZTM course. It was pretty much a review. 
