@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 13: December 5, 2019
+
+**Today's Progress**: Today I continued the ZTM course on Udemy. Continued ZTM JS section. Solved an exercise and reviewed Loops. 
+
+**Thoughts**: So tired I want a vacation!!!
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/ztm-code/commit/db335eea54c2bb9e96830e5ff07263df4e9ae9b8)
+
+---
+
 ### Day 12: December 4, 2019
 
 **Today's Progress**: Today I continued the ZTM course on Udemy. Continued ZTM JS section. Reviewed Arrays and Objects.
