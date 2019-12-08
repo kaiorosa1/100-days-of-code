@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 15: December 7, 2019
+
+**Today's Progress**: Today I continued the ZTM course on Udemy. Continue the DOM Manipulation section.(document, window, getElementById, querySelector, querySelectorAll, ...)
+
+**Thoughts**: The end of the semester is being the end of the semester. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/ztm-code/commit/224dbebc68f1f31e3ce10f746953f54ea501f735)
+
+---
+
 ### Day 14: December 6, 2019
 
 **Today's Progress**: Today I continued the ZTM course on Udemy. Finished the JS section and started the DOM Manipulation section.
@@ -11,6 +21,7 @@
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/ztm-code/commit/fd091be9513517355559ccafb846093f0da0b248)
 
 ---
+
 ### Day 13: December 5, 2019
 
 **Today's Progress**: Today I continued the ZTM course on Udemy. Continued ZTM JS section. Solved an exercise and reviewed Loops. 
