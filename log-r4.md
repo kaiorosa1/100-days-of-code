@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 16: December 8, 2019
+
+**Today's Progress**: Today I continued the ZTM course on Udemy. Continue the DOM Manipulation section.(Event Listeners, callback functions)
+
+**Thoughts**: So many assignments due tomorrow I'm definitely going crazy!
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/ztm-code/commit/b1785038ee2a7e618767cd68cc2631f226428355)
+
+---
+
 ### Day 15: December 7, 2019
 
 **Today's Progress**: Today I continued the ZTM course on Udemy. Continue the DOM Manipulation section.(document, window, getElementById, querySelector, querySelectorAll, ...)
