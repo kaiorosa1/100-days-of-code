@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 18: December 10, 2019
+
+**Today's Progress**: Today I continued the ZTM course on Udemy. Worked in a Gradient Backgrond project that I tried to do by myself and it is very efficient that way.
+
+**Thoughts**: That's the last project using the DOM I guess. It wasn't that bad. I know once I get to the React section I will be getting back to events and stuff.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/ztm-code/commit/9eef279ed100edd2fe8c1141c8909ded72b133ec)
+
+---
+
 ### Day 17: December 9, 2019
 
 **Today's Progress**: Today I continued the ZTM course on Udemy. Continue the DOM Manipulation section.(Event Listeners, callback functions) + Todo list (Shopping app)
