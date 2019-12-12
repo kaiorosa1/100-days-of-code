@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 19: December 11, 2019
+
+**Today's Progress**: Today I continued the ZTM course on Udemy. Finished the DOM section on ZTM.
+
+**Thoughts**: I just want my vaccation.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/ztm-code/commit/efc90fb0cf0f24b77c8f3c720b3758b81c276025)
+
+---
+
 ### Day 18: December 10, 2019
 
 **Today's Progress**: Today I continued the ZTM course on Udemy. Worked in a Gradient Backgrond project that I tried to do by myself and it is very efficient that way.
