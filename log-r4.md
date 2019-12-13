@@ -5,7 +5,7 @@
 
 ### Day 20: December 12, 2019
 
-**Today's Progress**: Today I continued the ZTM course on Udemy. Finished the Advanced Javascript Section.
+**Today's Progress**: Today I continued the ZTM course on Udemy. Started the Advanced Javascript Section. (Control flow, ES5 and ES6, Advanced Functions) 
 
 **Thoughts**: I'm feeling so anxious because of the results of the classes that I still need feedback.
 
