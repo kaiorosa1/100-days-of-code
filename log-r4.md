@@ -2,6 +2,17 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+
+### Day 20: December 12, 2019
+
+**Today's Progress**: Today I continued the ZTM course on Udemy. Finished the Advanced Javascript Section.
+
+**Thoughts**: I'm feeling so anxious because of the results of the classes that I still need feedback.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/ztm-code/commit/efc90fb0cf0f24b77c8f3c720b3758b81c276025)
+
+---
+
 ### Day 19: December 11, 2019
 
 **Today's Progress**: Today I continued the ZTM course on Udemy. Finished the DOM section on ZTM.
