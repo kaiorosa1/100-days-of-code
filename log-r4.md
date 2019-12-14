@@ -2,6 +2,15 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 21: December 13, 2019
+
+**Today's Progress**: Today I continued the ZTM course on Udemy. Started the Advanced Javascript Section. (Currying, Compose and Closure)
+
+**Thoughts**: First day of vacation (sort of).
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/ztm-code/commit/20e81486f41355fbd8b209816f7dbdac68df1e41)
+
+---
 
 ### Day 20: December 12, 2019
 
