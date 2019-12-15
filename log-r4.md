@@ -2,6 +2,17 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+
+### Day 22: December 14, 2019
+
+**Today's Progress**: Today I continued the ZTM course on Udemy. Started the Advanced Javascript Section. (Map, Reduce,  Filter and exerces)
+
+**Thoughts**: Why do I feel I am procrastinating ? Because I am. Eff it.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/ztm-code/commit/265192463883cbff5e87d51f3c967fa13a7fb16c)
+
+---
+
 ### Day 21: December 13, 2019
 
 **Today's Progress**: Today I continued the ZTM course on Udemy. Started the Advanced Javascript Section. (Currying, Compose and Closure)
