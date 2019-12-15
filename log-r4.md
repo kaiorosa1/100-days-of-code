@@ -5,7 +5,7 @@
 
 ### Day 22: December 14, 2019
 
-**Today's Progress**: Today I continued the ZTM course on Udemy. Started the Advanced Javascript Section. (Map, Reduce,  Filter and exerces)
+**Today's Progress**: Today I continued the ZTM course on Udemy. Started the Advanced Javascript Section. (Map, Reduce,  Filter and exercises)
 
 **Thoughts**: Why do I feel I am procrastinating ? Because I am. Eff it.
 
