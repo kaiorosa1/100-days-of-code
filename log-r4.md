@@ -2,10 +2,19 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 24 December 16 2019
+
+**Today's Progress**: Today I continued the ZTM course on Udemy. Continued advanced Javascript Section. (Debugging, How JS works, Module and some practice)
+
+**Thoughts**: I've been loving the ZTM course. I feel that I can already my progress with web dev. I intend to work on some cool projects to pad up my resume on this vaccation.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/ztm-code/commit/af9b33abf9d9314b9db901f4db78f71ac8f75f9f)
+
+---
 
 ### Day 23: December 15, 2019
 
-**Today's Progress**: Today I continued the ZTM course on Udemy. Started the Advanced Javascript Section. (Type Coersion, ES7, ES8,ES9, ES10 )
+**Today's Progress**: Today I continued the ZTM course on Udemy. Continued the Advanced Javascript Section. (Type Coersion, ES7, ES8,ES9, ES10 )
 
 **Thoughts**: I need to start doing this earlier in the day.
 
@@ -25,7 +34,7 @@
 
 ### Day 21: December 13, 2019
 
-**Today's Progress**: Today I continued the ZTM course on Udemy. Started the Advanced Javascript Section. (Currying, Compose and Closure)
+**Today's Progress**: Today I continued the ZTM course on Udemy. Continued the Advanced Javascript Section. (Currying, Compose and Closure)
 
 **Thoughts**: First day of vacation (sort of).
 
