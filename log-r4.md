@@ -3,6 +3,16 @@
 
 
 
+### Day 23: December 15, 2019
+
+**Today's Progress**: Today I continued the ZTM course on Udemy. Started the Advanced Javascript Section. (Type Coersion, ES7, ES8,ES9, ES10 )
+
+**Thoughts**: I need to start doing this earlier in the day.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/ztm-code/commit/2a8eccc73c0ed66b3dd6a8a9936e75f59c92e038)
+
+---
+
 ### Day 22: December 14, 2019
 
 **Today's Progress**: Today I continued the ZTM course on Udemy. Started the Advanced Javascript Section. (Map, Reduce,  Filter and exercises)
