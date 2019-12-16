@@ -6,7 +6,7 @@
 
 **Today's Progress**: Today I continued the ZTM course on Udemy. Continued advanced Javascript Section. (Debugging, How JS works, Module and some practice)
 
-**Thoughts**: I've been loving the ZTM course. I feel that I can already my progress with web dev. I intend to work on some cool projects to pad up my resume on this vaccation.
+**Thoughts**: I've been loving the ZTM course. I feel that I can already see my progress in web dev. I intend to work on some cool projects to pad up my resume on this vacation.
 
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/ztm-code/commit/af9b33abf9d9314b9db901f4db78f71ac8f75f9f)
 
