@@ -2,7 +2,17 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
-### Day 24 December 16 2019
+### Day 25: December 17 2019
+
+**Today's Progress**: Today I continued the ZTM course on Udemy. Finished the Command Line section and started the Developer Environment section. I also started a project to learn how to use the Instagram API.
+
+**Thoughts**: I've been having a hard time using the Instagram API but it's not a node or javascript problem surprisingly it's the documentation which is horrible and how it's not at all intuitive to use their platform.(facebook developers)
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/insta-simple-project/commit/bcf952923d9463f2939c6b42864bd1f8aeab0378)
+
+---
+
+### Day 24: December 16 2019
 
 **Today's Progress**: Today I continued the ZTM course on Udemy. Continued advanced Javascript Section. (Debugging, How JS works, Module and some practice)
 
