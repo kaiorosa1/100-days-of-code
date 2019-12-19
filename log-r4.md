@@ -2,7 +2,17 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
-### Day 25: December 17 2019
+### Day 26: December 18, 2019
+
+**Today's Progress**: Today I continued the ZTM course on Udemy.Continued the Developer Environment section. 
+
+**Thoughts**: I want to finish this section as soon as possible
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/insta-simple-project/commit/c030f544cda1ea02b86f538f025215d9c948093c)
+
+---
+
+### Day 25: December 17, 2019
 
 **Today's Progress**: Today I continued the ZTM course on Udemy. Finished the Command Line section and started the Developer Environment section. I also started a project to learn how to use the Instagram API.
 
@@ -12,7 +22,7 @@
 
 ---
 
-### Day 24: December 16 2019
+### Day 24: December 16, 2019
 
 **Today's Progress**: Today I continued the ZTM course on Udemy. Continued advanced Javascript Section. (Debugging, How JS works, Module and some practice)
 
