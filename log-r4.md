@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 27: December 19, 2019
+
+**Today's Progress**: Today I continued the ZTM course on Udemy. Started the Git + Github section.
+
+**Thoughts**: I want to go home for a bit, that should be nice for a moment.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/insta-simple-project/commit/6acfe4617e9e6017eff6ffc72eb7ecddb2463450)
+
+---
+
 ### Day 26: December 18, 2019
 
 **Today's Progress**: Today I continued the ZTM course on Udemy.Continued the Developer Environment section. 
