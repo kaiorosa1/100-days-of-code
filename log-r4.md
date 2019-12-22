@@ -2,6 +2,17 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+
+### Day 30: December 22, 2019
+
+**Today's Progress**: Today I continued the ZTM course on Udemy. Finished the Git + Github section and the NPM + NPM Scripts section as well.
+
+**Thoughts**: This course is the best one I've taken so far. It has a lot of resources and it goes beyond the expected, I've been learning some technical skills and also about workflow and other non-so-technical skills.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/ztm-code/commit/2f34d45812eda096a0047bdaa72249b63282b7d4)
+
+---
+
 ### Day 29: December 21, 2019
 
 **Today's Progress**: Today I continued the ZTM course on Udemy. Continued the Git + Github section.
