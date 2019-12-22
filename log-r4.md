@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 29: December 21, 2019
+
+**Today's Progress**: Today I continued the ZTM course on Udemy. Continued the Git + Github section.
+
+**Thoughts**: Learned more about some git commands.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/background-generator/commit/e86336e8c88f8e3c0af26b895ce8ad4b87ea8748)
+
+---
+
 ### Day 28: December 20, 2019
 
 **Today's Progress**: Today I continued the ZTM course on Udemy. Continued the Git + Github section.
