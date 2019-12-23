@@ -2,6 +2,15 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 31: December 23, 2019
+
+**Today's Progress**: Today I continued the ZTM course on Udemy. Started the React + Redux Section. 
+
+**Thoughts**: Created the first react app using create-react-app, it's very practical.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/react-robo-friends/commit/5eabf695af6a8a3e877eaeda7c0ddf9d43e7b538)
+
+---
 
 ### Day 30: December 22, 2019
 
