@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 32: December 24, 2019
+
+**Today's Progress**: Today I continued the ZTM course on Udemy. Continued the React robot friends project. 
+
+**Thoughts**: Happy Christmas Eve!!
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/react-robo-friends/commit/9822c09c8a07f2db4d179b6fde1054f6d3bc540c)
+
+---
+
 ### Day 31: December 23, 2019
 
 **Today's Progress**: Today I continued the ZTM course on Udemy. Started the React + Redux Section. 
