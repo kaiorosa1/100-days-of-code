@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 33: December 25, 2019
+
+**Today's Progress**: Today I continued the ZTM course on Udemy. Continued the React robot friends project. Made changes related to the cards display. 
+
+**Thoughts**: React sure helps you with your JS skills. I have an entire React course that I'm gonna take next. Merry Christmas!!
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/react-robo-friends/commit/4446c4a6e98c4089d24932e191c6581db850d09d)
+
+---
+
 ### Day 32: December 24, 2019
 
 **Today's Progress**: Today I continued the ZTM course on Udemy. Continued the React robot friends project. 
