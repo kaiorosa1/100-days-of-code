@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 34: December 26, 2019
+
+**Today's Progress**: Today I continued the ZTM course on Udemy. Finished the Robo Friends.
+
+**Thoughts**: Learned more about states. I feel that taking this course is being more like a very extensive review, some of the topics are new but until now I have some familiarity with everything.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/react-robo-friends/commit/f4351afa176c91a5a3686c6c51259a35901e9aea)
+
+---
+
 ### Day 33: December 25, 2019
 
 **Today's Progress**: Today I continued the ZTM course on Udemy. Continued the React robot friends project. Made changes related to the cards display. 
