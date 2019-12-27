@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 35: December 27, 2019
+
+**Today's Progress**: Today I continued the ZTM course on Udemy. Added some changes to RoboFriends and Reviewed what I learned about React up to this point.
+
+**Thoughts**: Learned a bit about lifecycle hooks and about fetch(). I feel that I will learn so much about React on the other course I can't wait to do that one.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/react-robo-friends/commit/7c7b5c1bb36fc1f3c374ddad86fb6bd4282944d8)
+
+---
+
 ### Day 34: December 26, 2019
 
 **Today's Progress**: Today I continued the ZTM course on Udemy. Finished the Robo Friends.
