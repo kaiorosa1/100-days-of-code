@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 36: December 28, 2019
+
+**Today's Progress**: Today I continued the ZTM course on Udemy. Finished the React section and Started the HTTP/JSON/AJAX section.
+
+**Thoughts**: Deployed the Robo Friends and learned about HTTP and HTTPS and JSON.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/react-robo-friends/commit/ad20c32bcc91a563d1a7451e71a903a6e6627f30)
+
+---
+
 ### Day 35: December 27, 2019
 
 **Today's Progress**: Today I continued the ZTM course on Udemy. Added some changes to RoboFriends and Reviewed what I learned about React up to this point.
