@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 37: December 29, 2019
+
+**Today's Progress**: Today I continued the ZTM course on Udemy. Started the API section. and configured Node on my Windows.
+
+**Thoughts**: Every time I need to use Windows I remember why I don't use it anymore. I'm installing The Sims 4 on Windows to see if it's worth to maintain the Windows partition.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/ztm-code/commit/c9e0402f01181c4d72854ca825b669db2401fe16)
+
+---
+
 ### Day 36: December 28, 2019
 
 **Today's Progress**: Today I continued the ZTM course on Udemy. Finished the React section and Started the HTTP/JSON/AJAX section.
