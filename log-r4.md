@@ -2,6 +2,18 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+
+### Day 38: December 30, 2019
+
+**Today's Progress**: Today I continued the ZTM course on Udemy. Finished the API section on ZTM. Also worked on the API project just to learn how to use one. It's not that hard but I'm saying that about public api and I don't need a key to use them. (That's whole other thing , I guess).
+
+**Thoughts**: Sometimes I learn that I can work more hours than I expect of me. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/ztm-code/commit/335190542499772b7edc22d6bf6b0958a041ac9b)
+
+---
+
+
 ### Day 37: December 29, 2019
 
 **Today's Progress**: Today I continued the ZTM course on Udemy. Started the API section. and configured Node on my Windows.
