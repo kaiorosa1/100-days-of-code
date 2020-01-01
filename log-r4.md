@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 40: January 1, 2020
+
+**Today's Progress**: Today I continued the ZTM course on Udemy. Continued the Face Recognition application. 
+
+**Thoughts**: Happy 2020!! I hope I have a great year and I hope I can make my goals reality. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/face-recognition-project/commit/dd684d58022f3d9d696be6a2e43c93aab73db838)
+
+---
+
 ### Day 39: December 31, 2019
 
 **Today's Progress**: Today I continued the ZTM course on Udemy. Started the Face Recognition application. Created the components for the app. 
