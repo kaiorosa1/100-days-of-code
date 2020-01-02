@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 41: January 2, 2020
+
+**Today's Progress**: Today I continued the ZTM course on Udemy. Continued the Face Recognition application. Learning about the Clarifai API and how to incorporate that into my face-recognition app.
+
+**Thoughts**: I have a lot of project ideas to create using React. I've been writing them on my Google Keep.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/face-recognition-project/commit/2edd14ca29163e804a2cabfe69ac04a4b3ce8728)
+
+---
+
 ### Day 40: January 1, 2020
 
 **Today's Progress**: Today I continued the ZTM course on Udemy. Continued the Face Recognition application. 
