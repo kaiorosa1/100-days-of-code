@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 42: January 3, 2020
+
+**Today's Progress**: Today I continued the ZTM course on Udemy. Continued the Face Recognition application. Created SignIn and Register routes. Learning a lot about props and states.
+
+**Thoughts**: I almost finishing this course. I'm so happy with the progress that I'm making.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/face-recognition-project/commit/84546b247f90be67b46e31eeb08b5f233fcfd6c6)
+
+---
+
 ### Day 41: January 2, 2020
 
 **Today's Progress**: Today I continued the ZTM course on Udemy. Continued the Face Recognition application. Learning about the Clarifai API and how to incorporate that into my face-recognition app.
