@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 43: January 4, 2020
+
+**Today's Progress**: Today I continued the ZTM course on Udemy. Finished the frontend part of the SmartBrain project and started the Node and Express section of the ZTM course.
+
+**Thoughts**: I need to work in the mornings because of the weather here where my parents live. To be fair, It's raining a lot all over the state where I live.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/face-recognition-project/commit/942d3af27e19bf27a1bd3d4b391498748d41ae47)
+
+---
+
 ### Day 42: January 3, 2020
 
 **Today's Progress**: Today I continued the ZTM course on Udemy. Continued the Face Recognition application. Created SignIn and Register routes. Learning a lot about props and states.
