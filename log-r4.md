@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 44: January 5, 2020
+
+**Today's Progress**: Today I continued the ZTM course on Udemy. Continued the Node and Epxress section. Learned about GET, POST, PUT, Postman and Restful API.
+
+**Thoughts**: I should've gone to Vitoria today but I decided to spend one more day in my hometown.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/ztm-code/commit/d302f6af1b1d6637ebcbdc4c1d117d5d02e05210)
+
+---
+
 ### Day 43: January 4, 2020
 
 **Today's Progress**: Today I continued the ZTM course on Udemy. Finished the frontend part of the SmartBrain project and started the Node and Express section of the ZTM course.
