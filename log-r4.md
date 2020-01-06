@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 45: January 6, 2020
+
+**Today's Progress**: Today I continued the ZTM course on Udemy. Finished the Node and Express section. I just started solving a challenge. I should be more excited about it but I'm just feeling lazy. I will finsish it today though.
+
+**Thoughts**: I have my travel scheduled to later today. Bye Aracruz for now.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/ztm-code/commit/de3ad8afc4164977eaf76371e87da14d074d65e4)
+
+---
+
 ### Day 44: January 5, 2020
 
 **Today's Progress**: Today I continued the ZTM course on Udemy. Continued the Node and Epxress section. Learned about GET, POST, PUT, Postman and Restful API.
