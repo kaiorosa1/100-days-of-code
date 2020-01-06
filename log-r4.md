@@ -6,7 +6,7 @@
 
 **Today's Progress**: Today I continued the ZTM course on Udemy. Finished the Node and Express section. I just started solving a challenge. I should be more excited about it but I'm just feeling lazy. I will finsish it today though.
 
-**Thoughts**: I have my travel scheduled to later today. Bye Aracruz for now.
+**Thoughts**: I have my travel scheduled for later today. Bye Aracruz for now.
 
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/ztm-code/commit/de3ad8afc4164977eaf76371e87da14d074d65e4)
 
