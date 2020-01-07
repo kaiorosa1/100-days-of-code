@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 46: January 7, 2020
+
+**Today's Progress**: Today I continued the ZTM course on Udemy. Solved the two parts of the challenge and stated the Backend part of the SmartBrain project.
+
+**Thoughts**: First day in Vitoria. I confess I was not missing here, at all. I'm extra lazy here.
+ 
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/ztm-code/commit/d31aff10ebea7be0c4f1f7fc59273c4f70a1cc17)
+
+---
+
 ### Day 45: January 6, 2020
 
 **Today's Progress**: Today I continued the ZTM course on Udemy. Finished the Node and Express section. I just started solving a challenge. I should be more excited about it but I'm just feeling lazy. I will finsish it today though.
