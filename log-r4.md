@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 47: January 8, 2020
+
+**Today's Progress**: Today I continued the ZTM course on Udemy. Worked on setting up the server creating the signin and register routes.
+
+**Thoughts**: Still lazy. I have to start being more productive again. I'm doing everythign but it's been painful lol. I know tomorrow I'll be better (hopefully)
+ 
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/face-recognition-api/commit/e94a8ec59bc12cc9d4c20d15c4b0bd317029f3f0)
+
+---
+
 ### Day 46: January 7, 2020
 
 **Today's Progress**: Today I continued the ZTM course on Udemy. Solved the two parts of the challenge and stated the Backend part of the SmartBrain project.
