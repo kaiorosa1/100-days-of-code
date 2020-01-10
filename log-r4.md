@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 49: January 10, 2020
+
+**Today's Progress**: Today I continued the ZTM course on Udemy. Finally finished the Server/Backend section. I started the Database section. 
+
+**Thoughts**: I would love to finish this course this week.
+ 
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/face-recognition-api/commit/ec44ed7db740d3145079296e2011550e5c861d87)
+
+---
+
 ### Day 48: January 9, 2020
 
 **Today's Progress**: Today I continued the ZTM course on Udemy. Worked on connecting the SmartBrain with the backend server we created in the past few days. 
