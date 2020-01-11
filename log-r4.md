@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 50: January 11, 2020
+
+**Today's Progress**: Today I continued the ZTM course on Udemy. Finished the Database section. And I started the SmartBrain connection to a database.
+
+**Thoughts**: Maybe I got very excited yesterday but I will definitely finish the course next week.
+ 
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/ztm-code/commit/1529594052a27a2ce586c1b09fb39b47bbaa246c)
+
+---
+
 ### Day 49: January 10, 2020
 
 **Today's Progress**: Today I continued the ZTM course on Udemy. Finally finished the Server/Backend section. I started the Database section. 
