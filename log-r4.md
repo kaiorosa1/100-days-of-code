@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 52: January 13, 2020
+
+**Today's Progress**: Today I continued the ZTM course on Udemy. Learned about Evironmental variables, security of the SmartBrain app.
+
+**Thoughts**: Today was a shitty day. I was/am sick most of the day with a headache and body pain as well. I will fisnish the course tomorrow (I guess).
+ 
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/face-recognition-project/commit/3498b22250c884f7678c6d2d33c00b74bec1c276)
+
+---
+
 ### Day 51: January 12, 2020
 
 **Today's Progress**: Today I continued the ZTM course on Udemy. Finished the SmartBrain database connection. Using KNEX helps a lot (a very good pacakge).
