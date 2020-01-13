@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 51: January 12, 2020
+
+**Today's Progress**: Today I continued the ZTM course on Udemy. Finished the SmartBrain database connection. Using KNEX helps a lot (a very good pacakge).
+
+**Thoughts**: It was a fun day I went to the beach with my girlfriend and her family. I loved it. 
+ 
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/face-recognition-api/commit/d3aee12c4486fd22bd974a30e43f52707c3ddd50)
+
+---
+
 ### Day 50: January 11, 2020
 
 **Today's Progress**: Today I continued the ZTM course on Udemy. Finished the Database section. And I started the SmartBrain connection to a database.
