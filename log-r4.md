@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 53: January 14, 2020
+
+**Today's Progress**: Today I continued the ZTM course on Udemy. Finished the Production and Deployment section. and I came back to the Redux section.
+
+**Thoughts**: I finished the course!!! I'm so proud of me. Loved the course and I've learned so much.
+ 
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/face-recognition-project/commit/2eed4db360c9fa3ff8a8d864349ed3d2301c5bcb)
+
+---
+
 ### Day 52: January 13, 2020
 
 **Today's Progress**: Today I continued the ZTM course on Udemy. Learned about Evironmental variables, security of the SmartBrain app.
