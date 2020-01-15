@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 54: January 15, 2020
+
+**Today's Progress**: Worked on Green Cahak Submit project. It's gonna be very inspired by an assignment I did last semester. I planned out the main parts and now I have create them all.
+
+**Thoughts**: I will start the React course but first I need to work on a personal project.
+ 
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/green-check-submit/commit/0d8f6ed58220baeecfc79afe91d3781eba70d2b9)
+
+---
+
 ### Day 53: January 14, 2020
 
 **Today's Progress**: Today I continued the ZTM course on Udemy. Finished the Production and Deployment section. and I came back to the Redux section.
