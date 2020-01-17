@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 55: January 16, 2020
+
+**Today's Progress**: Worked on Green Cahak Submit project. It's gonna be very inspired by an assignment I did last semester. I created some components. (Logo, Navigation , SignIn , Register)
+
+**Thoughts**: I still have to choose whihi course I'm gonna be taken. Hopefully I will start tomorrow.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/green-check-submit/commit/110d300d612f296fa7b2d735a81bbe5a8e0b0d38)
+
+---
+
 ### Day 54: January 15, 2020
 
 **Today's Progress**: Worked on Green Cahak Submit project. It's gonna be very inspired by an assignment I did last semester. I planned out the main parts and now I have create them all.
