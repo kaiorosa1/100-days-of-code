@@ -2,9 +2,19 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 56: January 17, 2020
+
+**Today's Progress**: Worked on Green Check Submit project. Now I added a cool background and added two more components.
+
+**Thoughts**: I sort of started one of the React course but to be honest I'm not sure which one to choose.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/green-check-submit/commit/fe56ebd02dc765a2c5078eabb64a7a1e85795701)
+
+---
+
 ### Day 55: January 16, 2020
 
-**Today's Progress**: Worked on Green Cahak Submit project. It's gonna be very inspired by an assignment I did last semester. I created some components. (Logo, Navigation , SignIn , Register)
+**Today's Progress**: Worked on Green Check Submit project. It's gonna be very inspired by an assignment I did last semester. I created some components. (Logo, Navigation , SignIn , Register)
 
 **Thoughts**: I still have to choose whihi course I'm gonna be taken. Hopefully I will start tomorrow.
 
@@ -14,7 +24,7 @@
 
 ### Day 54: January 15, 2020
 
-**Today's Progress**: Worked on Green Cahak Submit project. It's gonna be very inspired by an assignment I did last semester. I planned out the main parts and now I have create them all.
+**Today's Progress**: Worked on Green Check Submit project. It's gonna be very inspired by an assignment I did last semester. I planned out the main parts and now I have create them all.
 
 **Thoughts**: I will start the React course but first I need to work on a personal project.
  
