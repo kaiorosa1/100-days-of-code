@@ -2,6 +2,17 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 57: January 18, 2020
+
+**Today's Progress**: Worked on Green Check Submit project.Added the profile.
+
+**Thoughts**: I will be going to Aracruz on Monday and I'm very excited.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/green-check-submit/commit/81fb5b7b02b47541989237ebba29fac43895abc1)
+
+---
+
+
 ### Day 56: January 17, 2020
 
 **Today's Progress**: Worked on Green Check Submit project. Now I added a cool background and added two more components.
