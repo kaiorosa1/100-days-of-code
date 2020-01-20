@@ -2,6 +2,17 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 58: January 19, 2020
+
+**Today's Progress**: Worked on Green Check Submit project. I worked on the Form ansd Logo. I also started The Modern React Bootcamp. 
+
+**Thoughts**: I think I would learn more doing the Andei's course so I will do that later one. I love how pedagogical is Colt's courses in general.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/green-check-submit/commit/6657bdc5817820d8b8001ab571c1f6fe0d92e49a)
+
+---
+
+
 ### Day 57: January 18, 2020
 
 **Today's Progress**: Worked on Green Check Submit project.Added the profile.
