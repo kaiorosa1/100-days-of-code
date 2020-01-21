@@ -2,6 +2,15 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 60: January 21, 2020
+
+**Today's Progress**: Continued The Modern React Bootcamp. The first sections are all about the react basics. (Function vs Class components, JSX, Props ...) 
+
+**Thoughts**: I'm feeling that the basics are very consoslidated already.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/react-bootcamp-code/commit/3f1b6715392c8188dcb65a4cde474fa9414cac2f)
+
+---
 
 ### Day 59: January 20, 2020
 
