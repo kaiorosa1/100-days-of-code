@@ -2,6 +2,17 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+
+### Day 59: January 20, 2020
+
+**Today's Progress**: Worked on Green Check Submit project. Now I finally know how the frontend should look like. Continued The Modern React Bootcamp. 
+
+**Thoughts**: I'm in Aracruz!! :P :D :))
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/green-check-submit/commit/bbd04b802888b4187e26db7506248752da0fdd66)
+
+---
+
 ### Day 58: January 19, 2020
 
 **Today's Progress**: Worked on Green Check Submit project. I worked on the Form ansd Logo. I also started The Modern React Bootcamp. 
@@ -12,7 +23,6 @@
 
 ---
 
-
 ### Day 57: January 18, 2020
 
 **Today's Progress**: Worked on Green Check Submit project.Added the profile.
@@ -22,7 +32,6 @@
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/green-check-submit/commit/81fb5b7b02b47541989237ebba29fac43895abc1)
 
 ---
-
 
 ### Day 56: January 17, 2020
 
