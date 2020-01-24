@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 62: January 23, 2020
+
+**Today's Progress**: Continued The Modern React Bootcamp. Finished the Props section. Worked on the Slot Machine project.
+
+**Thoughts**: I need to get back to producing more. Go React course!!
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/react-bootcamp-code/commit/d10a1581277b8f71cd987ec7df82ec0eefb5eb74)
+
+---
+
 ### Day 61: January 22, 2020
 
 **Today's Progress**: Continued The Modern React Bootcamp. Started the Section 3: Props and More. This week I will be focusing on the basics.
