@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 63: January 24, 2020
+
+**Today's Progress**: Continued The Modern React Bootcamp. Finished the CRA section.
+
+**Thoughts**: I have to go a day earlier to Vitoria. I hopt it's worth it.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/react-bootcamp-code/commit/9e320267972557aac960a45987888d9b6adb32b6)
+
+---
+
 ### Day 62: January 23, 2020
 
 **Today's Progress**: Continued The Modern React Bootcamp. Finished the Props section. Worked on the Slot Machine project.
