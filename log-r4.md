@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 64: January 25, 2020
+
+**Today's Progress**: Continued The Modern React Bootcamp. Worked on the Pokedex project.
+
+**Thoughts**: When I'm in Aracruz is harder to be productive.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/pokedex/commit/4c1f8fcf7ea864533dfececda159ab672425f31f)
+
+---
+
 ### Day 63: January 24, 2020
 
 **Today's Progress**: Continued The Modern React Bootcamp. Finished the CRA section.
