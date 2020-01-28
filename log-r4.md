@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 66: January 27, 2020
+
+**Today's Progress**: Continued The Modern React Bootcamp. Finished the Pokedex project. React makes things easier!! I love it!
+
+**Thoughts**: I have a headache and I don't feel like coding but I did it anyway so I feel good about it.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/pokedex/commit/31e4538fc34cdab95cd4ec22cf5f300cc9a32c83)
+
+---
+
 ### Day 65: January 26, 2020
 
 **Today's Progress**: Continued The Modern React Bootcamp. Worked on the Pokedex project. I'm having problem with the images but tomorrow I'll fix it.
