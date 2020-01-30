@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 68: January 29, 2020
+
+**Today's Progress**: Continued The Modern React Bootcamp. I made minor fixes in some old projects and finished section 5. Also started section 6 which is all about state.  
+
+**Thoughts**: A very rewarding day! Hope for the best.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/green-check-submit/commit/60e3c616bce05d72faccba2b65d93aff471d8c44)
+
+---
+
 ### Day 67: January 28, 2020
 
 **Today's Progress**: Continued The Modern React Bootcamp. Went back to the Pokedex project and made some styling changes and continued section 5.
