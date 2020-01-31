@@ -1,6 +1,15 @@
 
 # 100 Days Of Code - Log (Round 4) 
 
+### Day 69: January 30, 2020
+
+**Today's Progress**: Continued The Modern React Bootcamp. Finished section 6.
+
+**Thoughts**: React is fun but I'll be needing to start learning Angular soon.(I guess)
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/react-bootcamp-code/commit/fa5a37f62d552b727f5e4400db585f53f7b3bc06)
+
+---
 
 ### Day 68: January 29, 2020
 
