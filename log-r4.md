@@ -1,6 +1,17 @@
 
 # 100 Days Of Code - Log (Round 4) 
 
+
+### Day 70: January 31, 2020
+
+**Today's Progress**: Continued The Modern React Bootcamp. Worked on simple projects like RandoGame and started section 7. Reviewed about events and state in React.
+
+**Thoughts**: I was taken a summer course and today was the last and I passed it. yay! Good things are coming hopefully!!
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/react-bootcamp-code/commit/d374eecfee067d473e43ca1903d04d0645eea1d6)
+
+---
+
 ### Day 69: January 30, 2020
 
 **Today's Progress**: Continued The Modern React Bootcamp. Finished section 6.
