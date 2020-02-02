@@ -4,7 +4,7 @@
 
 ### Day 71: February 1, 2020
 
-**Today's Progress**: Continued The Modern React Bootcamp. Started section 6 and worked on the Dice Exercise
+**Today's Progress**: Continued The Modern React Bootcamp. Started section 7 and worked on the Dice Exercise
 
 **Thoughts**: A good but tiring day! The modern React bootcamp is very complete in the sense of you really having the opportunity to understand the fundamentals
 
