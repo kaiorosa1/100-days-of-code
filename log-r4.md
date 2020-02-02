@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 71: February 1, 2020
+
+**Today's Progress**: Continued The Modern React Bootcamp. Started section 6 and worked on the Dice Exercise
+
+**Thoughts**: A good but tiring day! The modern React bootcamp is very complete in the sense of you really having the opportunity to understand the fundamentals
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/react-bootcamp-code/commit/4ea0ce32fdff03472eb4dcf8318d50ffd41d2bab)
+
+---
+
 ### Day 70: January 31, 2020
 
 **Today's Progress**: Continued The Modern React Bootcamp. Worked on simple projects like RandoGame and started section 7. Reviewed about events and state in React.
