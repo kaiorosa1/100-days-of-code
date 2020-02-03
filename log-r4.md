@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 72: February 2, 2020
+
+**Today's Progress**: Continued The Modern React Bootcamp. Worked on the Dice Exercise
+
+**Thoughts**: I have to start doing the challenge in the mornings! I'm sort of okay with y progress. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/react-bootcamp-code/commit/c144d80a554d496f97c6f0e10e66c4a88b38b65b)
+
+---
+
 ### Day 71: February 1, 2020
 
 **Today's Progress**: Continued The Modern React Bootcamp. Started section 7 and worked on the Dice Exercise
