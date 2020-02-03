@@ -6,7 +6,7 @@
 
 **Today's Progress**: Continued The Modern React Bootcamp. Worked on the Dice Exercise
 
-**Thoughts**: I have to start doing the challenge in the mornings! I'm sort of okay with y progress. 
+**Thoughts**: I have to start doing the challenge in the mornings! I'm sort of okay with my progress. 
 
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/react-bootcamp-code/commit/c144d80a554d496f97c6f0e10e66c4a88b38b65b)
 
