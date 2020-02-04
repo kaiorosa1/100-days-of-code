@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 74: February 4, 2020
+
+**Today's Progress**: Continued The Modern React Bootcamp. Worked on section 9 which are exercises to review the previous sections.
+
+**Thoughts**: I guess it's possible to do the 100DaysOfCode earlier. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/react-bootcamp-code/commit/28bbe2a2fed3cc9eab5d32b1de7e8d7ab158b54c)
+
+---
+
 
 ### Day 73: February 3, 2020
 
