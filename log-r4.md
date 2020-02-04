@@ -2,9 +2,20 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+
+### Day 73: February 3, 2020
+
+**Today's Progress**: Continued The Modern React Bootcamp. Finished section 8 which is about React State Patterns. Learned that is better to minimize the state and that is better to centerlize the states in the parent component. Also some patterns on changings the state.
+
+**Thoughts**: Another failed 100DaysOfCode done in the morning, but at least I still do them. Colt is very good at explaninig complex topics I always feel that I truly understand his videos.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/react-bootcamp-code/commit/a6eeeb710bfb045a3824a13b8f2d1b4b5da3a291)
+
+---
+
 ### Day 72: February 2, 2020
 
-**Today's Progress**: Continued The Modern React Bootcamp. Worked on the Dice Exercise
+**Today's Progress**: Continued The Modern React Bootcamp. Worked on the Dice Exercise.
 
 **Thoughts**: I have to start doing the challenge in the mornings! I'm sort of okay with my progress. 
 
