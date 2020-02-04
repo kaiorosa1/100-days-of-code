@@ -4,7 +4,7 @@
 
 ### Day 74: February 4, 2020
 
-**Today's Progress**: Continued The Modern React Bootcamp. Worked on section 9 which are exercises to review the previous sections.
+**Today's Progress**: Continued The Modern React Bootcamp. Worked on section 9 which are exercises to review the previous sections. Also started the Information Security with HelmetJS section on FCC.
 
 **Thoughts**: I guess it's possible to do the 100DaysOfCode earlier. 
 
