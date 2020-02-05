@@ -2,6 +2,17 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 75: February 5, 2020
+
+**Today's Progress**: Continued The Modern React Bootcamp. Worked on the Coin Flipper and made some adjustments on the Lottery project.
+
+**Thoughts**:  What a time to be alive, Angular and React in the same day!!
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/react-bootcamp-code/commit/39fe875fed8b573a9ff861628089469bdf4bea3a)
+
+---
+
+
 ### Day 74: February 4, 2020
 
 **Today's Progress**: Continued The Modern React Bootcamp. Worked on section 9 which are exercises to review the previous sections. Also started the Information Security with HelmetJS section on FCC.
@@ -11,7 +22,6 @@
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/react-bootcamp-code/commit/28bbe2a2fed3cc9eab5d32b1de7e8d7ab158b54c)
 
 ---
-
 
 ### Day 73: February 3, 2020
 
