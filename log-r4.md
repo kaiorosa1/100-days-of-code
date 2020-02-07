@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 76: February 6, 2020
+
+**Today's Progress**: Continued The Modern React Bootcamp. Finished the Coin Flipper project and started the Color Boxes one.
+
+**Thoughts**: Very tiring day I still need to adjust ot my new routine.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/react-bootcamp-code/commit/39fe875fed8b573a9ff861628089469bdf4bea3a)
+
+---
+
 ### Day 75: February 5, 2020
 
 **Today's Progress**: Continued The Modern React Bootcamp. Worked on the Coin Flipper and made some adjustments on the Lottery project.
