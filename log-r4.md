@@ -1,6 +1,15 @@
 
 # 100 Days Of Code - Log (Round 4) 
 
+### Day 78: February 8, 2020
+
+**Today's Progress**: Continued The Modern React Bootcamp. Continued  working the Color Boxes project.
+
+**Thoughts**: Yay Kaio. You will know what I mean.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/react-bootcamp-code/commit/d17bd21a526328a38141c780cf3303461f321b52)
+
+---
 
 ### Day 77: February 7, 2020
 
