@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 77: February 7, 2020
+
+**Today's Progress**: Continued The Modern React Bootcamp. Worked the Color Boxes project.
+
+**Thoughts**: TGIF? haha I feel like I have no time but I'm sure it's just poor time management skills.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/react-bootcamp-code/commit/df403d7820e12f0ff1f3af5792308a3ae5bd714d)
+
+---
+
 ### Day 76: February 6, 2020
 
 **Today's Progress**: Continued The Modern React Bootcamp. Finished the Coin Flipper project and started the Color Boxes one.
