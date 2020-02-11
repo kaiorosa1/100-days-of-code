@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 80: February 10, 2020
+
+**Today's Progress**: Continued The Modern React Bootcamp. Worked on the section about React Events and started a repo to get deeper in  my Angular studies.
+
+**Thoughts**: I've been learning a lot about Angular and there are some things that I think are better than in React but it's soon to have a strong opinion.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/react-bootcamp-code/commit/9b1e09d0b536dbb172538031f82f3329c3caa139)
+
+---
+
 ### Day 79: February 9, 2020
 
 **Today's Progress**: Continued The Modern React Bootcamp. Finished Color Boxes project and started section 10.
