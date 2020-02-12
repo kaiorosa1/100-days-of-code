@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 81: February 11, 2020
+
+**Today's Progress**: Worked on the first-project in Angular.
+
+**Thoughts**: Angular is harder than React but you have more features the way I see it.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-small-projects/commit/14927adfb9b569522261bb43b465e3fcc7de8883)
+
+---
+
 ### Day 80: February 10, 2020
 
 **Today's Progress**: Continued The Modern React Bootcamp. Worked on the section about React Events and started a repo to get deeper in  my Angular studies.
