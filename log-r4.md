@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 82: February 12, 2020
+
+**Today's Progress**: Worked on the first-project in Angular. Created and worked on two components , Home and Navbar and also implemented routing.
+
+**Thoughts**: I will be focusing on Angular for the next few days.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-small-projects/commit/244c1d8a542c361744eedc3f8fce5583e07c754e)
+
+---
+
 ### Day 81: February 11, 2020
 
 **Today's Progress**: Worked on the first-project in Angular.
