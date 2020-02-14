@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 83: February 13, 2020
+
+**Today's Progress**: Worked on the first-project in Angular. Created a service AuthGuard to protect the routes and also changed the login component. Today was very focused on the forms which I've made with Bootstrap.  
+
+**Thoughts**: Angular is a bit rigid but I like it I feel like it demands you to be thinking about clean and maintainable code. I'm very used to write Typescript (I guess lol).
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-small-projects/commit/382defd0e94e186a30687b19dfde9db6c18bf1b3)
+
+---
+
 ### Day 82: February 12, 2020
 
 **Today's Progress**: Worked on the first-project in Angular. Created and worked on two components , Home and Navbar and also implemented routing.
