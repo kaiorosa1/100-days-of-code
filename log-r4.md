@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 84: February 14, 2020
+
+**Today's Progress**: Worked on the first-project in Angular. Added more bootstrap to the project and and worked on the product component.
+
+**Thoughts**: A very unusual day
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-small-projects/commit/20f1d628797c72a2a614f245dd0a47c2cac35d3a)
+
+---
+
 ### Day 83: February 13, 2020
 
 **Today's Progress**: Worked on the first-project in Angular. Created a service AuthGuard to protect the routes and also changed the login component. Today was very focused on the forms which I've made with Bootstrap.  
