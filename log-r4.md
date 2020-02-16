@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 86: February 16, 2020
+
+**Today's Progress**: Worked on the first-project in Angular. Installed and added firebase to the project, changed some components and added sign-in with Google ot the login component.
+
+**Thoughts**: I love planning the dbs and stuff.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-small-projects/commit/6453b012943d5aa2680c8a021cd3b393f67ced77)
+
+---
+
 ### Day 85: February 15, 2020
 
 **Today's Progress**: Worked on the first-project in Angular. Worked more on the product-form component, I added the ngModel directive to retreive the values from the form and created a preview card. I also added some CSS to the navbar to makes thing a bit better.
