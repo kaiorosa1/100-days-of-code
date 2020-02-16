@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 85: February 15, 2020
+
+**Today's Progress**: Worked on the first-project in Angular. Worked more on the product-form component, I added the ngModel directive to retreive the values from the form and created a preview card. I also added some CSS to the navbar to makes thing a bit better.
+
+**Thoughts**: It's very cool to use Angular since it's the framework I will probably be using in the future in my internship. BTW I've been very happy about it, sometimes it feels too good to be true lol.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-small-projects/commit/2ca2d8ce880b45b0b55090ac5de8efcc7c59e0bf)
+
+---
+
 ### Day 84: February 14, 2020
 
 **Today's Progress**: Worked on the first-project in Angular. Added more bootstrap to the project and and worked on the product component.
