@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 87: February 17, 2020
+
+**Today's Progress**: Worked on the first-project in Angular. Tried to fix the Google Auth bug and worked on some components.
+
+**Thoughts**: I need to refactor my code.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-small-projects/commit/8af81cd49d289ed3d93566701a37a2d0baf710fb)
+
+---
+
 ### Day 86: February 16, 2020
 
 **Today's Progress**: Worked on the first-project in Angular. Installed and added firebase to the project, changed some components and added sign-in with Google ot the login component.
