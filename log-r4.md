@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 88: February 18, 2020
+
+**Today's Progress**: Worked on the first-project in Angular. Fixed the issue with teh Google sign in and populated a component with data from the firebase db, also changed the navbar according to the current user.
+
+**Thoughts**: To be honest I don't know when I'm gonna get back to React but hopefully soon.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-small-projects/commit/ddc2ab18309fa33fbd37d9e85955a18c8adecef8)
+
+---
+
 ### Day 87: February 17, 2020
 
 **Today's Progress**: Worked on the first-project in Angular. Tried to fix the Google Auth bug and worked on some components.
