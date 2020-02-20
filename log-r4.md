@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 89: February 19, 2020
+
+**Today's Progress**: Worked on the first-project in Angular. Fixed the issue with the db. I populated the categories and changed some code in the product-form component.
+
+**Thoughts**: I'm becomeing very confortable with asynchronous code  and I'm loving it.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-small-projects/commit/6eafd5bcc9162a521dbb2aebe5b9674a646a44fb)
+
+---
+
 ### Day 88: February 18, 2020
 
 **Today's Progress**: Worked on the first-project in Angular. Fixed the issue with teh Google sign in and populated a component with data from the firebase db, also changed the navbar according to the current user.
