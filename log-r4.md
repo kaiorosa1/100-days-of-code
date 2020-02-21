@@ -1,12 +1,21 @@
 
 # 100 Days Of Code - Log (Round 4) 
 
+### Day 90: February 20, 2020
+
+**Today's Progress**: Worked on the first-project in Angular. I started designing some interfaces and classes for the project and I worked on the product-card component.
+
+**Thoughts**: There are a lot of things to do in this project and I want to implement some new features  as well.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-small-projects/commit/9b1c5db0385b850fc05b79f02e25d3c6601ce667)
+
+---
 
 ### Day 89: February 19, 2020
 
 **Today's Progress**: Worked on the first-project in Angular. Fixed the issue with the db. I populated the categories and changed some code in the product-form component.
 
-**Thoughts**: I'm becomeing very confortable with asynchronous code  and I'm loving it.
+**Thoughts**: I'm becoming very confortable with asynchronous code  and I'm loving it.
 
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-small-projects/commit/6eafd5bcc9162a521dbb2aebe5b9674a646a44fb)
 
