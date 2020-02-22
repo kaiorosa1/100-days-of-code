@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 92: February 22, 2020
+
+**Today's Progress**: I worked on the Angular application. Still working on the product related components. I created a service to handle all the firebase stuff and now I am in the process of refactoring code.
+
+**Thoughts**: I feel very good about myself when I code in the morning. I've done that today because I'm goingto Aracruz and I know the travel it will be tiring and I don't want to have to do anything when I get there.  
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-small-projects/commit/e0983a1cf761bcf26f0ad3d67f77a3164f83038e)
+
+---
+
 ### Day 91: February 21, 2020
 
 **Today's Progress**: I worked on the angular application. Worked on and fixed a bug on the product form.
