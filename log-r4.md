@@ -1,6 +1,18 @@
 
 # 100 Days Of Code - Log (Round 4) 
 
+
+### Day 91: February 21, 2020
+
+**Today's Progress**: I worked on the angular application. Worked on and fixed a bug on the product form.
+
+**Thoughts**: I'm very excited with my internship, I like the work and the people. Hopefully I can learn as much as I'm expecting.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-small-projects/commit/9b1c5db0385b850fc05b79f02e25d3c6601ce667)
+
+---
+
+
 ### Day 90: February 20, 2020
 
 **Today's Progress**: Worked on the first-project in Angular. I started designing some interfaces and classes for the project and I worked on the product-card component.
