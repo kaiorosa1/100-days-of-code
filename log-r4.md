@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 94: February 24, 2020
+
+**Today's Progress**: I worked on the Angular application. Worked on the Shopping Cart component and the ShoppingCartService.
+
+**Thoughts**: I'm thinking about using Angular to create my portfolio instead of using React.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-small-projects/commit/e330e4f9deb43ff44c870f6bb34165965468ec1f)
+
+---
+
 ### Day 93: February 23, 2020
 
 **Today's Progress**: I worked on the Angular application. I fixed the getCategories code and I worked on the homepage component and changed the Product object. 
