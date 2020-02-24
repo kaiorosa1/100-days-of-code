@@ -2,11 +2,21 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 93: February 23, 2020
+
+**Today's Progress**: I worked on the Angular application. I fixed the getCategories code and I worked on the homepage component and changed the Product object. 
+
+**Thoughts**: Sometimes it feels like I will never finish this project. Gosh!
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-small-projects/commit/f6928fcb6c3b99710f5ddeefbbe4282b68a9076d)
+
+---
+
 ### Day 92: February 22, 2020
 
 **Today's Progress**: I worked on the Angular application. Still working on the product related components. I created a service to handle all the firebase stuff and now I am in the process of refactoring code.
 
-**Thoughts**: I feel very good about myself when I code in the morning. I've done that today because I'm goingto Aracruz and I know the travel it will be tiring and I don't want to have to do anything when I get there.  
+**Thoughts**: I feel very good about myself when I code in the morning. I've done that today because I'm going to Aracruz and I know the travel it will be tiring and I don't want to have to do anything when I get there.  
 
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-small-projects/commit/e0983a1cf761bcf26f0ad3d67f77a3164f83038e)
 
