@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 95: February 25, 2020
+
+**Today's Progress**: I worked on the Angular application. Worked on the Shopping Cart component again and added a ShoppingCart to the db.
+
+**Thoughts**: I have an idea for a mini project in Angular that I'm gonna do in practice this weekend, it is a Digital Card let's see how this goes.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-small-projects/commit/2c1df11f2815783dfd97dc10f56c10a806008b31)
+
+---
+
 ### Day 94: February 24, 2020
 
 **Today's Progress**: I worked on the Angular application. Worked on the Shopping Cart component and the ShoppingCartService.
