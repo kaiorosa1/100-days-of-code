@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 96: February 26, 2020
+
+**Today's Progress**: I worked on the Angular application. Worked on the manage-products component.
+
+**Thoughts**: I'm getting good at bootstrap since I've been using a lot lately.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-small-projects/commit/75d2ec2a902adf9fd8eb9b76b65de77c2d0b7878)
+
+---
+
 ### Day 95: February 25, 2020
 
 **Today's Progress**: I worked on the Angular application. Worked on the Shopping Cart component again and added a ShoppingCart to the db.
