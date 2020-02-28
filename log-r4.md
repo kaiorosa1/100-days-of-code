@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 97: February 27, 2020
+
+**Today's Progress**: I worked on the Angular application. I finish the products table and worked on the models as well. 
+
+**Thoughts**: I'm feeling very good about my internship and I've been loving Angular as well. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-small-projects/commit/bc5c4453c8d4f00e330264ac1468a3a82436d1ae)
+
+---
+
 ### Day 96: February 26, 2020
 
 **Today's Progress**: I worked on the Angular application. Worked on the manage-products component.
