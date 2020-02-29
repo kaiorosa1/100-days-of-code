@@ -4,11 +4,11 @@
 
 ### Day 98: February 28, 2020
 
-**Today's Progress**: I worked on the Angular application.  
+**Today's Progress**: I worked on the Angular application. I worked on the Edit Product route/ component.
 
-**Thoughts**: 
+**Thoughts**: It's good to see long time friends and catch up with them. (CEET <3)
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-small-projects/commit/c0759d93c89dfd5fa91d723bdce0c7cf7e3038b0)
 
 ---
 
