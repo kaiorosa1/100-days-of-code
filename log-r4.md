@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 98: February 28, 2020
+
+**Today's Progress**: I worked on the Angular application.  
+
+**Thoughts**: 
+
+**Link(s) to work**: [Commit Link](#)
+
+---
+
 ### Day 97: February 27, 2020
 
 **Today's Progress**: I worked on the Angular application. I finish the products table and worked on the models as well. 
