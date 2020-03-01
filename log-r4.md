@@ -2,6 +2,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 99: February 29, 2020
+
+**Today's Progress**: I worked on the Angular application. I finished the edit product route. It took me a whle because I was having problems getting the url id parameter. Now I need to changed the save button to adequate with updating a product. 
+
+**Thoughts**: We will have another 29 in 4 years lol.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-small-projects/commit/df75a42519c6d1a7c30aafa8f91e6ce9e78048e2)
+
+---
+
 ### Day 98: February 28, 2020
 
 **Today's Progress**: I worked on the Angular application. I worked on the Edit Product route/ component.
