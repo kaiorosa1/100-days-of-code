@@ -1,6 +1,15 @@
 
 # 100 Days Of Code - Log (Round 4) 
 
+### Day 100: March 1, 2020
+
+**Today's Progress**: I worked on the Angular application. I worked on the shoppingCart component. 
+
+**Thoughts**: Another 100 Days!!! 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-small-projects/commit/dae86d0a55de7707d0b17b70b37f2f5b9f425287)
+
+---
 
 ### Day 99: February 29, 2020
 
