@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log (Round 4) 
 
+### Day 4: March 5, 2020
+
+**Today's Progress**: I worked on the Angular application. I worked on the ShoppingCartService. I created a ShoppingCartItem to help modularize the products added in the cart and then I worked a bit on the updating the quantity.
+
+**Thoughts**: Tired but satisfied with my day (sort of).
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-small-projects/commit/61cc0f36c19d1d1d0370e0214f08b9edb6b53f87)
+
+---
 
 ### Day 3: March 4, 2020
 
