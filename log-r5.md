@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
+
+### Day 5: March 6, 2020
+
+**Today's Progress**: I worked on the Angular application. I worked on the ShoppingCart model. I added and fix the ShoppingCartItem. I'm putting off for a bit working on the service because I need more time to rethink It's such a mess and I don't want to work on it for today.
+
+**Thoughts**: Feeling so good about my internship I hope everything goes well.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-small-projects/commit/11f6fb77ab0040e2e6bdedf41956dca0ec99adc8)
+
+---
+
 ### Day 4: March 5, 2020
 
 **Today's Progress**: I worked on the Angular application. I worked on the ShoppingCartService. I created a ShoppingCartItem to help modularize the products added in the cart and then I worked a bit on the updating the quantity.
