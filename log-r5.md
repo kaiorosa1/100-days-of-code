@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 4) 
 
 
+### Day 6: March 7, 2020
+
+**Today's Progress**: I worked on the Angular application. I worked on the ProductQuantity. I finally added to the ProductCard Component.
+
+**Thoughts**: Not feeling very passionate and excited about this angular project. I feel I need to study more to get more ideas.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-small-projects/commit/6c5233cd9d8b62a8ad871aa2e944c8d676cbef17)
+
+---
+
 ### Day 5: March 6, 2020
 
 **Today's Progress**: I worked on the Angular application. I worked on the ShoppingCart model. I added and fix the ShoppingCartItem. I'm putting off for a bit working on the service because I need more time to rethink It's such a mess and I don't want to work on it for today.
