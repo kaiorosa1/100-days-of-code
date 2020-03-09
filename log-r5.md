@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
-### Day 6: March 7, 2020
+### Day 7: March 8, 2020
 
 **Today's Progress**: I worked on the Angular application. I continued working on the ProductQuantity component. I added some conditional statements so the product component show only when there are more than one product in the cart. I worked on the Cart and Product service adding changes relevant to product.
 
