@@ -3,6 +3,16 @@
 
 ### Day 6: March 7, 2020
 
+**Today's Progress**: I worked on the Angular application. I continued working on the ProductQuantity component. I added some conditional statements so the product component show only when there are more than one product in the cart. I worked on the Cart and Product service adding changes relevant to product.
+
+**Thoughts**: I found a french podcast and it's awesome I'm very happy with my progress with this language that I've been learning for so long without seeing any progress. About Angular I will find a course so I can learn more about Rxjs and all that good stuff. I find Angular very interesting and I hope I can learn a lot about it as well. A MEAN course. maybe? 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-small-projects/commit/c9edced0b88768a4b16831e7a4728bf9a8b1290c)
+
+---
+
+### Day 6: March 7, 2020
+
 **Today's Progress**: I worked on the Angular application. I worked on the ProductQuantity. I finally added to the ProductCard Component.
 
 **Thoughts**: Not feeling very passionate and excited about this angular project. I feel I need to study more to get more ideas.
