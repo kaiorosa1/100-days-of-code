@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 8: March 9, 2020
+
+**Today's Progress**: I worked on the Angular application. I worked on refactoring the existing code and adding / designing the shopping-cart db. I haven't gone very far because I feel that I'm over my head with this project but I'll keep going because it has a lot of potential for learning.
+
+**Thoughts**: Continue investing time in the french podcast. I had a surprise on my linkedin that I feel bittersweet about and it was an unusual day in general.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-small-projects/commit/991ba6ff8cc28d6b7b2502a1c12b9263a6abfd38)
+
+---
+
 ### Day 7: March 8, 2020
 
 **Today's Progress**: I worked on the Angular application. I continued working on the ProductQuantity component. I added some conditional statements so the product component show only when there are more than one product in the cart. I worked on the Cart and Product service adding changes relevant to product.
