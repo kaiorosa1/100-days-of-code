@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 9: March 10, 2020
+
+**Today's Progress**: I worked on the Angular application. I worked on the ProductService. Still trying to fix the issues with the shopping-cart db. I also started my haskell repo.
+
+**Thoughts**: A long day I still need to get used to my new schedule.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-small-projects/commit/44f4d567cf752978eca79018c8ece67c39937aeb)
+
+---
+
 ### Day 8: March 9, 2020
 
 **Today's Progress**: I worked on the Angular application. I worked on refactoring the existing code and adding / designing the shopping-cart db. I haven't gone very far because I feel that I'm over my head with this project but I'll keep going because it has a lot of potential for learning.
