@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 10: March 11, 2020
+
+**Today's Progress**: I worked on the Haskell repo. I'm taking Haskell course this semester so I started following the Learn You a Haskell for Great Good and I've played around with ghci prompt. 
+
+**Thoughts**: Functional programming here we go!
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/learning-haskell/commit/ae2f47a7f1b92a4bbbd0735c023d65de9afd3cb9)
+
+---
+
 ### Day 9: March 10, 2020
 
 **Today's Progress**: I worked on the Angular application. I worked on the ProductService. Still trying to fix the issues with the shopping-cart db. I also started my haskell repo.
