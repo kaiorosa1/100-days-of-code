@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 11: March 12, 2020
+
+**Today's Progress**: I worked on the cartao-virtual project. It's a new project just to practice what I've been learning about Angular Material. 
+
+**Thoughts**: I want to become so good in Angular so I can do any project in it.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-small-projects/commit/4146ddb4ab53849e9cc17e0c7a6d18aa59a459d9)
+
+---
+
 ### Day 10: March 11, 2020
 
 **Today's Progress**: I worked on the Haskell repo. I'm taking Haskell course this semester so I started following the Learn You a Haskell for Great Good and I've played around with ghci prompt. 
