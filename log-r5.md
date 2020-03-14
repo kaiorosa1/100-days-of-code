@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 12: March 13, 2020
+
+**Today's Progress**: I worked on the cartao-virtual project. Added Modules and tested the examples from the documentation. I want to create a virtual business card (something within these lines) and I see that Angular Material has a lot icons and stuning navbars so I think it will be relatively easy to create this project. 
+
+**Thoughts**: I'm just waiting the next Udemy promo so I can buy a Angular Masterclass or something. I'm also interested in learning about Socket.IO. As far as I understand emits something and uses TCP to work. I can be deadly wrong, you can laugh about it Kaio from the future.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-small-projects/commit/105e171058a1402fddb935ab74110140f407fbad)
+
+---
+
 ### Day 11: March 12, 2020
 
 **Today's Progress**: I worked on the cartao-virtual project. It's a new project just to practice what I've been learning about Angular Material. 
