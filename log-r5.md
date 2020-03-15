@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 13: March 14, 2020
+
+**Today's Progress**: I worked on the cartao-virtual project. I adjusted the navbar and added the relevant info to the card. I also worked on the icons and the button in this project. I love how simple is to use Angular Material.
+
+**Thoughts**: I bought a new Angular course today I'm so excited to start it and learn as much as I can. I'm very excited to apply everything I learn in my internship. What a great time to be alive. (lol) To future Kaio, this is reference to something I saw in Modern family. and I know it is used in other context but I'm refering to that.  
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-small-projects/commit/6ec22bfcf5afe41bdb9d7e11df20e3fc04d99435)
+
+---
+
 ### Day 12: March 13, 2020
 
 **Today's Progress**: I worked on the cartao-virtual project. Added Modules and tested the examples from the documentation. I want to create a virtual business card (something within these lines) and I see that Angular Material has a lot icons and stuning navbars so I think it will be relatively easy to create this project. 
