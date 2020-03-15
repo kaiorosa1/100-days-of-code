@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 14: March 15, 2020
+
+**Today's Progress**: I started the MEAN course on Udemy. I set up Angular and worked on the mean-course project.
+
+**Thoughts**: I hope I learn a lot about the MEAN stack. Although I have a basic undertanding of it I want to be able to have a better picture of everything.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/mean-stack-udemy/commit/86df5121fbc638450ed7f2cc839adac963c30113)
+
+---
+
 ### Day 13: March 14, 2020
 
 **Today's Progress**: I worked on the cartao-virtual project. I adjusted the navbar and added the relevant info to the card. I also worked on the icons and the button in this project. I love how simple is to use Angular Material.
