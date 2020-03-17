@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 15: March 16, 2020
+
+**Today's Progress**: I continued the MEAN course on Udemy. Watched some lectures on Udemy and worked on the mean-course app. 
+
+**Thoughts**: A bought a course on Docker and I'm very exicted to learn about container and all that good stuff. I'm not changing my focus I just want to diversify what I am learning. I have a lot of school work to do as well. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/mean-stack-udemy/commit/baa6751289bfa7f9c546566d367364cc71e5f7aa)
+
+---
+
+
 ### Day 14: March 15, 2020
 
 **Today's Progress**: I started the MEAN course on Udemy. I set up Angular and worked on the mean-course project.
