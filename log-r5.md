@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 17: March 18, 2020
+
+**Today's Progress**: I continued the MEAN course on Udemy. Continued working on section 2. 
+
+**Thoughts**: I'm finding the MEAN course a bit boring but I will continue working on it. I think it's because I'm feeling overly confidend with my Angular skills. I need to take it down a notch!!! I know I have a lot to learn but the basics is something that I already feel comfortable.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/mean-stack-udemy/commit/b88d094d7fa140a3b6eb209a8f3eecf5ccb65152)
+
+---
+
 ### Day 16: March 17, 2020
 
 **Today's Progress**: I continued the MEAN course on Udemy. Worked on section 2. I also started learning about Docker from the Docker Mastery course (Section 1).
