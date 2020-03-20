@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 18 March 19 2020
+
+**Today's Progress**: I continued the MEAN course on Udemy. I continued working on the post component.Also installed and watched lectures on Docker.
+
+**Thoughts**: Docker seems a little bit hard to learn but I believe I have the right course to teach me.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/mean-stack-udemy/commit/b88d094d7fa140a3b6eb209a8f3eecf5ccb65152)
+
+---
+
 ### Day 17: March 18, 2020
 
 **Today's Progress**: I continued the MEAN course on Udemy. Continued working on section 2. 
