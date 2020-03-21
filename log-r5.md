@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
+### Day 19, March 20 2020
+
+**Today's Progress**: I continued the MEAN course on Udemy. I continued working on the posts component and updated my project to Angular 9.
+
+**Thoughts**: I havent worked on Docker but I finally fixed my dual partition.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/mean-stack-udemy/commit/3b386b14ce82d9be9887afdb8e12e4fa80961230)
+
+---
+
+Today I worked on the mean-course I had to update this project to Angular 9 and it was a nightmare. I worked on the posts component and added Angular Material to this project.
 
 ### Day 18 March 19 2020
 
