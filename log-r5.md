@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log (Round 5) 
 
+
+### Day 20, March 21 2020
+
+**Today's Progress**: I continued the MEAN course on Udemy. I continued making my project prettier with the material components. I will be finishing up the section 2 soon.
+
+**Thoughts**: Not very productive. I still want to spend more time with the udemy classes instead of fixing bugs.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/mean-stack-udemy/commit/058a1d79a2d16dcf8a0402b8310d7a33e1948a02)
+
+---
+
+
 ### Day 19, March 20 2020
 
 **Today's Progress**: I continued the MEAN course on Udemy. I continued working on the posts component and updated my project to Angular 9.
