@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
-### Day 20, March 21 2020
+### Day 20: March 21 2020
 
 **Today's Progress**: I continued the MEAN course on Udemy. I continued making my project prettier with the material components. I will be finishing up the section 2 soon.
 
@@ -12,7 +12,7 @@
 ---
 
 
-### Day 19, March 20 2020
+### Day 19: March 20 2020
 
 **Today's Progress**: I continued the MEAN course on Udemy. I continued working on the posts component and updated my project to Angular 9.
 
@@ -24,7 +24,7 @@
 
 Today I worked on the mean-course I had to update this project to Angular 9 and it was a nightmare. I worked on the posts component and added Angular Material to this project.
 
-### Day 18 March 19 2020
+### Day 18: March 19 2020
 
 **Today's Progress**: I continued the MEAN course on Udemy. I continued working on the post component.Also installed and watched lectures on Docker.
 
