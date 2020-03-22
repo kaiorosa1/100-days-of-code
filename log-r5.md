@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 21: March 22 2020
+
+**Today's Progress**: I continued the MEAN course on Udemy. I worked more on section 2. 
+
+**Thoughts**: I had a lot of problems today with my computer and I almost was not able to use it at all but fortunately I was able to code and continue on with the challenge. I'm very worried about tomorrow and thank you Kamila for lending me your charger so I could code and tweet today.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/mean-stack-udemy/commit/ede2ba9832976d3c07b96becb4e99e27d4672d2d)
+
+---
+
 ### Day 20: March 21 2020
 
 **Today's Progress**: I continued the MEAN course on Udemy. I continued making my project prettier with the material components. I will be finishing up the section 2 soon.
