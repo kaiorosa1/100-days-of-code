@@ -1,7 +1,17 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
-### Day 21: March 22 2020
+### Day 22: March 23, 2020
+
+**Today's Progress**: I continued the MEAN course on Udemy.I finished the post-create component, worked on the navbar and the post-list components and I reviewed Event Emitters.
+
+**Thoughts**: I was able to buy a new charger and now I can work in my computer without much effort. I would love to buy a new computer because this remote work is proving that a fast computer is not a luxury but a need, either way I have been trying to focus and work and not spiral into the chaos we are currently living.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/mean-stack-udemy/commit/8479b7e561a30791733360f916b113c2f97782cb)
+
+---
+
+### Day 21: March 22, 2020
 
 **Today's Progress**: I continued the MEAN course on Udemy. I worked more on section 2. 
 
@@ -11,7 +21,7 @@
 
 ---
 
-### Day 20: March 21 2020
+### Day 20: March 21, 2020
 
 **Today's Progress**: I continued the MEAN course on Udemy. I continued making my project prettier with the material components. I will be finishing up the section 2 soon.
 
@@ -22,7 +32,7 @@
 ---
 
 
-### Day 19: March 20 2020
+### Day 19: March 20, 2020
 
 **Today's Progress**: I continued the MEAN course on Udemy. I continued working on the posts component and updated my project to Angular 9.
 
@@ -34,7 +44,7 @@
 
 Today I worked on the mean-course I had to update this project to Angular 9 and it was a nightmare. I worked on the posts component and added Angular Material to this project.
 
-### Day 18: March 19 2020
+### Day 18: March 19, 2020
 
 **Today's Progress**: I continued the MEAN course on Udemy. I continued working on the post component.Also installed and watched lectures on Docker.
 
