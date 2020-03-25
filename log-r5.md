@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 23: March 24, 2020
+
+**Today's Progress**: I continued the MEAN course on Udemy.Changed the app component, added input and output to add posts using a event emitter. I also started downloading Docker on linux. I'm following the Docker Mastery course on Udemy and the tutorial is a bit long.
+
+**Thoughts**: What is the key to being productive? I need to find out what works for me.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/mean-stack-udemy/commit/ab8023464762f4edd5dd082284cf76fecbe5a725)
+
+---
+
 ### Day 22: March 23, 2020
 
 **Today's Progress**: I continued the MEAN course on Udemy.I finished the post-create component, worked on the navbar and the post-list components and I reviewed Event Emitters.
