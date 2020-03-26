@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 24: March 25, 2020
+
+**Today's Progress**: I continued the MEAN course on Udemy. I added a postsService to my project and then I injected that into some components. Reviewed about Observables and Subjects and a bit about lifecycle hooks. 
+
+**Thoughts**: I'm trying to create mini goals so I can finish my Udemy courses. I want to learn about a lot of things so I need to start finishing more courses. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/mean-stack-udemy/commit/aa92076e7d431c3e8750ee57ef19fd6b06346f4d)
+
+---
+
 ### Day 23: March 24, 2020
 
 **Today's Progress**: I continued the MEAN course on Udemy.Changed the app component, added input and output to add posts using a event emitter. I also started downloading Docker on linux. I'm following the Docker Mastery course on Udemy and the tutorial is a bit long.
