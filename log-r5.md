@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 25: March 26, 2020
+
+**Today's Progress**: I continued the MEAN course on Udemy. I started the section about NodeJS. I started a server and added express to it. I learned the difference betweeen a container and a image and learned some Docker commands and answered a quiz.
+
+**Thoughts**: I think I need a more extensive course on NodeJS. I will be looking for the that in the next few days. This MEAN course is very superficial about the stack but I've been learning a lot. I have a more comprehensive course on Angular but I don't have one on Mongo and NodeJS. I also want to understand more about Docker and Kubernetes so I can undertand better what the fuss is about.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/mean-stack-udemy/commit/94ca99fcf4bff46f7b743688a175de86fbf50b81)
+
+---
+
 ### Day 24: March 25, 2020
 
 **Today's Progress**: I continued the MEAN course on Udemy. I added a postsService to my project and then I injected that into some components. Reviewed about Observables and Subjects and a bit about lifecycle hooks. 
