@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 26: March 27, 2020
+
+**Today's Progress**: I continued the MEAN course on Udemy. I connected my angular project to a node backend and tested the features I implemeneted. I've learned about CORS and how to use HttpClientModule on Angular.
+
+**Thoughts**: One of those unproductive days only I did the bare minimum but at least I continued with the challenge. It's funny that I allow myself having days like this without feeling like shit (not always but today I did).
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/mean-stack-udemy/commit/7ef89fa65f8a438113b5dd13b2ad16981013ea2f)
+
+---
+
 ### Day 25: March 26, 2020
 
 **Today's Progress**: I continued the MEAN course on Udemy. I started the section about NodeJS. I started a server and added express to it. I learned the difference betweeen a container and a image and learned some Docker commands and answered a quiz.
