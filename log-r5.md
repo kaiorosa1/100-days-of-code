@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 27: March 28, 2020
+
+**Today's Progress**: I continued the MEAN course on Udemy. Finished Section 3 and started learning/reviewing about MongoDB basics. 
+
+**Thoughts**: I'm enjoying this course because the need for the other parts of the MEAN stack comes naturally which helps you understand why we are using certain technology but at the same time I feel that the project could be more complex. Maybe it's too early to say.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/mean-stack-udemy/commit/67e8df73aad15daa363327411592cf2ee0304c8d)
+
+---
+
 ### Day 26: March 27, 2020
 
 **Today's Progress**: I continued the MEAN course on Udemy. I connected my angular project to a node backend and tested the features I implemeneted. I've learned about CORS and how to use HttpClientModule on Angular.
