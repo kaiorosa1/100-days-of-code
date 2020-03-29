@@ -1,13 +1,13 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
-### Day 27: March 28, 2020
+### Day 28: March 29, 2020
 
-**Today's Progress**: I continued the MEAN course on Udemy. Finished Section 3 and started learning/reviewing about MongoDB basics. 
+**Today's Progress**: I continued the MEAN course on Udemy. Finished Section 4. Worked on CRUD for Posts on the application.
 
-**Thoughts**: I'm enjoying this course because the need for the other parts of the MEAN stack comes naturally which helps you understand why we are using certain technology but at the same time I feel that the project could be more complex. Maybe it's too early to say.
+**Thoughts**: It was a very productive day! I advanced a lot on the Udemy course and I've been having a lot of ideas to work on project-wise. I would love for connect my FrameWeb work with my JS journey but this is me rambling.
 
-**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/mean-stack-udemy/commit/67e8df73aad15daa363327411592cf2ee0304c8d)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/mean-stack-udemy/commit/01f7de7f92f8491d28aa466849a693f249ed4eda)
 
 ---
 
