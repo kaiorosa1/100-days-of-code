@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 30: March 31, 2020
+
+**Today's Progress**: I continued the MEAN course on Udemy. I worked on the Edit feature on the Post component. (yes it took me an hour).
+
+**Thoughts**: I'm happy with the progress that I've been making in this course. I should be done with it by less than a month I guess. I took a break with my Docker course and my Learning how to learn because to be honest I don't have much energy to do all them and I'm content with what I'm accomplishing with only one. I hope in the future I'm able to manage better my time since I still have IC stuff to do this week. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/mean-stack-udemy/commit/f00ecfa6913ced4e8f95d0f9554016d220acfde3)
+
+---
+
 ### Day 29: March 30, 2020
 
 **Today's Progress**: I continued the MEAN course on Udemy. Worked on the Routing and the edit aspect of the application.
