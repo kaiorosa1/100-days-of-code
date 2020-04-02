@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log (Round 5) 
 
+### Day 31: April 1, 2020
+
+**Today's Progress**: I continued the MEAN course on Udemy. I finsihed section 5. Added a progress spinner and refactor some mode code. I started working on the image upload section.
+
+**Thoughts**: I worked more than usual today and I feeling very good about it. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/mean-stack-udemy/commit/989ce599f2dbcb1fd021649935fbea4866d95c58)
+
+---
 
 ### Day 30: March 31, 2020
 
