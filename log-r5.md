@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 33: April 3, 2020
+
+**Today's Progress**: I continued the MEAN course on Udemy. I worked on section 6. I'm still working on the image upload thingy cuz it's harder than I thought.
+
+**Thoughts**: Image upload is not as fun as it sounds. TGIF lol. I'm just kidding but at the same time I am not.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/mean-stack-udemy/commit/93cddf27ddbfada417aff7dd933c5ebba3cb2ef6)
+
+---
+
 ### Day 32: April 2, 2020
 
 **Today's Progress**: I continued the MEAN course on Udemy. I worked on section 6. I worked on the image upload functionality, now I need to style the image preview and continue learning about the file validator and whatnot.
