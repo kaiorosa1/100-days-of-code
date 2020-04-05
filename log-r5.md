@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+
+### Day 34: April 4, 2020
+
+**Today's Progress**: I continued the MEAN course on Udemy. Finished section 6, now I will be learning more about pagination and stuff like that. 
+
+**Thoughts**: I should start setting more realistic goal so I don't feel like a failure even when I did more than usual!!
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/mean-stack-udemy/commit/2c02731bcd483e16d566431612191fda2cd1369f)
+
+---
+
+
 ### Day 33: April 3, 2020
 
 **Today's Progress**: I continued the MEAN course on Udemy. I worked on section 6. I'm still working on the image upload thingy cuz it's harder than I thought.
