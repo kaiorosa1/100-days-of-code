@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 35: April 5, 2020
+
+**Today's Progress**: I continued the MEAN course on Udemy. Finshed section 7. I implemented pagination to my project.
+
+**Thoughts**: Oh my. one of those days.. I didn't want to code at all but I did and that is the power of habit building. lol But seriously though there are day that the last thing I want to do is to be productive...
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/mean-stack-udemy/commit/7536286a3e11088da878394c5221a5864fc5e219)
+
+---
+
 
 ### Day 34: April 4, 2020
 
