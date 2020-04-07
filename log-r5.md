@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 36: April 6, 2020
+
+**Today's Progress**: I continued the MEAN course on Udemy. I worked on section 8. I started implement the signup and login routes.
+
+**Thoughts**: A very long day. I had two meetings and still had to work the entire day. I'm quite consumed by everything I hope I can be more productive tomorrow since yesterday was not a good day as well.  I still have to write a post about being on quarantine, habits and mental health. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/mean-stack-udemy/commit/8e995a6b586b076df0093bffffafede97c6a8b2a)
+
+---
+
+
 ### Day 35: April 5, 2020
 
 **Today's Progress**: I continued the MEAN course on Udemy. Finshed section 7. I implemented pagination to my project.
