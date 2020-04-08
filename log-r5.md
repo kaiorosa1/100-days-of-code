@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 37: April 7, 2020
+
+**Today's Progress**: I continued the MEAN course on Udemy. I worked on section 8. Worked on handling the user input and in the signup page.
+
+**Thoughts**: Today I woke up late and it was only down hill from there. I hate days like that but tomorrow I will try to wake up earlier and try to organize myself better I feel like I have very limited time to work on my things lately and it is true but with better time management skills I can learn how to use better and more efficient my time, I want to accomplish so much and it seems to not have enough hours in the day.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/mean-stack-udemy/commit/8774014136711960835737bb54d3f4bad46a78f5)
+
+---
+
 ### Day 36: April 6, 2020
 
 **Today's Progress**: I continued the MEAN course on Udemy. I worked on section 8. I started implement the signup and login routes.
