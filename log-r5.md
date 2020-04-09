@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 38: April 8, 2020
+
+**Today's Progress**: I continued the MEAN course on Udemy. I worked on section 8. Worked on the backend, created the user model and the user routes and started implementing them.
+
+**Thoughts**: I'm not very happy with my progress but I have to accept that I have a horrible network connection and it take me a bit for folllowing the tutorials and stuff. I just want to finish this course already!!! lol
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/mean-stack-udemy/commit/f51d7515b4704cf9d20be5d88458d81c9f2f732c)
+
+---
+
 ### Day 37: April 7, 2020
 
 **Today's Progress**: I continued the MEAN course on Udemy. I worked on section 8. Worked on handling the user input and in the signup page.
