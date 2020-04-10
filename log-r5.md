@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 39: April 9, 2020
+
+**Today's Progress**: I continued the MEAN course on Udemy. I worked on section 8. I added saving the user in the database and the user password is now encrypted before saving it into the db. 
+
+**Thoughts**: My computer is not helping me but I do what I can.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/mean-stack-udemy/commit/4d49837788ac3a0813b5663b7f3bd7be20913ad5)
+
+---
+
 ### Day 38: April 8, 2020
 
 **Today's Progress**: I continued the MEAN course on Udemy. I worked on section 8. Worked on the backend, created the user model and the user routes and started implementing them.
