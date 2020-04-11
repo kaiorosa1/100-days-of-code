@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 40: April 10, 2020
+
+**Today's Progress**: I continued the MEAN course on Udemy. I worked on section 8. I worked on the /login route in the backend and then I added the jsonjwtwebtoken package to help me setup the jwt token when the user logs in. 
+
+**Thoughts**: I'm learning how to use a jwt token to authenticate the user and the whole process of authentication and it's a bit complicated but it's fun as well. I'm almost in the middle of this section 8. It's definitely one of the most dense ones but it's super duper important to take my time in it.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/mean-stack-udemy/commit/6126ad2e2c482f1580c9f67deca818ff985773df)
+
+---
+
 ### Day 39: April 9, 2020
 
 **Today's Progress**: I continued the MEAN course on Udemy. I worked on section 8. I added saving the user in the database and the user password is now encrypted before saving it into the db. 
