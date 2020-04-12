@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 41: April 11, 2020
+
+**Today's Progress**: I continued the MEAN course on Udemy. I worked on section 8. Added the auth-interceptor.ts to the project and adjust the headers to accept the Authorization header as well. Also adjust a bit the UI according to the user status.  
+
+**Thoughts**: This part of the course is dragging me a bit but I also think it's because I'm a bit stressed with everything that is happening plus not having work-life balance and not only being my fault. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/mean-stack-udemy/commit/9a1108508cdf3d9c0821ee9806443b097656ec1d)
+
+---
+
 ### Day 40: April 10, 2020
 
 **Today's Progress**: I continued the MEAN course on Udemy. I worked on section 8. I worked on the /login route in the backend and then I added the jsonjwtwebtoken package to help me setup the jwt token when the user logs in. 
