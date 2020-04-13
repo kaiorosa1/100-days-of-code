@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 42: April 12, 2020
+
+**Today's Progress**: I continued the MEAN course on Udemy. Finished section 8. I finally implemented the login, logout, the AuthGuard and all that good user authentication-related stuff. Now I will move on to the Authorization section.
+
+**Thoughts**: I can't believe I finished this section It's been too long since I started it.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/mean-stack-udemy/commit/c78e2b9b423f34cecf96074e102e280d26607029)
+
+---
+
 ### Day 41: April 11, 2020
 
 **Today's Progress**: I continued the MEAN course on Udemy. I worked on section 8. Added the auth-interceptor.ts to the project and adjust the headers to accept the Authorization header as well. Also adjust a bit the UI according to the user status.  
