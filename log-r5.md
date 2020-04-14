@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 43: April 13, 2020
+
+**Today's Progress**: I continued the MEAN course on Udemy. Worked on section 9. I started implementing the authorization part of the application, I added the creator property to the post so we can manage who can edit and delete it later.
+
+**Thoughts**: I was not a good day but I could do some things! I felt better during the night.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/mean-stack-udemy/commit/073ef9683174295dfb01dc2eb7049d90b7bab321)
+
+---
+
 ### Day 42: April 12, 2020
 
 **Today's Progress**: I continued the MEAN course on Udemy. Finished section 8. I finally implemented the login, logout, the AuthGuard and all that good user authentication-related stuff. Now I will move on to the Authorization section.
