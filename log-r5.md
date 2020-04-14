@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 44: April 14, 2020
+
+**Today's Progress**: I continued the MEAN course on Udemy. Finished section 9 and 10. This last section was about displaying better error messages to the user and improving the user experience of the mean app. I still have a few sections to finish but I believe I'm very close to finsishing this course.
+
+**Thoughts**: I love days when I get to be productive from the get go. I woke up earlier than usual did my habits and all that good stuff and now I'm about to start working from home (my internship) and I will have a free relaxed time when I get off from work mode. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/mean-stack-udemy/commit/19ddc85585c280404bee74144a3d7e7f2cd98049)
+
+---
+
 ### Day 43: April 13, 2020
 
 **Today's Progress**: I continued the MEAN course on Udemy. Worked on section 9. I started implementing the authorization part of the application, I added the creator property to the post so we can manage who can edit and delete it later.
