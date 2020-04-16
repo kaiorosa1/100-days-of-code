@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 45: April 15, 2020
+
+**Today's Progress**: I continued the MEAN course on Udemy. I worked on section 11. I'm refactoring the code to best practices and all that.
+
+**Thoughts**:  My internet is not helping me. I could have been more productive but it's a real shame what is been going on with my internet connection. Hope I can finish section 11 tomorrow and then start the deploying section. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/mean-stack-udemy/commit/835dc5314d465aa59f12a90ab0d5a71d54824d2c)
+
+---
+
 ### Day 44: April 14, 2020
 
 **Today's Progress**: I continued the MEAN course on Udemy. Finished section 9 and 10. This last section was about displaying better error messages to the user and improving the user experience of the mean app. I still have a few sections to finish but I believe I'm very close to finsishing this course.
