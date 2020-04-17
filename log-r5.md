@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 46: April 16, 2020
+
+**Today's Progress**: I finsihed the MEAN course on Udemy. it's very rewarding to finish another one, I personally have a LOT of courses to go through. I started the Advanced Node.js on Pluralsight and I hope I can learn Node more in depth.
+
+**Thoughts**:  I could basically say the same thing about what I said yesterday but now I don't even have internet connectin to begin with. I coded today using my mobile data. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/kaio-rosa-angular-website/commit/072524e95fecd4e7f5b89d2418a71d7f8ed7b952)
+
+---
+
 ### Day 45: April 15, 2020
 
 **Today's Progress**: I continued the MEAN course on Udemy. I worked on section 11. I'm refactoring the code to best practices and all that.
