@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 47: April 17, 2020
+
+**Today's Progress**: I worked a bit on the Node.js course on Pluralsight and I worked on my portfolio project in Angular.
+
+**Thoughts**: I can say that today was waay better than yesterday because I had stable internet all day and I could work on my portfolio website and it was productive. 
+
+Side Note: I'm so enjoying this Lauren Jaugueri new vibe. 50ft is a bop !
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/kaio-rosa-angular-website/commit/b1b1e5f105e4824a7953619e5b4edabec9e65842)
+
+---
+
 ### Day 46: April 16, 2020
 
 **Today's Progress**: I finsihed the MEAN course on Udemy. it's very rewarding to finish another one, I personally have a LOT of courses to go through. I started the Advanced Node.js on Pluralsight and I hope I can learn Node more in depth.
