@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 48: April 18, 2020
+
+**Today's Progress**: I finished section 2 and 3 on Pluralsight. I've been following the examples to understand these advanced concepts. Now I'm working on the Node Event-driven Architecture section.
+
+**Thoughts**: It's a different course than I expected it's very theoretical. I find the examples a bit too abstract but I like this course pace.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/advanced-nodejs-pluralsight/commit/828512352f09777fbee4e936273cac5fe014889a)
+
+---
+
+
 ### Day 47: April 17, 2020
 
 **Today's Progress**: I worked a bit on the Node.js course on Pluralsight and I worked on my portfolio project in Angular.
