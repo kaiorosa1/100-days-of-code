@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 49: April 19, 2020
+
+**Today's Progress**: I finished section 4. Learned/ Reviewed about Promise, Event Emitters and Async functions. There are a lot of examples to help you understand the concepts.
+
+**Thoughts**: I don't like examples in general, I find them to be very code-y (whatever this means).
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/advanced-nodejs-pluralsight/commit/9448d303b7a4ac6aad27b21ad8e3074e2f70e92d)
+
+---
+
+
 ### Day 48: April 18, 2020
 
 **Today's Progress**: I finished section 2 and 3 on Pluralsight. I've been following the examples to understand these advanced concepts. Now I'm working on the Node Event-driven Architecture section.
