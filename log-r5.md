@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 50: April 20, 2020
+
+**Today's Progress**: I Worked on the Task List Manager project and in section 5, which is about Node for networking.
+
+**Thoughts**: I think I'm enjoying more the course now that I see more practical examples and I like how short and sweet it is.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/advanced-nodejs-pluralsight/commit/616130bff58cde21104cc8aa73ba2ad534f518da)
+
+---
+
+
 ### Day 49: April 19, 2020
 
 **Today's Progress**: I finished section 4. Learned/ Reviewed about Promise, Event Emitters and Async functions. There are a lot of examples to help you understand the concepts.
