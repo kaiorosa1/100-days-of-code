@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 51: April 21, 2020
+
+**Today's Progress**: I continued working on section 5. Implemented a chat server using sockets and learned how to use the DNS module, UDP datagram sockets. I also started section 6, which is about Node for Web.
+
+**Thoughts**: I started this course a bit skeptical about what it could teach me and how the course was showing me the content but it turns out it is a great course and it's very informative. I will for sure buy another Node course but I feel I have a better understand already of what Node can do for me.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/advanced-nodejs-pluralsight/commit/500d59c2643c67471b38745f51259683bac41442)
+
+---
+
+
 ### Day 50: April 20, 2020
 
 **Today's Progress**: I Worked on the Task List Manager project and in section 5, which is about Node for networking.
