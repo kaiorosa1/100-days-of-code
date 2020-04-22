@@ -3,7 +3,7 @@
 
 ### Day 52: April 22, 2020
 
-**Today's Progress**: Finished section 6. Learned about sending requests using https and https, how to handle routes using the native functionality in Node, how to use openssl and how to handle both JSON and html data.
+**Today's Progress**: Finished section 6. Learned about sending requests using https and https modules, how to handle routes using the native functionalities in Node, how to use openssl and how to handle both JSON and html data.
 
 **Thoughts**: 
 
