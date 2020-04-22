@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 52: April 22, 2020
+
+**Today's Progress**: Finished section 6. Learned about sending requests using https and https, how to handle routes using the native functionality in Node, how to use openssl and how to handle both JSON and html data.
+
+**Thoughts**: 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/advanced-nodejs-pluralsight/commit/329b1094400a1eb6045dadd15b93cacbb24e6057)
+
+---
+
+
 ### Day 51: April 21, 2020
 
 **Today's Progress**: I continued working on section 5. Implemented a chat server using sockets and learned how to use the DNS module, UDP datagram sockets. I also started section 6, which is about Node for Web.
