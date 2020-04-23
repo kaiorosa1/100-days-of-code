@@ -3,9 +3,9 @@
 
 ### Day 52: April 22, 2020
 
-**Today's Progress**: Finished section 6. Learned about sending requests using https and https modules, how to handle routes using the native functionalities in Node, how to use openssl and how to handle both JSON and html data.
+**Today's Progress**: Finished section 6. Learned about sending requests using https and https modules, how to handle routes using the native functionalities in Node, how to use openssl and how to handle both JSON and html data. I also worked on section 7 (Node's common built in moudles)
 
-**Thoughts**: 
+**Thoughts**: Not a very productive day but still.
 
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/advanced-nodejs-pluralsight/commit/329b1094400a1eb6045dadd15b93cacbb24e6057)
 
