@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 54: April 24, 2020
+
+**Today's Progress**: Finished section 8. Worked on examples about writable and readable streams and how to use the pipe function to handle them.
+
+**Thoughts**: In May there is gonna be a challenge or a coding thing by Mayuko (youtuber) and I'm considering to partake in it but I don't want to commit to something I won't be able to keep up. Today I also started a writing course. I want to become better at writing in general and I've been writing scripts to possible future videos on my youtube videos.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/advanced-nodejs-pluralsight/commit/8a36bb686ff8437665e45201372b5f4640233485)
+
+---
+
 ### Day 53: April 23, 2020
 
 **Today's Progress**: Finished section 7 and worked on section 8, which is about working with streams.
