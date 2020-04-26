@@ -3,6 +3,17 @@
 
 ### Day 54: April 24, 2020
 
+**Today's Progress**: Worked on section 9. Learned about ways of scalling node applications and about child processes events.
+
+**Thoughts**: The weekend flies by so quickly. To be honest I don't have much plans nor coding nor other side projects I just want to rest for a bit but I can't.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/advanced-nodejs-pluralsight/commit/73e82489c912e5dbf20c06cae511a0761638bdfd)
+
+---
+
+
+### Day 54: April 24, 2020
+
 **Today's Progress**: Finished section 8. Worked on examples about writable and readable streams and how to use the pipe function to handle them.
 
 **Thoughts**: In May there is gonna be a challenge or a coding thing by Mayuko (youtuber) and I'm considering to partake in it but I don't want to commit to something I won't be able to keep up. Today I also started a writing course. I want to become better at writing in general and I've been writing scripts to possible future videos on my youtube videos.
