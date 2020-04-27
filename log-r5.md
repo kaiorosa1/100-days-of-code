@@ -1,7 +1,18 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
-### Day 54: April 24, 2020
+### Day 56: April 26, 2020
+
+**Today's Progress**: I worked on section 9. I learned about the difference between exec and execFile with examples.
+
+**Thoughts**: I think I only have two or three days left to finish this course so I better hurry up if I want to get my certificate (if I'm even able to get it).
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/advanced-nodejs-pluralsight/commit/20cc4b61b9ad5e6c359d180ae115baea340659bb)
+
+---
+
+
+### Day 55: April 25, 2020
 
 **Today's Progress**: Worked on section 9. Learned about ways of scalling node applications and about child processes events.
 
