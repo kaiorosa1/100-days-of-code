@@ -3,6 +3,16 @@
 
 ### Day 56: April 26, 2020
 
+**Today's Progress**: I worked on section 9. learned more about clustering and load-balancing an http server. I also learned how to broadcast message to worker process.
+
+**Thoughts**:  I think I'm finally finishing this course. I'm not sure what I'm gonna do next, if I'm going to buy a Node.js course or I'm going to do the Angular course.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/advanced-nodejs-pluralsight/commit/c8d1ed357c75a32bbb0c8114210b25cfcac9edef)
+
+---
+
+### Day 56: April 26, 2020
+
 **Today's Progress**: I worked on section 9. I learned about the difference between exec and execFile with examples.
 
 **Thoughts**: I think I only have two or three days left to finish this course so I better hurry up if I want to get my certificate (if I'm even able to get it).
