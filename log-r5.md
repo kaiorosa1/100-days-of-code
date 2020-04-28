@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
-### Day 56: April 26, 2020
+### Day 57: April 27, 2020
 
 **Today's Progress**: I worked on section 9. learned more about clustering and load-balancing an http server. I also learned how to broadcast message to worker process.
 
