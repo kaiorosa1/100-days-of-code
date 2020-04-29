@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 58: April 28, 2020
+
+**Today's Progress**: I finished Advanced Node.js course. I reviewed the basics of Angular and worked on a simple application. 
+
+**Thoughts**: I finished the course yesterday later at night. I would've started a new Node course but I deciced it's time to get back to Angular. I started a course only focused on Angular this time.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-the-complete-guide-2020/commit/3b9e07e7f86398883f67e30febeec98a0746fcf8)
+
+---
+
 ### Day 57: April 27, 2020
 
 **Today's Progress**: I worked on section 9. learned more about clustering and load-balancing an http server. I also learned how to broadcast message to worker process.
