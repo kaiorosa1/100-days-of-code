@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 59: April 29, 2020
+
+**Today's Progress**: I finished section 1 of Angular - The Complete Guide. I'm also recreating a website I like so I can practice what I have been learning so far using Angular.
+
+**Thoughts**: I had an idea of recreating a website/ application and this is gonna be in the works for the next weeks or so.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-the-complete-guide-2020/commit/2a2aaba7180dc1aa22ebf243bc257e1153ffc39e)
+
+---
+
 ### Day 58: April 28, 2020
 
 **Today's Progress**: I finished Advanced Node.js course. I reviewed the basics of Angular and worked on a simple application. 
