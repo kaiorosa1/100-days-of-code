@@ -3,11 +3,11 @@
 
 ### Day 60: April 30, 2020
 
-**Today's Progress**: I worked on section 2 of Angular - The Complete Guide.
+**Today's Progress**: I worked on section 2 of Angular - The Complete Guide. I also added the components to my new secret project, I will start implementing them soon and I hope it doesn't take me much time.
 
 **Thoughts**: To be honest I'm in a slump but I am trying to fight back with some productivity and doing the usual but I can't get a hold of doing more than that.
 
-**Link(s) to work**: [Commit Link]()
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/nemo-frontend-kaio-rosa/commit/8d37c24733e477dff74d019f41eeef20d461ce90)
 
 ---
 
