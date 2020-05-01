@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 60: April 30, 2020
+
+**Today's Progress**: I worked on section 2 of Angular - The Complete Guide.
+
+**Thoughts**: To be honest I'm in a slump but I am trying to fight back with some productivity and doing the usual but I can't get a hold of doing more than that.
+
+**Link(s) to work**: [Commit Link]()
+
+---
+
 ### Day 59: April 29, 2020
 
 **Today's Progress**: I finished section 1 of Angular - The Complete Guide. I'm also recreating a website I like so I can practice what I have been learning so far using Angular.
