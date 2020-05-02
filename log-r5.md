@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 61: May 1, 2020
+
+**Today's Progress**: I worked on my secret project. I created the navbar and started working a little on some the css and the routing.
+
+**Thoughts**: I was more productive than I expected. It is indeed more fun to work on a project than just following a course or something.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/nemo-frontend-kaio-rosa/commit/8d37c24733e477dff74d019f41eeef20d461ce90)
+
+---
+
 ### Day 60: April 30, 2020
 
 **Today's Progress**: I worked on section 2 of Angular - The Complete Guide. I also added the components to my new secret project, I will start implementing them soon and I hope it doesn't take me much time.
