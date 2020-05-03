@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 62: May 2, 2020
+
+**Today's Progress**: I worked on my secret project. I worked on the home page, more on how to display the content itself than on JS. I had a lot of problem today trying to install bootstrap on a angular project. I think it has something to do with the fact that I have material already in it but not really sure.
+
+**Thoughts**: I have to get back to the Angular course. Today was fun to dabble on this project and take a break from Udemy.
+I want to start a writing course on udemy but I don't seem to bring myself to do it.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/nemo-frontend-kaio-rosa/commit/7809833ae006c8022267ed0c2dfb26229dff301a)
+
+---
+
+
 ### Day 61: May 1, 2020
 
 **Today's Progress**: I worked on my secret project. I created the navbar and started working a little on some the css and the routing.
