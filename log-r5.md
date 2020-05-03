@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 63: May 3, 2020
+
+**Today's Progress**: I worked on my portifolio project and I worked on the navbar and the homepage. I also worked on the Random Meal Generator.
+
+**Thoughts**: I want to do the 100 projects in 100 days project but I don't feel prepared. lol I feel that it's a bit too much for me so I will take the next days to see what it would be like and think about the projects I want to work on in the challenge.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/kaio-rosa-angular-website/commit/c9b8ad4e4832f6fd57f0764f2caa4c97fe1089b8)
+
+---
+
 ### Day 62: May 2, 2020
 
 **Today's Progress**: I worked on my secret project. I worked on the home page, more on how to display the content itself than on JS. I had a lot of problem today trying to install bootstrap on a angular project. I think it has something to do with the fact that I have material already in it but not really sure.
@@ -11,7 +21,6 @@ I want to start a writing course on udemy but I don't seem to bring myself to do
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/nemo-frontend-kaio-rosa/commit/7809833ae006c8022267ed0c2dfb26229dff301a)
 
 ---
-
 
 ### Day 61: May 1, 2020
 
