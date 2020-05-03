@@ -3,7 +3,7 @@
 
 ### Day 63: May 3, 2020
 
-**Today's Progress**: I worked on my portifolio project and I worked on the navbar and the homepage. I also worked on the Random Meal Generator.
+**Today's Progress**: I worked on my portifolio project and I worked on the navbar and the homepage. I also worked on the Random MV Generator (Random Meal Generator by Florin Pop).
 
 **Thoughts**: I want to do the 100 projects in 100 days project but I don't feel prepared. lol I feel that it's a bit too much for me so I will take the next days to see what it would be like and think about the projects I want to work on in the challenge.
 
