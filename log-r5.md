@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 64: May 4, 2020
+
+**Today's Progress**: I worked on project #2 from the 100 Days a 100 project. It's not very good but it's functional. tomorrow I will go back to the first two and give them a good refactoring. I think it's not the right time to start this challenge if I'm struggling that much on day 2. 
+
+**Thoughts**: What should I do ? I like the idea but I think I can't do the walking if you know what I mean.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/mood-calendar-2020/commit/d3e10a8f87874eebe2e8b6695584dedd0716ded3)
+
+---
+
 ### Day 63: May 3, 2020
 
 **Today's Progress**: I worked on my portifolio project and I worked on the navbar and the homepage. I also worked on the Random MV Generator (Random Meal Generator by Florin Pop).
