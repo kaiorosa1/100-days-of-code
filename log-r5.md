@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 66: May 6, 2020
+
+**Today's Progress**: I worked on my secret project. I added new components, worked the footer for the website.
+
+**Thoughts**: I'm learning so much this past days and I like the way things are going.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/nemo-frontend-kaio-rosa/commit/7520e7a36b6537f43e853b1133e4bd3d75a2b935)
+
+---
+
+
 ### Day 65: May 5, 2020
 
 **Today's Progress**: I worked on my secret project. I added bootstrap to it and started working on the homepage, I added a beautiful Jumbotron lol. I'm working more on the style aspect for now.
