@@ -3,6 +3,16 @@
 
 ### Day 66: May 6, 2020
 
+**Today's Progress**: I worked on my secret project. I worked on a common header component. I added some of the content to some of its page.
+
+**Thoughts**: A bit overwhelmed by everything that is happening in the world and a bit burned out but carrying on like everyone else.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/nemo-frontend-kaio-rosa/commit/5d4e94ae09abd361fc39347392d2d5a19cea6be5)
+
+---
+
+### Day 66: May 6, 2020
+
 **Today's Progress**: I worked on my secret project. I added new components, worked the footer for the website.
 
 **Thoughts**: I'm learning so much this past days and I like the way things are going.
