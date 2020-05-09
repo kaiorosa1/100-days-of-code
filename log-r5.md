@@ -1,7 +1,17 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
-### Day 66: May 6, 2020
+### Day 68: May 8, 2020
+
+**Today's Progress**: I worked on my secret project. I worked on the two main sections and added the card to them. I also refactored some code.
+
+**Thoughts**: The project is not that big but I'm taking my time and I like the end result for now.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/nemo-frontend-kaio-rosa/commit/02f62b0a387f4439baa8cc7f87ac60fa28ec52b5)
+
+---
+
+### Day 67: May 7, 2020
 
 **Today's Progress**: I worked on my secret project. I worked on a common header component. I added some of the content to some of its page.
 
