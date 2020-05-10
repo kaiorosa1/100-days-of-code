@@ -4,11 +4,11 @@
 
 ### Day 69: May 9, 2020
 
-**Today's Progress**: I worked on my secret project. 
+**Today's Progress**: I worked on my secret project. I created the projeto and equipe services for the project and fixed the routing for a component. 
 
-**Thoughts**: 
+**Thoughts**: It's been slow days but I deserve to take a bit slower for a bit due to life lol. I will be going back on the two last project to make them prettier. Just to say I love the intention of the 100 projects in a 100 days challenge because you can learn a lot with the time restraint and creating things on your own so I must make time for it at some point in 2020.
 
-**Link(s) to work**: [Commit Link]()
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/nemo-frontend-kaio-rosa/commit/6ae1b363fad89fb2a80d7c3cc1fb2338a2711b72)
 
 ---
 
