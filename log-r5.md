@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+
+### Day 69: May 9, 2020
+
+**Today's Progress**: I worked on my secret project. 
+
+**Thoughts**: 
+
+**Link(s) to work**: [Commit Link]()
+
+---
+
+
 ### Day 68: May 8, 2020
 
 **Today's Progress**: I worked on my secret project. I worked on the two main sections and added the card to them. I also refactored some code.
