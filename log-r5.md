@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
-### Day 69: May 9, 2020
+### Day 70: May 10, 2020
 
 **Today's Progress**: I worked on my secret project. I updated the services and added a safe pipe to images. I also started my Angular course again. It's been a long time coming haha
 
