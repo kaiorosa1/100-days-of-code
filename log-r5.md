@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 69: May 9, 2020
+
+**Today's Progress**: I worked on my secret project. I updated the services and added a safe pipe to images. I also started my Angular course again. It's been a long time coming haha
+
+**Thoughts**: The last couple of days I have been very interested in language learning in general and this has changed my focus a bit I think maybe it would be cool for the dabble a bit on some AI so I created web apps like Duolingo or something it's always been a dream of mine to work on some language learning product or service. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/nemo-frontend-kaio-rosa/commit/31cc824be0ae844b08b7abc4e6e1a852c0320063)
+
+---
+
 
 ### Day 69: May 9, 2020
 
