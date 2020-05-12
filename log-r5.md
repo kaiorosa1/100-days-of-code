@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 71: May 11, 2020
+
+**Today's Progress**: I worked on my secret project. I worked on the EquipeComponent and on its template. I also added the Sobre/About content and formatted it.
+
+**Thoughts**: I'm very invested in language learning for now. It's good to have something other than code to worry about haha or better said to be occupied by.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/nemo-frontend-kaio-rosa/commit/d233135b0f285ad43bd9660daaaae9328ee79060)
+
+---
+
 ### Day 70: May 10, 2020
 
 **Today's Progress**: I worked on my secret project. I updated the services and added a safe pipe to images. I also started my Angular course again. It's been a long time coming haha
