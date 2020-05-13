@@ -7,7 +7,7 @@
 
 **Thoughts**: I need to find a repo with interesting projects to work on, I feel that I need more challenging and bigger side projects. I will be looking for repos and mooc courses to find projects.
 
-**Link(s) to work**: [Commit Link](hhttps://github.com/kaiorosa1/nemo-frontend-kaio-rosa/commit/e261a0fd4cbfe3d10658167b7d2a1392c1ae1dcc)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/nemo-frontend-kaio-rosa/commit/e261a0fd4cbfe3d10658167b7d2a1392c1ae1dcc)
 
 ---
 
