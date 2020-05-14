@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 73: May 13, 2020
+
+**Today's Progress**: I worked on my secret project. I made my final touches and I t can say that I am done with this project. Tomorrow I will be working on a brand new project (I hope)
+
+**Thoughts**: Tomorow I will start working in the mornings to see if I can be more productive I'm lacking motivation to work efficiently in the afternoons.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/nemo-frontend-kaio-rosa/commit/2cb5fb9357a78c4be49b724ba9a55828f9f788d4)
+
+---
+
 ### Day 72: May 12, 2020
 
 **Today's Progress**: I worked on my secret project. I added the template for all the other components and now I need to work on styling them. I also need to create a img folder to store all the imgs locally.
