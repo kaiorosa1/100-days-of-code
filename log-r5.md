@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 74: May 14, 2020
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: [Commit Link](#)
+
+---
+
 ### Day 73: May 13, 2020
 
 **Today's Progress**: I worked on my secret project. I made my final touches and I t can say that I am done with this project. Tomorrow I will be working on a brand new project (I hope)
