@@ -3,11 +3,11 @@
 
 ### Day 74: May 14, 2020
 
-**Today's Progress**: 
+**Today's Progress**: I worked on my portfolio once more. I fixed the css and now the footer and the compnents are being displayed properly. I need to find some references to see what I want to add to my portfolio website.
 
-**Thoughts**: 
+**Thoughts**: It's hard to find a project that I feel good about and it's the right stretch for my abilities. I will problably implement an old school project or find something that uses an easy API.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/kaio-rosa-angular-website/commit/68c66fde994ee8f4761a5bbcdcfd4221ecab2b8b)
 
 ---
 
