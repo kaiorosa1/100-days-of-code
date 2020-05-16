@@ -5,7 +5,7 @@
 
 **Today's Progress**: I worked more on section 2. I reviewed ngStyle, ngClass and ngFor and solved the assignment 3.
 
-**Thoughts**: I want to work on projects but today it was easier to make progress in my Udemy course.
+**Thoughts**: I'm very excited to be working on this Udemy course. Although I feel very comfortable with the basics this course is very comprehensive when it comes to explaining the whys and hows of Angular.
 
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-the-complete-guide-2020/commit/0dad25159cc928e95b35205779049be9bd785846)
 
