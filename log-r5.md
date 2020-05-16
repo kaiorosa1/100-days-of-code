@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 75: May 15, 2020
+
+**Today's Progress**: I finally got back to my Udemy course. I worked on section 2 of the Angular - The Complete Guide 2020. I reviewed databinding, event binding and a little bit of directives.
+
+**Thoughts**: I want to work on projects but today it was easier to make progress in my Udemy course.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-the-complete-guide-2020/commit/95a91c0bd14e7b866597a38f4b68d6976f06db5e)
+
+---
+
+
 ### Day 74: May 14, 2020
 
 **Today's Progress**: I worked on my portfolio once more. I fixed the css and now the footer and the compnents are being displayed properly. I need to find some references to see what I want to add to my portfolio website.
