@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 76: May 16, 2020
+
+**Today's Progress**: I worked more on section 2. I reviewed ngStyle, ngClass and ngFor and solved the assignment 3.
+
+**Thoughts**: I want to work on projects but today it was easier to make progress in my Udemy course.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-the-complete-guide-2020/commit/0dad25159cc928e95b35205779049be9bd785846)
+
+---
+
 ### Day 75: May 15, 2020
 
 **Today's Progress**: I finally got back to my Udemy course. I worked on section 2 of the Angular - The Complete Guide 2020. I reviewed databinding, event binding and a little bit of directives.
