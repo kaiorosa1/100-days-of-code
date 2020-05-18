@@ -3,7 +3,7 @@
 
 ### Day 77: May 17, 2020
 
-**Today's Progress**: I worked more on section 2. I also started a online-store-app in Angular.
+**Today's Progress**: I finished section 2 and started section 3. I also started a online-store-app in Angular.
 
 **Thoughts**: Not much done but something
 
