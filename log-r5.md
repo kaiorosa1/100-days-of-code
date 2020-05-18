@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 77: May 17, 2020
+
+**Today's Progress**: I worked more on section 2. I also started a online-store-app in Angular.
+
+**Thoughts**: Not much done but something
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-the-complete-guide-2020/commit/530a94b1468183a37f72a61e7d34cd438e82bf9c)
+
+---
+
 ### Day 76: May 16, 2020
 
 **Today's Progress**: I worked more on section 2. I reviewed ngStyle, ngClass and ngFor and solved the assignment 3.
