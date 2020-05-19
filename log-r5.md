@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 78: May 18, 2020
+
+**Today's Progress**: I started working on a project called libsys in Angular. I created the models and some components.
+
+**Thoughts**: Monday am I right? jk but it was a rough day I'm so tired.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/biblioteca-kr/commit/667bcb4ac9ef7f6b43d26ae8f2baf946543617b1)
+
+---
+
 ### Day 77: May 17, 2020
 
 **Today's Progress**: I finished section 2 and started section 3. I also started a online-store-app in Angular.
