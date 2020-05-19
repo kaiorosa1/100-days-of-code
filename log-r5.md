@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 79: May 19, 2020
+
+**Today's Progress**: I worked on the LibSys project. I added Bootstrap and Material, also worked on the author and register components.
+
+**Thoughts**: I woke up inspired today so I coded in the extra hours I gained by being productive and waking up at a reasonable time. lol.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/biblioteca-kr/commit/9457bbd98cde1b4710e126e95569008c64d7fc24)
+
+---
+
 ### Day 78: May 18, 2020
 
 **Today's Progress**: I started working on a project called libsys in Angular. I created the models and some components.
