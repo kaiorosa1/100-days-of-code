@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 80: May 20, 2020
+
+**Today's Progress**: I worked on the LibSys project. I made a bit of progress today, I created a more generic form component and then added it to Author, Book and User. I updated the routes and styled the componenents.
+
+**Thoughts**: Not so productive like tomorrow but I seem to do better work at night. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/biblioteca-kr/commit/d7fe25e545bbc8aeb9a6d14b787643bbf97bad7a)
+
+---
+
 ### Day 79: May 19, 2020
 
 **Today's Progress**: I worked on the LibSys project. I added Bootstrap and Material, also worked on the author and register components.
