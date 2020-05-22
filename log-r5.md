@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 81: May 21, 2020
+
+**Today's Progress**: I worked on the LibSys project. I wokred on the forms. First I was going to be using the Reactive Forms approach but since I read some documentation and I decided to use the template-driven approach instead. I need to read more but I'm satisfied with the solution I ended up using.
+
+**Thoughts**: it is my little sister's birthday!!
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/biblioteca-kr/commit/40fc663cb1ee8de4c6aec4504a3e2b4b998569db)
+
+---
+
 ### Day 80: May 20, 2020
 
 **Today's Progress**: I worked on the LibSys project. I made a bit of progress today, I created a more generic form component and then added it to Author, Book and User. I updated the routes and styled the componenents.
