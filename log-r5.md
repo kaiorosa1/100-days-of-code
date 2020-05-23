@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 82: May 22, 2020
+
+**Today's Progress**: I worked on the LibSys project. I added an emitter to the formComponent component so I can handle the specific services in their own components. I also started implementing the AuthorService.
+
+**Thoughts**: Not gonna overthink my wins for today!!
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/biblioteca-kr/commit/4b296e16ec669268dd31cb8af3947f7a01835205)
+
+---
+
 ### Day 81: May 21, 2020
 
 **Today's Progress**: I worked on the LibSys project. I wokred on the forms. First I was going to be using the Reactive Forms approach but since I read some documentation and I decided to use the template-driven approach instead. I need to read more but I'm satisfied with the solution I ended up using.
