@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+### Day 83: May 23, 2020
+
+**Today's Progress**: I worked on the LibSys project. I added user list component and worked a bit on the user service. I also made some ajusts in the footer and the routing components. 
+
+**Thoughts**: Saturday does something to me and I'm extra productive just because I don't need to. I make good progress with my last project. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/biblioteca-kr/commit/e18f0a86d2b07b9cbdaeec884562e89d7223b352)
+
+---
+
 ### Day 82: May 22, 2020
 
 **Today's Progress**: I worked on the LibSys project. I added an emitter to the formComponent component so I can handle the specific services in their own components. I also started implementing the AuthorService.
