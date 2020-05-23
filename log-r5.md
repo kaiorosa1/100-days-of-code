@@ -3,7 +3,7 @@
 
 ### Day 83: May 23, 2020
 
-**Today's Progress**: I worked on the LibSys project. I added user list component and worked a bit on the user service. I also made some ajusts in the footer and the routing components. 
+**Today's Progress**: I worked on the LibSys project. I added user list component and worked a bit on the user service. I also made some adjusts in the footer and the routing components. 
 
 **Thoughts**: Saturday does something to me and I'm extra productive just because I don't need to. I make good progress with my last project. 
 
