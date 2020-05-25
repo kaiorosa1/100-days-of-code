@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+## Day 84: May 24, 2020
+
+**Today's Progress**: I worked on the LibSys project.I worked on the book-list component and displaying the list of books in the homepage for now. I also worked on the bookService and injected in the book-list.
+
+**Thoughts**: I need to start planning better my coding days.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/biblioteca-kr/commit/1a7e01175079045cb3bcf7f36e6a80aa1c60ae33)
+
 ### Day 83: May 23, 2020
 
 **Today's Progress**: I worked on the LibSys project. I added user list component and worked a bit on the user service. I also made some adjusts in the footer and the routing components. 
