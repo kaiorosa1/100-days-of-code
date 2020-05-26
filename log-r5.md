@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+## Day 85: May 25, 2020
+
+**Today's Progress**: I worked on the LibSys project. I worked on making the data-table component as generic as possible and also started working on a dynamic table column but it is still buggy. 
+
+**Thoughts**: Mondays being mondays I always feel extra tired but at least we are at the end of this day.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/biblioteca-kr/commit/eec0140a8c8973d7957bc4e45df7d814ec057f54)
+
+---
+
 ## Day 84: May 24, 2020
 
 **Today's Progress**: I worked on the LibSys project.I worked on the book-list component and displaying the list of books in the homepage for now. I also worked on the bookService and injected in the book-list.
@@ -8,6 +18,8 @@
 **Thoughts**: I need to start planning better my coding days.
 
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/biblioteca-kr/commit/1a7e01175079045cb3bcf7f36e6a80aa1c60ae33)
+
+---
 
 ### Day 83: May 23, 2020
 
