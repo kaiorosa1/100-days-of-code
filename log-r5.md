@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+## Day 86: May 26, 2020
+
+**Today's Progress**: I got back to my Angular course. I also worked on the LibSys project. I added some icons and removed the dynamic column from the generic table for now. 
+
+**Thoughts**: I would love to create more scripts and write a bit more. I want to start writing tutorials or something I see myself working on youtube or doing some technical writing in the future. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/biblioteca-kr/commit/3a2582003305ad1237930bc35d33543184f8fccb)
+
+---
+
 ## Day 85: May 25, 2020
 
 **Today's Progress**: I worked on the LibSys project. I worked on making the data-table component as generic as possible and also started working on a dynamic table column but it is still buggy. 
