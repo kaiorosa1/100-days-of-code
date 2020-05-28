@@ -3,6 +3,16 @@
 
 ## Day 86: May 26, 2020
 
+**Today's Progress**: I worked on the section about RxJS operators from my Angular course. I also worked on the libsys project, I implemented the adding data to the respective service. I haven't started adding the db yet.
+
+**Thoughts**: Reviewing is fundamental when you are learning a lot of things and sometimes I take that for granted.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/old-projects/commit/0fbb8d80911ce7f44cc01554ea0b753bbd0e4779)
+
+---
+
+## Day 86: May 26, 2020
+
 **Today's Progress**: I got back to my Angular course. I also worked on the LibSys project. I added some icons and removed the dynamic column from the generic table for now. 
 
 **Thoughts**: I would love to create more scripts and write a bit more. I want to start writing tutorials or something I see myself working on youtube or doing some technical writing in the future. 
