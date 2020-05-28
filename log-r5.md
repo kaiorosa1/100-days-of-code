@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
-## Day 86: May 26, 2020
+## Day 87: May 27, 2020
 
 **Today's Progress**: I worked on the section about RxJS operators from my Angular course. I also worked on the libsys project, I implemented the adding data to the respective service. I haven't started adding the db yet.
 
