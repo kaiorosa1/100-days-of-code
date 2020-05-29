@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+## Day 88: May 28, 2020
+
+**Today's Progress**: I worked on the Libsys project. I changed the data fields to expect an array of objects instead of an array of strings. In the generic form I need to make sure to have the type of the form field.  I also created a service for city so I can have a select input on the user form. 
+
+**Thoughts**: Creating generic component is becoming harder than I expected.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/old-projects/commit/0fbb8d80911ce7f44cc01554ea0b753bbd0e4779)
+
+---
+
 ## Day 87: May 27, 2020
 
 **Today's Progress**: I worked on the section about RxJS operators from my Angular course. I also worked on the libsys project, I implemented the adding data to the respective service. I haven't started adding the db yet.
