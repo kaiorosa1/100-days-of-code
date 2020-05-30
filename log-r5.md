@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
-## Day 88: May 28, 2020
+## Day 89: May 29, 2020
 
 **Today's Progress**: I worked on my Udemy course. I reviewed about debugging techniques and more about databinding. I also worked on Libsys.
 
