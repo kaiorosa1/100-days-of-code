@@ -3,11 +3,21 @@
 
 ## Day 88: May 28, 2020
 
+**Today's Progress**: I worked on my Udemy course. I reviewed about debugging techniques and more about databinding. I also worked on Libsys.
+
+**Thoughts**: I need to think more about the next steps when it comes to my coding journey.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/biblioteca-kr/commit/e1ea890029efa8c636a1c91a4970c238ee20fbff)
+
+---
+
+## Day 88: May 28, 2020
+
 **Today's Progress**: I worked on the Libsys project. I changed the data fields to expect an array of objects instead of an array of strings. In the generic form I need to make sure to have the type of the form field.  I also created a service for city so I can have a select input on the user form. 
 
 **Thoughts**: Creating generic component is becoming harder than I expected.
 
-**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/old-projects/commit/0fbb8d80911ce7f44cc01554ea0b753bbd0e4779)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/biblioteca-kr/commit/6454611f8536ca659666d764df993dcaf1c77b21)
 
 ---
 
