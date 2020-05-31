@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+## Day 91: May 31, 2020
+
+**Today's Progress**: Today I focused on fixing the mat-select listing from an addtional source. I added another input for the generic form so now we can list cities or countries from a service. I also planned more the new additions to the  application itself. 
+
+**Thoughts**: I tried to be more productive than yesterday because I want to start this new week on the right foot.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/biblioteca-kr/commit/e4e9cc0f613130a78c250142dc8fae37da80f14e)
+
+---
+
+
 ## Day 90: May 30, 2020
 
 **Today's Progress**: I worked more on fixing the actions table and I think I got somewhere. I still need to find a way to display the correct icons but now I have placeholder in there. I also created the author-list. I think after I fix the actions column I will start working on the CRUD aspect of my application. 
