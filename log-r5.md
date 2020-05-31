@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+## Day 90: May 30, 2020
+
+**Today's Progress**: I worked more on fixing the actions table and I think I got somewhere. I still need to find a way to display the correct icons but now I have placeholder in there. I also created the author-list. I think after I fix the actions column I will start working on the CRUD aspect of my application. 
+
+**Thoughts**: I still have a lot to do and this week in particular was not great when it comes to productivity but I still have time to do what I can and do better in the next one. My classes are not gonna be back until July 1st (for now). The world is crazy right now. We are in a pandemic and we have all the George Floyd protests going on. It's surreal to live in this current climate.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/biblioteca-kr/commit/f1d4c984ee6331ca5b7972e21a4ab34c4c6e51f8)
+
+---
+
 ## Day 89: May 29, 2020
 
 **Today's Progress**: I worked on my Udemy course. I reviewed about debugging techniques and more about databinding. I also worked on Libsys.
