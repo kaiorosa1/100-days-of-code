@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+## Day 92: June 1, 2020
+
+**Today's Progress**: I worked on the data-filter component and I was able to finish as well. I will now be be working on the edit delete icons to appear on the actions column. 
+
+**Thoughts**: I woke up very hopeful in spite of everything that's happening and I don't know why I just want to enjoy this sort of productive day.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/biblioteca-kr/commit/08752cac89a84f332d3330469c8504cade19fcf5)
+
+---
+
 ## Day 91: May 31, 2020
 
 **Today's Progress**: Today I focused on fixing the mat-select listing from an addtional source. I added another input for the generic form so now we can list cities or countries from a service. I also planned more the new additions to the  application itself. 
