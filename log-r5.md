@@ -3,7 +3,7 @@
 
 ## Day 92: June 1, 2020
 
-**Today's Progress**: I worked on the data-filter component and I was able to finish as well. I will now be be working on the edit delete icons to appear on the actions column. 
+**Today's Progress**: I worked on the data-filter component and I was able to finish it as well. I will now be be working on the edit delete icons to appear on the actions column. 
 
 **Thoughts**: I woke up very hopeful in spite of everything that's happening and I don't know why I just want to enjoy this sort of productive day.
 
