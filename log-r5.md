@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+## Day 93: June 2, 2020
+
+**Today's Progress**: I worked on the edit delete buttons and I also added an output to the data-table. 
+
+**Thoughts**: A very low energy day.. but tomorrow I will get better!
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/biblioteca-kr/commit/8bca1efb83d03ea5a7da2533a3ef778c73af9e14)
+
+---
+
 ## Day 92: June 1, 2020
 
 **Today's Progress**: I worked on the data-filter component and I was able to finish it as well. I will now be be working on the edit delete icons to appear on the actions column. 
