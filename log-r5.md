@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+## Day 94: June 3, 2020
+
+**Today's Progress**: I worked on the Libsys project. Now the edit/delete functionality is being handled on their own components and I will be working on changes on the forms again. 
+
+**Thoughts**: Not a very productive day but I was able to do what was necessary!!! I need to up my game when it comes to time management!!
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/biblioteca-kr/commit/1dc2b4e211a2b45bf7e33993c7583148b6d057a4)
+
+---
+
+
 ## Day 93: June 2, 2020
 
 **Today's Progress**: I worked on the edit delete buttons and I also added an output to the data-table. 
