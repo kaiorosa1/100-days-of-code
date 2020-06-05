@@ -3,11 +3,11 @@
 
 ## Day 95: June 4, 2020
 
-**Today's Progress**:
+**Today's Progress**: I worked on the Libsys project. I'm changing the way the forms are being created using form builder, since the forms are generic I've been having some problems.
 
-**Thoughts**:
+**Thoughts**: I have a lot of thinking to do about my future and coding in general.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/biblioteca-kr/commit/e476aa76eedd3972b1c2842180f9b62da43feb3e)
 
 ---
 
