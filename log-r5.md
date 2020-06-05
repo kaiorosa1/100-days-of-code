@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+## Day 95: June 4, 2020
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**: [Commit Link](#)
+
+---
+
 ## Day 94: June 3, 2020
 
 **Today's Progress**: I worked on the Libsys project. Now the edit/delete functionality is being handled on their own components and I will be working on changes on the forms again. 
