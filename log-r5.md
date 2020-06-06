@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+
+## Day 96: June 5, 2020
+
+**Today's Progress**: I worked on the Libsys project. I added error messages to the form and also continued my Angular course.
+
+**Thoughts**: I hope I can plan this week like I am supposed to. I need to be more deligent with my time.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/biblioteca-kr/commit/67aa71bd35bddfc5dba4c468243bc00bca583b88)
+
+---
+
+
 ## Day 95: June 4, 2020
 
 **Today's Progress**: I worked on the Libsys project. I'm changing the way the forms are being created using form builder, since the forms are generic I've been having some problems.
