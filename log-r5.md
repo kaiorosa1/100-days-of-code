@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+## Day 97: June 6, 2020
+
+**Today's Progress**: I worked on the Libsys project. I fixed the mat-select value setting and added form reseting when values are submitted. 
+
+**Thoughts**: Lots of projects to get started I want to start learning Dart/Flutter in the near future.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/biblioteca-kr/commit/1b6b128b730b8f22c8df4b4f83b8ad91f8d62e9e)
+
+---
 
 ## Day 96: June 5, 2020
 
