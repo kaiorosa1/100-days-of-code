@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+## Day 98: June 7, 2020
+
+**Today's Progress**: I worked on the Libsys project. I worked on the signup, login and the authService. I think I overdue to working on the backend side of this project but I want to create all of the frontend first for now the backend is being abstracted.
+
+**Thoughts**: I started planning my next round already. I want to dabble into Flutter/Dart and Docker for a bit so they are gonna be my focus in the next round. I'm also considering bettering my Java for web dev skills.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/biblioteca-kr/commit/6488324df805eb3c310da0c6d3cbfaf133d4cd34)
+
+---
+
 ## Day 97: June 6, 2020
 
 **Today's Progress**: I worked on the Libsys project. I fixed the mat-select value setting and added form resetting when values are submitted. 
