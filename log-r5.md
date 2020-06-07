@@ -3,7 +3,7 @@
 
 ## Day 97: June 6, 2020
 
-**Today's Progress**: I worked on the Libsys project. I fixed the mat-select value setting and added form reseting when values are submitted. 
+**Today's Progress**: I worked on the Libsys project. I fixed the mat-select value setting and added form resetting when values are submitted. 
 
 **Thoughts**: Lots of projects to get started I want to start learning Dart/Flutter in the near future.
 
