@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+## Day 100: June 9, 2020
+
+**Today's Progress**: I worked my Angular course. I finished reviewing section 2 and started section 3. Now it's time to plan out the next round. 
+
+**Thoughts**: I have so many projects that when I think about stopping coding every day I just feel that it's gonna take longer to finish them all.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-the-complete-guide-2020/commit/74d4bd161837e1dcc8a0b9fa9d8529e3a6010c05)
+
+---
+
 ## Day 99: June 8, 2020
 
 **Today's Progress**: I worked my Angular course. I reviewed with a small project about Directives, and all forms of data binding and I've redone the assignments for section 2.
