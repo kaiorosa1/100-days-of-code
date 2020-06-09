@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 5) 
 
 
+## Day 99: June 8, 2020
+
+**Today's Progress**: I worked my Angular course. I reviewed with a small project about Directives, and all forms of data binding and I've redone the assignments for section 2.
+
+**Thoughts**: A different Monday.. I did not feel overwhelmed by some unknown reason.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-the-complete-guide-2020/commit/74d4bd161837e1dcc8a0b9fa9d8529e3a6010c05)
+
+---
+
 ## Day 98: June 7, 2020
 
 **Today's Progress**: I worked on the Libsys project. I worked on the signup, login and the authService. I think I overdue to working on the backend side of this project but I want to create all of the frontend first for now the backend is being abstracted.
