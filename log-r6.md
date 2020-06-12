@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 2: June 11, 2020
+
+**Today's Progress**: I worked on my Angular course. I'm mid-section 3. I added the navbar and and worked on the recipes component.
+
+**Thoughts**: It was not a planning day lol
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-the-complete-guide-2020/commit/659fddde42d3945b6715e9e7d46cb41587f58c3b)
+
+---
+
 
 ### Day 1: June 10, 2020
 
