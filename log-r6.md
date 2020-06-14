@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 4: June 13, 2020
+
+**Today's Progress**: I worked on my Angular course. I finished on section 4, which was about debugging and worked on section 5.
+
+**Thoughts**: I had a cool haircut once for life.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-the-complete-guide-2020/commit/1f60322311d3fe8da746dfa2e3d39a03bbac3cf9)
+
+---
+
 ### Day 3: June 12, 2020
 
 **Today's Progress**: I worked on my Angular course. I finished section 3. I worked on the recipe item component.
