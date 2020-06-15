@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 5: June 14, 2020
+
+**Today's Progress**: I worked on my Angular course. I worked on fixing a bug on my course project and I continued section 5.
+
+**Thoughts**: I need to buy a nodejs course or something like that.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-the-complete-guide-2020/commit/160ceb91362d7c1d5f94bc71acb2cdbe6590b1b4)
+
+---
+
 ### Day 4: June 13, 2020
 
 **Today's Progress**: I worked on my Angular course. I finished on section 4, which was about debugging and worked on section 5.
