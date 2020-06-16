@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 6: June 15, 2020
+
+**Today's Progress**: I worked on my Angular course. I continued working on section 5 and worked on the template of some compnents for the course project.
+
+**Thoughts**: I need to start organizing soon because I feel like I'm just going through the motions and this is not good nor me. I'm always, sort of, on top of my things.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-the-complete-guide-2020/commit/8e29cc87ce753d6a1f1b326b0485c2a3a53c4ed0)
+
+---
+
 ### Day 5: June 14, 2020
 
 **Today's Progress**: I worked on my Angular course. I worked on fixing a bug on my course project and I continued section 5.
