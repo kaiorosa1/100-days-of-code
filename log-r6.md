@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 7: June 16, 2020
+
+**Today's Progress**: I worked on my Angular course. I continued working on section 5. I learned about the components lifecycle and lifecycles hooks.
+
+**Thoughts**: justing existing and waiting for Blackpink's comeback at this moment.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-the-complete-guide-2020/commit/53dcf922091f80df5c4d9475fc53e63f572f0cca)
+
+---
+
 ### Day 6: June 15, 2020
 
 **Today's Progress**: I worked on my Angular course. I continued working on section 5 and worked on the template of some compnents for the course project.
