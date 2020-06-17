@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 8: June 17, 2020
+
+**Today's Progress**: I worked on my Angular course. I continued working on section 5. I reviewed about using @Input and @Output to bind data to a property and send data between components, learned about View Encapsulation, @ViewChild and @ContentChild in Angular 8+ and started the assigment 4.
+
+**Thoughts**: I love days when I start working earlier I see the result through the rest of the day and I love feeling productive so way to go Kaio!!
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-the-complete-guide-2020/commit/eb076b6c53f0828a97c3ca698ef4d5377219098c)
+
+---
+
+
 ### Day 7: June 16, 2020
 
 **Today's Progress**: I worked on my Angular course. I continued working on section 5. I learned about the components lifecycle and lifecycles hooks.
