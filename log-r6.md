@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 9: June 18, 2020
+
+**Today's Progress**: I worked on my Angular course. I continued working on section 5.learned how to access ng-content with @ Content child. still working on assignment 4.
+
+**Thoughts**: A very rushed day !!!!
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-the-complete-guide-2020/commit/13e63785025f58f523a54eabae44e94f233e40cf)
+
+---
+
 ### Day 8: June 17, 2020
 
 **Today's Progress**: I worked on my Angular course. I continued working on section 5. I reviewed about using @Input and @Output to bind data to a property and send data between components, learned about View Encapsulation, @ViewChild and @ContentChild in Angular 8+ and started the assigment 4.
