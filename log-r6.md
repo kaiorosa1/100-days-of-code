@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 10: June 19, 2020
+
+**Today's Progress**: I worked on my Angular course. I finished section 5 and started section 6.
+
+**Thoughts**: I have a lot of catching up to do!
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-the-complete-guide-2020/commit/a76057f3b5340fbd3a137c7362d199aae11688bd)
+
+---
+
 ### Day 9: June 18, 2020
 
 **Today's Progress**: I worked on my Angular course. I continued working on section 5.learned how to access ng-content with @ Content child. still working on assignment 4.
