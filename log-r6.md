@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 11: June 20, 2020
+
+**Today's Progress**: I worked on my Angular course. I continued working on section 6. I'm handling display the components in an unusual way but I intend to change that later.
+
+**Thoughts**: My computer speaker came in the mail today!!! Now I can listen to my music without my earbuds when I feel like it!!
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/angular-the-complete-guide-2020/commit/097f1ca1eda2475dcb930fd734630c3a06dcbe98)
+
+---
+
+
 ### Day 10: June 19, 2020
 
 **Today's Progress**: I worked on my Angular course. I finished section 5 and started section 6.
