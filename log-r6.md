@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 12: June 21, 2020
+
+**Today's Progress**: I worked on some exercises. For the next few days at least I will be diving into functional programming so I created a repo for saving my exercises and projects while learning it. I will be getting back to Angular once I dabble with fp for a bit. 
+
+**Thoughts**: It was a better day than I expected from waking up late!
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/functional-programming-repo/commit/ea4a0f8a2e38be14f382c0fc0a1798a1659b318a)
+
+---
+
 ### Day 11: June 20, 2020
 
 **Today's Progress**: I worked on my Angular course. I continued working on section 6. I'm handling display the components in an unusual way but I intend to change that later.
