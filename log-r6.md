@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 13: June 21, 2020
+
+**Today's Progress**: I worked on some fp exercises. I also started a course on Functional Programming. Introduction to Functional Programming (DelftX: FP101x).
+
+**Thoughts**: I'm excited to learn more about functional programming.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/functional-programming-repo/commit/f47a376b9bb656a7ac873199d8d39968da0c9445)
+
+---
+
 ### Day 12: June 21, 2020
 
 **Today's Progress**: I worked on some exercises. For the next few days at least I will be diving into functional programming so I created a repo for saving my exercises and projects while learning it. I will be getting back to Angular once I dabble with fp for a bit. 
