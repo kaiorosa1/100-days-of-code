@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
-### Day 13: June 21, 2020
+### Day 13: June 22, 2020
 
 **Today's Progress**: I worked on some fp exercises. I also started a course on Functional Programming. Introduction to Functional Programming (DelftX: FP101x).
 
