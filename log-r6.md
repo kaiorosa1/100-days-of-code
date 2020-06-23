@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 14: June 23, 2020
+
+**Today's Progress**: I worked section 1 of Introduction to Functional Programming (DelftX: FP101x). I've done the Lecture and Lab sections, now I'm solving the homework questions.
+
+**Thoughts**: I've redefinining how to spend my time and repurposing some priorities. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/functional-programming-repo/commit/cafbb1b40c63a3221db8be79d48c561823bb6803)
+
+---
+
+
 ### Day 13: June 22, 2020
 
 **Today's Progress**: I worked on some fp exercises. I also started a course on Functional Programming. Introduction to Functional Programming (DelftX: FP101x).
