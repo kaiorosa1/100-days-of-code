@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 15: June 24, 2020
+
+**Today's Progress**: I finished the homework problem set for section 1 and watched the first section 2 lecuture (Type and Classes).
+
+**Thoughts**: I'm trying something new when it comes to coding I hope it works.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/functional-programming-repo/commit/1dcca2fb3a1fc991985d01fc9dcb6909fdac99ee)
+
+---
+
 ### Day 14: June 23, 2020
 
 **Today's Progress**: I worked section 1 of Introduction to Functional Programming (DelftX: FP101x). I've done the Lecture and Lab sections, now I'm solving the homework questions.
