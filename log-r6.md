@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 16: June 25, 2020
+
+**Today's Progress**: I finished all the lectures on section 2 and done all of the homework problem set. It was quite chill but some of the exercises were harder than I expected. 
+
+**Thoughts**: My thoughts on Haskell remain being a hard language overall and I can let the really smart people use them for something great. I will probably be dealing with average people's problem. That is my exact thought on Assembly hahah. But in the case of Haskell I want to be able to learn all of the functional aspect and condition myself to think in a more funcitonal way because I know it's hella useful and it seems fun (for now).
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/functional-programming-repo/commit/2360e6fe6a5f23c30cc3fcca96de27052172abc5)
+
+---
+
 ### Day 15: June 24, 2020
 
 **Today's Progress**: I finished the homework problem set for section 1 and watched the first section 2 lecuture (Type and Classes).
