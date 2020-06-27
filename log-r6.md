@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 17: June 26, 2020
+
+**Today's Progress**: I watched all lectures on section 3 and started the homework exercises.
+
+**Thoughts**: It's finally here! Blackpink came back after a year hiatus. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/functional-programming-repo/commit/cb9ae05c42502d7fd3760f623556233f8e742083)
+
+---
+
 ### Day 16: June 25, 2020
 
 **Today's Progress**: I finished all the lectures on section 2 and done all of the homework problem set. It was quite chill but some of the exercises were harder than I expected. 
