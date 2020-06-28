@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 18: June 27, 2020
+
+**Today's Progress**: I finished all of the homework assigment from section 3 and I followed the lab section using dart. It was quite simple and it was the first time I saw dart code. 
+
+**Thoughts**: I was surprisingly a productive day. I was even able to do my design course assignment. I still have to create a second page to add the text and then send it to be reviewed but I'm proud I was able to do it today.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/functional-programming-repo/commit/627fe5e2e4fac82a45675a295267b9c260be6fba)
+
+---
+
 ### Day 17: June 26, 2020
 
 **Today's Progress**: I watched all lectures on section 3 and started the homework exercises.
