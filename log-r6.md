@@ -3,7 +3,7 @@
 
 ### Day 18: June 27, 2020
 
-**Today's Progress**: I finished all of the homework assigment from section 3 and I followed the lab section using dart. It was quite simple and it was the first time I saw dart code. 
+**Today's Progress**: I finished all of the homework assignment from section 3 and I followed the lab section using dart. It was quite simple and it was the first time I saw dart code. 
 
 **Thoughts**: I was surprisingly a productive day. I was even able to do my design course assignment. I still have to create a second page to add the text and then send it to be reviewed but I'm proud I was able to do it today.
 
