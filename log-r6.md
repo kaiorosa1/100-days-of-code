@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 19: June 28, 2020
+
+**Today's Progress**: I finished the lab work from section 3. Now I can start section 4 (List Comprehensions)
+
+**Thoughts**: I was able to finish week 2 from my two courses so I will take them as a win even though it was a very productive day.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/functional-programming-repo/commit/1c44e3475e4c6b1cf4ae123dbf5470f161017fe1)
+
+---
+
 ### Day 18: June 27, 2020
 
 **Today's Progress**: I finished all of the homework assignment from section 3 and I followed the lab section using dart. It was quite simple and it was the first time I saw dart code. 
