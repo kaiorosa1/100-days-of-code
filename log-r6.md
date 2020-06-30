@@ -3,7 +3,7 @@
 
 ### Day 20: June 29, 2020
 
-**Today's Progress**: I watched all lectures from section 4 and started the homework assingnment.
+**Today's Progress**: I watched all lectures from section 4 and started the homework assignment.
 
 **Thoughts**: Mondays are always mondays... 
 
