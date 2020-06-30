@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 20: June 29, 2020
+
+**Today's Progress**: I watched all lectures from section 4 and started the homework assingnment.
+
+**Thoughts**: Mondays are always mondays... 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/functional-programming-repo/commit/f5a0fcc201333eb05fbde8357239e5e1369e9e72)
+
+---
+
 ### Day 19: June 28, 2020
 
 **Today's Progress**: I finished the lab work from section 3. Now I can start section 4 (List Comprehensions)
