@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 21: June 30, 2020
+
+**Today's Progress**: I worked on the exercises 0-4 from section 4 homework assignment.
+
+**Thoughts**: I can't believe it is already the end of the month. I think I have a new found motivation today. FP is so much fun I miss coding like that. I have so much to learn it's exciting!
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/functional-programming-repo/commit/f5a0fcc201333eb05fbde8357239e5e1369e9e72)
+
+---
+
 ### Day 20: June 29, 2020
 
 **Today's Progress**: I watched all lectures from section 4 and started the homework assignment.
