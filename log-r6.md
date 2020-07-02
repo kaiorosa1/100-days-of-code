@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 22: July 1, 2020
+
+**Today's Progress**: I worked on the exercises 5-13 from section 4 homework assignment.
+
+**Thoughts**: I don't know how to feel about today. In a blink of an eye it was 10pm.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/functional-programming-repo/commit/d3ba13715edd38bc6563656713b96af1680b60d3)
+
+---
+
 ### Day 21: June 30, 2020
 
 **Today's Progress**: I worked on the exercises 0-4 from section 4 homework assignment.
