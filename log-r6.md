@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 24: July 3, 2020
+
+**Today's Progress**: I watched the jam session lectures. They were about fp in C# and in Hack. I also worked on the 0-3 exercises from section 5 homework assignment.
+
+**Thoughts**: Some days I want to finish everything earlier so I can just chill in the evening and it's one of those days.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/functional-programming-repo/commit/52b3390a7475eaca040cbcb8e81e1a73e09c2f4f)
+
+---
+
 ### Day 23: July 2, 2020
 
 **Today's Progress**: I watched all lectures from section 5 and started the homework assignment.
@@ -10,7 +20,6 @@
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/functional-programming-repo/commit/612561ddc414cfb0d25bca76b9666fea9db7702c)
 
 ---
-
 
 ### Day 22: July 1, 2020
 
