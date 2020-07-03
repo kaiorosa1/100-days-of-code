@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 23: July 2, 2020
+
+**Today's Progress**: I watched all lectures from section 5 and started the homework assignment.
+
+**Thoughts**: It's the last section for week 3. I'm on fire!! I think I'm starting to feel familiar with the haskell syntax.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/functional-programming-repo/commit/612561ddc414cfb0d25bca76b9666fea9db7702c)
+
+---
+
+
 ### Day 22: July 1, 2020
 
 **Today's Progress**: I worked on the exercises 5-13 from section 4 homework assignment.
