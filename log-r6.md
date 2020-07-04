@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 25: July 4, 2020
+
+**Today's Progress**:I worked on the 4-7 exercises from section 5 homework assignment.
+
+**Thoughts**: I'm feeling a bit lost but I will figure out what I need to do soon.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/functional-programming-repo/commit/93c4ae07eae7ecff644f1d2b284c4559ce350f22)
+
+---
+
 ### Day 24: July 3, 2020
 
 **Today's Progress**: I watched the jam session lectures. They were about fp in C# and in Hack. I also worked on the 0-3 exercises from section 5 homework assignment.
