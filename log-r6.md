@@ -1,9 +1,19 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 26: July 5, 2020
+
+**Today's Progress**: I worked on the 8-10 exercises from section 5 homework assignment.
+
+**Thoughts**: I like working on these type of exercises I think it's helping me get a better understanding of recursion. I think I already have a good grasp on recursion but I feel that some solutions with it are a bit fuzzy.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/functional-programming-repo/commit/c0f1cd77560acc742f5ffeef0cba0c6a3ac25354)
+
+---
+
 ### Day 25: July 4, 2020
 
-**Today's Progress**:I worked on the 4-7 exercises from section 5 homework assignment.
+**Today's Progress**: I worked on the 4-7 exercises from section 5 homework assignment.
 
 **Thoughts**: I'm feeling a bit lost but I will figure out what I need to do soon.
 
