@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 27: July 6, 2020
+
+**Today's Progress**: I worked on the exercises 0-3 from the lab work from section 5.
+
+**Thoughts**: Ha, How you like that?
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/functional-programming-repo/commit/4c95fa4bd1ba102ec71d2bb595e86b4c5b9acc7b)
+
+---
+
+
 ### Day 26: July 5, 2020
 
 **Today's Progress**: I worked on the 8-10 exercises from section 5 homework assignment.
