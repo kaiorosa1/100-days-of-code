@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
-### Day 28: July 7, 2020
+### Day 29: July 8, 2020
 
 **Today's Progress**: I worked on the section 5 exercises 11-26 from the lab work. I finally finished them!!
 
