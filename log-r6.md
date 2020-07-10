@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 30: July 9, 2020
+
+**Today's Progress**: I started section 6. I watched the first lecutre on Higher-Order Functions and started the homework exercises.
+
+**Thoughts**: It was a very tiring day!! I just want to be friday night so I could properly rest.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/functional-programming-repo/commit/c624d89842ca1d2fab207eb457217047ae570081)
+
+---
+
 ### Day 29: July 8, 2020
 
 **Today's Progress**: I worked on the section 5 exercises 11-26 from the lab work. I finally finished them!!
