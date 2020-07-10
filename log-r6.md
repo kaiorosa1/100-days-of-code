@@ -3,7 +3,7 @@
 
 ### Day 31: July 10, 2020
 
-**Today's Progress**: I started section 6. I watched the second lecutre on Higher-Order Functions and did the 0-2 exercises.
+**Today's Progress**: I worked on section 6, I watched the second lecutre on Higher-Order Functions and did the 0-2 exercises.
 
 **Thoughts**: Friday is the day when I prefer to code earlier so I can be done with everything by 8pm. I will not congratulate myself on coding in the morning today haha.
 
