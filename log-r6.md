@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 33: July 12, 2020
+
+**Today's Progress**: I worked on section 6, I watched the jam session lecture and did exercises 5 and 6.
+
+**Thoughts**: This section is harder than I expected. all of this all, foldr, map , dot , filter and all are very hard to grasp
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/functional-programming-repo/commit/893b165155f05b632fda5be28adff894335b5ce8)
+
+---
+
 ### Day 32: July 11, 2020
 
 **Today's Progress**: I worked on section 6, I watched the third lecture on Higher-Order Functions and did exercises 3 and 4.
