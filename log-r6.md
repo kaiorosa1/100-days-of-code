@@ -3,7 +3,7 @@
 
 ### Day 32: July 11, 2020
 
-**Today's Progress**: I worked on section 6, I watched the third lecutre on Higher-Order Functions and did the 3-4 exercises.
+**Today's Progress**: I worked on section 6, I watched the third lecture on Higher-Order Functions and did exercises 3 and 4.
 
 **Thoughts**: It was an okay day. I guess I found something somewhat entretaining to watch and coding wasn't that bad either. (A loot of touch typing though)
 
