@@ -5,7 +5,7 @@
 
 **Today's Progress**: I worked on section 6, I watched the third lecture on Higher-Order Functions and did exercises 3 and 4.
 
-**Thoughts**: It was an okay day. I guess I found something somewhat entretaining to watch and coding wasn't that bad either. (A loot of touch typing though)
+**Thoughts**: It was an okay day. I guess I found something somewhat entertaining to watch and coding wasn't that bad either. (A loot of touch typing though)
 
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/functional-programming-repo/commit/49cc88aa5c04e87f46213a4caf0685c8e59c9b77)
 
