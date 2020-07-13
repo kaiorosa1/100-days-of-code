@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 34: July 13, 2020
+
+**Today's Progress**: I worked on section 6, I solved exercises 7-12. These exercises are getting harder and harder..
+
+**Thoughts**: I don't feel very confident in the functions I've been learning I will need to complement my learning and I'm glad I found a great video resource.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/functional-programming-repo/commit/67e30c4ab3aba4b9bf55b141a1189be8b952f799)
+
+---
+
 ### Day 33: July 12, 2020
 
 **Today's Progress**: I worked on section 6, I watched the jam session lecture and did exercises 5 and 6.
