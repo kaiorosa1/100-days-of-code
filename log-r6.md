@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 37: July 16, 2020
+
+**Today's Progress**: I worked on section 6, I've solved exercises 17-31 and started the lab problems. 
+
+**Thoughts**: I still have to learn how to manage my time better. I feel like I'm always procrastinating something.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/functional-programming-repo/commit/dbb0c08a967137e060b906beb8edd15aeb8e3f66)
+
+---
+
 ### Day 36: July 15, 2020
 
 **Today's Progress**: I worked on section 6, I've solved exercises 16-23.
