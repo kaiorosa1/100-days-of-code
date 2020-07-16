@@ -1,11 +1,21 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 36: July 15, 2020
+
+**Today's Progress**: I worked on section 6, I've solved exercises 16-23.
+
+**Thoughts**: It was quite the day. I will be finally collabing with a friend and I think it's gonna be great! I'm very excited about it.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/functional-programming-repo/commit/d7a8825097142e0bd72770cdd8c8c202e91f63c6)
+
+---
+
 ### Day 35: July 14, 2020
 
 **Today's Progress**: I worked on section 6, I solved exercises 13-15. Defining everything in terms of folding, unfolding and all is not my thang.
 
-**Thoughts**: An extremely tiring...
+**Thoughts**: An extremely tiring day..
 
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/functional-programming-repo/commit/4690d26a37c10a7cc784c45303d85ba07affeb98)
 
