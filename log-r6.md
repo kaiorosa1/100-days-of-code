@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+
+### Day 38: July 17, 2020
+
+**Today's Progress**: I worked on section 6, I solved the lab problems 3-7. I'm almost done with week 4. 
+
+**Thoughts**: I spent all day with a headache so I just want to go to bed and wake up tomorrow better.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/functional-programming-repo/commit/9dae6e3d21b77cdcc7831be621e5ab3f7ff7fa57)
+
+---
+
 ### Day 37: July 16, 2020
 
 **Today's Progress**: I worked on section 6, I've solved exercises 17-31 and started the lab problems. 
