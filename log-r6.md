@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 39: July 18, 2020
+
+**Today's Progress**: I worked on section 6, I solved the lab problems 8-12. I'm finally done with week 4.
+
+**Thoughts**: Today was the day of my call with Drew and it was great, I was able to learn a lot of things about working with Wordpress and he was kind enough to answer all my questions we had some technical difficulties along the way but at the end of it all we were able to make it work. It was a bummer that we were not able to record our session because of the app we were using but it was worth it. what I can say about that experience is that I need start talking more.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/functional-programming-repo/commit/19847202eaf8b22ebcb2e7e672ebd93e3df4edbb)
+
+---
 
 ### Day 38: July 17, 2020
 
