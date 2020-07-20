@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 40: July 19, 2020
+
+**Today's Progress**: I worked on section 7, I watched the first lecture on Functional Parsers and I started the homework exercises.
+
+**Thoughts**: I had a nice Sunday so that what matters the most. I want to start coding for two hours for the next week and see how that goes.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/functional-programming-repo/commit/bce3bf209409f29a8d211a1b053b71d8b86a8375)
+
+---
+
+
 ### Day 39: July 18, 2020
 
 **Today's Progress**: I worked on section 6, I solved the lab problems 8-12. I'm finally done with week 4.
