@@ -3,7 +3,7 @@
 
 ### Day 42: July 21, 2020
 
-**Today's Progress**: I worked on section 7, I watched the third lecture on Functional Parsers and I did the homework 0-3. I started a course on Node.js and finished section 1 already.
+**Today's Progress**: I worked on section 7, I watched the third lecture on Functional Parsers and I did the homework 4-6. I started a course on Node.js and finished section 1 already.
 
 **Thoughts**: I started the coding for two hours challenge. I want to start coding more so I can learn more things so I can get a job/ become a better developer.
 
