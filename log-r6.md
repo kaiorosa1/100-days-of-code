@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+## Day 43: July 22, 2020
+
+**Today's Progress**: I finished section 2 on my Node.js course. This first two sections was about Node built-in modules such as os,fs,http and so on and how to use npm and versioning.
+
+**Thoughts**: I expect the first few sections to be more of a review of everything I already know and then we gonna get to the new meaty concepts in Node. I'm feeling very good about the decison of coding for 2 hours a day since I feel that there are so much I want to cover so I need to spend more time coding.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/nodejscomplete/commit/b337858c20bfa8b3f192b83733d2ab1025539c1a)
+
+---
+
 ### Day 42: July 21, 2020
 
 **Today's Progress**: I worked on section 7, I watched the third lecture on Functional Parsers and I did the homework 4-6. I started a course on Node.js and finished section 1 already.
