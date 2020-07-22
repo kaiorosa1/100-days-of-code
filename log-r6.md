@@ -3,7 +3,7 @@
 
 ## Day 43: July 22, 2020
 
-**Today's Progress**: I finished section 2 on my Node.js course. This first two sections was about Node built-in modules such as os,fs,http and so on and how to use npm and versioning.
+**Today's Progress**: I finished section 2 on my Node.js course. This first two sections was about Node built-in modules such as os,fs,http and so on and how to use npm and versioning. I took a break from my Fp course for a day and reviewed some React playing with a image manipulation upload API.
 
 **Thoughts**: I expect the first few sections to be more of a review of everything I already know and then we gonna get to the new meaty concepts in Node. I'm feeling very good about the decison of coding for 2 hours a day since I feel that there are so much I want to cover so I need to spend more time coding.
 
