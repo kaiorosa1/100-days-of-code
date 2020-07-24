@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+## Day 44: July 23, 2020
+
+**Today's Progress**: I finished section 3 on my Node.js course and started section 4. I also got back to my FP Course and continued the exercises 7-9
+
+**Thoughts**: We are already using Express and creating a RESTful API. This Node course is becoming better than I expected.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/nodejscomplete/commit/88235fadb09b13636edb5df362e8ff7cb5499fbe)
+
+---
+
 ## Day 43: July 22, 2020
 
 **Today's Progress**: I finished section 2 on my Node.js course. This first two sections was about Node built-in modules such as os,fs,http and so on and how to use npm and versioning. I took a break from my Fp course for a day and reviewed some React playing with a image manipulation upload API.
