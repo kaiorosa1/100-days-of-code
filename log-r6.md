@@ -3,7 +3,7 @@
 
 ### Day 46: July 25, 2020
 
-**Today's Progress**: I finished section 4 and started section 5. Learning about middlewares and how to create them and how to use them. I finished the section 7 exercises on FP.
+**Today's Progress**: I finished section 4 and section 5. Learning about middlewares and how to create them and how to use them, refactoring routes, template engines, debugging tools for Node. I finished the section 7 exercises on FP.
 
 **Thoughts**: I'm finally learning more and using more of the backend and using Node has been very cool. There are so much to learn and I want to master them all. I'm making good process with a course I bought I few weeks ago. Hopefully I finish it soon. If I want to work on the backend It's essential I learn how to work with Docker and all that good stuff so I will eventually get to them.
 
