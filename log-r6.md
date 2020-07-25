@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+## Day 45: July 24, 2020
+
+**Today's Progress**: I continued section 4 on my Node.js course. I worked on a mini express project implementing the some routes and handling data in Node.
+
+**Thoughts**: It was a good day after all but I need to step up when it comes to coding I need to become a better developer.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/nodejscomplete/commit/fd198ef3cd6b680ff7e7d42aecb92286b2ad3094)
+
+---
+
 ## Day 44: July 23, 2020
 
 **Today's Progress**: I finished section 3 on my Node.js course and started section 4. I also got back to my FP Course and continued the exercises 7-9
