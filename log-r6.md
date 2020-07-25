@@ -12,7 +12,7 @@
 ---
 
 
-## Day 45: July 24, 2020
+### Day 45: July 24, 2020
 
 **Today's Progress**: I continued section 4 on my Node.js course. I worked on a mini express project implementing the some routes and handling data in Node.
 
@@ -22,7 +22,7 @@
 
 ---
 
-## Day 44: July 23, 2020
+### Day 44: July 23, 2020
 
 **Today's Progress**: I finished section 3 on my Node.js course and started section 4. I also got back to my FP Course and continued the exercises 7-9
 
@@ -32,7 +32,7 @@
 
 ---
 
-## Day 43: July 22, 2020
+### Day 43: July 22, 2020
 
 **Today's Progress**: I finished section 2 on my Node.js course. This first two sections was about Node built-in modules such as os,fs,http and so on and how to use npm and versioning. I took a break from my Fp course for a day and reviewed some React playing with a image manipulation upload API.
 
@@ -43,7 +43,7 @@
 ---
 
 ### Day 42: July 21, 2020
-
+finished
 **Today's Progress**: I worked on section 7, I watched the third lecture on Functional Parsers and I did the homework 4-6. I started a course on Node.js and finished section 1 already.
 
 **Thoughts**: I started the coding for two hours challenge. I want to start coding more so I can learn more things so I can get a job/ become a better developer.
