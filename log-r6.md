@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
-## Day 46: July 25, 2020
+### Day 46: July 25, 2020
 
 **Today's Progress**: I finished section 4 and started section 5. Learning about middlewares and how to create them and how to use them.
 
