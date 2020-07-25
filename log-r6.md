@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+## Day 46: July 25, 2020
+
+**Today's Progress**: I finished section 4 and started section 5. Learning about middlewares and how to create them and how to use them.
+
+**Thoughts**: I'm finally learning more and using more of the backend and using Node has been very cool. There are so much to learn and I want to master them all. I'm making good process with a course I bought I few weeks ago. Hopefully I finish it soon. If I want to work on the backend It's essential I learn how to work with Docker and all that good stuff so I will eventually get to them.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/nodejscomplete/commit/34ad8e27c5ae1e29f6160ed97ab49f12045f12f4)
+
+---
+
+
 ## Day 45: July 24, 2020
 
 **Today's Progress**: I continued section 4 on my Node.js course. I worked on a mini express project implementing the some routes and handling data in Node.
