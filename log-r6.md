@@ -3,7 +3,7 @@
 
 ### Day 47: July 26, 2020
 
-**Today's Progress**: I finished section 6. Learned about using callback fncs to solve async problems, Promises  and Async/ Await approaches. I also worked on some JS exercises about it.
+**Today's Progress**: I finished section 6. Learned about using callback fncs to solve async problems, Promises  and Async/ Await approaches. I also worked on some JS exercises about it. Finished the lectures on Interactive Programs in Haskell (EDX).
 
 **Thoughts**: The pomodoro technique is fire and I'm using to my advantage cuz I've been working much more than before just by doing several sessions every day.
 
