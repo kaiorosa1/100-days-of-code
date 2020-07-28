@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 48: July 27, 2020
+
+**Today's Progress**: I finished section 7. Learned and solved exercises about CRUD opearations using MongoDB. I also worked on my FP Course and solved the exercises 0-4.
+
+**Thoughts**: I'm so tired... I don't even know what to say other than it's freaking Monday...
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/nodejscomplete/commit/090e96113ca50f7dd099b042c49aac16bf96515d)
+
+---
+
 ### Day 47: July 26, 2020
 
 **Today's Progress**: I finished section 6. Learned about using callback fncs to solve async problems, Promises  and Async/ Await approaches. I also worked on some JS exercises about it. Finished the lectures on Interactive Programs in Haskell (EDX).
