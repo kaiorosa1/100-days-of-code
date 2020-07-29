@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 49: July 28, 2020
+
+**Today's Progress**: I worked section 8. Learned about Mongoose data validation and made changes to a small backend project to handle/store data using a db. I also worked on exercises 5 and 6 on my FP edx course.
+
+**Thoughts**: I have to be reminding myself that if you want to be good at something you should be willing to putting the work and creating that discipline because there are days like today that you don't feel like it but you have to!!
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/nodejscomplete/commit/9b5a652f9a7a4ff43527543175c0683998e6070a)
+
+---
+
 ### Day 48: July 27, 2020
 
 **Today's Progress**: I finished section 7. Learned and solved exercises about CRUD opearations using MongoDB. I also worked on my FP Course and solved the exercises 0-4.
