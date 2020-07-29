@@ -5,7 +5,7 @@
 
 **Today's Progress**: I worked section 8. Learned about Mongoose data validation and made changes to a small backend project to handle/store data using a db. I also worked on exercises 5 and 6 on my FP edx course.
 
-**Thoughts**: I have to be reminding myself that if I want to be good at something I should be willing to putting the work and creating that discipline because there are days like today that you don't feel like it but you have to!!
+**Thoughts**: I have to be reminding myself that if I want to be good at something I should be willing to putting the work and creating that discipline because there are days like today that I don't feel like it but I have to continue coding!!
 
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/nodejscomplete/commit/9b5a652f9a7a4ff43527543175c0683998e6070a)
 
