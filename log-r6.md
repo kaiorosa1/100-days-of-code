@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 50: July 29, 2020
+
+**Today's Progress**: I finished section 8. Worked on the vidly project adding customers routes and adding models to the project. Also learned about modeling relationships in a nosql db (mongodb).
+
+**Thoughts**: I started the day being very organized and doing all my work earlier than usual so I could enjoy time listening to music before start working.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/nodejscomplete/commit/8bda564e15ed95f1f92f77b62ee6adf5c0ab3493)
+
+---
+
 ### Day 49: July 28, 2020
 
 **Today's Progress**: I worked section 8. Learned about Mongoose data validation and made changes to a small backend project to handle/store data using a db. I also worked on exercises 5 and 6 on my FP edx course.
