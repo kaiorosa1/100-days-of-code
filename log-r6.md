@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 51: July 30, 2020
+
+**Today's Progress**: I worked on section 9. Today I worked on maily on the vidly app, added the movies routes and model. The twist was embedding a genre schema to the movies model.
+
+**Thoughts**: It's gonna take me longer than I expected to finish this course but I think it's gonna be worth it cuz I'm having so much fun learning and putting everything into practice.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/nodejscomplete/commit/cdd86d4e7b71f788e1e116e06b858b3d11df170d)
+
+---
+
 ### Day 50: July 29, 2020
 
 **Today's Progress**: I finished section 8. Worked on the vidly project adding customers routes and adding models to the project. Also learned about modeling relationships in a nosql db (mongodb).
