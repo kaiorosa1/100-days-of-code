@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 52: July 31, 2020
+
+**Today's Progress**: I finished on section 9. I added new funcitonalities to the vidly app, added rental and user model and routes, now I'm working on the auth section.
+
+**Thoughts**: It was a very tiring day...
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/nodejscomplete/commit/dcb10feb9f018a9d9eabf170683db684f6766c98)
+
+---
+
 ### Day 51: July 30, 2020
 
 **Today's Progress**: I worked on section 9. Today I worked on maily on the vidly app, added the movies routes and model. The twist was embedding a genre schema to the movies model.
