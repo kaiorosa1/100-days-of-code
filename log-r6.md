@@ -3,7 +3,7 @@
 
 ### Day 52: July 31, 2020
 
-**Today's Progress**: I finished on section 9. I added new funcitonalities to the vidly app, added rental and user model and routes, now I'm working on the auth section.
+**Today's Progress**: I finished on section 9. I added new functionalities to the vidly app, added rental and user model and routes, now I'm working on the auth section.
 
 **Thoughts**: It was a very tiring day...
 
