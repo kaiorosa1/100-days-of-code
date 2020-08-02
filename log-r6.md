@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 54: August 2, 2020
+
+**Today's Progress**: I finished section 10. I added worked on the authorization aspect of the project. I added the admin role after adding the authentication middleware to routes which are handling data. I also started working on section 11.
+
+**Thoughts**: It's sunday already.. the weekend always goes by so fast! I'm happy that now I'm able to maintain coding for two hours for a week or so. I hope I can continue that because I'm already seeing my progress!
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/nodejscomplete/commit/56bc9a4a44b822c97dc72a93bb6ac279f438de6e)
+
+---
+
 ### Day 53: August 1, 2020
 
 **Today's Progress**: I worked on section 10. I added a route for authenticating a new user and learned about JWT Web Tokens and how to use bcrypt when saving a user's password in the db.
@@ -13,7 +23,7 @@
 
 ### Day 52: July 31, 2020
 
-**Today's Progress**: I finished on section 9. I added new functionalities to the vidly app, added rental and user model and routes, now I'm working on the auth section.
+**Today's Progress**: I finished section 9. I added new functionalities to the vidly app, added rental and user model and routes, now I'm working on the auth section.
 
 **Thoughts**: It was a very tiring day...
 
@@ -237,7 +247,7 @@ finished
 
 **Today's Progress**: I started section 6. I watched the first lecutre on Higher-Order Functions and started the homework exercises.
 
-**Thoughts**: It was a very tiring day!! I just want to be friday night so I could properly rest.
+**Thoughts**: It was a very tiring day!! I just want it to be friday night so I could properly rest.
 
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/functional-programming-repo/commit/c624d89842ca1d2fab207eb457217047ae570081)
 
