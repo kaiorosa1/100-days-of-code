@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 53: August 1, 2020
+
+**Today's Progress**: I worked on section 10. I added a route for authenticating a new user and learned about JWT Web Tokens and how to use bcrypt when saving a user's password in the db.
+
+**Thoughts**: I love saturdays I can rest and I can also find time to code without feeling tired and restless. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/nodejscomplete/commit/2546c35c654fe1fd0ba72c64b270f856bba4e4e5)
+
+---
+
 ### Day 52: July 31, 2020
 
 **Today's Progress**: I finished on section 9. I added new functionalities to the vidly app, added rental and user model and routes, now I'm working on the auth section.
