@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+
+### Day 55: August 3, 2020
+
+**Today's Progress**: I worked on section 11. I added a library to help me centerlize error handling and handling promises rejections.
+
+**Thoughts**: It was a monday but I'm cheerful and with a feeling of accomplishment.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/nodejscomplete/commit/1680f194d8cee09ba2714d6c5e827c3c6f590458)
+
+---
+
 ### Day 54: August 2, 2020
 
 **Today's Progress**: I finished section 10. I added worked on the authorization aspect of the project. I added the admin role after adding the authentication middleware to routes which are handling data. I also started working on section 11.
