@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 56: August 4, 2020
+
+**Today's Progress**: I finished section 11 and worked on section 12. It's all about automated testing, this section focuses on unit testing. We are using Jest and this is totally new waters for me, I'm beyond excited! 
+
+**Thoughts**: I love learning and coding I love that I can make a career out of it. I hope I can make it in this industry because I feel I have a lot to offer!
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/nodejscomplete/commit/1a39cb43c61499c5f5d3691f7ebdc8fb8c2d1443)
+
+---
+
 
 ### Day 55: August 3, 2020
 
