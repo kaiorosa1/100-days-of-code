@@ -3,7 +3,7 @@
 
 ### Day 57: August 5, 2020
 
-**Today's Progress**: I finished section 12. I could see with examples how to write unit tests, especifically testing objects, strings, and even exceptions!
+**Today's Progress**: I finished section 12. I could see with examples how to write unit tests, specifically testing objects, strings, and even exceptions!
 
 **Thoughts**: It's another mindset that you must have when writing those unit test because you don't want to be very specific but you also don't want to be so general. It's an ability of itself to be able to write good tests. I know that there are people who work with writing tests and there are TDD and everything it seems like a good career path. 
 
