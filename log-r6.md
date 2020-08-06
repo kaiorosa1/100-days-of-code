@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 57: August 5, 2020
+
+**Today's Progress**: I finished section 12. I could see with examples how to write unit tests, especifically testing objects, strings, and even exceptions!
+
+**Thoughts**: It's another mindset that you must have when writing those unit test because you don't want to be very specific but you also don't want to be so general. It's an ability of itself to be able to write good tests. I know that there are people who work with writing tests and there are TDD and everything it seems like a good career path. 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/nodejscomplete/commit/ffb55b868ec668d10b938a247b0639d7d6b912f9)
+
+---
+
 ### Day 56: August 4, 2020
 
 **Today's Progress**: I finished section 11 and worked on section 12. It's all about automated testing, this section focuses on unit testing. We are using Jest and this is totally new waters for me, I'm beyond excited! 
