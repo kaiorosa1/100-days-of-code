@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 58: August 6, 2020
+
+**Today's Progress**: I worked on section 13. This section is an introduction to integration testing! I also worked on an exercise.
+
+**Thoughts**: I had so much to do today that I feel drained but I always like to do something in the day just for me to feel sane!
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/nodejscomplete/commit/498034e191197036411f6064befb088e17a65e62)
+
+---
+
 ### Day 57: August 5, 2020
 
 **Today's Progress**: I finished section 12. I could see with examples how to write unit tests, specifically testing objects, strings, and even exceptions!
