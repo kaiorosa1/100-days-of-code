@@ -1,9 +1,19 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 59: August 7, 2020
+
+**Today's Progress**: I continued working on section 13. I wrote my first integration test today and continued learning more about these type of testing using my vidly app.
+
+**Thoughts**: It was a good day and I could rest as well as be productive I like days like that!
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/nodejscomplete/commit/29170f0156075d5194d8d3c187d5590992c6b022)
+
+---
+
 ### Day 58: August 6, 2020
 
-**Today's Progress**: I worked on section 13. This section is an introduction to integration testing! I also worked on an exercise.
+**Today's Progress**: I worked on section 13. This section is an introduction to integration testing! I also worked on a unit test exercise.
 
 **Thoughts**: I had so much to do today that I feel drained but I always like to do something in the day just for me to feel sane!
 
