@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 60: August 8, 2020
+
+**Today's Progress**: I finished section 13. I coded-along examples and solved another integration test exercise.
+
+**Thoughts**: I'm just procratinating at this point on doing actual work.. I know what I mean Kaio get it together!! I coded for a hundred of code as always but I do have other things I want/should do!!
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/nodejscomplete/commit/29170f0156075d5194d8d3c187d5590992c6b022)
+
+---
+
 ### Day 59: August 7, 2020
 
 **Today's Progress**: I continued working on section 13. I wrote my first integration test today and continued learning more about these type of testing using my vidly app.
