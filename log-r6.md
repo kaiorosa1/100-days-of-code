@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 61: August 9, 2020
+
+**Today's Progress**: I worked section 14. I wrote an auth test and worked on the section on TDD.
+
+**Thoughts**: A lot to unpack! I'm almost finishing my Node.js Course.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/nodejscomplete/commit/4d11b2299f582574ac4c7e158f8c592ca90da05c)
+
+---
+
 ### Day 60: August 8, 2020
 
 **Today's Progress**: I finished section 13. I coded-along examples and solved another integration test exercise.
