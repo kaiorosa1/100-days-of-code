@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 62: August 10, 2020
+
+**Today's Progress**: I worked section 14. I did some TDD exercises. TDD is a very good way to start writing clean code but at the same time it's very counter intuitive to thing of code like that for me personally. 
+
+**Thoughts**: Feeling very good about coding and I had an expected surprise. Tomorrow I will have more to say if I decide to share this piece news here!
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/nodejscomplete/commit/cf022a91248012ed15e21ad5ad05a35681919a4b#diff-88e665b061e925cb420caa909fbcc309)
+
+---
+
+
 ### Day 61: August 9, 2020
 
 **Today's Progress**: I worked section 14. I wrote an auth test and worked on the section on TDD.
