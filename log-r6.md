@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 63: August 11, 2020
+
+**Today's Progress**: I finished section 14. I worked on more testing exercises and I think I'm done with the TDD intro. It was a good way to familiarize with that!
+
+**Thoughts**: Chloe x Halle made their way to this coding related sections haha.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/nodejscomplete/commit/5554b3e045f7329fa13bb381f087895a8c885560)
+
+---
+
 ### Day 62: August 10, 2020
 
 **Today's Progress**: I worked section 14. I did some TDD exercises. TDD is a very good way to start writing clean code but at the same time it's very counter intuitive to thing of code like that for me personally. 
@@ -10,7 +20,6 @@
 **Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/nodejscomplete/commit/cf022a91248012ed15e21ad5ad05a35681919a4b#diff-88e665b061e925cb420caa909fbcc309)
 
 ---
-
 
 ### Day 61: August 9, 2020
 
