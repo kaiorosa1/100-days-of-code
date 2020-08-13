@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 64: August 12, 2020
+
+**Today's Progress**: I worked on section 15. Worked on refactoring my code on my rental app and worked on deployment.
+
+**Thoughts**: Oh my Oh my...
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/nodejscomplete/commit/45abcf3ac36692803526ef9a283b9cc3317fb17b)
+
+---
+
 ### Day 63: August 11, 2020
 
 **Today's Progress**: I finished section 14. I worked on more testing exercises and I think I'm done with the TDD intro. It was a good way to familiarize with that!
