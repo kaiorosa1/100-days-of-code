@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 65: August 13, 2020
+
+**Today's Progress**: I finished section 15 and finished with my Node course. Now I will be working on the backend of libsys project. 
+
+**Thoughts**: Yay another I finished another course!! I still have some things I like to do in terms of coding but I don't log everything here because.. I'm happy with how the things went today.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/nodejscomplete/commit/8d2de8ae920b753f30ea9f5b7a055e72ea4fff45)
+
+---
+
 ### Day 64: August 12, 2020
 
 **Today's Progress**: I worked on section 15. Worked on refactoring my code on my rental app and worked on deployment.
