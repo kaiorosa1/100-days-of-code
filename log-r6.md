@@ -3,7 +3,7 @@
 
 ### Day 66: August 14, 2020
 
-**Today's Progress**: I wokred on the libsys api project. I'm applying everything that I learned thoughout my node course. I set up the first routes and config files and tested some initial code. 
+**Today's Progress**: I worked on the libsys api project. I'm applying everything that I learned throughout my node course. I set up the first routes and config files and tested some initial code. 
 
 **Thoughts**: I couldn't sleep much today so I will probably go to bed soon. I like that I'm already applying what I learned from the project.
 
