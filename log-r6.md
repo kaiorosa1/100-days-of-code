@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 68: August 16, 2020
+
+**Today's Progress**: I worked on the libsys api project. I added a route for creating a user and finish the ones for CRUD books.
+
+**Thoughts**: So much in my head, I need to do some soul searching... I'm constantly putting myself in situations I could easily avoid ! Coding was fine today!! 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/libsys-api/commit/c27d37035d31eaa08f7bb5899823ac04895a512c)
+
+---
+
+
 ### Day 67: August 15, 2020
 
 **Today's Progress**: I worked on the libsys api project. I added the models I'mma be working on and the config folder and added the db to the project. 
