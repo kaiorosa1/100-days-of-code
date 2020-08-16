@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 67: August 15, 2020
+
+**Today's Progress**: I worked on the libsys api project. I added the models I'mma be working on and the config folder and added the db to the project. 
+
+**Thoughts**: I think this project is getting together very nicely and I hope I can adding new features to it soon.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/libsys-api/commit/68ab6b961529e0137de90c82da9356a4f130f8b8)
+
+---
+
 ### Day 66: August 14, 2020
 
 **Today's Progress**: I worked on the libsys api project. I'm applying everything that I learned throughout my node course. I set up the first routes and config files and tested some initial code. 
