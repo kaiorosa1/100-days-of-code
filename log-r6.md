@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 69: August 17, 2020
+
+**Today's Progress**: I worked on the libsys api project. I added CRUD routes for authors this time and started writing some error handling logic for this project.
+
+**Thoughts**: I will change what I will be using 100DaysOfCode for for the next few days.. hopefully I will be able to enjoy it haha
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/libsys-api/commit/3f2e3040001656034cf6f9240b2fad9be0e5f415)
+
+---
+
+
 ### Day 68: August 16, 2020
 
 **Today's Progress**: I worked on the libsys api project. I added a route for creating a user and finish the ones for CRUD books.
