@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 70: August 18, 2020
+
+**Today's Progress**: I worked on the libsys api project. I woked on the auth routes, generating and validating the jwt token and using bcrypt to hash the password. 
+
+**Thoughts**:  Kaio you better do what you need to do!!! 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/libsys-api/commit/714e808a0741a3ce5ac6f2521a047d92fd913c57)
+
+---
+
+
 ### Day 69: August 17, 2020
 
 **Today's Progress**: I worked on the libsys api project. I added CRUD routes for authors this time and started writing some error handling logic for this project.
