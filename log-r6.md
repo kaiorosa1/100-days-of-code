@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 71: August 19, 2020
+
+**Today's Progress**: I worked on the libsys api project. I worked on the db setup and populate the books collection and I also fixed some issues with some of books routes.
+
+**Thoughts**:  Billie is resurficing for me for some reason.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/libsys-api/commit/a692570d8a029403c85b5d4193126016aff28092)
+
+---
+
 ### Day 70: August 18, 2020
 
 **Today's Progress**: I worked on the libsys api project. I woked on the auth routes, generating and validating the jwt token and using bcrypt to hash the password. 
