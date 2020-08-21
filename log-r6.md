@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 72: August 20, 2020
+
+**Today's Progress**: I worked on the libsys api project. I worked on the author routes and changed the its model a bit. 
+
+**Thoughts**:  the clock is ticking!!! 
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/libsys-api/commit/696bb30e0cdbb87daa0d83ccc8cb4d3169e70fa0)
+
+---
+
 ### Day 71: August 19, 2020
 
 **Today's Progress**: I worked on the libsys api project. I worked on the db setup and populate the books collection and I also fixed some issues with some of books routes.
