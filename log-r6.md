@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 73: August 21, 2020
+
+**Today's Progress**: I worked on the libsys api project. I added try-catch hadling errors to the routes and went back on the frontend (I have some things I'd like to change), I also started a course on MongoDB on Udemy.
+
+**Thoughts**: I just need to take a break for a couple of hours or a day I don't know ..
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/libsys-api/commit/a35f682c67261593a8bcf4956ee135faaa3862e6)
+
+---
+
 ### Day 72: August 20, 2020
 
 **Today's Progress**: I worked on the libsys api project. I worked on the author routes and changed the its model a bit. 
