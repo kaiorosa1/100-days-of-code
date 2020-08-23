@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 75: August 23, 2020
+
+**Today's Progress**: I continued  section 2 on my MongoDB course and solved assignment 1.
+
+**Thoughts**: Not much to say but that sunday's vibe...
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/libsys-api/commit/4dd0566ca49263f627114652b065481b20b455c0)
+
+---
+
+
 ### Day 74: August 22, 2020
 
 **Today's Progress**: I finished section 1 and started section 2 on my MongoDB course.
