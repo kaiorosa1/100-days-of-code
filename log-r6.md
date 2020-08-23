@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 74: August 22, 2020
+
+**Today's Progress**: I finished section 1 and started section 2 on my MongoDB course.
+
+**Thoughts**: I had a very chill day!! I won't say I feel renewed but I can say I needed that.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/libsys-api/commit/4dd0566ca49263f627114652b065481b20b455c0)
+
+---
+
 ### Day 73: August 21, 2020
 
 **Today's Progress**: I worked on the libsys api project. I added try-catch hadling errors to the routes and went back on the frontend (I have some things I'd like to change), I also started a course on MongoDB on Udemy.
