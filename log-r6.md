@@ -1,9 +1,19 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 77: August 25, 2020
+
+**Today's Progress**: I worked on  section 3 on my MongoDB course.(How to structure documents)
+
+**Thoughts**: I have a lot to learn about DBs (Sounds familiar?)
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/mongodbthecompleteguide/commit/b8ab7d3864fd2d8dbb6d0345139ce5f5eee6b815)
+
+---
+
 ### Day 76: August 24, 2020
 
-**Today's Progress**: I finished  section 2 on my MongoDB course.
+**Today's Progress**: I finished section 2 on my MongoDB course.
 
 **Thoughts**: MongoDB is fun, my intent is to finish this course and then go back to Node.js or maybe an Angular course all I know is all I want to get better at the specific MEAN skills (MERN as well?).
 
@@ -13,7 +23,7 @@
 
 ### Day 75: August 23, 2020
 
-**Today's Progress**: I continued  section 2 on my MongoDB course and solved assignment 1.
+**Today's Progress**: I continued section 2 on my MongoDB course and solved assignment 1.
 
 **Thoughts**: Not much to say but that sunday's vibe...
 
