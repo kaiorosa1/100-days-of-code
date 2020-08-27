@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 78: August 26, 2020
+
+**Today's Progress**: I continued on section 3 on my MongoDB course and start a course on Java Spring. 
+
+**Thoughts**: It's always fun when you start working on side projects and courses that you've been putting off for awhile.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/java-spring-masterclass/commit/e7fe1d7d28aa2094ce4023dcd6523ba17957ac4b)
+
+---
+
 ### Day 77: August 25, 2020
 
 **Today's Progress**: I worked on  section 3 on my MongoDB course.(How to structure documents)
