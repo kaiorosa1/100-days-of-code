@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 79: August 27, 2020
+
+**Today's Progress**: I continued on section 3 on my MongoDB course and finished section 1, 2 and 3 of my Spring framework course.
+
+**Thoughts**: I will try to be more mindful so I hope to focus more on the positive sides of my day. I was able to do everything I needed and things that are out of my control are gonna fill my mind another time.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/mongodbthecompleteguide/commit/d9d938e220dc91f60535e51c22f5018af8a3084d)
+
+---
+
 ### Day 78: August 26, 2020
 
 **Today's Progress**: I continued on section 3 on my MongoDB course and start a course on Java Spring. 
