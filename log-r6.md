@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 80: August 28, 2020
+
+**Today's Progress**: I worked on section 4 on my Spring framework course.
+
+**Thoughts**: I don't know how I feel about this Spring Framework course, it's not well structured but at the same time I want to improve my Java Skills and finally understand better this framework.
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/java-spring-masterclass/commit/6fc567cdfd918868edc7011b5a523cdd5662fb4d)
+
+---
+
 ### Day 79: August 27, 2020
 
 **Today's Progress**: I continued on section 3 on my MongoDB course and finished section 1, 2 and 3 of my Spring framework course.
