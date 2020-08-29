@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 81: August 29, 2020
+
+**Today's Progress**: I switched to another Spring Framework course now and spend most of my time installing tomcat and configuring it to work with Eclipse. Now I will be able to finally start learning, next section is about Spring Inversion of Control.
+
+**Thoughts**: I decided to buy another Spring course because I was not very happy with the one I was taking and it turns out the new one is way better and I will probably continue with it. Saturday is a great day to just test things because I know I still have one more day to relax or to even work on other personal projects.
+
+**Link(s) to work**: [Commit Link](#)
+
+---
+
 ### Day 80: August 28, 2020
 
 **Today's Progress**: I worked on section 4 on my Spring framework course.
