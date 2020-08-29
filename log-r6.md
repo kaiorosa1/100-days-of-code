@@ -7,7 +7,7 @@
 
 **Thoughts**: I decided to buy another Spring course because I was not very happy with the one I was taking and it turns out the new one is way better and I will probably continue with it. Saturday is a great day to just test things because I know I still have one more day to relax or to even work on other personal projects.
 
-**Link(s) to work**: [Commit Link](#)
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/java-spring-masterclass/commit/c2552667efa22a36ab5456d00162c46e697bcf5c)
 
 ---
 
