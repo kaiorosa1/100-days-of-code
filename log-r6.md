@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 82: August 30, 2020
+
+**Today's Progress**: I finished section 3 on my MongoDB.
+
+**Thoughts**: I just need a three day weekend but who doesn't?
+
+**Link(s) to work**: [Commit Link](#)
+
+---
+
 ### Day 81: August 29, 2020
 
 **Today's Progress**: I switched to another Spring Framework course now and spend most of my time installing tomcat and configuring it to work with Eclipse. Now I will be able to finally start learning, next section is about Spring Inversion of Control.
