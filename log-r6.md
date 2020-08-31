@@ -3,7 +3,7 @@
 
 ### Day 82: August 30, 2020
 
-**Today's Progress**: I finished section 3 on my MongoDB.
+**Today's Progress**: I finished section 3 on my MongoDB course.
 
 **Thoughts**: I just need a three day weekend but who doesn't?
 
