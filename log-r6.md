@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+### Day 83: August 31, 2020
+
+**Today's Progress**: I worked on the section 4: Spring Inversion of Control - XML Configuration.
+
+**Thoughts**: It's a draining day but it was a good day!!
+
+**Link(s) to work**: [Commit Link](#)
+
+---
+
 ### Day 82: August 30, 2020
 
 **Today's Progress**: I finished section 3 on my MongoDB course.
