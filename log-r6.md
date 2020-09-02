@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+## Day 84: September 1, 2020
+
+**Today's Progress**: I worked on the section 4 (Exploring The Shell & The Server) on my MongoDB course.
+
+**Thoughts**: I asked my first refund on udemy! I think that course was garbage I wanted to like that course really bad but it was not my cup of tea(trying to be nice at the end of the sentence)
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/relatorios-ic-kaio-rosa-2020/commit/5a4206ab32ac20b32bb42224388f283109ec2801)
+
+---
+
 ### Day 83: August 31, 2020
 
 **Today's Progress**: I worked on the section 4: Spring Inversion of Control - XML Configuration.
