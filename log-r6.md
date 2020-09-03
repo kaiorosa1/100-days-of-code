@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+## Day 85: September 2, 2020
+
+**Today's Progress**: I worked on the section 5 on my MongoDB course.
+
+**Thoughts**: A very tiring day but worth it!!
+
+**Link(s) to work**: [Commit Link](#)
+
+---
+
 ## Day 84: September 1, 2020
 
 **Today's Progress**: I worked on the section 4 (Exploring The Shell & The Server) on my MongoDB course.
