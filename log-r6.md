@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+## Day 87: September 4, 2020
+
+**Today's Progress**: I continued working on the section 4 on my Spring & Hibernate course.
+
+**Thoughts**: The long awaited Friday has come!
+
+**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/mongodbthecompleteguide/commit/a79b12f35f6bc91c286e93a2ae1db7c196ff1803)
+
+---
+
+
 ## Day 86: September 3, 2020
 
 **Today's Progress**: I continued working on the section 5 on my MongoDB course.
