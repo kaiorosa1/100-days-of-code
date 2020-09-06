@@ -7,7 +7,7 @@
 
 **Thoughts**: Enjoying saturday!!
 
-**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/mongodbthecompleteguide/commit/a79b12f35f6bc91c286e93a2ae1db7c196ff1803)
+**Link(s) to work**: [Commit Link](#)
 
 ---
 
@@ -17,7 +17,7 @@
 
 **Thoughts**: The long awaited Friday has come!
 
-**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/mongodbthecompleteguide/commit/a79b12f35f6bc91c286e93a2ae1db7c196ff1803)
+**Link(s) to work**: [Commit Link](#)
 
 ---
 
@@ -27,7 +27,7 @@
 
 **Thoughts**: Love me at the ungodly hour (Chloe x Halle, they are so freaking good). I know now that this will definitely be my last round of the 100 days of code. I need a break so badly.
 
-**Link(s) to work**: [Commit Link](https://github.com/kaiorosa1/mongodbthecompleteguide/commit/a79b12f35f6bc91c286e93a2ae1db7c196ff1803)
+**Link(s) to work**: [Commit Link](#)
 
 ---
 
