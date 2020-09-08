@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+
+## Day 90: September 7, 2020
+
+**Today's Progress**:I continued on section 6 on my MongoDB course.
+
+**Thoughts**: I had a very chill day! 
+
+**Link(s) to work**: [Commit Link](#)
+
+---
+
 ## Day 89: September 6, 2020
 
 **Today's Progress**:I worked on section 6 on my MongoDB course.
