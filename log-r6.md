@@ -1,10 +1,19 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+## Day 91: September 8, 2020
+
+**Today's Progress**: I reviewed everything I've been learning for the past week or so, the MongoDB basics and the first sections of my Spring & Hibernate course. 
+
+**Thoughts**: It was a lot. lol!!
+
+**Link(s) to work**: [Commit Link](#)
+
+---
 
 ## Day 90: September 7, 2020
 
-**Today's Progress**:I continued on section 6 on my MongoDB course.
+**Today's Progress**: I continued on section 6 on my MongoDB course.
 
 **Thoughts**: I had a very chill day! 
 
@@ -14,7 +23,7 @@
 
 ## Day 89: September 6, 2020
 
-**Today's Progress**:I worked on section 6 on my MongoDB course.
+**Today's Progress**: I worked on section 6 on my MongoDB course.
 
 **Thoughts**: We are already mid-way to the end of this long vacation! :( lol
 
@@ -24,7 +33,7 @@
 
 ## Day 88: September 5, 2020
 
-**Today's Progress**:I finished section 5 on my MongoDB course.
+**Today's Progress**: I finished section 5 on my MongoDB course.
 
 **Thoughts**: Enjoying saturday!!
 
