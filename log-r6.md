@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+## Day 92: September 9, 2020
+
+**Today's Progress**: I finished section 6 on my MongoDB course.
+
+**Thoughts**: I've been learning a lot about how to learn from a course on Udemy. I've been enjoying a lot even if I already knew I was going for something I already had a lot of familiarity before but it's been a good reminder of every concept I've learned throughout the years about knowledge acquisition.
+
+**Link(s) to work**: [Commit Link](#)
+
+---
+
 ## Day 91: September 8, 2020
 
 **Today's Progress**: I reviewed everything I've been learning for the past week or so, the MongoDB basics and the first sections of my Spring & Hibernate course. 
