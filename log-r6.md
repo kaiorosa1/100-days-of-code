@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+## Day 93: September 10, 2020
+
+**Today's Progress**: I wroked on section 7 on my MongoDB course.
+
+**Thoughts**: It's been a day, a lot of things to going on.
+
+**Link(s) to work**: [Commit Link](#)
+
+---
+
 ## Day 92: September 9, 2020
 
 **Today's Progress**: I finished section 6 on my MongoDB course.
