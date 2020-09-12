@@ -1,9 +1,19 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+## Day 94: September 10, 2020
+
+**Today's Progress**: I continued working on section 7 on my MongoDB course.
+
+**Thoughts**: Mongo seems easy on the surface but it's hard
+
+**Link(s) to work**: [Commit Link](#)
+
+---
+
 ## Day 93: September 10, 2020
 
-**Today's Progress**: I wroked on section 7 on my MongoDB course.
+**Today's Progress**: I worked on section 7 on my MongoDB course.
 
 **Thoughts**: It's been a day, a lot of things to going on.
 
