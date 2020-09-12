@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+## Day 95: September 12, 2020
+
+**Today's Progress**: I worked on section 7 of my JavaScript: The Advanced Concepts course. I did that today becuase I wanted to revist some functional programming concepts and it was fun to review and solve some exercises.
+
+**Thoughts**: I can't believe my classes are back and I will start having a lot to do! I will not be continuning with another round for this challenge because I need to reevaluate everything I've done for the past year and a half or so. If I want I could continue doing that but I want change the waters for a bit, maybe I even return after a week or two but for now I know I won't be doing round 7 right way.
+
+**Link(s) to work**: [Commit Link](#)
+
+---
+
 ## Day 94: September 11, 2020
 
 **Today's Progress**: I continued working on section 7 on my MongoDB course.
