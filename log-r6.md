@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
-## Day 94: September 10, 2020
+## Day 94: September 11, 2020
 
 **Today's Progress**: I continued working on section 7 on my MongoDB course.
 
