@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+## Day 96: September 13, 2020
+
+**Today's Progress**: I finished section 7 on my MongoDB course.
+
+**Thoughts**: It is already the end of the week.
+
+**Link(s) to work**: [Commit Link](#)
+
+---
+
 ## Day 95: September 12, 2020
 
 **Today's Progress**: I worked on section 7 of my JavaScript: The Advanced Concepts course. I did that today becuase I wanted to revist some functional programming concepts and it was fun to review and solve some exercises.
