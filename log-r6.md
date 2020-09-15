@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+## Day 97: September 14, 2020
+
+**Today's Progress**: I worked section 8 on my MongoDB course.
+
+**Thoughts**: It's not a good monday but not for the reasons you can imagine..
+
+**Link(s) to work**: [Commit Link](#)
+
+---
+
 ## Day 96: September 13, 2020
 
 **Today's Progress**: I finished section 7 on my MongoDB course.
