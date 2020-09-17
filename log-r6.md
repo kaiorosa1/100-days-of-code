@@ -5,7 +5,7 @@
 
 **Today's Progress**: I worked on section 8 on my MongoDB course.
 
-**Thoughts**: That's my last day from another round. I will be back soon. I still have a long way to go so I want to get back with a more structured round. Maybe a round for the same skill and see how I will improve, I have a lot of ideas but for now I need to process coding for this long non stop and I need to focus on other things for a bit.
+**Thoughts**: That was my last day from another round. I will be back soon. I still have a long way to go so I want to get back with a more structured round. Maybe a round for the same skill and see how I will improve, I have a lot of ideas but for now I need to process coding for this long non stop and I need to focus on other things for a bit.
 
 **Link(s) to work**: [Commit Link](#)
 
