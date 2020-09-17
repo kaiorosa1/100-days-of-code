@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
-## Day 100: September 17, 2020
+### Day 100: September 17, 2020
 
 **Today's Progress**: I worked on section 8 on my MongoDB course.
 
@@ -12,7 +12,7 @@
 ---
 
 
-## Day 99: September 16, 2020
+### Day 99: September 16, 2020
 
 **Today's Progress**: I finished section 8 on my MongoDB course.
 
@@ -22,7 +22,7 @@
 
 ---
 
-## Day 98: September 15, 2020
+### Day 98: September 15, 2020
 
 **Today's Progress**: I continued working on section 8 on my MongoDB course.
 
@@ -33,7 +33,7 @@
 ---
 
 
-## Day 97: September 14, 2020
+### Day 97: September 14, 2020
 
 **Today's Progress**: I worked section 8 on my MongoDB course.
 
@@ -43,7 +43,7 @@
 
 ---
 
-## Day 96: September 13, 2020
+### Day 96: September 13, 2020
 
 **Today's Progress**: I finished section 7 on my MongoDB course.
 
@@ -53,7 +53,7 @@
 
 ---
 
-## Day 95: September 12, 2020
+### Day 95: September 12, 2020
 
 **Today's Progress**: I worked on section 7 of my JavaScript: The Advanced Concepts course. I did that today becuase I wanted to revist some functional programming concepts and it was fun to review and solve some exercises.
 
@@ -63,7 +63,7 @@
 
 ---
 
-## Day 94: September 11, 2020
+### Day 94: September 11, 2020
 
 **Today's Progress**: I continued working on section 7 on my MongoDB course.
 
@@ -73,7 +73,7 @@
 
 ---
 
-## Day 93: September 10, 2020
+### Day 93: September 10, 2020
 
 **Today's Progress**: I worked on section 7 on my MongoDB course.
 
@@ -83,7 +83,7 @@
 
 ---
 
-## Day 92: September 9, 2020
+### Day 92: September 9, 2020
 
 **Today's Progress**: I finished section 6 on my MongoDB course.
 
@@ -93,7 +93,7 @@
 
 ---
 
-## Day 91: September 8, 2020
+### Day 91: September 8, 2020
 
 **Today's Progress**: I reviewed everything I've been learning for the past week or so, the MongoDB basics and the first sections of my Spring & Hibernate course. 
 
@@ -103,7 +103,7 @@
 
 ---
 
-## Day 90: September 7, 2020
+### Day 90: September 7, 2020
 
 **Today's Progress**: I continued on section 6 on my MongoDB course.
 
@@ -113,7 +113,7 @@
 
 ---
 
-## Day 89: September 6, 2020
+### Day 89: September 6, 2020
 
 **Today's Progress**: I worked on section 6 on my MongoDB course.
 
@@ -123,7 +123,7 @@
 
 ---
 
-## Day 88: September 5, 2020
+### Day 88: September 5, 2020
 
 **Today's Progress**: I finished section 5 on my MongoDB course.
 
@@ -133,7 +133,7 @@
 
 ---
 
-## Day 87: September 4, 2020
+### Day 87: September 4, 2020
 
 **Today's Progress**: I continued working on the section 4 on my Spring & Hibernate course.
 
@@ -143,7 +143,7 @@
 
 ---
 
-## Day 86: September 3, 2020
+### Day 86: September 3, 2020
 
 **Today's Progress**: I continued working on the section 5 on my MongoDB course.
 
@@ -153,7 +153,7 @@
 
 ---
 
-## Day 85: September 2, 2020
+### Day 85: September 2, 2020
 
 **Today's Progress**: I worked on the section 5 on my MongoDB course.
 
@@ -163,7 +163,7 @@
 
 ---
 
-## Day 84: September 1, 2020
+### Day 84: September 1, 2020
 
 **Today's Progress**: I worked on the section 4 (Exploring The Shell & The Server) on my MongoDB course.
 
