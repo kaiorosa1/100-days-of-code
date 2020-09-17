@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log (Round 6) 
 
 
+## Day 99: September 16, 2020
+
+**Today's Progress**: I finished section 8 on my MongoDB course.
+
+**Thoughts**: It's almost the last day, I wil probably focus on content creation when I get back. I don't know what I'll be doing from now on. I will get back soon for another round because my coding journey is only in the beginning.
+
+**Link(s) to work**: [Commit Link](#)
+
+---
+
 ## Day 98: September 15, 2020
 
 **Today's Progress**: I continued working on section 8 on my MongoDB course.
